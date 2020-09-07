@@ -1,0 +1,203 @@
+Country,League,Season,Date,Time,Home,Away,HG,AG,Res,PH,PD,PA,MaxH,MaxD,MaxA,AvgH,AvgD,AvgA
+Ireland,Premier Division ,2015,06/03/2015,19:45,Dundalk,Longford,1,0,H,1.38,5.01,9.74,1.42,5.01,9.74,1.38,4.48,7.9
+Ireland,Premier Division ,2015,06/03/2015,19:45,Galway,Derry City,1,2,A,2.5,3.28,3.13,2.5,3.28,3.3,2.39,3.13,2.93
+Ireland,Premier Division ,2015,06/03/2015,19:45,Shamrock Rovers,St. Patricks,1,0,H,3.07,3.2,2.59,3.07,3.25,2.7,2.81,3.06,2.53
+Ireland,Premier Division ,2015,07/03/2015,17:45,Bray,Drogheda,0,1,A,2.72,3.19,2.91,2.72,3.3,3.05,2.47,3.13,2.81
+Ireland,Premier Division ,2015,07/03/2015,18:30,Limerick,Bohemians,0,3,A,3.45,3.29,2.32,3.5,3.35,2.32,3.21,3.15,2.23
+Ireland,Premier Division ,2015,07/03/2015,19:45,Sligo Rovers,Cork City,1,1,D,2.45,3.2,3.29,2.45,3.35,3.35,2.26,3.14,3.14
+Ireland,Premier Division ,2015,13/03/2015,19:45,Bohemians,Galway,2,0,H,1.83,3.52,5.11,1.99,3.6,5.11,1.83,3.32,4.35
+Ireland,Premier Division ,2015,13/03/2015,19:45,Cork City,Limerick,5,0,H,1.37,4.99,10.54,1.4,5.1,11.0,1.34,4.61,8.6
+Ireland,Premier Division ,2015,13/03/2015,19:45,Derry City,Dundalk,0,1,A,4.1,3.3,2.09,4.14,3.5,2.2,3.75,3.22,2.0
+Ireland,Premier Division ,2015,13/03/2015,19:45,Drogheda,Sligo Rovers,3,2,H,4.68,3.81,1.82,4.75,3.81,1.88,4.44,3.42,1.79
+Ireland,Premier Division ,2015,13/03/2015,19:45,St. Patricks,Bray,3,0,H,1.26,6.28,14.03,1.26,6.5,15.81,1.23,5.63,12.26
+Ireland,Premier Division ,2015,14/03/2015,19:30,Longford,Shamrock Rovers,0,2,A,4.95,3.48,1.88,4.95,3.5,2.0,4.06,3.29,1.9
+Ireland,Premier Division ,2015,20/03/2015,19:45,Dundalk,St. Patricks,3,0,H,2.05,3.49,4.0,2.3,3.5,4.02,2.09,3.22,3.49
+Ireland,Premier Division ,2015,20/03/2015,19:45,Galway,Drogheda,1,0,H,2.57,3.33,2.98,2.62,3.33,3.05,2.43,3.13,2.87
+Ireland,Premier Division ,2015,20/03/2015,20:00,Shamrock Rovers,Cork City,0,0,D,2.26,3.23,3.67,2.27,3.45,3.67,2.15,3.16,3.35
+Ireland,Premier Division ,2015,21/03/2015,17:45,Bray,Bohemians,0,1,A,6.1,3.71,1.69,6.1,3.71,1.9,4.8,3.46,1.73
+Ireland,Premier Division ,2015,21/03/2015,18:30,Limerick,Longford,2,2,D,5.33,3.53,1.81,5.33,3.6,1.95,4.36,3.35,1.82
+Ireland,Premier Division ,2015,21/03/2015,19:45,Sligo Rovers,Derry City,1,1,D,1.93,3.54,4.49,2.02,3.6,4.98,1.8,3.37,4.47
+Ireland,Premier Division ,2015,24/03/2015,19:45,Bohemians,Dundalk,0,3,A,4.9,3.49,1.88,4.9,3.6,1.92,4.3,3.32,1.85
+Ireland,Premier Division ,2015,24/03/2015,19:45,Cork City,Galway,2,0,H,1.41,4.8,9.31,1.42,4.98,9.4,1.38,4.35,8.35
+Ireland,Premier Division ,2015,24/03/2015,19:45,Drogheda,Limerick,1,1,D,1.66,3.93,5.97,1.69,3.93,6.11,1.62,3.62,5.43
+Ireland,Premier Division ,2015,24/03/2015,19:45,Sligo Rovers,Shamrock Rovers,1,2,A,2.75,3.13,2.91,2.9,3.2,2.91,2.7,3.05,2.64
+Ireland,Premier Division ,2015,24/03/2015,19:45,St. Patricks,Derry City,2,0,H,1.68,3.74,6.08,1.75,3.75,6.3,1.67,3.54,5.21
+Ireland,Premier Division ,2015,24/03/2015,20:00,Longford,Bray,2,0,H,1.7,3.79,5.77,1.73,4.05,5.89,1.66,3.58,5.21
+Ireland,Premier Division ,2015,27/03/2015,19:35,Dundalk,Sligo Rovers,3,0,H,1.68,4.04,5.46,1.68,4.2,6.27,1.59,3.87,5.32
+Ireland,Premier Division ,2015,27/03/2015,19:45,Derry City,Drogheda,3,0,H,1.83,3.73,4.72,2.0,3.73,4.72,1.87,3.41,4.02
+Ireland,Premier Division ,2015,27/03/2015,19:45,Galway,Longford,1,2,A,3.13,3.29,2.49,3.13,3.3,2.65,2.83,3.11,2.49
+Ireland,Premier Division ,2015,27/03/2015,20:00,Shamrock Rovers,Bohemians,0,0,D,1.8,3.63,5.13,1.81,3.7,5.81,1.72,3.46,4.85
+Ireland,Premier Division ,2015,28/03/2015,17:45,Bray,Cork City,0,1,A,7.81,4.7,1.46,9.0,4.75,1.46,7.88,4.2,1.4
+Ireland,Premier Division ,2015,28/03/2015,18:30,Limerick,St. Patricks,1,2,A,8.6,4.8,1.43,10.0,5.3,1.43,8.54,4.52,1.35
+Ireland,Premier Division ,2015,03/04/2015,17:45,Sligo Rovers,Bray,1,3,A,1.25,6.08,15.75,1.29,6.08,15.75,1.24,5.38,12.37
+Ireland,Premier Division ,2015,03/04/2015,19:45,Cork City,Derry City,3,0,H,1.98,3.54,4.2,2.01,3.65,5.0,1.85,3.4,4.17
+Ireland,Premier Division ,2015,03/04/2015,19:45,Drogheda,Bohemians,0,1,A,4.53,3.42,1.95,4.53,3.5,2.05,3.87,3.27,1.94
+Ireland,Premier Division ,2015,03/04/2015,20:00,Shamrock Rovers,Galway,3,0,H,1.34,5.06,12.7,1.34,5.8,15.0,1.29,4.74,11.09
+Ireland,Premier Division ,2015,04/04/2015,18:30,Limerick,Dundalk,1,1,D,14.7,6.22,1.26,15.0,6.36,1.28,12.15,5.63,1.23
+Ireland,Premier Division ,2015,04/04/2015,19:30,Longford,St. Patricks,2,2,D,6.17,3.96,1.64,6.17,3.96,1.9,4.93,3.57,1.69
+Ireland,Premier Division ,2015,10/04/2015,19:45,Bohemians,Longford,2,0,H,1.66,3.89,6.05,1.73,4.05,6.05,1.65,3.6,5.18
+Ireland,Premier Division ,2015,10/04/2015,19:45,Derry City,Shamrock Rovers,0,0,D,3.79,3.33,2.17,4.05,3.4,2.17,3.66,3.18,2.04
+Ireland,Premier Division ,2015,10/04/2015,19:45,Dundalk,Drogheda,1,0,H,1.25,6.55,14.5,1.29,6.9,16.72,1.22,5.79,12.11
+Ireland,Premier Division ,2015,10/04/2015,19:45,Galway,Sligo Rovers,0,1,A,4.23,3.46,2.0,4.23,3.6,2.05,3.85,3.38,1.91
+Ireland,Premier Division ,2015,10/04/2015,19:45,St. Patricks,Cork City,0,0,D,2.28,3.47,3.35,2.63,3.47,3.36,2.26,3.21,3.07
+Ireland,Premier Division ,2015,11/04/2015,17:45,Bray,Limerick,4,0,H,2.61,3.34,2.92,2.77,3.4,2.92,2.53,3.19,2.69
+Ireland,Premier Division ,2015,17/04/2015,19:45,Bohemians,St. Patricks,0,1,A,3.59,3.32,2.26,3.72,3.35,2.31,3.3,3.16,2.19
+Ireland,Premier Division ,2015,17/04/2015,19:45,Derry City,Bray,0,0,D,1.49,4.14,8.59,1.55,4.14,8.59,1.48,3.9,6.96
+Ireland,Premier Division ,2015,17/04/2015,19:45,Drogheda,Cork City,1,2,A,4.97,3.64,1.82,6.25,3.85,1.84,5.26,3.49,1.67
+Ireland,Premier Division ,2015,17/04/2015,19:45,Galway,Limerick,3,2,H,1.95,3.49,4.41,2.1,3.51,4.41,1.96,3.26,3.86
+Ireland,Premier Division ,2015,17/04/2015,19:45,Longford,Sligo Rovers,1,1,D,3.63,3.41,2.19,3.63,3.41,2.39,3.2,3.2,2.2
+Ireland,Premier Division ,2015,17/04/2015,20:00,Shamrock Rovers,Dundalk,2,2,D,3.01,3.07,2.73,3.2,3.26,2.73,2.9,3.03,2.48
+Ireland,Premier Division ,2015,20/04/2015,19:45,Bray,Shamrock Rovers,0,3,A,7.18,4.41,1.52,8.08,4.41,1.52,7.15,4.01,1.45
+Ireland,Premier Division ,2015,20/04/2015,19:45,Cork City,Longford,2,0,H,1.35,5.05,11.29,1.4,5.2,11.5,1.33,4.55,9.54
+Ireland,Premier Division ,2015,20/04/2015,19:45,Dundalk,Galway,3,0,H,1.21,7.07,18.2,1.23,7.07,23.0,1.2,5.95,14.25
+Ireland,Premier Division ,2015,20/04/2015,19:45,Limerick,Derry City,0,2,A,6.42,3.89,1.63,6.5,3.9,1.7,5.69,3.63,1.6
+Ireland,Premier Division ,2015,20/04/2015,19:45,Sligo Rovers,Bohemians,0,0,D,2.3,3.32,3.46,2.5,3.32,3.46,2.3,3.12,3.08
+Ireland,Premier Division ,2015,20/04/2015,19:45,St. Patricks,Drogheda,2,2,D,1.3,5.77,11.82,1.37,5.77,15.0,1.3,4.87,9.9
+Ireland,Premier Division ,2015,24/04/2015,19:35,Cork City,Dundalk,1,2,A,3.23,3.12,2.53,3.23,3.2,2.61,2.94,3.03,2.44
+Ireland,Premier Division ,2015,24/04/2015,19:45,Derry City,Bohemians,1,2,A,2.59,3.11,3.16,2.6,3.11,3.27,2.46,3.0,2.96
+Ireland,Premier Division ,2015,24/04/2015,19:45,Drogheda,Longford,0,3,A,2.69,3.43,2.77,2.69,3.43,2.92,2.56,3.16,2.69
+Ireland,Premier Division ,2015,24/04/2015,19:45,St. Patricks,Sligo Rovers,3,0,H,1.72,3.82,5.49,1.75,4.05,6.78,1.6,3.68,5.65
+Ireland,Premier Division ,2015,25/04/2015,17:45,Bray,Galway,0,5,A,2.88,3.25,2.7,2.92,3.26,2.71,2.77,3.09,2.54
+Ireland,Premier Division ,2015,25/04/2015,18:30,Limerick,Shamrock Rovers,1,1,D,11.61,5.27,1.33,12.02,5.4,1.35,10.21,4.8,1.3
+Ireland,Premier Division ,2015,01/05/2015,19:45,Galway,St. Patricks,1,4,A,6.08,4.06,1.63,6.5,4.06,1.64,5.85,3.75,1.57
+Ireland,Premier Division ,2015,01/05/2015,20:00,Shamrock Rovers,Drogheda,1,0,H,1.24,6.45,16.0,1.26,6.7,18.57,1.22,5.71,13.16
+Ireland,Premier Division ,2015,02/05/2015,19:30,Longford,Derry City,0,0,D,2.67,3.28,2.9,2.75,3.28,2.97,2.6,3.07,2.72
+Ireland,Premier Division ,2015,02/05/2015,19:45,Sligo Rovers,Limerick,1,1,D,1.53,4.47,6.71,1.55,4.55,8.0,1.46,4.18,6.64
+Ireland,Premier Division ,2015,04/05/2015,15:00,Dundalk,Bray,8,1,H,1.13,9.55,28.0,1.13,10.0,36.0,1.11,8.03,23.08
+Ireland,Premier Division ,2015,04/05/2015,17:10,Bohemians,Cork City,1,1,D,3.33,3.25,2.4,3.43,3.3,2.41,3.18,3.03,2.31
+Ireland,Premier Division ,2015,08/05/2015,19:45,Bohemians,Limerick,2,1,H,1.34,5.18,11.29,1.4,5.26,11.71,1.32,4.67,9.51
+Ireland,Premier Division ,2015,08/05/2015,19:45,Cork City,Sligo Rovers,3,2,H,1.56,3.94,7.78,1.62,4.1,7.86,1.54,3.68,6.44
+Ireland,Premier Division ,2015,08/05/2015,19:45,Derry City,Galway,0,2,A,1.57,3.97,7.24,1.65,4.0,7.24,1.57,3.67,5.92
+Ireland,Premier Division ,2015,08/05/2015,19:45,Drogheda,Bray,4,2,H,1.64,3.97,6.1,1.69,3.97,6.2,1.6,3.67,5.57
+Ireland,Premier Division ,2015,09/05/2015,19:30,Longford,Dundalk,0,2,A,8.02,4.59,1.47,8.02,4.59,1.53,6.92,4.14,1.45
+Ireland,Premier Division ,2015,11/05/2015,19:45,Cork City,Drogheda,4,1,H,1.27,6.0,14.0,1.28,6.0,17.18,1.23,5.53,12.75
+Ireland,Premier Division ,2015,11/05/2015,19:45,St. Patricks,Shamrock Rovers,0,0,D,2.72,3.15,2.94,2.72,3.2,3.15,2.43,3.03,2.99
+Ireland,Premier Division ,2015,15/05/2015,19:45,Dundalk,Derry City,1,0,H,1.29,5.66,13.93,1.29,7.0,20.8,1.22,5.54,13.2
+Ireland,Premier Division ,2015,15/05/2015,19:45,Galway,Bohemians,5,3,H,4.4,3.61,1.92,4.4,3.61,1.95,4.06,3.36,1.87
+Ireland,Premier Division ,2015,15/05/2015,20:00,Shamrock Rovers,Longford,3,2,H,1.38,4.8,11.31,1.4,5.0,11.31,1.34,4.49,9.37
+Ireland,Premier Division ,2015,16/05/2015,17:45,Bray,St. Patricks,1,0,H,14.75,6.35,1.25,15.12,6.5,1.26,11.78,5.59,1.23
+Ireland,Premier Division ,2015,16/05/2015,18:30,Limerick,Cork City,0,1,A,9.73,4.84,1.4,10.0,4.9,1.43,8.56,4.41,1.36
+Ireland,Premier Division ,2015,16/05/2015,19:45,Sligo Rovers,Drogheda,2,0,H,1.43,4.68,8.98,1.49,4.75,9.11,1.41,4.28,7.6
+Ireland,Premier Division ,2015,22/05/2015,19:45,Bohemians,Bray,0,0,D,1.58,4.14,6.59,1.63,4.5,9.0,1.5,3.96,6.44
+Ireland,Premier Division ,2015,22/05/2015,19:45,Cork City,Shamrock Rovers,0,0,D,2.66,3.07,3.09,2.66,3.1,3.35,2.43,2.98,3.04
+Ireland,Premier Division ,2015,22/05/2015,19:45,Derry City,Sligo Rovers,1,1,D,2.85,3.23,2.74,3.0,3.23,2.84,2.73,3.04,2.61
+Ireland,Premier Division ,2015,22/05/2015,19:45,Drogheda,Galway,2,0,H,3.0,3.39,2.52,3.0,3.4,2.66,2.8,3.16,2.46
+Ireland,Premier Division ,2015,22/05/2015,19:45,St. Patricks,Dundalk,0,2,A,3.01,3.19,2.64,3.5,3.3,2.64,2.99,3.07,2.4
+Ireland,Premier Division ,2015,23/05/2015,19:30,Longford,Limerick,1,0,H,1.75,3.75,5.36,1.78,3.85,6.0,1.65,3.62,5.18
+Ireland,Premier Division ,2015,05/06/2015,19:45,Bray,Longford,0,1,A,3.28,3.43,2.33,3.28,3.43,2.53,3.07,3.23,2.25
+Ireland,Premier Division ,2015,05/06/2015,19:45,Derry City,St. Patricks,0,3,A,5.05,3.56,1.83,5.05,3.75,1.91,4.43,3.41,1.8
+Ireland,Premier Division ,2015,05/06/2015,19:45,Dundalk,Bohemians,1,2,A,1.28,5.88,13.78,1.33,5.88,13.78,1.27,5.17,10.92
+Ireland,Premier Division ,2015,05/06/2015,19:45,Galway,Cork City,1,3,A,6.54,3.95,1.61,6.56,4.15,1.73,5.55,3.77,1.58
+Ireland,Premier Division ,2015,05/06/2015,19:45,Limerick,Drogheda,1,2,A,2.64,3.43,2.82,2.8,3.43,2.82,2.61,3.23,2.61
+Ireland,Premier Division ,2015,05/06/2015,20:00,Shamrock Rovers,Sligo Rovers,5,1,H,1.69,3.69,6.19,1.69,4.05,7.1,1.58,3.62,5.97
+Ireland,Premier Division ,2015,08/06/2015,20:00,Shamrock Rovers,Derry City,4,1,H,1.45,4.13,10.57,1.48,4.42,10.57,1.43,3.98,8.15
+Ireland,Premier Division ,2015,09/06/2015,19:45,St. Patricks,Bohemians,3,1,H,1.62,3.87,6.71,1.62,4.25,7.0,1.56,3.7,6.05
+Ireland,Premier Division ,2015,12/06/2015,19:35,Bohemians,Shamrock Rovers,3,1,H,4.34,3.39,2.0,4.7,3.4,2.0,4.03,3.24,1.92
+Ireland,Premier Division ,2015,12/06/2015,19:45,Cork City,Bray,1,0,H,1.21,7.25,17.2,1.25,7.38,18.57,1.18,6.38,14.23
+Ireland,Premier Division ,2015,12/06/2015,19:45,Drogheda,Derry City,1,1,D,2.76,3.35,2.75,3.1,3.55,2.75,2.72,3.18,2.54
+Ireland,Premier Division ,2015,12/06/2015,19:45,Longford,Galway,0,1,A,2.43,3.42,3.1,2.46,3.45,3.3,2.31,3.23,2.99
+Ireland,Premier Division ,2015,12/06/2015,19:45,Sligo Rovers,Dundalk,1,2,A,7.57,4.23,1.52,7.57,4.27,1.62,6.42,3.89,1.51
+Ireland,Premier Division ,2015,12/06/2015,19:45,St. Patricks,Limerick,3,1,H,1.19,7.72,18.28,1.22,7.9,22.27,1.15,6.94,15.79
+Ireland,Premier Division ,2015,26/06/2015,19:45,Bohemians,Drogheda,0,1,A,1.54,4.23,7.07,1.58,4.35,8.0,1.5,3.91,6.45
+Ireland,Premier Division ,2015,26/06/2015,19:45,Derry City,Cork City,0,2,A,5.27,3.65,1.78,6.8,3.85,1.8,5.08,3.49,1.69
+Ireland,Premier Division ,2015,26/06/2015,19:45,Dundalk,Limerick,6,2,H,1.11,11.0,28.36,1.12,12.5,34.0,1.09,9.24,21.24
+Ireland,Premier Division ,2015,26/06/2015,19:45,Galway,Shamrock Rovers,1,2,A,6.21,3.89,1.65,7.0,3.98,1.66,5.68,3.73,1.58
+Ireland,Premier Division ,2015,26/06/2015,20:00,St. Patricks,Longford,3,0,H,1.48,4.45,7.99,1.5,5.0,12.0,1.4,4.33,7.87
+Ireland,Premier Division ,2015,27/06/2015,17:45,Bray,Sligo Rovers,1,0,H,4.28,3.55,1.96,4.28,3.62,2.02,3.83,3.39,1.92
+Ireland,Premier Division ,2015,03/07/2015,20:05,Drogheda,Dundalk,1,2,A,17.1,6.86,1.22,17.1,6.86,1.3,12.03,5.6,1.23
+Ireland,Premier Division ,2015,04/07/2015,18:30,Limerick,Bray,0,1,A,2.08,3.66,3.7,2.25,3.66,3.7,2.14,3.34,3.25
+Ireland,Premier Division ,2015,04/07/2015,19:30,Longford,Bohemians,2,1,H,3.71,3.41,2.16,3.78,3.41,2.25,3.39,3.24,2.12
+Ireland,Premier Division ,2015,04/07/2015,19:45,Sligo Rovers,Galway,1,1,D,2.23,3.51,3.42,2.23,3.55,4.0,2.09,3.3,3.41
+Ireland,Premier Division ,2015,07/07/2015,19:45,Galway,Dundalk,2,4,A,7.93,4.92,1.44,8.7,5.0,1.45,7.34,4.5,1.4
+Ireland,Premier Division ,2015,11/07/2015,17:45,Bray,Derry City,1,0,H,3.9,3.23,2.18,3.9,3.4,2.22,3.47,3.21,2.09
+Ireland,Premier Division ,2015,11/07/2015,18:30,Limerick,Galway,2,4,A,4.07,4.04,1.88,4.33,4.04,1.89,3.99,3.61,1.82
+Ireland,Premier Division ,2015,11/07/2015,19:45,Sligo Rovers,Longford,3,2,H,2.33,3.46,3.26,2.34,3.46,3.5,2.18,3.26,3.22
+Ireland,Premier Division ,2015,17/07/2015,19:45,Derry City,Limerick,0,0,D,1.63,4.12,5.99,1.67,4.12,6.0,1.59,3.81,5.34
+Ireland,Premier Division ,2015,17/07/2015,19:45,Drogheda,St. Patricks,0,2,A,8.52,4.86,1.42,8.52,4.86,1.48,7.1,4.38,1.42
+Ireland,Premier Division ,2015,17/07/2015,20:05,Bohemians,Sligo Rovers,1,0,H,2.37,3.43,3.21,2.43,3.45,3.75,2.28,3.23,3.03
+Ireland,Premier Division ,2015,18/07/2015,19:30,Longford,Cork City,1,4,A,4.17,3.75,1.93,4.75,3.75,1.94,4.12,3.5,1.83
+Ireland,Premier Division ,2015,24/07/2015,19:45,Bohemians,Derry City,4,2,H,1.95,3.51,4.39,2.02,3.65,4.87,1.84,3.33,4.29
+Ireland,Premier Division ,2015,24/07/2015,19:45,Galway,Bray,0,1,A,1.75,4.22,4.64,1.78,4.22,5.25,1.71,3.79,4.39
+Ireland,Premier Division ,2015,24/07/2015,20:00,Sligo Rovers,St. Patricks,0,3,A,6.16,4.09,1.62,6.5,4.2,1.64,5.76,3.86,1.55
+Ireland,Premier Division ,2015,25/07/2015,19:30,Longford,Drogheda,1,1,D,2.1,3.71,3.59,2.25,3.71,4.0,2.05,3.38,3.37
+Ireland,Premier Division ,2015,26/07/2015,16:00,Shamrock Rovers,Limerick,4,1,H,1.29,6.0,12.2,1.29,6.5,17.0,1.23,5.73,11.82
+Ireland,Premier Division ,2015,26/07/2015,18:00,Dundalk,Cork City,1,1,D,1.75,3.82,5.22,1.83,3.82,5.22,1.74,3.54,4.55
+Ireland,Premier Division ,2015,31/07/2015,19:45,Bray,Dundalk,0,1,A,10.85,5.85,1.31,12.0,6.0,1.31,9.8,5.32,1.27
+Ireland,Premier Division ,2015,31/07/2015,19:45,Derry City,Longford,3,0,H,2.03,3.5,4.04,2.12,3.5,4.04,1.98,3.29,3.72
+Ireland,Premier Division ,2015,31/07/2015,19:45,Drogheda,Shamrock Rovers,0,1,A,8.98,4.52,1.44,8.98,4.52,1.48,7.89,4.16,1.41
+Ireland,Premier Division ,2015,31/07/2015,19:45,St. Patricks,Galway,3,1,H,1.24,6.75,14.35,1.25,6.75,15.0,1.22,5.83,12.18
+Ireland,Premier Division ,2015,31/07/2015,20:00,Cork City,Bohemians,4,0,H,1.62,4.14,6.01,1.62,4.14,7.9,1.51,3.84,6.53
+Ireland,Premier Division ,2015,01/08/2015,18:30,Limerick,Sligo Rovers,3,2,H,3.13,3.52,2.37,3.2,3.7,2.52,2.88,3.33,2.32
+Ireland,Premier Division ,2015,07/08/2015,19:45,Dundalk,Longford,0,0,D,1.2,7.49,18.0,1.2,8.7,21.35,1.16,6.83,15.91
+Ireland,Premier Division ,2015,07/08/2015,19:45,Galway,Derry City,0,4,A,3.96,3.6,2.02,3.96,3.66,2.38,3.54,3.4,2.01
+Ireland,Premier Division ,2015,07/08/2015,20:00,Shamrock Rovers,St. Patricks,0,2,A,2.61,3.25,2.99,2.67,3.25,3.04,2.51,3.07,2.83
+Ireland,Premier Division ,2015,08/08/2015,17:45,Bray,Drogheda,1,0,H,2.44,3.32,3.18,2.47,3.32,3.28,2.35,3.1,3.04
+Ireland,Premier Division ,2015,08/08/2015,18:30,Limerick,Bohemians,4,3,H,3.32,3.58,2.25,4.0,3.6,2.38,3.05,3.42,2.19
+Ireland,Premier Division ,2015,08/08/2015,19:45,Sligo Rovers,Cork City,0,2,A,5.88,3.92,1.67,6.36,4.15,1.67,5.61,3.8,1.58
+Ireland,Premier Division ,2015,14/08/2015,19:45,Bohemians,Galway,3,0,H,1.99,3.73,3.94,1.99,3.75,5.0,1.88,3.54,3.83
+Ireland,Premier Division ,2015,14/08/2015,19:45,Cork City,Limerick,2,3,A,1.22,7.3,15.0,1.22,7.5,16.26,1.19,6.34,13.16
+Ireland,Premier Division ,2015,14/08/2015,19:45,Derry City,Dundalk,0,2,A,5.09,3.67,1.8,6.0,4.0,1.8,5.22,3.63,1.64
+Ireland,Premier Division ,2015,14/08/2015,19:45,Drogheda,Sligo Rovers,0,4,A,3.34,3.52,2.26,3.4,3.56,2.4,3.09,3.31,2.22
+Ireland,Premier Division ,2015,14/08/2015,19:45,St. Patricks,Bray,1,0,H,1.2,7.28,17.51,1.23,7.28,17.51,1.19,6.06,14.23
+Ireland,Premier Division ,2015,14/08/2015,20:00,Longford,Shamrock Rovers,1,3,A,6.5,3.99,1.61,6.5,4.1,1.62,5.76,3.86,1.55
+Ireland,Premier Division ,2015,17/08/2015,19:05,Shamrock Rovers,Cork City,3,0,H,2.42,3.22,3.31,2.43,3.25,3.4,2.29,3.09,3.17
+Ireland,Premier Division ,2015,17/08/2015,19:45,Bray,Bohemians,3,1,H,2.93,3.28,2.62,3.2,3.35,2.65,2.85,3.13,2.47
+Ireland,Premier Division ,2015,17/08/2015,19:45,Dundalk,St. Patricks,4,1,H,2.09,3.53,3.78,2.12,3.53,4.0,2.03,3.33,3.54
+Ireland,Premier Division ,2015,17/08/2015,19:45,Galway,Drogheda,1,1,D,3.43,3.56,2.21,3.43,3.6,2.7,3.13,3.34,2.2
+Ireland,Premier Division ,2015,17/08/2015,19:45,Limerick,Longford,3,3,D,2.1,3.73,3.56,2.3,3.73,3.56,2.08,3.45,3.28
+Ireland,Premier Division ,2015,17/08/2015,19:45,Sligo Rovers,Derry City,1,0,H,2.52,3.46,2.95,2.64,3.46,2.95,2.45,3.22,2.78
+Ireland,Premier Division ,2015,28/08/2015,19:45,Bohemians,Dundalk,2,2,D,8.37,4.94,1.42,8.37,4.94,1.5,7.03,4.31,1.43
+Ireland,Premier Division ,2015,28/08/2015,19:45,Cork City,Galway,1,0,H,1.21,7.05,17.3,1.22,7.2,17.3,1.19,6.22,13.77
+Ireland,Premier Division ,2015,28/08/2015,19:45,Drogheda,Limerick,1,4,A,2.51,3.64,2.84,2.85,3.7,2.88,2.51,3.36,2.63
+Ireland,Premier Division ,2015,28/08/2015,19:45,St. Patricks,Derry City,0,1,A,1.6,4.22,6.14,1.61,4.22,8.0,1.53,3.92,5.96
+Ireland,Premier Division ,2015,29/08/2015,19:30,Longford,Bray,1,0,H,2.58,3.41,2.9,2.62,3.45,3.0,2.42,3.23,2.82
+Ireland,Premier Division ,2015,29/08/2015,19:45,Sligo Rovers,Shamrock Rovers,1,1,D,5.75,3.9,1.68,5.75,3.9,1.76,4.94,3.61,1.68
+Ireland,Premier Division ,2015,31/08/2015,19:45,Cork City,St. Patricks,3,1,H,2.05,3.49,4.01,2.3,3.62,4.01,2.05,3.28,3.5
+Ireland,Premier Division ,2015,01/09/2015,20:00,Dundalk,Shamrock Rovers,2,0,H,1.86,3.61,4.74,1.88,3.7,4.8,1.81,3.41,4.35
+Ireland,Premier Division ,2015,05/09/2015,15:00,Shamrock Rovers,Bohemians,1,1,D,1.52,4.27,7.56,1.53,4.33,8.0,1.46,4.06,7.08
+Ireland,Premier Division ,2015,05/09/2015,17:00,Derry City,Drogheda,0,2,A,1.48,4.84,7.04,1.6,4.84,8.0,1.47,4.19,6.4
+Ireland,Premier Division ,2015,05/09/2015,17:45,Bray,Cork City,0,0,D,5.69,4.24,1.63,6.35,4.24,1.65,5.59,3.83,1.57
+Ireland,Premier Division ,2015,05/09/2015,18:30,Limerick,St. Patricks,3,1,H,4.45,4.3,1.76,4.65,4.4,1.78,4.27,3.95,1.7
+Ireland,Premier Division ,2015,05/09/2015,19:00,Dundalk,Sligo Rovers,2,2,D,1.32,5.53,11.5,1.34,5.7,11.5,1.29,5.02,10.03
+Ireland,Premier Division ,2015,05/09/2015,19:45,Galway,Longford,4,2,H,2.42,3.64,2.96,2.5,3.64,3.0,2.36,3.34,2.83
+Ireland,Premier Division ,2015,18/09/2015,19:25,Dundalk,Drogheda,6,0,H,1.18,7.77,18.68,1.2,7.9,23.0,1.17,6.6,15.1
+Ireland,Premier Division ,2015,18/09/2015,19:45,Bohemians,Longford,1,1,D,1.81,3.76,4.86,1.85,3.76,4.87,1.77,3.51,4.41
+Ireland,Premier Division ,2015,18/09/2015,19:45,Derry City,Shamrock Rovers,1,0,H,4.77,3.61,1.85,4.85,3.63,1.9,4.35,3.36,1.82
+Ireland,Premier Division ,2015,19/09/2015,17:45,Bray,Limerick,2,2,D,2.94,3.67,2.43,3.1,3.7,2.74,2.8,3.4,2.35
+Ireland,Premier Division ,2015,22/09/2015,20:00,Shamrock Rovers,Bray,1,0,H,1.4,4.74,9.74,1.46,4.74,9.74,1.38,4.29,8.34
+Ireland,Premier Division ,2015,25/09/2015,19:25,Cork City,Derry City,0,0,D,1.66,4.02,5.7,1.66,4.05,6.51,1.6,3.75,5.42
+Ireland,Premier Division ,2015,25/09/2015,19:45,Drogheda,Bohemians,2,2,D,3.7,3.54,2.12,3.7,3.62,2.25,3.36,3.39,2.07
+Ireland,Premier Division ,2015,25/09/2015,20:00,Shamrock Rovers,Galway,2,0,H,1.29,6.04,11.85,1.33,6.04,13.0,1.27,5.31,10.35
+Ireland,Premier Division ,2015,26/09/2015,18:30,Limerick,Dundalk,1,3,A,7.73,5.13,1.43,7.73,5.2,1.47,6.79,4.72,1.39
+Ireland,Premier Division ,2015,26/09/2015,19:30,Longford,St. Patricks,0,3,A,5.57,4.24,1.64,5.75,4.28,1.85,4.94,3.82,1.64
+Ireland,Premier Division ,2015,26/09/2015,19:45,Sligo Rovers,Bray,3,2,H,1.93,3.84,4.08,1.98,3.84,4.22,1.89,3.5,3.81
+Ireland,Premier Division ,2015,02/10/2015,19:45,Galway,Sligo Rovers,2,1,H,3.56,3.71,2.11,3.6,3.71,2.15,3.31,3.45,2.06
+Ireland,Premier Division ,2015,09/10/2015,19:45,Bohemians,St. Patricks,2,0,H,3.33,3.77,2.18,3.5,3.77,2.25,3.22,3.41,2.11
+Ireland,Premier Division ,2015,09/10/2015,19:45,Derry City,Bray,3,1,H,2.04,3.5,4.0,2.08,3.6,5.0,1.96,3.33,3.77
+Ireland,Premier Division ,2015,09/10/2015,19:45,Drogheda,Cork City,1,1,D,7.78,4.62,1.47,8.0,4.62,1.52,6.61,4.11,1.47
+Ireland,Premier Division ,2015,09/10/2015,19:45,Galway,Limerick,1,3,A,3.1,3.89,2.24,3.1,4.02,2.5,2.88,3.61,2.21
+Ireland,Premier Division ,2015,09/10/2015,19:45,Shamrock Rovers,Dundalk,1,1,D,3.36,3.46,2.28,3.36,3.46,2.35,3.13,3.22,2.22
+Ireland,Premier Division ,2015,10/10/2015,19:30,Longford,Sligo Rovers,1,1,D,3.46,3.68,2.15,3.46,3.68,2.23,3.19,3.39,2.13
+Ireland,Premier Division ,2015,16/10/2015,19:45,Cork City,Longford,2,3,A,1.53,4.36,7.12,1.59,4.36,7.2,1.51,3.92,6.31
+Ireland,Premier Division ,2015,16/10/2015,19:45,Dundalk,Galway,0,0,D,1.28,6.42,11.22,1.28,6.7,13.0,1.24,5.74,10.42
+Ireland,Premier Division ,2015,16/10/2015,19:45,St. Patricks,Drogheda,2,1,H,1.39,5.51,8.13,1.4,5.61,9.0,1.35,4.88,7.78
+Ireland,Premier Division ,2015,17/10/2015,17:45,Bray,Shamrock Rovers,2,2,D,5.87,3.79,1.69,5.87,3.85,1.72,5.14,3.58,1.66
+Ireland,Premier Division ,2015,17/10/2015,18:30,Limerick,Derry City,0,2,A,2.16,3.85,3.31,2.16,3.88,3.68,2.05,3.54,3.26
+Ireland,Premier Division ,2015,17/10/2015,19:45,Sligo Rovers,Bohemians,0,2,A,2.12,3.63,3.6,2.3,3.63,3.62,2.08,3.37,3.34
+Ireland,Premier Division ,2015,19/10/2015,19:45,St. Patricks,Cork City,1,2,A,2.21,3.38,3.61,2.21,3.5,3.9,2.07,3.28,3.43
+Ireland,Premier Division ,2015,23/10/2015,19:45,Cork City,Dundalk,2,2,D,3.49,3.41,2.24,3.53,3.44,2.5,3.26,3.24,2.17
+Ireland,Premier Division ,2015,23/10/2015,19:45,Derry City,Bohemians,2,3,A,2.03,3.71,3.81,2.15,3.71,4.0,2.04,3.39,3.44
+Ireland,Premier Division ,2015,23/10/2015,19:45,Drogheda,Longford,0,3,A,2.55,3.48,2.9,2.69,3.5,3.0,2.49,3.25,2.72
+Ireland,Premier Division ,2015,23/10/2015,19:45,Limerick,Shamrock Rovers,0,2,A,3.18,3.67,2.28,3.75,3.7,2.32,3.04,3.42,2.2
+Ireland,Premier Division ,2015,23/10/2015,19:45,St. Patricks,Sligo Rovers,0,2,A,1.81,3.99,4.54,1.85,3.99,5.0,1.75,3.69,4.29
+Ireland,Premier Division ,2015,23/10/2015,19:45,UC Dublin,Finn Harps,0,1,A,3.53,3.34,2.25,3.6,3.4,2.6,3.15,3.18,2.24
+Ireland,Premier Division ,2015,24/10/2015,17:45,Bray,Galway,1,1,D,2.6,3.16,3.04,2.7,3.4,3.04,2.47,3.16,2.79
+Ireland,Premier Division ,2015,30/10/2015,19:45,Bohemians,Cork City,0,1,A,2.61,3.63,2.73,2.8,3.63,2.76,2.53,3.31,2.64
+Ireland,Premier Division ,2015,30/10/2015,19:45,Dundalk,Bray,4,0,H,1.28,6.49,11.37,1.36,6.5,12.0,1.26,5.66,9.93
+Ireland,Premier Division ,2015,30/10/2015,19:45,Finn Harps,UC Dublin,2,1,H,2.1,3.4,3.91,2.12,3.5,3.98,2.01,3.17,3.73
+Ireland,Premier Division ,2015,30/10/2015,19:45,Galway,St. Patricks,0,1,A,4.53,4.05,1.79,4.53,4.05,1.93,4.08,3.69,1.78
+Ireland,Premier Division ,2015,30/10/2015,19:45,Longford,Derry City,4,2,H,3.28,3.53,2.29,3.28,3.53,2.5,3.02,3.3,2.26
+Ireland,Premier Division ,2015,30/10/2015,19:45,Shamrock Rovers,Drogheda,5,3,H,1.43,5.0,8.0,1.43,5.0,9.56,1.36,4.59,8.23
+Ireland,Premier Division ,2015,30/10/2015,19:45,Sligo Rovers,Limerick,2,3,A,3.24,4.0,2.14,3.24,4.0,2.4,2.92,3.6,2.19
+Ireland,Premier Division ,2015,02/11/2015,19:45,Limerick,Finn Harps,1,0,H,1.56,4.44,6.33,1.56,4.7,7.91,1.48,4.12,6.21
+Ireland,Premier Division ,2015,06/11/2015,19:45,Finn Harps,Limerick,1,0,H,4.19,3.79,1.92,4.19,3.79,2.25,3.69,3.42,1.93

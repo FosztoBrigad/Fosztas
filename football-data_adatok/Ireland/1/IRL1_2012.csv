@@ -1,0 +1,184 @@
+Country,League,Season,Date,Time,Home,Away,HG,AG,Res,PH,PD,PA,MaxH,MaxD,MaxA,AvgH,AvgD,AvgA
+Ireland,Premier Division ,2012,02/03/2012,19:05,Drogheda,Shamrock Rovers,1,2,A,11.63,5.16,1.34,12.25,5.23,1.36,9.8,4.74,1.3
+Ireland,Premier Division ,2012,02/03/2012,19:45,Derry City,Bohemians,1,0,H,1.86,3.39,5.17,1.86,3.75,6.0,1.73,3.27,5.1
+Ireland,Premier Division ,2012,02/03/2012,19:45,St. Patricks,Bray,1,0,H,1.54,4.21,7.34,1.54,4.5,9.0,1.44,4.06,6.92
+Ireland,Premier Division ,2012,02/03/2012,19:45,UC Dublin,Cork City,1,0,H,4.47,3.65,1.89,4.47,3.65,1.95,4.02,3.31,1.87
+Ireland,Premier Division ,2012,02/03/2012,20:00,Monaghan,Dundalk,0,0,D,2.78,3.1,2.92,3.4,3.25,2.92,2.9,3.05,2.44
+Ireland,Premier Division ,2012,02/03/2012,20:00,Shelbourne,Sligo Rovers,1,1,D,4.01,3.26,2.13,4.01,3.27,2.25,3.32,3.16,2.14
+Ireland,Premier Division ,2012,09/03/2012,19:45,Bohemians,Shelbourne,0,2,A,2.88,3.05,2.86,2.88,3.15,2.93,2.55,3.01,2.75
+Ireland,Premier Division ,2012,09/03/2012,19:45,Bray,Derry City,0,4,A,8.24,4.15,1.51,8.24,4.15,1.6,6.25,3.7,1.52
+Ireland,Premier Division ,2012,09/03/2012,19:45,Cork City,Drogheda,2,3,A,1.75,3.51,5.88,1.76,3.8,5.88,1.69,3.41,4.96
+Ireland,Premier Division ,2012,09/03/2012,19:45,Dundalk,St. Patricks,0,2,A,4.74,3.35,1.94,4.74,3.4,2.0,3.95,3.22,1.91
+Ireland,Premier Division ,2012,09/03/2012,20:00,Shamrock Rovers,Monaghan,3,1,H,1.27,5.74,14.65,1.27,6.0,15.0,1.23,5.43,11.69
+Ireland,Premier Division ,2012,10/03/2012,19:45,Sligo Rovers,UC Dublin,2,1,H,1.33,5.3,11.12,1.34,5.5,12.0,1.3,4.88,9.37
+Ireland,Premier Division ,2012,16/03/2012,19:05,Cork City,Shamrock Rovers,1,1,D,6.04,3.76,1.68,6.04,3.85,1.7,5.14,3.56,1.64
+Ireland,Premier Division ,2012,16/03/2012,19:45,Drogheda,Dundalk,0,0,D,2.2,3.18,3.87,2.2,3.3,4.09,2.05,3.16,3.57
+Ireland,Premier Division ,2012,16/03/2012,19:45,Sligo Rovers,Bohemians,1,0,H,1.57,4.09,6.96,1.57,4.33,7.4,1.49,3.73,6.63
+Ireland,Premier Division ,2012,16/03/2012,19:45,St. Patricks,Monaghan,1,1,D,1.42,4.5,9.93,1.45,4.59,10.0,1.35,4.29,8.93
+Ireland,Premier Division ,2012,16/03/2012,19:45,UC Dublin,Bray,2,3,A,2.21,3.6,3.39,2.21,3.6,4.2,2.03,3.24,3.56
+Ireland,Premier Division ,2012,16/03/2012,20:00,Shelbourne,Derry City,1,0,H,3.41,3.15,2.41,3.5,3.25,2.47,3.13,3.09,2.28
+Ireland,Premier Division ,2012,23/03/2012,19:45,Bray,Drogheda,2,4,A,3.0,3.31,2.56,3.0,3.4,2.6,2.79,3.15,2.45
+Ireland,Premier Division ,2012,23/03/2012,19:45,Derry City,Cork City,2,0,H,1.88,3.42,4.93,1.95,3.42,4.93,1.85,3.23,4.26
+Ireland,Premier Division ,2012,23/03/2012,19:45,Dundalk,UC Dublin,2,1,H,2.37,3.24,3.4,2.67,3.24,3.4,2.41,3.08,2.91
+Ireland,Premier Division ,2012,23/03/2012,20:00,Monaghan,Sligo Rovers,0,1,A,8.41,4.04,1.52,8.41,4.04,1.62,6.39,3.66,1.54
+Ireland,Premier Division ,2012,23/03/2012,20:10,Shamrock Rovers,Shelbourne,4,0,H,1.84,3.51,5.07,1.92,3.6,6.0,1.72,3.4,4.85
+Ireland,Premier Division ,2012,25/03/2012,16:00,Bohemians,St. Patricks,0,0,D,4.59,3.11,2.04,4.59,3.25,2.14,3.81,3.08,2.01
+Ireland,Premier Division ,2012,30/03/2012,19:05,Shamrock Rovers,Bohemians,2,0,H,1.43,4.42,9.93,1.43,4.59,11.0,1.37,4.15,8.63
+Ireland,Premier Division ,2012,30/03/2012,19:45,Cork City,Bray,1,1,D,1.64,3.98,6.14,1.64,4.01,7.0,1.56,3.71,5.73
+Ireland,Premier Division ,2012,30/03/2012,19:45,Drogheda,Derry City,2,0,H,5.01,3.92,1.75,5.01,3.92,2.04,4.21,3.52,1.78
+Ireland,Premier Division ,2012,30/03/2012,19:45,UC Dublin,Monaghan,3,2,H,2.52,3.2,3.16,2.65,3.4,3.75,2.21,3.14,3.28
+Ireland,Premier Division ,2012,30/03/2012,20:00,Shelbourne,St. Patricks,1,1,D,3.43,3.28,2.33,3.52,3.28,2.6,2.99,3.08,2.36
+Ireland,Premier Division ,2012,31/03/2012,19:45,Sligo Rovers,Dundalk,3,0,H,1.27,5.55,16.89,1.32,6.0,16.89,1.24,5.28,11.67
+Ireland,Premier Division ,2012,06/04/2012,19:05,St. Patricks,Shamrock Rovers,5,1,H,3.31,3.38,2.31,3.45,3.4,2.31,3.23,3.15,2.18
+Ireland,Premier Division ,2012,06/04/2012,19:45,Bohemians,Cork City,1,0,H,2.64,3.08,3.11,2.75,3.1,3.13,2.57,3.0,2.76
+Ireland,Premier Division ,2012,06/04/2012,19:45,Bray,Sligo Rovers,1,2,A,10.7,4.68,1.39,10.7,4.68,1.41,8.32,4.17,1.38
+Ireland,Premier Division ,2012,06/04/2012,19:45,Derry City,UC Dublin,0,0,D,1.44,4.55,9.08,1.47,4.55,9.08,1.43,4.0,7.39
+Ireland,Premier Division ,2012,06/04/2012,19:45,Dundalk,Shelbourne,0,0,D,4.19,3.37,2.02,4.19,3.37,2.1,3.61,3.2,2.03
+Ireland,Premier Division ,2012,06/04/2012,20:00,Monaghan,Drogheda,0,1,A,3.02,3.11,2.68,3.6,3.3,2.68,3.01,3.13,2.32
+Ireland,Premier Division ,2012,13/04/2012,19:05,Sligo Rovers,Derry City,1,1,D,1.78,3.39,5.92,1.78,3.65,5.92,1.69,3.45,4.99
+Ireland,Premier Division ,2012,13/04/2012,19:45,Cork City,Monaghan,6,0,H,1.83,3.5,5.18,1.88,3.5,5.18,1.78,3.32,4.52
+Ireland,Premier Division ,2012,13/04/2012,19:45,Drogheda,St. Patricks,0,0,D,4.76,3.42,1.92,4.76,3.55,2.1,3.71,3.28,1.96
+Ireland,Premier Division ,2012,13/04/2012,19:45,UC Dublin,Bohemians,1,2,A,3.78,3.13,2.27,3.78,3.25,2.5,3.16,3.07,2.25
+Ireland,Premier Division ,2012,13/04/2012,20:00,Shamrock Rovers,Dundalk,6,0,H,1.31,5.51,12.24,1.32,5.51,12.7,1.26,5.05,10.67
+Ireland,Premier Division ,2012,13/04/2012,20:00,Shelbourne,Bray,2,1,H,1.63,3.9,6.38,1.64,3.9,6.5,1.58,3.57,5.8
+Ireland,Premier Division ,2012,20/04/2012,19:45,Bohemians,Monaghan,1,2,A,1.78,3.61,5.41,1.78,3.7,5.75,1.66,3.5,5.11
+Ireland,Premier Division ,2012,20/04/2012,19:45,Bray,Shamrock Rovers,2,2,D,8.82,4.71,1.43,9.01,4.72,1.43,7.67,4.27,1.39
+Ireland,Premier Division ,2012,20/04/2012,19:45,Cork City,Sligo Rovers,0,1,A,4.76,3.63,1.85,4.76,3.63,1.89,4.33,3.37,1.79
+Ireland,Premier Division ,2012,20/04/2012,19:45,Derry City,Dundalk,1,2,A,1.51,4.28,7.65,1.51,4.33,8.71,1.43,3.98,7.46
+Ireland,Premier Division ,2012,20/04/2012,19:45,Drogheda,Shelbourne,3,1,H,3.13,3.22,2.52,3.13,3.25,2.65,2.8,3.07,2.5
+Ireland,Premier Division ,2012,20/04/2012,19:45,St. Patricks,UC Dublin,2,0,H,1.42,4.54,9.92,1.44,4.57,9.92,1.4,4.22,7.58
+Ireland,Premier Division ,2012,27/04/2012,19:05,Sligo Rovers,St. Patricks,1,1,D,2.19,3.12,4.04,2.25,3.25,4.04,2.07,3.04,3.67
+Ireland,Premier Division ,2012,27/04/2012,19:45,Dundalk,Bohemians,0,2,A,3.59,3.15,2.33,3.6,3.16,2.4,3.18,3.01,2.29
+Ireland,Premier Division ,2012,27/04/2012,19:45,UC Dublin,Drogheda,1,1,D,3.52,3.38,2.24,4.09,3.5,2.29,3.4,3.29,2.07
+Ireland,Premier Division ,2012,27/04/2012,20:00,Monaghan,Bray,0,1,A,2.65,3.29,2.91,2.75,3.29,2.91,2.49,3.14,2.74
+Ireland,Premier Division ,2012,27/04/2012,20:00,Shamrock Rovers,Derry City,1,1,D,1.76,3.65,5.51,1.8,3.66,5.55,1.7,3.42,4.98
+Ireland,Premier Division ,2012,27/04/2012,20:00,Shelbourne,Cork City,1,2,A,2.31,3.24,3.49,2.36,3.25,3.61,2.17,3.12,3.3
+Ireland,Premier Division ,2012,04/05/2012,19:05,Derry City,St. Patricks,0,2,A,3.13,3.09,2.61,3.21,3.1,2.67,2.95,3.04,2.39
+Ireland,Premier Division ,2012,04/05/2012,19:45,Bray,Bohemians,2,1,H,3.35,3.1,2.48,3.35,3.2,2.6,2.93,3.1,2.38
+Ireland,Premier Division ,2012,04/05/2012,19:45,Cork City,Dundalk,3,2,H,1.5,4.24,8.13,1.55,4.3,8.19,1.5,3.89,6.39
+Ireland,Premier Division ,2012,04/05/2012,19:45,Drogheda,Sligo Rovers,1,3,A,5.05,3.56,1.83,5.05,3.56,1.92,4.23,3.32,1.84
+Ireland,Premier Division ,2012,04/05/2012,20:00,Shamrock Rovers,UC Dublin,2,2,D,1.27,6.02,13.03,1.3,6.04,14.65,1.26,5.17,10.41
+Ireland,Premier Division ,2012,04/05/2012,20:00,Shelbourne,Monaghan,2,1,H,1.71,3.81,5.65,1.74,3.81,6.0,1.63,3.56,5.31
+Ireland,Premier Division ,2012,11/05/2012,19:45,Bohemians,Drogheda,1,1,D,2.6,3.28,2.97,2.6,3.33,3.25,2.41,3.13,2.86
+Ireland,Premier Division ,2012,11/05/2012,19:45,Dundalk,Bray,0,2,A,3.08,3.38,2.47,3.11,3.38,2.5,2.83,3.17,2.4
+Ireland,Premier Division ,2012,11/05/2012,19:45,St. Patricks,Cork City,0,0,D,1.61,3.91,6.7,1.67,3.91,6.7,1.6,3.59,5.59
+Ireland,Premier Division ,2012,11/05/2012,19:45,UC Dublin,Shelbourne,0,2,A,3.33,3.37,2.34,3.34,3.38,2.4,3.12,3.22,2.2
+Ireland,Premier Division ,2012,12/05/2012,13:45,Sligo Rovers,Shamrock Rovers,3,0,H,2.38,3.36,3.2,2.4,3.47,3.2,2.3,3.16,2.98
+Ireland,Premier Division ,2012,15/05/2012,20:00,Monaghan,Derry City,1,4,A,6.15,3.75,1.67,6.2,3.84,1.75,4.97,3.57,1.66
+Ireland,Premier Division ,2012,18/05/2012,19:05,Shamrock Rovers,Drogheda,3,1,H,1.45,4.79,7.76,1.95,4.8,7.78,1.46,4.15,6.63
+Ireland,Premier Division ,2012,18/05/2012,19:45,Bohemians,Derry City,1,2,A,3.45,3.13,2.4,3.49,3.13,2.46,3.08,3.03,2.33
+Ireland,Premier Division ,2012,18/05/2012,19:45,Bray,St. Patricks,3,3,D,6.13,3.81,1.67,6.14,3.81,1.67,5.41,3.68,1.6
+Ireland,Premier Division ,2012,18/05/2012,19:45,Cork City,UC Dublin,4,2,H,1.64,4.07,5.9,1.68,4.07,6.0,1.59,3.77,5.31
+Ireland,Premier Division ,2012,18/05/2012,19:45,Dundalk,Monaghan,1,2,A,2.48,3.35,3.09,2.54,3.35,3.15,2.41,3.1,2.86
+Ireland,Premier Division ,2012,18/05/2012,19:45,Sligo Rovers,Shelbourne,3,0,H,1.5,4.11,8.86,1.53,4.25,8.86,1.48,3.9,6.78
+Ireland,Premier Division ,2012,21/05/2012,19:45,Derry City,Bray,3,2,H,1.68,3.61,6.64,1.68,3.85,6.64,1.58,3.63,5.69
+Ireland,Premier Division ,2012,21/05/2012,19:45,Drogheda,Cork City,1,1,D,2.69,3.34,2.82,2.69,3.48,2.94,2.53,3.17,2.68
+Ireland,Premier Division ,2012,21/05/2012,19:45,St. Patricks,Dundalk,1,2,A,1.26,6.06,14.65,1.28,6.06,15.0,1.24,5.34,11.44
+Ireland,Premier Division ,2012,21/05/2012,19:45,UC Dublin,Sligo Rovers,1,0,H,10.19,4.96,1.38,10.19,5.13,1.45,8.38,4.64,1.34
+Ireland,Premier Division ,2012,21/05/2012,20:00,Monaghan,Shamrock Rovers,0,0,D,10.53,5.18,1.36,10.53,5.4,1.43,8.77,4.67,1.33
+Ireland,Premier Division ,2012,21/05/2012,20:00,Shelbourne,Bohemians,1,2,A,2.25,3.25,3.63,2.25,3.25,4.17,2.12,3.12,3.45
+Ireland,Premier Division ,2012,01/06/2012,19:05,Dundalk,Drogheda,1,2,A,3.24,3.31,2.41,3.5,3.45,2.44,3.16,3.2,2.2
+Ireland,Premier Division ,2012,01/06/2012,19:45,Bohemians,Sligo Rovers,0,0,D,4.69,3.31,1.96,4.87,3.4,2.0,4.32,3.23,1.84
+Ireland,Premier Division ,2012,01/06/2012,19:45,Bray,UC Dublin,3,1,H,2.35,3.41,3.24,2.39,3.61,3.5,2.18,3.26,3.16
+Ireland,Premier Division ,2012,01/06/2012,19:45,Derry City,Shelbourne,0,1,A,1.82,3.48,5.31,1.85,3.63,5.31,1.77,3.42,4.45
+Ireland,Premier Division ,2012,01/06/2012,20:00,Monaghan,St. Patricks,0,4,A,7.91,4.34,1.5,7.91,4.5,1.53,6.81,3.9,1.47
+Ireland,Premier Division ,2012,01/06/2012,20:00,Shamrock Rovers,Cork City,1,1,D,1.5,4.28,8.01,1.53,4.47,8.01,1.49,3.88,6.53
+Ireland,Premier Division ,2012,21/06/2012,20:00,Shelbourne,Shamrock Rovers,2,3,A,4.8,3.67,1.85,4.8,3.8,1.9,4.21,3.39,1.82
+Ireland,Premier Division ,2012,22/06/2012,19:45,Cork City,Derry City,2,2,D,2.87,3.08,2.87,2.97,3.3,2.87,2.68,3.06,2.59
+Ireland,Premier Division ,2012,22/06/2012,19:45,Drogheda,Bray,3,1,H,2.62,3.29,2.99,2.62,3.75,3.4,2.29,3.21,3.0
+Ireland,Premier Division ,2012,22/06/2012,19:45,St. Patricks,Bohemians,2,1,H,1.75,3.56,5.96,1.75,3.75,6.0,1.65,3.41,5.42
+Ireland,Premier Division ,2012,22/06/2012,19:45,UC Dublin,Dundalk,1,1,D,2.15,3.56,3.63,2.15,3.9,3.63,2.08,3.36,3.25
+Ireland,Premier Division ,2012,29/06/2012,19:45,Bohemians,Shamrock Rovers,4,0,H,5.43,3.66,1.76,5.43,3.75,1.83,4.5,3.41,1.76
+Ireland,Premier Division ,2012,29/06/2012,19:45,Bray,Cork City,0,3,A,2.77,3.47,2.66,2.9,3.8,2.66,2.75,3.24,2.43
+Ireland,Premier Division ,2012,29/06/2012,19:45,Derry City,Drogheda,0,3,A,2.02,3.5,4.07,2.02,3.5,4.07,1.93,3.32,3.72
+Ireland,Premier Division ,2012,29/06/2012,19:45,Dundalk,Sligo Rovers,1,2,A,7.9,4.43,1.49,9.0,4.75,1.49,7.81,4.15,1.4
+Ireland,Premier Division ,2012,29/06/2012,19:45,St. Patricks,Shelbourne,1,0,H,1.69,3.78,5.9,1.75,3.9,5.9,1.67,3.55,4.97
+Ireland,Premier Division ,2012,06/07/2012,19:45,UC Dublin,Derry City,0,1,A,4.25,3.78,1.91,4.25,3.83,2.0,3.77,3.45,1.89
+Ireland,Premier Division ,2012,06/07/2012,20:00,Shelbourne,Dundalk,4,0,H,1.78,3.6,5.35,1.83,3.7,5.35,1.7,3.45,4.79
+Ireland,Premier Division ,2012,07/07/2012,15:45,Sligo Rovers,Bray,1,1,D,1.28,6.19,13.25,1.29,6.19,13.25,1.25,5.46,10.45
+Ireland,Premier Division ,2012,08/07/2012,15:00,Shamrock Rovers,St. Patricks,1,1,D,2.52,3.32,3.09,2.6,3.32,3.4,2.28,3.15,3.08
+Ireland,Premier Division ,2012,08/07/2012,18:00,Cork City,Bohemians,1,1,D,2.06,3.39,4.13,2.1,3.4,4.15,2.01,3.15,3.7
+Ireland,Premier Division ,2012,13/07/2012,19:05,Derry City,Sligo Rovers,1,2,A,4.3,3.39,2.02,4.3,3.4,2.12,3.64,3.21,2.01
+Ireland,Premier Division ,2012,13/07/2012,19:45,Bray,Shelbourne,2,3,A,3.62,3.65,2.11,3.63,3.66,2.2,3.26,3.32,2.1
+Ireland,Premier Division ,2012,13/07/2012,19:45,Dundalk,Shamrock Rovers,1,1,D,7.44,4.7,1.48,8.0,4.76,1.48,7.14,4.14,1.43
+Ireland,Premier Division ,2012,15/07/2012,15:00,Bohemians,UC Dublin,1,0,H,2.18,3.39,3.76,2.29,3.39,3.84,2.1,3.19,3.4
+Ireland,Premier Division ,2012,15/07/2012,15:00,St. Patricks,Drogheda,0,2,A,1.68,4.11,5.49,1.8,4.11,5.49,1.7,3.58,4.64
+Ireland,Premier Division ,2012,20/07/2012,19:05,Shamrock Rovers,Bray,0,0,D,1.5,4.55,7.37,1.51,4.55,7.84,1.44,4.09,6.83
+Ireland,Premier Division ,2012,20/07/2012,19:45,Dundalk,Derry City,1,1,D,4.59,3.65,1.89,4.59,3.65,1.9,4.17,3.37,1.82
+Ireland,Premier Division ,2012,20/07/2012,20:00,Shelbourne,Drogheda,1,2,A,2.31,3.48,3.35,2.4,3.56,3.35,2.25,3.26,3.02
+Ireland,Premier Division ,2012,22/07/2012,15:00,UC Dublin,St. Patricks,1,1,D,6.61,3.93,1.63,7.48,4.19,1.63,5.95,3.74,1.54
+Ireland,Premier Division ,2012,22/07/2012,19:00,Sligo Rovers,Cork City,2,2,D,1.71,3.72,5.82,1.73,4.09,6.5,1.62,3.62,5.25
+Ireland,Premier Division ,2012,27/07/2012,19:45,Bohemians,Dundalk,2,1,H,1.58,3.97,7.42,1.7,3.97,7.42,1.6,3.63,5.55
+Ireland,Premier Division ,2012,27/07/2012,19:45,Cork City,Shelbourne,0,0,D,2.27,3.52,3.36,2.41,3.52,3.36,2.23,3.23,3.06
+Ireland,Premier Division ,2012,27/07/2012,19:45,Derry City,Shamrock Rovers,0,1,A,3.33,3.4,2.31,3.36,3.4,2.31,3.08,3.19,2.22
+Ireland,Premier Division ,2012,27/07/2012,19:45,Drogheda,UC Dublin,1,0,H,1.71,4.05,5.25,1.74,4.05,5.5,1.64,3.66,4.96
+Ireland,Premier Division ,2012,03/08/2012,19:45,Bohemians,Bray,0,0,D,1.88,3.67,4.7,1.89,3.67,5.0,1.78,3.42,4.35
+Ireland,Premier Division ,2012,03/08/2012,19:45,Dundalk,Cork City,1,1,D,4.37,3.7,1.92,4.37,3.7,1.96,3.88,3.38,1.88
+Ireland,Premier Division ,2012,03/08/2012,19:45,UC Dublin,Shamrock Rovers,0,2,A,7.56,4.43,1.51,8.13,4.7,1.55,6.75,4.13,1.45
+Ireland,Premier Division ,2012,04/08/2012,19:45,Sligo Rovers,Drogheda,4,1,H,1.57,4.25,6.69,1.67,4.25,6.7,1.59,3.78,5.32
+Ireland,Premier Division ,2012,10/08/2012,19:45,Bray,Dundalk,1,1,D,2.0,3.64,4.01,2.0,3.64,4.05,1.93,3.4,3.67
+Ireland,Premier Division ,2012,10/08/2012,19:45,Drogheda,Bohemians,1,0,H,2.39,3.36,3.3,2.48,3.37,3.5,2.25,3.19,3.09
+Ireland,Premier Division ,2012,10/08/2012,20:00,Shelbourne,UC Dublin,1,2,A,1.69,3.97,5.61,1.69,4.03,6.19,1.6,3.67,5.37
+Ireland,Premier Division ,2012,13/08/2012,19:45,Cork City,St. Patricks,0,1,A,3.84,3.38,2.15,3.84,3.38,2.22,3.35,3.19,2.13
+Ireland,Premier Division ,2012,13/08/2012,20:00,Shamrock Rovers,Sligo Rovers,1,1,D,2.72,3.32,2.83,2.73,3.32,2.88,2.53,3.13,2.72
+Ireland,Premier Division ,2012,17/08/2012,19:45,Derry City,Bohemians,2,0,H,2.36,3.21,3.51,2.36,3.4,3.8,2.14,3.16,3.34
+Ireland,Premier Division ,2012,17/08/2012,19:45,St. Patricks,Bray,0,1,A,1.54,4.42,6.96,1.55,4.42,8.0,1.46,3.99,6.91
+Ireland,Premier Division ,2012,17/08/2012,19:45,UC Dublin,Cork City,3,1,H,4.05,3.58,2.0,4.05,3.64,2.1,3.57,3.35,1.98
+Ireland,Premier Division ,2012,17/08/2012,20:00,Drogheda,Shamrock Rovers,0,2,A,4.28,3.76,1.92,4.28,3.76,2.0,3.72,3.35,1.92
+Ireland,Premier Division ,2012,17/08/2012,20:00,Shelbourne,Sligo Rovers,1,3,A,5.28,3.62,1.8,5.28,3.62,1.85,4.32,3.34,1.81
+Ireland,Premier Division ,2012,20/08/2012,19:45,Bohemians,Shelbourne,2,2,D,2.68,3.11,3.03,2.69,3.25,3.03,2.52,3.1,2.74
+Ireland,Premier Division ,2012,20/08/2012,19:45,Bray,Derry City,0,0,D,3.36,3.3,2.35,3.53,3.4,2.36,3.17,3.17,2.22
+Ireland,Premier Division ,2012,20/08/2012,19:45,Cork City,Drogheda,3,2,H,2.7,3.4,2.78,2.73,3.42,3.0,2.46,3.21,2.75
+Ireland,Premier Division ,2012,20/08/2012,19:45,Dundalk,St. Patricks,0,1,A,7.08,3.74,1.63,7.11,3.8,1.65,5.88,3.58,1.58
+Ireland,Premier Division ,2012,20/08/2012,19:45,Sligo Rovers,UC Dublin,3,0,H,1.28,5.93,12.8,1.28,6.4,14.08,1.23,5.61,11.09
+Ireland,Premier Division ,2012,24/08/2012,19:45,St. Patricks,Sligo Rovers,0,0,D,3.07,3.16,2.58,3.2,3.25,2.58,2.9,3.13,2.39
+Ireland,Premier Division ,2012,31/08/2012,19:45,Cork City,Shamrock Rovers,1,2,A,5.05,3.86,1.76,5.73,4.0,1.76,4.77,3.59,1.69
+Ireland,Premier Division ,2012,31/08/2012,19:45,Drogheda,Dundalk,3,2,H,1.72,3.6,6.03,1.8,3.75,6.03,1.69,3.5,4.93
+Ireland,Premier Division ,2012,31/08/2012,19:45,UC Dublin,Bray,3,1,H,3.02,3.45,2.48,3.02,3.6,2.62,2.71,3.22,2.47
+Ireland,Premier Division ,2012,31/08/2012,20:00,Shelbourne,Derry City,0,2,A,2.72,3.27,2.84,2.79,3.3,2.84,2.59,3.11,2.66
+Ireland,Premier Division ,2012,03/09/2012,19:45,St. Patricks,Derry City,3,0,H,1.83,3.53,5.16,1.91,3.53,5.16,1.85,3.3,4.19
+Ireland,Premier Division ,2012,03/09/2012,20:00,Sligo Rovers,Bohemians,3,1,H,1.38,4.68,11.63,1.45,4.68,11.63,1.4,4.07,8.27
+Ireland,Premier Division ,2012,07/09/2012,19:45,Bohemians,St. Patricks,2,3,A,4.59,3.5,1.92,4.83,3.5,2.0,4.09,3.23,1.9
+Ireland,Premier Division ,2012,07/09/2012,19:45,Bray,Drogheda,1,3,A,2.6,3.6,2.72,2.88,3.6,2.8,2.62,3.27,2.53
+Ireland,Premier Division ,2012,07/09/2012,19:45,Derry City,Cork City,0,1,A,1.83,3.46,5.23,2.09,3.64,5.23,1.89,3.29,4.05
+Ireland,Premier Division ,2012,07/09/2012,19:45,Dundalk,UC Dublin,1,2,A,2.33,3.64,3.11,2.4,3.64,3.15,2.3,3.25,2.92
+Ireland,Premier Division ,2012,07/09/2012,20:00,Shamrock Rovers,Shelbourne,2,2,D,1.45,4.59,8.19,1.5,4.95,9.4,1.41,4.21,7.51
+Ireland,Premier Division ,2012,10/09/2012,19:45,Cork City,Bray,2,0,H,1.99,3.54,4.15,2.0,3.62,4.34,1.86,3.41,3.99
+Ireland,Premier Division ,2012,10/09/2012,19:45,Drogheda,Derry City,2,1,H,2.58,3.38,2.91,2.58,3.4,3.03,2.42,3.2,2.8
+Ireland,Premier Division ,2012,10/09/2012,19:45,Sligo Rovers,Dundalk,3,0,H,1.17,7.75,20.5,1.18,8.35,21.0,1.16,6.75,14.49
+Ireland,Premier Division ,2012,10/09/2012,20:00,Shamrock Rovers,Bohemians,0,1,A,1.5,4.34,7.71,1.55,4.34,8.0,1.48,3.89,6.67
+Ireland,Premier Division ,2012,10/09/2012,20:00,Shelbourne,St. Patricks,0,2,A,4.72,3.7,1.84,4.72,3.75,2.0,3.96,3.38,1.88
+Ireland,Premier Division ,2012,21/09/2012,19:05,Bray,Sligo Rovers,0,0,D,7.9,4.4,1.49,8.0,4.59,1.5,6.78,4.2,1.43
+Ireland,Premier Division ,2012,21/09/2012,19:45,Bohemians,Cork City,1,1,D,2.66,3.26,2.93,2.66,3.3,3.05,2.43,3.12,2.84
+Ireland,Premier Division ,2012,21/09/2012,19:45,Derry City,UC Dublin,1,2,A,1.69,4.09,5.26,1.74,4.09,5.5,1.66,3.62,4.83
+Ireland,Premier Division ,2012,21/09/2012,19:45,Dundalk,Shelbourne,0,1,A,2.93,3.43,2.54,2.93,3.43,2.66,2.73,3.21,2.46
+Ireland,Premier Division ,2012,25/09/2012,19:45,St. Patricks,Shamrock Rovers,2,1,H,2.21,3.12,3.92,2.25,3.3,3.92,2.16,3.14,3.33
+Ireland,Premier Division ,2012,28/09/2012,19:05,Drogheda,St. Patricks,0,0,D,4.51,3.54,1.92,4.51,3.6,2.13,3.75,3.32,1.95
+Ireland,Premier Division ,2012,28/09/2012,19:45,UC Dublin,Bohemians,2,2,D,3.1,3.38,2.45,3.2,3.4,2.54,2.81,3.21,2.41
+Ireland,Premier Division ,2012,28/09/2012,20:00,Shamrock Rovers,Dundalk,7,0,H,1.27,6.14,13.79,1.27,6.5,13.79,1.23,5.66,10.8
+Ireland,Premier Division ,2012,28/09/2012,20:00,Shelbourne,Bray,0,0,D,2.56,3.24,3.07,2.56,3.3,3.25,2.33,3.2,2.94
+Ireland,Premier Division ,2012,29/09/2012,19:45,Sligo Rovers,Derry City,4,1,H,1.44,4.45,9.41,1.45,4.45,9.41,1.43,3.99,7.52
+Ireland,Premier Division ,2012,01/10/2012,19:45,Drogheda,Shelbourne,2,1,H,1.83,3.77,4.53,1.85,3.77,5.0,1.75,3.51,4.47
+Ireland,Premier Division ,2012,01/10/2012,19:45,St. Patricks,UC Dublin,5,0,H,1.53,4.45,6.84,1.53,4.59,8.0,1.44,4.11,6.87
+Ireland,Premier Division ,2012,02/10/2012,19:45,Derry City,Dundalk,4,0,H,1.53,4.41,6.83,1.58,4.41,7.0,1.5,3.95,6.09
+Ireland,Premier Division ,2012,05/10/2012,19:45,Bray,Shamrock Rovers,1,3,A,6.62,4.22,1.57,6.62,4.22,1.6,5.62,3.83,1.56
+Ireland,Premier Division ,2012,05/10/2012,20:00,Cork City,Sligo Rovers,0,0,D,7.74,4.2,1.52,7.76,4.3,1.57,6.19,3.87,1.51
+Ireland,Premier Division ,2012,13/10/2012,15:45,Sligo Rovers,St. Patricks,3,2,H,2.27,3.14,3.72,2.4,3.3,3.8,2.15,3.1,3.44
+Ireland,Premier Division ,2012,13/10/2012,19:00,Dundalk,Bohemians,2,2,D,4.93,3.63,1.83,4.93,3.75,1.85,4.25,3.45,1.8
+Ireland,Premier Division ,2012,13/10/2012,19:00,Shamrock Rovers,Derry City,1,3,A,1.6,4.12,6.2,1.6,4.45,7.5,1.5,3.95,6.11
+Ireland,Premier Division ,2012,13/10/2012,19:45,UC Dublin,Drogheda,1,0,H,3.7,3.35,2.16,3.9,3.6,2.25,3.56,3.35,2.0
+Ireland,Premier Division ,2012,13/10/2012,20:00,Shelbourne,Cork City,3,2,H,2.94,3.28,2.6,3.06,3.3,2.6,2.78,3.16,2.46
+Ireland,Premier Division ,2012,19/10/2012,19:05,Drogheda,Sligo Rovers,2,1,H,3.55,3.48,2.2,3.65,3.5,2.29,3.19,3.31,2.15
+Ireland,Premier Division ,2012,19/10/2012,19:45,Bray,Bohemians,1,4,A,3.28,3.29,2.41,3.28,3.35,2.41,2.93,3.22,2.32
+Ireland,Premier Division ,2012,19/10/2012,19:45,Cork City,Dundalk,3,0,H,1.33,5.52,11.13,1.36,5.53,12.0,1.29,5.01,9.36
+Ireland,Premier Division ,2012,19/10/2012,19:45,Derry City,St. Patricks,2,1,H,3.79,3.39,2.15,3.79,3.45,2.22,3.43,3.26,2.07
+Ireland,Premier Division ,2012,19/10/2012,20:00,Shamrock Rovers,UC Dublin,2,1,H,1.36,5.33,9.86,1.38,5.33,9.86,1.34,4.65,8.46
+Ireland,Premier Division ,2012,20/10/2012,19:30,Longford,Waterford,0,2,A,,,,3.16,3.3,2.6,2.87,3.18,2.38
+Ireland,Premier Division ,2012,26/10/2012,19:45,Bohemians,Drogheda,1,4,A,2.45,3.34,3.14,2.69,3.35,3.14,2.53,3.15,2.71
+Ireland,Premier Division ,2012,26/10/2012,19:45,Dundalk,Bray,2,1,H,4.17,3.64,1.96,4.51,3.77,2.0,3.84,3.5,1.87
+Ireland,Premier Division ,2012,26/10/2012,19:45,Sligo Rovers,Shamrock Rovers,0,2,A,2.04,3.66,3.82,2.13,3.76,3.85,2.01,3.36,3.47
+Ireland,Premier Division ,2012,26/10/2012,19:45,St. Patricks,Cork City,1,0,H,1.59,4.17,6.45,1.62,4.3,6.8,1.56,3.74,5.77
+Ireland,Premier Division ,2012,26/10/2012,19:45,UC Dublin,Shelbourne,1,1,D,2.76,3.45,2.68,3.0,3.45,2.68,2.74,3.24,2.44
+Ireland,Premier Division ,2012,26/10/2012,19:45,Waterford,Longford,1,1,D,2.06,3.94,3.47,2.1,4.0,4.05,1.91,3.5,3.63
+Ireland,Premier Division ,2012,30/10/2012,19:45,Dundalk,Waterford,2,2,D,2.31,3.3,3.45,2.35,3.4,3.45,2.19,3.22,3.06
+Ireland,Premier Division ,2012,02/11/2012,19:45,Waterford,Dundalk,0,2,A,2.29,3.38,3.39,2.29,3.5,3.69,2.08,3.27,3.32
