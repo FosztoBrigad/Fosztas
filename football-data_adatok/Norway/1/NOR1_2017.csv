@@ -1,0 +1,243 @@
+Country,League,Season,Date,Time,Home,Away,HG,AG,Res,PH,PD,PA,MaxH,MaxD,MaxA,AvgH,AvgD,AvgA
+Norway,Eliteserien,2017,01/04/2017,17:00,Kristiansund,Molde,0,1,A,3.89,3.42,2.1,3.97,3.52,2.19,3.6,3.32,2.05
+Norway,Eliteserien,2017,02/04/2017,14:30,Lillestrom,Sandefjord,2,1,H,1.68,4.2,5.16,1.75,4.2,5.75,1.65,3.83,5.01
+Norway,Eliteserien,2017,02/04/2017,17:00,Sarpsborg 08,Sogndal,3,1,H,1.79,3.68,5.1,1.83,3.68,5.35,1.77,3.47,4.7
+Norway,Eliteserien,2017,02/04/2017,17:00,Stabaek,Aalesund,3,1,H,2.83,3.27,2.73,2.83,3.36,2.9,2.63,3.23,2.66
+Norway,Eliteserien,2017,02/04/2017,17:00,Stromsgodset,Haugesund,3,1,H,1.76,3.97,4.85,1.8,3.97,5.35,1.72,3.68,4.68
+Norway,Eliteserien,2017,02/04/2017,17:00,Tromso,Brann,1,1,D,2.46,3.25,3.21,2.47,3.25,3.3,2.34,3.1,3.15
+Norway,Eliteserien,2017,02/04/2017,19:00,Rosenborg,Odd,3,0,H,1.49,4.73,7.06,1.55,4.73,7.53,1.49,4.19,6.46
+Norway,Eliteserien,2017,03/04/2017,18:00,Valerenga,Viking,1,0,H,1.87,3.62,4.66,1.95,3.71,4.75,1.83,3.47,4.3
+Norway,Eliteserien,2017,05/04/2017,18:00,Aalesund,Sarpsborg 08,1,3,A,2.72,3.45,2.72,2.72,3.6,2.75,2.58,3.39,2.59
+Norway,Eliteserien,2017,05/04/2017,18:00,Molde,Lillestrom,2,1,H,1.6,4.28,6.01,1.62,4.5,6.3,1.57,4.04,5.55
+Norway,Eliteserien,2017,05/04/2017,18:00,Odd,Kristiansund,2,0,H,1.52,4.49,6.84,1.55,4.75,7.2,1.49,4.27,6.3
+Norway,Eliteserien,2017,05/04/2017,18:00,Sandefjord,Rosenborg,0,3,A,9.2,5.33,1.37,10.0,5.6,1.38,8.64,4.9,1.34
+Norway,Eliteserien,2017,05/04/2017,18:00,Sogndal,Stabaek,4,1,H,2.16,3.41,3.71,2.21,3.45,3.8,2.08,3.3,3.51
+Norway,Eliteserien,2017,06/04/2017,18:00,Brann,Stromsgodset,3,0,H,2.2,3.41,3.59,2.3,3.45,3.59,2.21,3.22,3.28
+Norway,Eliteserien,2017,06/04/2017,18:00,Haugesund,Valerenga,4,3,H,2.57,3.47,2.88,2.63,3.5,2.9,2.49,3.31,2.74
+Norway,Eliteserien,2017,06/04/2017,18:00,Viking,Tromso,1,2,A,2.0,3.43,4.31,2.04,3.68,4.31,1.94,3.38,3.93
+Norway,Eliteserien,2017,08/04/2017,17:00,Rosenborg,Molde,2,1,H,1.4,5.11,8.71,1.47,5.3,9.0,1.37,4.77,7.91
+Norway,Eliteserien,2017,09/04/2017,17:00,Lillestrom,Haugesund,0,2,A,2.12,3.66,3.57,2.16,3.68,3.6,2.08,3.47,3.37
+Norway,Eliteserien,2017,09/04/2017,17:00,Sarpsborg 08,Viking,3,0,H,1.84,3.83,4.53,1.84,3.85,5.0,1.76,3.58,4.53
+Norway,Eliteserien,2017,09/04/2017,17:00,Stabaek,Odd,2,0,H,3.77,3.49,2.11,3.77,3.6,2.14,3.49,3.39,2.06
+Norway,Eliteserien,2017,09/04/2017,17:00,Tromso,Sogndal,3,0,H,2.04,3.6,3.91,2.1,3.6,4.33,2.0,3.34,3.73
+Norway,Eliteserien,2017,09/04/2017,17:00,Valerenga,Sandefjord,1,2,A,1.4,5.29,8.37,1.48,5.29,9.0,1.39,4.66,7.59
+Norway,Eliteserien,2017,09/04/2017,19:00,Stromsgodset,Aalesund,1,1,D,1.5,4.85,6.6,1.55,4.85,7.0,1.48,4.4,6.14
+Norway,Eliteserien,2017,10/04/2017,18:00,Kristiansund,Brann,1,0,H,3.98,3.5,2.05,4.05,3.5,2.1,3.72,3.3,2.02
+Norway,Eliteserien,2017,17/04/2017,17:00,Aalesund,Lillestrom,3,1,H,2.5,3.62,2.86,2.55,3.74,2.91,2.43,3.4,2.76
+Norway,Eliteserien,2017,17/04/2017,17:00,Brann,Haugesund,3,1,H,1.7,3.85,5.65,1.82,3.85,5.65,1.72,3.66,4.74
+Norway,Eliteserien,2017,17/04/2017,17:00,Molde,Valerenga,4,0,H,1.68,4.03,5.48,1.77,4.16,5.94,1.64,3.87,5.06
+Norway,Eliteserien,2017,17/04/2017,17:00,Sandefjord,Kristiansund,2,0,H,2.21,3.19,3.86,2.25,3.5,3.86,2.11,3.23,3.52
+Norway,Eliteserien,2017,17/04/2017,17:00,Sogndal,Stromsgodset,1,1,D,2.84,3.59,2.53,2.99,3.59,2.55,2.77,3.37,2.43
+Norway,Eliteserien,2017,17/04/2017,17:00,Stabaek,Sarpsborg 08,3,0,H,3.02,3.49,2.45,3.16,3.5,2.45,2.91,3.34,2.35
+Norway,Eliteserien,2017,17/04/2017,19:00,Odd,Tromso,1,0,H,1.64,4.2,5.65,1.69,4.2,5.65,1.62,3.92,5.14
+Norway,Eliteserien,2017,17/04/2017,19:00,Viking,Rosenborg,0,1,A,7.15,4.49,1.51,8.0,4.49,1.58,6.51,4.07,1.5
+Norway,Eliteserien,2017,22/04/2017,17:00,Stromsgodset,Sandefjord,1,0,H,1.45,4.98,7.3,1.45,5.1,8.6,1.41,4.6,7.24
+Norway,Eliteserien,2017,23/04/2017,17:00,Rosenborg,Aalesund,0,0,D,1.19,8.61,14.85,1.2,8.61,17.62,1.17,7.31,13.97
+Norway,Eliteserien,2017,23/04/2017,17:00,Sarpsborg 08,Kristiansund,5,1,H,1.52,4.43,7.04,1.57,4.45,7.1,1.51,4.07,6.38
+Norway,Eliteserien,2017,23/04/2017,17:00,Tromso,Stabaek,0,3,A,1.88,3.84,4.3,1.9,3.89,4.34,1.84,3.64,4.03
+Norway,Eliteserien,2017,23/04/2017,17:00,Valerenga,Sogndal,3,0,H,1.76,3.9,5.01,1.79,4.05,5.01,1.72,3.73,4.62
+Norway,Eliteserien,2017,23/04/2017,17:00,Viking,Odd,3,0,H,2.5,3.44,2.99,2.7,3.44,2.99,2.48,3.22,2.82
+Norway,Eliteserien,2017,23/04/2017,19:00,Lillestrom,Brann,0,2,A,2.71,3.39,2.78,2.71,3.45,2.96,2.53,3.25,2.75
+Norway,Eliteserien,2017,24/04/2017,18:00,Haugesund,Molde,0,0,D,3.23,3.55,2.3,3.25,3.56,2.35,3.06,3.42,2.24
+Norway,Eliteserien,2017,29/04/2017,17:00,Brann,Viking,1,1,D,1.79,3.65,5.15,1.81,3.7,5.35,1.75,3.46,4.88
+Norway,Eliteserien,2017,30/04/2017,17:00,Aalesund,Tromso,3,1,H,2.35,3.68,3.05,2.38,3.68,3.25,2.27,3.45,2.99
+Norway,Eliteserien,2017,30/04/2017,17:00,Kristiansund,Stromsgodset,2,0,H,3.95,3.48,2.06,3.98,3.6,2.06,3.7,3.38,2.0
+Norway,Eliteserien,2017,30/04/2017,17:00,Sandefjord,Molde,3,3,D,4.6,3.63,1.88,4.75,3.75,1.88,4.33,3.46,1.83
+Norway,Eliteserien,2017,30/04/2017,17:00,Sogndal,Lillestrom,0,1,A,2.56,3.46,2.89,2.62,3.48,2.89,2.48,3.31,2.74
+Norway,Eliteserien,2017,30/04/2017,17:00,Stabaek,Haugesund,0,3,A,2.0,3.85,3.76,2.05,3.85,3.87,1.97,3.56,3.6
+Norway,Eliteserien,2017,30/04/2017,19:00,Odd,Valerenga,2,1,H,2.18,3.45,3.62,2.18,3.68,3.8,2.05,3.42,3.52
+Norway,Eliteserien,2017,01/05/2017,18:00,Sarpsborg 08,Rosenborg,1,2,A,3.88,3.64,2.03,3.96,3.66,2.07,3.68,3.47,1.98
+Norway,Eliteserien,2017,06/05/2017,17:00,Molde,Aalesund,0,1,A,1.59,4.43,5.85,1.62,4.5,6.45,1.55,4.19,5.48
+Norway,Eliteserien,2017,07/05/2017,17:00,Haugesund,Sogndal,0,0,D,1.7,4.09,5.15,1.73,4.09,5.6,1.67,3.77,4.96
+Norway,Eliteserien,2017,07/05/2017,17:00,Stromsgodset,Sarpsborg 08,1,1,D,2.21,3.59,3.4,2.28,3.64,3.58,2.13,3.43,3.27
+Norway,Eliteserien,2017,07/05/2017,17:00,Tromso,Kristiansund,1,1,D,1.57,4.31,6.35,1.64,4.31,6.51,1.55,3.94,6.02
+Norway,Eliteserien,2017,07/05/2017,17:00,Valerenga,Stabaek,1,1,D,1.93,3.88,4.0,1.93,4.0,4.4,1.85,3.68,3.96
+Norway,Eliteserien,2017,07/05/2017,17:00,Viking,Sandefjord,0,2,A,1.58,4.13,6.6,1.66,4.15,6.6,1.57,3.86,5.95
+Norway,Eliteserien,2017,07/05/2017,19:00,Rosenborg,Brann,2,1,H,1.54,4.38,6.72,1.57,4.45,7.25,1.52,4.05,6.31
+Norway,Eliteserien,2017,08/05/2017,18:00,Lillestrom,Odd,0,1,A,2.32,3.53,3.21,2.4,3.54,3.3,2.27,3.33,3.07
+Norway,Eliteserien,2017,12/05/2017,18:00,Aalesund,Valerenga,0,1,A,2.41,3.76,2.91,2.43,3.84,3.0,2.34,3.52,2.83
+Norway,Eliteserien,2017,13/05/2017,15:00,Stabaek,Rosenborg,0,0,D,4.38,3.88,1.85,5.0,3.95,1.91,4.3,3.66,1.79
+Norway,Eliteserien,2017,13/05/2017,17:00,Kristiansund,Lillestrom,1,1,D,3.33,3.14,2.46,3.34,3.35,2.47,3.13,3.12,2.33
+Norway,Eliteserien,2017,13/05/2017,17:00,Odd,Stromsgodset,2,0,H,2.25,3.37,3.52,2.26,3.42,3.52,2.18,3.27,3.31
+Norway,Eliteserien,2017,13/05/2017,17:00,Sandefjord,Haugesund,2,0,H,2.65,3.41,2.82,2.76,3.45,2.82,2.58,3.27,2.68
+Norway,Eliteserien,2017,13/05/2017,17:00,Sarpsborg 08,Tromso,1,1,D,1.58,4.51,5.9,1.59,4.55,6.2,1.55,4.15,5.7
+Norway,Eliteserien,2017,13/05/2017,17:00,Sogndal,Viking,4,0,H,3.55,3.34,2.25,3.55,3.34,2.45,3.23,3.17,2.26
+Norway,Eliteserien,2017,13/05/2017,19:00,Brann,Molde,4,1,H,2.05,3.5,3.96,2.09,3.52,3.96,2.02,3.35,3.69
+Norway,Eliteserien,2017,16/05/2017,17:00,Brann,Sandefjord,5,0,H,1.48,4.51,7.94,1.5,4.55,8.15,1.45,4.21,7.27
+Norway,Eliteserien,2017,16/05/2017,17:00,Haugesund,Odd,0,2,A,2.48,3.36,3.08,2.52,3.5,3.08,2.42,3.3,2.85
+Norway,Eliteserien,2017,16/05/2017,17:00,Lillestrom,Sarpsborg 08,1,2,A,2.46,3.42,3.06,2.47,3.5,3.24,2.37,3.3,2.91
+Norway,Eliteserien,2017,16/05/2017,17:00,Molde,Sogndal,1,2,A,1.52,4.38,7.25,1.55,4.38,7.25,1.5,4.12,6.5
+Norway,Eliteserien,2017,16/05/2017,17:00,Valerenga,Kristiansund,1,0,H,1.51,4.51,7.15,1.54,4.52,7.5,1.47,4.2,6.79
+Norway,Eliteserien,2017,16/05/2017,17:00,Viking,Aalesund,1,2,A,1.68,4.29,5.1,1.85,4.35,5.3,1.68,3.91,4.75
+Norway,Eliteserien,2017,16/05/2017,19:00,Rosenborg,Tromso,1,2,A,1.31,6.06,10.33,1.31,6.2,12.0,1.27,5.54,10.03
+Norway,Eliteserien,2017,16/05/2017,19:00,Stromsgodset,Stabaek,1,2,A,2.12,3.64,3.58,2.13,3.73,3.75,2.05,3.47,3.45
+Norway,Eliteserien,2017,20/05/2017,14:30,Rosenborg,Lillestrom,1,1,D,1.38,5.24,9.0,1.4,5.4,10.0,1.36,4.86,8.2
+Norway,Eliteserien,2017,20/05/2017,17:00,Sogndal,Brann,2,3,A,3.49,3.33,2.28,3.7,3.46,2.31,3.44,3.25,2.14
+Norway,Eliteserien,2017,21/05/2017,17:00,Aalesund,Sandefjord,2,0,H,1.82,3.95,4.53,1.84,3.95,4.55,1.76,3.75,4.33
+Norway,Eliteserien,2017,21/05/2017,17:00,Kristiansund,Haugesund,3,2,H,2.74,3.14,2.93,2.8,3.4,2.94,2.63,3.09,2.74
+Norway,Eliteserien,2017,21/05/2017,17:00,Sarpsborg 08,Valerenga,2,0,H,1.94,3.75,4.1,1.98,3.88,4.2,1.87,3.6,3.93
+Norway,Eliteserien,2017,21/05/2017,17:00,Tromso,Stromsgodset,1,1,D,2.39,3.49,3.12,2.41,3.5,3.25,2.29,3.33,3.04
+Norway,Eliteserien,2017,21/05/2017,19:00,Odd,Molde,1,2,A,2.24,3.53,3.38,2.25,3.62,3.52,2.17,3.34,3.26
+Norway,Eliteserien,2017,22/05/2017,18:00,Stabaek,Viking,1,1,D,2.0,3.61,4.03,2.01,3.7,4.4,1.94,3.44,3.85
+Norway,Eliteserien,2017,27/05/2017,17:00,Sandefjord,Odd,0,0,D,4.01,3.47,2.05,4.01,3.47,2.2,3.74,3.28,2.03
+Norway,Eliteserien,2017,28/05/2017,17:00,Brann,Aalesund,1,1,D,1.57,4.36,6.26,1.58,4.5,7.0,1.52,4.14,5.95
+Norway,Eliteserien,2017,28/05/2017,17:00,Haugesund,Sarpsborg 08,0,0,D,2.62,3.55,2.77,2.8,3.56,2.77,2.57,3.35,2.63
+Norway,Eliteserien,2017,28/05/2017,17:00,Kristiansund,Sogndal,1,1,D,2.39,3.27,3.32,2.45,3.36,3.38,2.3,3.16,3.17
+Norway,Eliteserien,2017,28/05/2017,17:00,Lillestrom,Tromso,4,1,H,1.92,3.7,4.3,1.95,3.75,4.33,1.88,3.51,3.99
+Norway,Eliteserien,2017,28/05/2017,17:00,Molde,Stabaek,3,1,H,1.92,3.73,4.24,1.94,3.82,4.25,1.87,3.59,3.96
+Norway,Eliteserien,2017,28/05/2017,19:00,Valerenga,Rosenborg,1,1,D,4.31,3.83,1.88,4.6,3.98,1.93,4.1,3.59,1.84
+Norway,Eliteserien,2017,29/05/2017,18:00,Stromsgodset,Viking,4,2,H,1.92,3.68,4.3,1.96,3.68,4.45,1.89,3.45,4.08
+Norway,Eliteserien,2017,03/06/2017,14:30,Tromso,Valerenga,2,4,A,2.85,3.51,2.57,2.85,3.55,2.9,2.65,3.35,2.56
+Norway,Eliteserien,2017,03/06/2017,17:00,Stabaek,Lillestrom,2,4,A,2.41,3.49,3.09,2.42,3.53,3.2,2.31,3.34,2.99
+Norway,Eliteserien,2017,04/06/2017,17:00,Aalesund,Haugesund,0,1,A,2.0,3.8,3.82,2.0,3.85,4.2,1.91,3.59,3.78
+Norway,Eliteserien,2017,04/06/2017,17:00,Rosenborg,Stromsgodset,3,1,H,1.45,4.78,7.96,1.5,4.85,7.96,1.43,4.51,6.83
+Norway,Eliteserien,2017,04/06/2017,17:00,Sarpsborg 08,Molde,1,0,H,1.91,3.77,4.25,1.92,3.85,4.55,1.84,3.62,4.05
+Norway,Eliteserien,2017,04/06/2017,17:00,Sogndal,Sandefjord,3,2,H,2.19,3.35,3.7,2.2,3.38,3.84,2.11,3.25,3.52
+Norway,Eliteserien,2017,04/06/2017,17:00,Viking,Kristiansund,2,1,H,1.81,3.79,4.81,1.87,3.88,5.15,1.76,3.55,4.65
+Norway,Eliteserien,2017,04/06/2017,19:00,Odd,Brann,0,0,D,2.44,3.38,3.13,2.48,3.4,3.13,2.4,3.22,2.95
+Norway,Eliteserien,2017,17/06/2017,17:00,Kristiansund,Aalesund,1,1,D,2.98,3.29,2.59,3.0,3.35,2.7,2.8,3.17,2.54
+Norway,Eliteserien,2017,18/06/2017,17:00,Haugesund,Rosenborg,1,0,H,4.13,3.72,1.94,4.35,3.8,1.95,4.0,3.56,1.88
+Norway,Eliteserien,2017,18/06/2017,17:00,Lillestrom,Viking,1,0,H,1.66,4.24,5.37,1.75,4.25,5.65,1.64,3.9,5.12
+Norway,Eliteserien,2017,18/06/2017,17:00,Molde,Tromso,3,0,H,1.56,4.61,5.95,1.63,4.61,6.0,1.57,4.17,5.4
+Norway,Eliteserien,2017,18/06/2017,17:00,Sandefjord,Sarpsborg 08,1,0,H,4.0,3.57,2.02,4.15,3.6,2.06,3.78,3.4,1.97
+Norway,Eliteserien,2017,18/06/2017,17:00,Sogndal,Odd,0,0,D,3.44,3.54,2.21,3.55,3.6,2.25,3.33,3.32,2.16
+Norway,Eliteserien,2017,18/06/2017,19:00,Valerenga,Stromsgodset,1,1,D,2.26,3.56,3.32,2.35,3.6,3.35,2.2,3.42,3.14
+Norway,Eliteserien,2017,19/06/2017,18:00,Brann,Stabaek,5,0,H,1.75,3.98,4.92,1.77,4.1,5.5,1.68,3.82,4.83
+Norway,Eliteserien,2017,24/06/2017,17:00,Valerenga,Lillestrom,3,1,H,2.17,3.49,3.61,2.25,3.62,3.68,2.13,3.37,3.34
+Norway,Eliteserien,2017,25/06/2017,17:00,Aalesund,Odd,5,1,H,2.65,3.38,2.84,2.7,3.5,2.98,2.51,3.26,2.77
+Norway,Eliteserien,2017,25/06/2017,17:00,Rosenborg,Sogndal,3,0,H,1.26,6.15,14.5,1.27,6.37,14.5,1.24,5.79,11.85
+Norway,Eliteserien,2017,25/06/2017,17:00,Sarpsborg 08,Brann,1,1,D,2.36,3.28,3.38,2.42,3.4,3.4,2.28,3.2,3.2
+Norway,Eliteserien,2017,25/06/2017,17:00,Stabaek,Kristiansund,1,4,A,1.77,3.73,5.2,1.8,3.95,5.7,1.71,3.65,4.85
+Norway,Eliteserien,2017,25/06/2017,17:00,Tromso,Sandefjord,1,1,D,1.85,3.77,4.57,1.91,3.8,4.65,1.83,3.57,4.23
+Norway,Eliteserien,2017,25/06/2017,19:00,Viking,Haugesund,1,1,D,2.56,3.45,2.91,2.56,3.58,3.15,2.39,3.32,2.89
+Norway,Eliteserien,2017,26/06/2017,18:00,Stromsgodset,Molde,1,1,D,2.36,3.57,3.11,2.38,3.7,3.25,2.25,3.47,3.01
+Norway,Eliteserien,2017,01/07/2017,17:00,Lillestrom,Stromsgodset,2,0,H,2.06,3.82,3.59,2.09,3.94,3.85,1.99,3.61,3.54
+Norway,Eliteserien,2017,01/07/2017,19:15,Sogndal,Aalesund,1,0,H,2.93,3.64,2.44,3.1,3.65,2.5,2.84,3.41,2.38
+Norway,Eliteserien,2017,02/07/2017,17:00,Haugesund,Tromso,2,0,H,1.79,3.94,4.73,1.9,4.1,4.85,1.77,3.69,4.39
+Norway,Eliteserien,2017,02/07/2017,17:00,Molde,Viking,3,2,H,1.67,4.09,5.51,1.71,4.32,6.3,1.64,3.87,5.09
+Norway,Eliteserien,2017,02/07/2017,17:00,Odd,Sarpsborg 08,0,0,D,2.62,3.39,2.87,2.68,3.45,2.95,2.48,3.26,2.81
+Norway,Eliteserien,2017,02/07/2017,17:00,Sandefjord,Stabaek,1,2,A,2.59,3.52,2.82,2.65,3.65,2.95,2.47,3.38,2.74
+Norway,Eliteserien,2017,02/07/2017,19:00,Brann,Valerenga,0,0,D,1.9,3.84,4.16,1.95,3.9,4.5,1.85,3.63,4.03
+Norway,Eliteserien,2017,03/07/2017,18:00,Kristiansund,Rosenborg,3,3,D,5.65,3.73,1.72,5.65,3.96,1.74,5.03,3.73,1.68
+Norway,Eliteserien,2017,08/07/2017,14:30,Rosenborg,Sandefjord,5,1,H,1.24,6.75,13.61,1.25,6.81,14.5,1.23,6.06,11.55
+Norway,Eliteserien,2017,08/07/2017,17:00,Aalesund,Molde,0,3,A,2.56,3.58,2.82,2.6,3.65,2.9,2.46,3.42,2.71
+Norway,Eliteserien,2017,09/07/2017,17:00,Stromsgodset,Kristiansund,4,2,H,1.65,4.08,5.84,1.69,4.2,5.84,1.61,3.94,5.29
+Norway,Eliteserien,2017,09/07/2017,17:00,Viking,Sogndal,1,1,D,1.85,3.76,4.54,1.91,3.85,4.7,1.84,3.54,4.24
+Norway,Eliteserien,2017,09/07/2017,19:00,Stabaek,Brann,2,0,H,2.83,3.66,2.51,2.95,3.74,2.55,2.79,3.42,2.41
+Norway,Eliteserien,2017,10/07/2017,18:00,Sarpsborg 08,Lillestrom,3,3,D,1.93,3.83,4.12,1.94,3.95,4.35,1.87,3.64,3.96
+Norway,Eliteserien,2017,15/07/2017,14:30,Sogndal,Rosenborg,0,3,A,5.92,4.24,1.61,5.92,4.3,1.67,5.26,3.94,1.61
+Norway,Eliteserien,2017,15/07/2017,17:00,Lillestrom,Stabaek,2,2,D,1.81,4.23,4.21,1.87,4.35,4.35,1.79,3.9,4.04
+Norway,Eliteserien,2017,16/07/2017,17:00,Haugesund,Aalesund,2,0,H,2.04,3.51,4.0,2.14,3.65,4.0,2.02,3.41,3.62
+Norway,Eliteserien,2017,16/07/2017,17:00,Molde,Stromsgodset,0,0,D,1.79,3.86,4.82,1.82,4.1,5.0,1.74,3.75,4.47
+Norway,Eliteserien,2017,16/07/2017,17:00,Odd,Viking,0,2,A,1.72,3.8,5.47,1.78,4.05,5.5,1.71,3.64,4.93
+Norway,Eliteserien,2017,16/07/2017,17:00,Sandefjord,Tromso,3,0,H,2.68,3.36,2.82,2.73,3.5,3.0,2.52,3.26,2.76
+Norway,Eliteserien,2017,16/07/2017,19:00,Brann,Sarpsborg 08,0,1,A,2.41,3.36,3.19,2.55,3.5,3.3,2.38,3.27,2.95
+Norway,Eliteserien,2017,17/07/2017,18:00,Kristiansund,Valerenga,1,1,D,3.48,3.47,2.22,3.48,3.5,2.35,3.19,3.31,2.23
+Norway,Eliteserien,2017,05/08/2017,17:00,Rosenborg,Kristiansund,4,1,H,1.31,5.74,11.27,1.32,6.25,11.5,1.28,5.41,9.93
+Norway,Eliteserien,2017,06/08/2017,17:00,Odd,Sogndal,2,1,H,1.79,3.59,5.3,1.83,3.7,5.3,1.76,3.5,4.83
+Norway,Eliteserien,2017,06/08/2017,17:00,Sarpsborg 08,Haugesund,2,1,H,1.77,3.9,4.9,1.8,3.95,5.05,1.73,3.67,4.66
+Norway,Eliteserien,2017,06/08/2017,17:00,Stabaek,Sandefjord,1,3,A,1.78,3.96,4.72,1.84,4.0,4.8,1.76,3.74,4.39
+Norway,Eliteserien,2017,06/08/2017,17:00,Tromso,Molde,1,2,A,2.88,3.55,2.52,3.05,3.7,2.55,2.82,3.43,2.39
+Norway,Eliteserien,2017,06/08/2017,17:00,Viking,Lillestrom,2,2,D,2.28,3.54,3.28,2.5,3.6,3.28,2.32,3.36,2.98
+Norway,Eliteserien,2017,06/08/2017,19:00,Aalesund,Brann,3,3,D,2.75,3.5,2.66,2.8,3.55,2.75,2.64,3.33,2.59
+Norway,Eliteserien,2017,07/08/2017,18:00,Stromsgodset,Valerenga,2,0,H,2.2,3.41,3.59,2.4,3.55,3.59,2.21,3.36,3.2
+Norway,Eliteserien,2017,11/08/2017,18:00,Sandefjord,Sogndal,2,1,H,2.07,3.48,3.95,2.15,3.6,4.0,2.04,3.36,3.63
+Norway,Eliteserien,2017,12/08/2017,17:00,Molde,Rosenborg,1,2,A,2.68,3.57,2.68,2.9,3.65,2.7,2.7,3.41,2.51
+Norway,Eliteserien,2017,13/08/2017,17:00,Aalesund,Viking,1,1,D,2.31,3.7,3.1,2.32,3.7,3.45,2.22,3.44,3.1
+Norway,Eliteserien,2017,13/08/2017,17:00,Brann,Odd,2,0,H,2.0,3.48,4.2,2.05,3.65,4.61,1.96,3.4,3.89
+Norway,Eliteserien,2017,13/08/2017,17:00,Haugesund,Stabaek,2,2,D,1.98,3.7,3.99,2.1,3.9,3.99,1.97,3.58,3.63
+Norway,Eliteserien,2017,13/08/2017,17:00,Kristiansund,Sarpsborg 08,2,2,D,4.23,3.63,1.95,4.3,3.65,2.03,3.99,3.44,1.92
+Norway,Eliteserien,2017,13/08/2017,19:00,Stromsgodset,Lillestrom,3,1,H,2.0,3.71,3.93,2.14,3.8,3.95,1.99,3.56,3.59
+Norway,Eliteserien,2017,14/08/2017,18:00,Valerenga,Tromso,0,0,D,1.68,4.17,5.21,1.71,4.3,5.6,1.64,3.95,5.04
+Norway,Eliteserien,2017,19/08/2017,17:00,Lillestrom,Valerenga,2,1,H,2.15,3.62,3.52,2.2,3.65,3.6,2.11,3.47,3.33
+Norway,Eliteserien,2017,20/08/2017,17:00,Odd,Sandefjord,1,0,H,1.79,3.65,5.15,1.91,3.65,5.15,1.82,3.47,4.48
+Norway,Eliteserien,2017,20/08/2017,17:00,Rosenborg,Haugesund,0,1,A,1.48,4.8,7.15,1.52,4.85,7.52,1.46,4.44,6.56
+Norway,Eliteserien,2017,20/08/2017,17:00,Sogndal,Kristiansund,2,0,H,2.23,3.38,3.55,2.3,3.55,3.8,2.14,3.32,3.38
+Norway,Eliteserien,2017,20/08/2017,17:00,Stabaek,Molde,3,2,H,2.88,3.58,2.51,3.05,3.7,2.65,2.81,3.46,2.4
+Norway,Eliteserien,2017,20/08/2017,17:00,Tromso,Aalesund,3,2,H,1.97,3.75,3.98,2.1,3.8,4.0,1.96,3.56,3.66
+Norway,Eliteserien,2017,20/08/2017,19:00,Viking,Brann,2,4,A,2.69,3.38,2.79,2.9,3.5,2.79,2.68,3.26,2.61
+Norway,Eliteserien,2017,21/08/2017,18:00,Sarpsborg 08,Stromsgodset,0,0,D,1.85,3.92,4.34,1.91,3.92,4.75,1.81,3.64,4.23
+Norway,Eliteserien,2017,09/09/2017,17:00,Brann,Sogndal,2,1,H,1.64,3.94,6.16,1.68,4.2,6.16,1.63,3.79,5.5
+Norway,Eliteserien,2017,10/09/2017,17:00,Aalesund,Stabaek,1,1,D,2.49,3.67,2.85,2.53,3.75,3.1,2.37,3.5,2.82
+Norway,Eliteserien,2017,10/09/2017,17:00,Haugesund,Lillestrom,1,1,D,2.38,3.58,3.07,2.45,3.6,3.2,2.31,3.4,2.98
+Norway,Eliteserien,2017,10/09/2017,17:00,Kristiansund,Tromso,4,1,H,2.36,3.56,3.12,2.4,3.65,3.25,2.29,3.37,3.05
+Norway,Eliteserien,2017,10/09/2017,17:00,Sandefjord,Viking,3,1,H,2.16,3.45,3.67,2.2,3.6,3.79,2.1,3.37,3.47
+Norway,Eliteserien,2017,10/09/2017,17:00,Valerenga,Sarpsborg 08,1,2,A,2.58,3.42,2.89,2.65,3.5,2.95,2.5,3.31,2.78
+Norway,Eliteserien,2017,10/09/2017,19:00,Stromsgodset,Rosenborg,0,2,A,3.18,3.72,2.26,3.41,3.8,2.31,3.15,3.52,2.18
+Norway,Eliteserien,2017,11/09/2017,18:00,Molde,Odd,2,1,H,1.94,3.73,4.14,1.97,4.0,4.95,1.82,3.62,4.27
+Norway,Eliteserien,2017,16/09/2017,17:00,Stabaek,Stromsgodset,0,2,A,2.98,3.59,2.43,3.25,3.65,2.5,2.92,3.42,2.34
+Norway,Eliteserien,2017,17/09/2017,17:00,Lillestrom,Kristiansund,0,0,D,1.62,4.2,5.85,1.67,4.3,6.0,1.6,4.0,5.36
+Norway,Eliteserien,2017,17/09/2017,17:00,Sandefjord,Brann,0,1,A,2.97,3.24,2.64,3.0,3.45,2.7,2.87,3.15,2.52
+Norway,Eliteserien,2017,17/09/2017,17:00,Sogndal,Haugesund,0,1,A,2.41,3.42,3.14,2.62,3.5,3.2,2.43,3.23,2.93
+Norway,Eliteserien,2017,17/09/2017,17:00,Tromso,Sarpsborg 08,5,0,H,2.66,3.54,2.73,2.68,3.6,2.99,2.5,3.37,2.74
+Norway,Eliteserien,2017,17/09/2017,17:00,Viking,Molde,2,3,A,3.19,3.58,2.31,3.4,3.7,2.35,3.13,3.41,2.23
+Norway,Eliteserien,2017,17/09/2017,19:00,Rosenborg,Valerenga,3,0,H,1.41,4.81,9.2,1.49,4.89,9.2,1.42,4.51,7.57
+Norway,Eliteserien,2017,18/09/2017,18:00,Odd,Aalesund,3,2,H,1.72,3.94,5.23,1.77,4.03,5.35,1.71,3.73,4.81
+Norway,Eliteserien,2017,21/09/2017,17:00,Tromso,Odd,2,2,D,2.06,3.81,3.6,2.11,3.9,3.75,2.03,3.54,3.46
+Norway,Eliteserien,2017,23/09/2017,17:00,Haugesund,Viking,2,1,H,1.96,3.64,4.15,2.0,3.8,4.59,1.88,3.55,4.04
+Norway,Eliteserien,2017,24/09/2017,17:00,Aalesund,Sogndal,0,1,A,2.32,3.44,3.29,2.36,3.55,3.6,2.2,3.35,3.25
+Norway,Eliteserien,2017,24/09/2017,17:00,Kristiansund,Stabaek,1,0,H,2.46,3.46,3.03,2.5,3.65,3.05,2.37,3.39,2.87
+Norway,Eliteserien,2017,24/09/2017,17:00,Lillestrom,Rosenborg,0,3,A,3.73,3.71,2.05,3.82,3.8,2.09,3.57,3.57,1.98
+Norway,Eliteserien,2017,24/09/2017,17:00,Molde,Sandefjord,3,1,H,1.75,3.88,5.15,1.81,4.05,5.15,1.72,3.73,4.69
+Norway,Eliteserien,2017,24/09/2017,17:00,Stromsgodset,Tromso,2,1,H,1.79,3.96,4.65,1.83,4.05,5.25,1.74,3.78,4.48
+Norway,Eliteserien,2017,24/09/2017,19:00,Valerenga,Brann,2,1,H,2.8,3.37,2.69,2.84,3.5,2.95,2.61,3.24,2.68
+Norway,Eliteserien,2017,25/09/2017,18:00,Sarpsborg 08,Odd,2,1,H,1.79,3.76,4.98,1.83,3.92,5.1,1.77,3.64,4.54
+Norway,Eliteserien,2017,29/09/2017,18:00,Brann,Kristiansund,0,4,A,1.76,3.69,5.39,1.8,3.95,5.6,1.71,3.62,5.01
+Norway,Eliteserien,2017,30/09/2017,17:00,Stabaek,Valerenga,4,2,H,2.43,3.46,3.08,2.55,3.6,3.15,2.38,3.38,2.9
+Norway,Eliteserien,2017,01/10/2017,17:00,Odd,Haugesund,1,0,H,2.01,3.63,3.95,2.19,3.65,4.2,2.0,3.4,3.75
+Norway,Eliteserien,2017,01/10/2017,17:00,Sandefjord,Aalesund,2,0,H,2.3,3.48,3.3,2.34,3.59,3.84,2.18,3.38,3.27
+Norway,Eliteserien,2017,01/10/2017,17:00,Sogndal,Molde,2,2,D,3.33,3.57,2.25,3.4,3.65,2.3,3.21,3.4,2.2
+Norway,Eliteserien,2017,01/10/2017,17:00,Tromso,Lillestrom,2,1,H,2.14,3.65,3.53,2.27,3.7,3.75,2.16,3.49,3.23
+Norway,Eliteserien,2017,01/10/2017,17:00,Viking,Stromsgodset,0,1,A,2.81,3.57,2.57,3.14,3.65,2.57,2.85,3.41,2.39
+Norway,Eliteserien,2017,01/10/2017,19:00,Rosenborg,Sarpsborg 08,1,1,D,1.6,4.19,6.22,1.74,4.33,6.45,1.59,3.98,5.55
+Norway,Eliteserien,2017,12/10/2017,18:00,Valerenga,Haugesund,3,0,H,2.11,3.53,3.73,2.21,3.65,3.8,2.09,3.41,3.45
+Norway,Eliteserien,2017,14/10/2017,14:30,Tromso,Rosenborg,0,3,A,3.89,3.8,1.98,3.89,3.9,2.11,3.56,3.59,1.99
+Norway,Eliteserien,2017,14/10/2017,17:00,Stromsgodset,Odd,1,0,H,1.98,3.6,4.12,2.05,3.65,4.15,1.96,3.43,3.8
+Norway,Eliteserien,2017,15/10/2017,17:00,Haugesund,Sandefjord,2,0,H,1.85,3.64,4.78,1.9,3.75,5.0,1.81,3.52,4.44
+Norway,Eliteserien,2017,15/10/2017,17:00,Kristiansund,Viking,0,2,A,1.94,3.79,4.05,2.05,3.79,4.15,1.93,3.56,3.8
+Norway,Eliteserien,2017,15/10/2017,17:00,Lillestrom,Sogndal,1,0,H,1.81,3.86,4.72,1.83,3.9,4.8,1.78,3.66,4.4
+Norway,Eliteserien,2017,15/10/2017,17:00,Valerenga,Aalesund,5,1,H,1.9,3.82,4.14,1.91,4.05,4.75,1.81,3.74,4.14
+Norway,Eliteserien,2017,15/10/2017,19:00,Molde,Brann,1,0,H,2.0,3.73,3.89,2.05,3.9,4.06,1.92,3.58,3.79
+Norway,Eliteserien,2017,16/10/2017,18:00,Sarpsborg 08,Stabaek,2,2,D,1.68,4.15,5.29,1.71,4.2,5.75,1.65,3.88,5.05
+Norway,Eliteserien,2017,21/10/2017,17:00,Aalesund,Kristiansund,1,1,D,2.02,3.77,3.77,2.11,3.8,3.8,2.0,3.58,3.54
+Norway,Eliteserien,2017,22/10/2017,17:00,Molde,Haugesund,1,0,H,1.74,4.05,4.95,1.77,4.11,5.2,1.71,3.86,4.65
+Norway,Eliteserien,2017,22/10/2017,17:00,Sandefjord,Stromsgodset,1,2,A,3.18,3.44,2.38,3.23,3.5,2.56,2.93,3.31,2.39
+Norway,Eliteserien,2017,22/10/2017,17:00,Sogndal,Sarpsborg 08,3,3,D,3.12,3.28,2.5,3.12,3.45,2.55,2.94,3.26,2.41
+Norway,Eliteserien,2017,22/10/2017,17:00,Stabaek,Tromso,1,2,A,2.34,3.79,2.99,2.4,3.9,3.15,2.26,3.61,2.93
+Norway,Eliteserien,2017,22/10/2017,17:00,Viking,Valerenga,1,7,A,2.62,3.55,2.76,2.7,3.6,2.85,2.52,3.41,2.69
+Norway,Eliteserien,2017,22/10/2017,19:00,Brann,Rosenborg,0,3,A,3.11,3.6,2.35,3.11,3.6,2.52,2.87,3.39,2.38
+Norway,Eliteserien,2017,23/10/2017,18:00,Odd,Lillestrom,1,0,H,1.97,3.68,4.08,2.05,3.75,4.08,1.95,3.54,3.77
+Norway,Eliteserien,2017,28/10/2017,17:00,Haugesund,Brann,2,3,A,2.56,3.38,2.95,2.65,3.45,3.05,2.47,3.23,2.87
+Norway,Eliteserien,2017,29/10/2017,17:00,Kristiansund,Odd,2,2,D,2.43,3.52,3.03,2.45,3.55,3.25,2.35,3.29,3.03
+Norway,Eliteserien,2017,29/10/2017,17:00,Rosenborg,Stabaek,0,0,D,1.29,6.35,10.52,1.32,6.5,11.0,1.29,5.68,9.17
+Norway,Eliteserien,2017,29/10/2017,17:00,Sarpsborg 08,Sandefjord,5,0,H,1.55,4.27,6.86,1.6,4.35,7.0,1.53,4.04,6.21
+Norway,Eliteserien,2017,29/10/2017,17:00,Stromsgodset,Sogndal,4,1,H,1.6,4.39,5.82,1.62,4.4,6.33,1.56,4.05,5.74
+Norway,Eliteserien,2017,29/10/2017,17:00,Tromso,Viking,3,0,H,1.5,4.98,6.36,1.52,5.1,7.0,1.47,4.52,6.18
+Norway,Eliteserien,2017,29/10/2017,19:00,Valerenga,Molde,1,2,A,2.49,3.63,2.87,2.55,3.67,3.05,2.38,3.47,2.83
+Norway,Eliteserien,2017,30/10/2017,18:00,Lillestrom,Aalesund,4,0,H,1.71,4.16,4.95,1.77,4.16,5.1,1.7,3.9,4.63
+Norway,Eliteserien,2017,03/11/2017,18:00,Sandefjord,Valerenga,2,0,H,2.67,3.5,2.74,2.73,3.65,2.75,2.57,3.43,2.62
+Norway,Eliteserien,2017,04/11/2017,17:00,Molde,Kristiansund,0,1,A,1.74,3.98,5.05,1.77,4.05,5.55,1.69,3.85,4.76
+Norway,Eliteserien,2017,05/11/2017,17:00,Brann,Lillestrom,2,0,H,1.98,3.72,3.98,2.05,3.85,4.1,1.93,3.6,3.76
+Norway,Eliteserien,2017,05/11/2017,17:00,Haugesund,Stromsgodset,1,3,A,2.76,3.52,2.64,2.79,3.56,2.75,2.62,3.35,2.61
+Norway,Eliteserien,2017,05/11/2017,17:00,Odd,Stabaek,0,5,A,1.96,3.92,3.86,1.96,3.95,4.1,1.9,3.7,3.79
+Norway,Eliteserien,2017,05/11/2017,17:00,Sogndal,Tromso,0,2,A,2.59,3.44,2.87,2.61,3.55,3.0,2.48,3.32,2.8
+Norway,Eliteserien,2017,05/11/2017,17:00,Viking,Sarpsborg 08,2,1,H,5.12,4.28,1.68,5.6,4.3,1.7,5.0,4.01,1.63
+Norway,Eliteserien,2017,05/11/2017,19:00,Aalesund,Rosenborg,2,1,H,3.55,3.72,2.11,3.75,3.86,2.15,3.41,3.65,2.03
+Norway,Eliteserien,2017,19/11/2017,17:00,Kristiansund,Sandefjord,3,2,H,1.91,3.58,4.52,1.96,3.75,4.52,1.89,3.53,4.05
+Norway,Eliteserien,2017,19/11/2017,17:00,Lillestrom,Molde,0,1,A,2.47,3.52,2.97,2.5,3.7,3.1,2.38,3.44,2.86
+Norway,Eliteserien,2017,19/11/2017,17:00,Rosenborg,Viking,2,0,H,,,,1.26,7.45,13.35,1.21,6.74,11.33
+Norway,Eliteserien,2017,19/11/2017,17:00,Sarpsborg 08,Aalesund,1,0,H,1.5,4.9,6.48,1.52,4.95,7.0,1.47,4.55,6.15
+Norway,Eliteserien,2017,19/11/2017,17:00,Stabaek,Sogndal,1,1,D,1.91,3.97,4.01,2.05,4.06,4.4,1.87,3.72,3.89
+Norway,Eliteserien,2017,19/11/2017,17:00,Stromsgodset,Brann,2,1,H,1.93,3.85,4.04,1.95,3.9,4.3,1.87,3.64,3.97
+Norway,Eliteserien,2017,19/11/2017,17:00,Tromso,Haugesund,2,0,H,1.71,4.24,4.89,1.83,4.27,5.01,1.75,3.88,4.35
+Norway,Eliteserien,2017,19/11/2017,17:00,Valerenga,Odd,2,0,H,1.88,3.93,4.21,1.92,3.95,4.5,1.85,3.73,3.97
+Norway,Eliteserien,2017,26/11/2017,17:00,Aalesund,Stromsgodset,4,3,H,3.39,3.8,2.14,3.55,3.9,2.18,3.3,3.64,2.07
+Norway,Eliteserien,2017,26/11/2017,17:00,Brann,Tromso,2,2,D,2.15,3.77,3.39,2.18,3.9,3.6,2.07,3.66,3.31
+Norway,Eliteserien,2017,26/11/2017,17:00,Haugesund,Kristiansund,2,3,A,1.94,3.83,4.0,2.05,3.9,4.05,1.93,3.67,3.69
+Norway,Eliteserien,2017,26/11/2017,17:00,Molde,Sarpsborg 08,2,2,D,2.6,3.46,2.84,2.65,3.65,3.0,2.48,3.36,2.76
+Norway,Eliteserien,2017,26/11/2017,17:00,Odd,Rosenborg,1,0,H,3.57,3.92,2.04,3.85,3.92,2.05,3.53,3.7,1.97
+Norway,Eliteserien,2017,26/11/2017,17:00,Sandefjord,Lillestrom,1,3,A,2.68,3.58,2.68,2.7,3.65,2.85,2.56,3.44,2.63
+Norway,Eliteserien,2017,26/11/2017,17:00,Sogndal,Valerenga,5,2,H,1.79,4.04,4.58,1.87,4.05,4.58,1.78,3.83,4.21
+Norway,Eliteserien,2017,26/11/2017,17:00,Viking,Stabaek,2,0,H,2.85,3.85,2.41,2.95,3.86,2.5,2.78,3.64,2.34
+Norway,Eliteserien,2017,29/11/2017,17:00,Sogndal,Ranheim,1,0,H,1.62,3.96,6.5,1.64,4.25,6.5,1.57,3.87,5.9
+Norway,Eliteserien,2017,02/12/2017,17:00,Ranheim,Sogndal,1,0,H,2.58,3.39,2.92,2.63,3.55,2.92,2.51,3.28,2.77
