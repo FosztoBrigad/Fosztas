@@ -1,0 +1,17 @@
+Country,League,Season,Date,Time,Home,Away,HG,AG,Res,PH,PD,PA,MaxH,MaxD,MaxA,AvgH,AvgD,AvgA
+Romania,Liga 1,2020/2021,21/08/2020,16:15,FC Arges,FC Botosani,2,3,A,,,,4.21,3.42,2.02,3.93,3.23,1.93
+Romania,Liga 1,2020/2021,22/08/2020,13:30,Viitorul Constanta,UTA Arad,1,1,D,1.4,4.89,8.07,1.45,4.89,8.5,1.39,4.54,7.1
+Romania,Liga 1,2020/2021,22/08/2020,16:00,Sepsi Sf. Gheorghe,U Craiova,0,1,A,3.91,3.27,2.09,4.0,3.42,2.13,3.63,3.21,2.02
+Romania,Liga 1,2020/2021,22/08/2020,19:00,Astra,FC Steaua Bucuresti,0,3,A,4.23,3.62,1.9,4.5,3.62,1.95,3.92,3.41,1.88
+Romania,Liga 1,2020/2021,23/08/2020,14:00,Poli Iasi,Chindia Targoviste,1,0,H,2.49,3.1,3.17,2.49,3.22,3.5,2.31,3.03,3.13
+Romania,Liga 1,2020/2021,23/08/2020,16:00,Academica Clinceni,CFR Cluj,1,2,A,9.72,4.39,1.4,10.5,4.74,1.44,8.74,4.35,1.36
+Romania,Liga 1,2020/2021,24/08/2020,16:00,FC Voluntari,Gaz Metan Medias,2,1,H,2.15,3.26,3.74,2.15,3.38,4.2,2.05,3.18,3.62
+Romania,Liga 1,2020/2021,24/08/2020,19:00,Din. Bucuresti,FC Hermannstadt,1,1,D,2.58,3.04,3.05,2.6,3.2,3.05,2.49,3.02,2.85
+Romania,Liga 1,2020/2021,28/08/2020,16:00,Gaz Metan Medias,FC Arges,2,0,H,,,,2.21,3.36,3.9,2.06,3.17,3.59
+Romania,Liga 1,2020/2021,28/08/2020,19:00,UTA Arad,FC Voluntari,0,0,D,2.47,3.31,3.1,2.47,3.31,3.2,2.34,3.17,2.96
+Romania,Liga 1,2020/2021,29/08/2020,16:00,FC Hermannstadt,Academica Clinceni,2,2,D,1.87,3.31,4.85,1.87,3.6,5.0,1.79,3.31,4.57
+Romania,Liga 1,2020/2021,29/08/2020,19:00,CFR Cluj,Sepsi Sf. Gheorghe,0,0,D,1.73,3.39,5.8,1.75,3.74,6.0,1.68,3.35,5.31
+Romania,Liga 1,2020/2021,30/08/2020,13:30,FC Botosani,Poli Iasi,4,0,H,1.51,3.72,6.06,1.57,4.0,15.25,1.51,3.78,6.46
+Romania,Liga 1,2020/2021,30/08/2020,16:00,U Craiova,Astra,2,0,H,1.63,3.9,5.8,1.63,3.96,6.0,1.57,3.8,5.52
+Romania,Liga 1,2020/2021,30/08/2020,19:00,FC Steaua Bucuresti,Viitorul Constanta,3,0,H,1.81,3.67,4.55,1.87,3.68,5.0,1.8,3.47,4.24
+Romania,Liga 1,2020/2021,31/08/2020,19:00,Chindia Targoviste,Din. Bucuresti,1,0,H,5.43,3.92,1.65,5.75,4.1,1.65,5.2,3.82,1.6
