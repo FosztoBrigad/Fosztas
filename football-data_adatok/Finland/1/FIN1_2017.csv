@@ -1,0 +1,201 @@
+Country,League,Season,Date,Time,Home,Away,HG,AG,Res,PH,PD,PA,MaxH,MaxD,MaxA,AvgH,AvgD,AvgA
+Finland,Veikkausliiga,2017,05/04/2017,16:30,HJK,VPS,5,0,H,1.45,4.48,8.98,1.47,4.6,11.0,1.41,4.12,8.47
+Finland,Veikkausliiga,2017,05/04/2017,17:30,SJK,Lahti,1,1,D,1.81,3.6,5.18,1.81,3.78,5.4,1.75,3.46,4.76
+Finland,Veikkausliiga,2017,08/04/2017,14:00,Ilves,Lahti,1,1,D,2.08,3.3,4.17,2.11,3.35,4.4,2.0,3.16,3.94
+Finland,Veikkausliiga,2017,08/04/2017,14:00,Mariehamn,JJK Jyvaskyla,5,2,H,1.47,4.36,8.51,1.48,4.45,8.51,1.45,4.04,7.44
+Finland,Veikkausliiga,2017,08/04/2017,14:00,PS Kemi,HIFK,0,0,D,3.55,3.29,2.28,3.55,3.29,2.41,3.25,3.1,2.26
+Finland,Veikkausliiga,2017,08/04/2017,14:00,VPS,SJK,1,3,A,3.26,3.1,2.53,3.26,3.1,2.58,3.08,2.95,2.46
+Finland,Veikkausliiga,2017,10/04/2017,16:30,HJK,KuPS,2,0,H,1.27,6.22,12.97,1.3,6.22,13.0,1.27,5.4,10.52
+Finland,Veikkausliiga,2017,12/04/2017,16:30,Inter Turku,Rovaniemi,6,2,H,1.9,3.52,4.65,1.91,3.62,5.2,1.79,3.4,4.63
+Finland,Veikkausliiga,2017,15/04/2017,13:00,SJK,Ilves,1,2,A,1.72,3.66,5.87,1.83,3.66,6.0,1.71,3.43,5.21
+Finland,Veikkausliiga,2017,15/04/2017,14:00,HIFK,JJK Jyvaskyla,0,0,D,1.55,4.29,6.9,1.58,4.29,7.5,1.52,3.93,6.35
+Finland,Veikkausliiga,2017,15/04/2017,14:00,Mariehamn,HJK,1,1,D,5.82,3.84,1.68,5.82,3.86,1.76,5.21,3.53,1.68
+Finland,Veikkausliiga,2017,17/04/2017,14:00,KuPS,Inter Turku,2,1,H,2.35,3.34,3.32,2.4,3.35,3.5,2.32,3.18,3.09
+Finland,Veikkausliiga,2017,17/04/2017,14:00,Rovaniemi,VPS,2,4,A,2.62,3.02,3.19,2.66,3.12,3.19,2.47,2.98,3.03
+Finland,Veikkausliiga,2017,21/04/2017,16:00,Inter Turku,Mariehamn,1,1,D,2.42,3.31,3.23,2.42,3.31,3.35,2.33,3.17,3.07
+Finland,Veikkausliiga,2017,22/04/2017,14:00,Ilves,Rovaniemi,0,2,A,1.6,4.08,6.4,1.62,4.2,7.0,1.56,3.82,6.06
+Finland,Veikkausliiga,2017,22/04/2017,14:00,PS Kemi,SJK,3,1,H,5.13,3.82,1.76,5.55,3.82,1.76,5.12,3.53,1.7
+Finland,Veikkausliiga,2017,22/04/2017,14:00,VPS,KuPS,2,2,D,2.62,3.22,3.01,2.67,3.22,3.01,2.51,3.07,2.89
+Finland,Veikkausliiga,2017,23/04/2017,15:00,JJK Jyvaskyla,HJK,1,5,A,14.96,6.74,1.23,16.0,6.74,1.25,12.88,5.94,1.22
+Finland,Veikkausliiga,2017,24/04/2017,16:30,HIFK,Lahti,1,2,A,2.58,3.25,3.04,2.74,3.25,3.04,2.6,3.06,2.8
+Finland,Veikkausliiga,2017,28/04/2017,18:00,SJK,HIFK,3,3,D,1.57,4.19,6.73,1.6,4.2,6.73,1.54,3.87,6.11
+Finland,Veikkausliiga,2017,29/04/2017,14:00,HJK,Inter Turku,1,1,D,1.34,5.32,10.77,1.35,5.55,11.0,1.31,5.07,9.34
+Finland,Veikkausliiga,2017,29/04/2017,14:00,KuPS,Ilves,0,1,A,2.39,3.3,3.3,2.43,3.3,3.35,2.28,3.14,3.2
+Finland,Veikkausliiga,2017,29/04/2017,14:00,Lahti,JJK Jyvaskyla,1,1,D,1.44,4.74,8.45,1.45,4.75,9.5,1.41,4.4,7.84
+Finland,Veikkausliiga,2017,29/04/2017,14:00,Rovaniemi,PS Kemi,3,1,H,2.13,3.41,3.81,2.16,3.5,4.2,2.03,3.29,3.69
+Finland,Veikkausliiga,2017,30/04/2017,14:00,Mariehamn,VPS,1,1,D,2.11,3.23,4.11,2.16,3.32,4.3,2.03,3.14,3.85
+Finland,Veikkausliiga,2017,06/05/2017,15:00,Ilves,Mariehamn,3,0,H,2.28,3.19,3.67,2.33,3.19,3.78,2.21,3.04,3.47
+Finland,Veikkausliiga,2017,06/05/2017,15:00,JJK Jyvaskyla,Inter Turku,1,2,A,5.16,4.12,1.7,5.4,4.12,1.74,4.97,3.75,1.66
+Finland,Veikkausliiga,2017,06/05/2017,15:00,Lahti,SJK,1,0,H,2.98,3.23,2.64,3.0,3.23,2.78,2.8,3.08,2.57
+Finland,Veikkausliiga,2017,06/05/2017,15:00,PS Kemi,KuPS,1,4,A,3.9,3.49,2.08,4.2,3.52,2.11,3.65,3.28,2.04
+Finland,Veikkausliiga,2017,06/05/2017,15:00,VPS,HJK,2,1,H,6.57,4.17,1.58,7.7,4.2,1.6,6.27,3.81,1.55
+Finland,Veikkausliiga,2017,06/05/2017,16:00,HIFK,Rovaniemi,1,0,H,2.02,3.48,4.14,2.13,3.5,4.2,1.98,3.29,3.83
+Finland,Veikkausliiga,2017,11/05/2017,16:30,HJK,Ilves,2,0,H,1.39,4.94,9.5,1.43,4.94,10.02,1.37,4.51,8.62
+Finland,Veikkausliiga,2017,12/05/2017,16:30,Inter Turku,VPS,0,1,A,1.97,3.58,4.2,2.0,3.6,4.33,1.92,3.41,3.95
+Finland,Veikkausliiga,2017,12/05/2017,16:30,KuPS,HIFK,2,1,H,1.9,3.58,4.55,1.91,3.58,5.18,1.8,3.43,4.54
+Finland,Veikkausliiga,2017,12/05/2017,16:30,Mariehamn,PS Kemi,3,0,H,1.48,4.49,8.04,1.5,4.55,8.04,1.47,4.07,7.14
+Finland,Veikkausliiga,2017,12/05/2017,16:30,Rovaniemi,Lahti,1,0,H,3.02,3.35,2.53,3.05,3.39,2.65,2.88,3.17,2.46
+Finland,Veikkausliiga,2017,12/05/2017,18:00,SJK,JJK Jyvaskyla,1,0,H,1.28,6.22,12.38,1.3,6.22,13.0,1.25,5.6,10.89
+Finland,Veikkausliiga,2017,19/05/2017,16:00,PS Kemi,HJK,0,1,A,14.35,6.27,1.26,14.5,6.5,1.3,11.46,5.61,1.24
+Finland,Veikkausliiga,2017,19/05/2017,16:30,HIFK,Mariehamn,1,1,D,2.95,3.18,2.69,2.96,3.18,2.71,2.81,3.06,2.58
+Finland,Veikkausliiga,2017,19/05/2017,16:30,Ilves,Inter Turku,0,2,A,2.3,3.09,3.74,2.3,3.2,3.94,2.17,3.07,3.53
+Finland,Veikkausliiga,2017,19/05/2017,16:30,JJK Jyvaskyla,VPS,1,4,A,4.03,3.43,2.06,4.17,3.65,2.06,3.85,3.3,1.96
+Finland,Veikkausliiga,2017,19/05/2017,16:30,Lahti,KuPS,1,2,A,2.8,3.15,2.85,2.82,3.15,3.0,2.6,3.04,2.79
+Finland,Veikkausliiga,2017,19/05/2017,18:00,SJK,Rovaniemi,3,0,H,1.49,4.55,7.55,1.53,4.55,8.0,1.46,4.18,6.83
+Finland,Veikkausliiga,2017,23/05/2017,16:30,HIFK,HJK,0,0,D,10.29,4.83,1.39,10.5,4.95,1.39,8.85,4.59,1.36
+Finland,Veikkausliiga,2017,23/05/2017,16:30,Inter Turku,PS Kemi,1,3,A,1.49,4.43,7.73,1.49,4.64,8.03,1.43,4.29,7.16
+Finland,Veikkausliiga,2017,23/05/2017,16:30,Mariehamn,Lahti,0,2,A,2.04,3.38,4.19,2.04,3.5,4.25,1.96,3.27,3.94
+Finland,Veikkausliiga,2017,24/05/2017,16:30,KuPS,SJK,1,1,D,2.53,3.32,3.04,2.63,3.38,3.2,2.41,3.19,2.94
+Finland,Veikkausliiga,2017,24/05/2017,16:30,Rovaniemi,JJK Jyvaskyla,2,1,H,1.72,4.0,4.98,1.76,4.05,5.4,1.69,3.74,4.79
+Finland,Veikkausliiga,2017,24/05/2017,16:30,VPS,Ilves,0,2,A,2.62,3.23,3.0,2.63,3.28,3.1,2.5,3.03,2.93
+Finland,Veikkausliiga,2017,27/05/2017,13:00,HIFK,Inter Turku,0,2,A,2.75,3.35,2.75,2.79,3.36,2.82,2.66,3.19,2.62
+Finland,Veikkausliiga,2017,27/05/2017,13:00,Lahti,HJK,0,0,D,6.0,3.75,1.69,6.3,3.75,1.73,5.5,3.56,1.65
+Finland,Veikkausliiga,2017,27/05/2017,13:00,PS Kemi,VPS,0,1,A,3.38,3.33,2.33,3.5,3.34,2.35,3.22,3.18,2.25
+Finland,Veikkausliiga,2017,27/05/2017,15:00,JJK Jyvaskyla,Ilves,3,1,H,6.21,3.9,1.65,6.5,3.9,1.67,5.8,3.66,1.6
+Finland,Veikkausliiga,2017,27/05/2017,15:00,Rovaniemi,KuPS,0,1,A,3.31,3.38,2.34,3.4,3.38,2.4,3.12,3.21,2.28
+Finland,Veikkausliiga,2017,27/05/2017,16:00,SJK,Mariehamn,1,1,D,1.79,3.53,5.42,1.83,3.62,5.55,1.76,3.37,4.84
+Finland,Veikkausliiga,2017,31/05/2017,16:30,HJK,SJK,6,0,H,1.48,4.29,8.64,1.53,4.3,8.64,1.48,3.99,7.1
+Finland,Veikkausliiga,2017,31/05/2017,16:30,Ilves,PS Kemi,2,4,A,1.68,3.77,6.06,1.68,4.05,6.5,1.61,3.64,5.78
+Finland,Veikkausliiga,2017,31/05/2017,16:30,Inter Turku,Lahti,0,0,D,2.35,3.29,3.39,2.41,3.29,3.4,2.29,3.14,3.2
+Finland,Veikkausliiga,2017,31/05/2017,16:30,JJK Jyvaskyla,KuPS,0,0,D,6.19,4.55,1.55,7.0,4.57,1.6,5.95,4.06,1.52
+Finland,Veikkausliiga,2017,31/05/2017,16:30,Mariehamn,Rovaniemi,2,1,H,1.61,3.81,7.1,1.65,3.83,7.1,1.59,3.63,5.97
+Finland,Veikkausliiga,2017,31/05/2017,16:30,VPS,HIFK,1,1,D,2.08,3.39,4.03,2.12,3.39,4.2,2.02,3.18,3.82
+Finland,Veikkausliiga,2017,03/06/2017,15:00,Lahti,VPS,0,0,D,2.29,3.2,3.61,2.3,3.24,3.62,2.21,3.09,3.41
+Finland,Veikkausliiga,2017,03/06/2017,15:00,PS Kemi,JJK Jyvaskyla,1,1,D,1.93,3.78,4.16,1.95,3.8,4.31,1.87,3.56,3.94
+Finland,Veikkausliiga,2017,03/06/2017,16:00,SJK,Inter Turku,0,3,A,1.95,3.57,4.3,1.99,3.58,4.33,1.92,3.34,4.02
+Finland,Veikkausliiga,2017,04/06/2017,16:30,HIFK,Ilves,0,1,A,2.57,3.06,3.23,2.65,3.13,3.25,2.47,3.0,3.0
+Finland,Veikkausliiga,2017,04/06/2017,16:30,KuPS,Mariehamn,1,2,A,2.1,3.38,3.95,2.11,3.38,4.1,2.05,3.2,3.73
+Finland,Veikkausliiga,2017,04/06/2017,16:30,Rovaniemi,HJK,1,4,A,10.71,5.6,1.32,11.45,5.65,1.34,9.75,5.11,1.3
+Finland,Veikkausliiga,2017,14/06/2017,16:30,HIFK,SJK,0,2,A,3.52,3.31,2.28,3.65,3.4,2.43,3.3,3.13,2.23
+Finland,Veikkausliiga,2017,14/06/2017,16:30,KuPS,VPS,2,2,D,2.29,3.22,3.59,2.35,3.3,3.65,2.22,3.09,3.39
+Finland,Veikkausliiga,2017,14/06/2017,16:30,PS Kemi,Mariehamn,3,0,H,4.09,3.52,2.01,4.1,3.55,2.1,3.72,3.3,2.01
+Finland,Veikkausliiga,2017,15/06/2017,16:30,HJK,JJK Jyvaskyla,4,0,H,1.12,11.0,23.0,1.13,11.92,30.45,1.1,8.98,21.13
+Finland,Veikkausliiga,2017,16/06/2017,16:30,Lahti,Ilves,0,0,D,2.43,3.11,3.42,2.5,3.2,3.52,2.35,2.98,3.25
+Finland,Veikkausliiga,2017,17/06/2017,13:00,HIFK,PS Kemi,0,2,A,2.09,3.46,3.86,2.15,3.52,4.0,2.03,3.29,3.68
+Finland,Veikkausliiga,2017,17/06/2017,13:00,Rovaniemi,Inter Turku,2,0,H,3.31,3.34,2.36,3.4,3.45,2.4,3.18,3.24,2.25
+Finland,Veikkausliiga,2017,17/06/2017,13:00,SJK,VPS,0,1,A,2.06,3.42,4.04,2.08,3.5,4.35,1.97,3.27,3.9
+Finland,Veikkausliiga,2017,18/06/2017,16:30,KuPS,HJK,0,2,A,5.85,4.16,1.63,6.5,4.2,1.65,5.8,3.81,1.58
+Finland,Veikkausliiga,2017,18/06/2017,16:30,Mariehamn,JJK Jyvaskyla,2,1,H,1.43,4.94,7.96,1.43,5.36,9.25,1.38,4.75,7.58
+Finland,Veikkausliiga,2017,21/06/2017,16:30,Inter Turku,KuPS,1,1,D,2.49,3.42,3.02,2.51,3.55,3.3,2.33,3.24,3.04
+Finland,Veikkausliiga,2017,21/06/2017,16:30,JJK Jyvaskyla,HIFK,0,3,A,2.96,3.33,2.59,3.05,3.36,2.65,2.87,3.16,2.48
+Finland,Veikkausliiga,2017,21/06/2017,16:30,PS Kemi,Lahti,1,1,D,3.55,3.18,2.33,3.6,3.3,2.4,3.3,3.06,2.28
+Finland,Veikkausliiga,2017,22/06/2017,16:30,HJK,Mariehamn,2,0,H,1.35,5.29,10.32,1.38,5.4,11.45,1.33,4.91,8.96
+Finland,Veikkausliiga,2017,22/06/2017,16:30,Ilves,SJK,1,0,H,2.59,3.17,3.1,2.66,3.2,3.32,2.49,2.99,3.01
+Finland,Veikkausliiga,2017,22/06/2017,16:30,VPS,Rovaniemi,1,0,H,1.91,3.4,4.83,1.95,3.6,5.3,1.83,3.35,4.46
+Finland,Veikkausliiga,2017,26/06/2017,16:30,Rovaniemi,Ilves,1,0,H,3.18,3.28,2.46,3.18,3.3,2.51,3.0,3.15,2.39
+Finland,Veikkausliiga,2017,26/06/2017,17:30,SJK,PS Kemi,1,0,H,1.51,4.5,7.05,1.6,4.65,7.08,1.48,4.19,6.42
+Finland,Veikkausliiga,2017,27/06/2017,16:30,Lahti,HIFK,4,1,H,2.05,3.31,4.25,2.13,3.45,4.42,2.0,3.15,3.94
+Finland,Veikkausliiga,2017,27/06/2017,16:30,Mariehamn,Inter Turku,5,0,H,2.43,3.34,3.19,2.45,3.4,3.36,2.31,3.17,3.14
+Finland,Veikkausliiga,2017,29/06/2017,16:30,PS Kemi,Rovaniemi,1,1,D,2.29,3.35,3.44,2.35,3.45,3.64,2.26,3.21,3.19
+Finland,Veikkausliiga,2017,01/07/2017,15:00,Ilves,KuPS,1,0,H,2.24,3.24,3.72,2.3,3.3,3.75,2.19,3.12,3.47
+Finland,Veikkausliiga,2017,01/07/2017,15:00,JJK Jyvaskyla,Lahti,1,3,A,4.57,3.36,1.96,4.7,3.55,2.0,4.1,3.33,1.9
+Finland,Veikkausliiga,2017,02/07/2017,16:30,Inter Turku,HJK,1,1,D,5.27,3.95,1.72,5.44,3.95,1.8,4.84,3.62,1.71
+Finland,Veikkausliiga,2017,02/07/2017,16:30,VPS,Mariehamn,0,0,D,2.4,3.09,3.5,2.5,3.2,3.5,2.38,2.99,3.19
+Finland,Veikkausliiga,2017,04/07/2017,16:30,Lahti,PS Kemi,1,0,H,1.67,3.99,5.68,1.69,4.05,6.5,1.62,3.68,5.59
+Finland,Veikkausliiga,2017,07/07/2017,16:30,Mariehamn,Ilves,2,2,D,2.01,3.44,4.23,2.1,3.6,4.3,1.98,3.28,3.86
+Finland,Veikkausliiga,2017,08/07/2017,15:00,Inter Turku,JJK Jyvaskyla,4,0,H,1.41,5.06,8.56,1.44,5.25,8.7,1.38,4.73,7.55
+Finland,Veikkausliiga,2017,08/07/2017,15:00,KuPS,PS Kemi,3,0,H,1.5,4.46,7.49,1.55,4.6,7.49,1.5,4.08,6.44
+Finland,Veikkausliiga,2017,08/07/2017,15:00,Rovaniemi,HIFK,2,2,D,2.86,3.12,2.81,2.86,3.25,2.95,2.63,3.05,2.77
+Finland,Veikkausliiga,2017,16/07/2017,16:30,Ilves,HJK,1,1,D,4.63,3.55,1.89,4.79,3.6,1.95,4.33,3.38,1.84
+Finland,Veikkausliiga,2017,16/07/2017,16:30,JJK Jyvaskyla,SJK,0,2,A,6.46,4.41,1.56,6.65,4.5,1.58,5.96,4.13,1.52
+Finland,Veikkausliiga,2017,16/07/2017,16:30,Lahti,Rovaniemi,1,1,D,1.59,4.12,6.53,1.7,4.2,6.53,1.59,3.76,5.77
+Finland,Veikkausliiga,2017,16/07/2017,16:30,VPS,Inter Turku,3,2,H,2.4,3.12,3.45,2.45,3.25,3.45,2.35,3.06,3.16
+Finland,Veikkausliiga,2017,17/07/2017,16:30,HIFK,KuPS,1,4,A,3.2,3.27,2.46,3.22,3.35,2.55,2.99,3.13,2.4
+Finland,Veikkausliiga,2017,22/07/2017,14:00,Mariehamn,HIFK,1,1,D,2.03,3.41,4.19,2.05,3.59,4.4,1.94,3.33,3.97
+Finland,Veikkausliiga,2017,22/07/2017,15:00,Inter Turku,Ilves,1,1,D,2.55,3.37,2.97,2.55,3.4,3.1,2.38,3.19,2.96
+Finland,Veikkausliiga,2017,22/07/2017,15:00,KuPS,Lahti,2,2,D,2.03,3.41,4.18,2.05,3.5,4.37,1.94,3.29,3.99
+Finland,Veikkausliiga,2017,23/07/2017,16:30,HJK,PS Kemi,3,1,H,1.15,9.3,21.5,1.15,9.3,24.75,1.14,7.81,17.58
+Finland,Veikkausliiga,2017,23/07/2017,16:30,Rovaniemi,SJK,1,2,A,3.9,3.34,2.13,4.02,3.45,2.31,3.48,3.24,2.12
+Finland,Veikkausliiga,2017,23/07/2017,16:30,VPS,JJK Jyvaskyla,1,1,D,1.36,5.25,10.08,1.36,5.4,11.0,1.32,4.94,9.23
+Finland,Veikkausliiga,2017,29/07/2017,15:00,Ilves,VPS,0,0,D,2.5,3.08,3.32,2.52,3.1,3.32,2.39,2.98,3.17
+Finland,Veikkausliiga,2017,29/07/2017,15:00,Lahti,Mariehamn,6,2,H,2.33,3.23,3.49,2.4,3.35,3.56,2.26,3.15,3.28
+Finland,Veikkausliiga,2017,29/07/2017,15:00,PS Kemi,Inter Turku,2,1,H,3.51,3.61,2.16,3.54,3.75,2.2,3.31,3.42,2.12
+Finland,Veikkausliiga,2017,31/07/2017,16:30,HJK,HIFK,2,0,H,1.3,5.7,12.04,1.33,5.7,12.87,1.29,5.2,10.14
+Finland,Veikkausliiga,2017,31/07/2017,16:30,JJK Jyvaskyla,Rovaniemi,1,1,D,3.21,3.41,2.38,3.35,3.55,2.44,3.02,3.35,2.28
+Finland,Veikkausliiga,2017,31/07/2017,17:30,SJK,KuPS,1,0,H,2.49,3.33,3.1,2.56,3.4,3.13,2.4,3.19,2.96
+Finland,Veikkausliiga,2017,04/08/2017,16:30,Inter Turku,HIFK,3,0,H,2.01,3.42,4.25,2.05,3.7,4.7,1.93,3.38,3.93
+Finland,Veikkausliiga,2017,05/08/2017,15:00,Ilves,JJK Jyvaskyla,2,1,H,1.44,4.74,8.46,1.45,4.95,8.85,1.41,4.48,7.55
+Finland,Veikkausliiga,2017,05/08/2017,15:00,KuPS,Rovaniemi,3,0,H,1.48,4.53,7.76,1.54,4.6,8.0,1.46,4.21,6.86
+Finland,Veikkausliiga,2017,06/08/2017,13:00,HJK,Lahti,0,0,D,1.44,4.78,8.21,1.46,4.9,8.98,1.41,4.46,7.55
+Finland,Veikkausliiga,2017,06/08/2017,13:00,Mariehamn,SJK,0,0,D,2.7,3.24,2.89,2.75,3.35,3.0,2.54,3.15,2.81
+Finland,Veikkausliiga,2017,06/08/2017,13:00,VPS,PS Kemi,3,3,D,1.56,4.22,6.8,1.57,4.35,7.08,1.52,4.0,6.39
+Finland,Veikkausliiga,2017,09/08/2017,16:30,HIFK,VPS,2,1,H,3.67,3.29,2.23,3.67,3.35,2.35,3.35,3.09,2.23
+Finland,Veikkausliiga,2017,09/08/2017,16:30,PS Kemi,Ilves,0,0,D,3.46,3.36,2.28,3.55,3.4,2.35,3.27,3.18,2.23
+Finland,Veikkausliiga,2017,10/08/2017,16:30,KuPS,JJK Jyvaskyla,1,0,H,1.24,7.3,12.15,1.24,7.3,15.25,1.2,6.52,12.06
+Finland,Veikkausliiga,2017,10/08/2017,16:30,Lahti,Inter Turku,1,0,H,2.13,3.33,3.9,2.2,3.6,3.9,2.09,3.33,3.46
+Finland,Veikkausliiga,2017,10/08/2017,16:30,Rovaniemi,Mariehamn,3,0,H,2.85,3.26,2.72,2.9,3.4,2.83,2.7,3.18,2.61
+Finland,Veikkausliiga,2017,10/08/2017,18:00,SJK,HJK,0,6,A,4.81,3.54,1.87,4.9,3.6,1.91,4.5,3.35,1.83
+Finland,Veikkausliiga,2017,13/08/2017,15:00,JJK Jyvaskyla,PS Kemi,2,1,H,3.11,3.48,2.35,3.15,3.6,2.45,2.92,3.39,2.32
+Finland,Veikkausliiga,2017,14/08/2017,16:30,HJK,Rovaniemi,0,1,A,1.19,7.73,19.12,1.25,7.73,19.12,1.18,6.71,14.95
+Finland,Veikkausliiga,2017,14/08/2017,16:30,Ilves,HIFK,4,3,H,2.01,3.27,4.53,2.1,3.56,4.53,1.95,3.21,4.14
+Finland,Veikkausliiga,2017,14/08/2017,16:30,Inter Turku,SJK,0,1,A,2.5,3.31,3.09,2.55,3.4,3.15,2.41,3.17,2.96
+Finland,Veikkausliiga,2017,14/08/2017,16:30,Mariehamn,KuPS,2,1,H,3.06,3.41,2.47,3.1,3.54,2.55,2.91,3.25,2.41
+Finland,Veikkausliiga,2017,14/08/2017,16:30,VPS,Lahti,0,2,A,2.44,3.13,3.39,2.5,3.2,3.45,2.37,3.03,3.19
+Finland,Veikkausliiga,2017,19/08/2017,15:00,HIFK,Rovaniemi,1,0,H,2.22,3.38,3.58,2.4,3.4,3.62,2.2,3.21,3.33
+Finland,Veikkausliiga,2017,19/08/2017,15:00,PS Kemi,Inter Turku,1,5,A,3.31,3.6,2.25,3.35,3.62,2.5,3.11,3.33,2.25
+Finland,Veikkausliiga,2017,19/08/2017,16:00,SJK,Lahti,1,0,H,2.55,3.17,3.16,2.7,3.25,3.2,2.5,3.02,2.93
+Finland,Veikkausliiga,2017,20/08/2017,16:30,JJK Jyvaskyla,HJK,0,4,A,19.53,8.04,1.18,21.0,8.7,1.2,15.45,7.42,1.15
+Finland,Veikkausliiga,2017,20/08/2017,16:30,KuPS,Mariehamn,2,1,H,1.78,3.78,5.04,1.91,3.78,5.04,1.79,3.53,4.47
+Finland,Veikkausliiga,2017,20/08/2017,16:30,VPS,Ilves,1,1,D,2.26,3.14,3.78,2.4,3.3,3.78,2.25,3.03,3.41
+Finland,Veikkausliiga,2017,26/08/2017,15:00,Ilves,HIFK,2,1,H,1.75,3.55,5.8,1.83,3.8,6.7,1.68,3.49,5.51
+Finland,Veikkausliiga,2017,26/08/2017,15:00,Lahti,PS Kemi,0,1,A,1.37,5.21,9.78,1.43,5.3,9.78,1.36,4.66,8.36
+Finland,Veikkausliiga,2017,26/08/2017,15:00,Rovaniemi,Inter Turku,4,2,H,3.02,3.43,2.49,3.25,3.43,2.59,2.88,3.24,2.41
+Finland,Veikkausliiga,2017,26/08/2017,16:00,SJK,JJK Jyvaskyla,0,4,A,1.27,6.3,12.35,1.3,6.5,12.35,1.26,5.61,10.23
+Finland,Veikkausliiga,2017,27/08/2017,16:30,HJK,KuPS,1,0,H,1.49,4.48,7.58,1.51,4.55,7.58,1.47,4.21,6.74
+Finland,Veikkausliiga,2017,27/08/2017,16:30,Mariehamn,VPS,1,0,H,2.37,3.27,3.35,2.4,3.35,3.45,2.29,3.13,3.22
+Finland,Veikkausliiga,2017,07/09/2017,16:30,Inter Turku,Ilves,2,2,D,2.42,3.26,3.28,2.65,3.35,3.28,2.44,3.16,2.94
+Finland,Veikkausliiga,2017,07/09/2017,16:30,JJK Jyvaskyla,Lahti,2,4,A,6.42,4.54,1.54,6.52,4.56,1.63,5.75,4.08,1.55
+Finland,Veikkausliiga,2017,07/09/2017,16:30,Rovaniemi,PS Kemi,0,1,A,1.81,3.88,4.64,1.87,3.92,4.75,1.79,3.65,4.34
+Finland,Veikkausliiga,2017,08/09/2017,16:30,HIFK,Mariehamn,0,0,D,2.86,3.27,2.7,3.1,3.4,2.71,2.82,3.17,2.53
+Finland,Veikkausliiga,2017,08/09/2017,16:30,KuPS,SJK,2,1,H,1.92,3.56,4.51,2.0,3.65,4.6,1.89,3.39,4.16
+Finland,Veikkausliiga,2017,08/09/2017,16:30,VPS,HJK,0,3,A,5.7,3.76,1.71,5.85,3.76,1.8,5.22,3.47,1.71
+Finland,Veikkausliiga,2017,10/09/2017,13:00,Ilves,Rovaniemi,3,2,H,1.73,3.69,5.69,1.77,3.9,6.05,1.68,3.57,5.3
+Finland,Veikkausliiga,2017,10/09/2017,13:00,PS Kemi,JJK Jyvaskyla,1,2,A,1.72,4.18,4.88,1.77,4.2,5.05,1.69,3.91,4.57
+Finland,Veikkausliiga,2017,11/09/2017,16:30,Lahti,KuPS,1,1,D,2.17,3.44,3.65,2.3,3.45,3.75,2.18,3.22,3.38
+Finland,Veikkausliiga,2017,11/09/2017,17:30,SJK,VPS,2,1,H,2.29,3.12,3.74,2.33,3.27,3.74,2.21,3.07,3.44
+Finland,Veikkausliiga,2017,12/09/2017,16:30,HJK,HIFK,2,1,H,1.21,7.24,16.66,1.23,7.27,19.0,1.19,6.52,14.35
+Finland,Veikkausliiga,2017,12/09/2017,16:30,Mariehamn,Inter Turku,2,1,H,2.47,3.49,2.99,2.47,3.6,3.3,2.31,3.35,2.98
+Finland,Veikkausliiga,2017,15/09/2017,16:30,HIFK,JJK Jyvaskyla,1,1,D,1.79,4.0,4.65,1.82,4.15,4.75,1.75,3.71,4.43
+Finland,Veikkausliiga,2017,16/09/2017,15:00,Ilves,HJK,1,4,A,4.89,3.65,1.83,5.2,3.75,1.9,4.58,3.45,1.8
+Finland,Veikkausliiga,2017,16/09/2017,15:00,Rovaniemi,SJK,0,3,A,3.07,3.37,2.48,3.2,3.5,2.5,2.99,3.23,2.37
+Finland,Veikkausliiga,2017,16/09/2017,15:00,VPS,KuPS,1,3,A,2.8,3.26,2.77,2.9,3.35,2.8,2.74,3.1,2.64
+Finland,Veikkausliiga,2017,17/09/2017,16:30,Mariehamn,PS Kemi,3,2,H,1.62,4.13,6.07,1.66,4.2,6.1,1.61,3.87,5.41
+Finland,Veikkausliiga,2017,18/09/2017,16:30,Inter Turku,Lahti,1,6,A,2.94,3.45,2.53,3.1,3.5,2.6,2.84,3.26,2.46
+Finland,Veikkausliiga,2017,24/09/2017,13:00,PS Kemi,VPS,1,1,D,2.94,3.44,2.54,3.25,3.5,2.54,3.0,3.24,2.35
+Finland,Veikkausliiga,2017,24/09/2017,16:30,KuPS,HIFK,3,2,H,1.49,4.56,7.59,1.5,4.56,8.5,1.46,4.16,6.94
+Finland,Veikkausliiga,2017,24/09/2017,16:30,Lahti,Rovaniemi,1,1,D,1.45,4.62,8.46,1.73,4.65,8.5,1.44,4.3,7.14
+Finland,Veikkausliiga,2017,25/09/2017,16:30,JJK Jyvaskyla,Inter Turku,1,3,A,3.05,3.74,2.33,3.1,3.9,2.37,2.86,3.63,2.26
+Finland,Veikkausliiga,2017,27/09/2017,16:30,HJK,Mariehamn,1,0,H,1.32,5.84,10.44,1.35,6.0,10.57,1.3,5.35,9.1
+Finland,Veikkausliiga,2017,27/09/2017,17:30,SJK,Ilves,0,0,D,2.61,3.27,2.98,2.65,3.35,3.2,2.44,3.13,2.95
+Finland,Veikkausliiga,2017,29/09/2017,16:30,Inter Turku,KuPS,1,2,A,3.77,3.74,2.03,3.8,3.85,2.1,3.49,3.57,1.99
+Finland,Veikkausliiga,2017,29/09/2017,16:30,VPS,HIFK,1,2,A,2.16,3.43,3.68,2.2,3.5,4.07,2.04,3.31,3.65
+Finland,Veikkausliiga,2017,30/09/2017,15:00,HJK,PS Kemi,4,0,H,1.26,6.73,11.98,1.27,6.9,13.35,1.23,6.16,11.01
+Finland,Veikkausliiga,2017,30/09/2017,15:00,Ilves,Lahti,2,1,H,2.64,3.15,3.04,2.68,3.2,3.05,2.55,3.04,2.87
+Finland,Veikkausliiga,2017,30/09/2017,15:00,Rovaniemi,JJK Jyvaskyla,2,0,H,1.81,4.02,4.51,1.9,4.05,4.51,1.79,3.79,4.07
+Finland,Veikkausliiga,2017,01/10/2017,16:30,Mariehamn,SJK,2,1,H,2.41,3.43,3.14,2.41,3.5,3.41,2.26,3.25,3.14
+Finland,Veikkausliiga,2017,12/10/2017,16:30,HIFK,PS Kemi,4,0,H,1.88,3.76,4.4,1.95,3.76,4.5,1.85,3.55,4.08
+Finland,Veikkausliiga,2017,12/10/2017,16:30,JJK Jyvaskyla,Ilves,0,0,D,5.88,4.49,1.58,6.05,4.6,1.6,5.5,4.18,1.54
+Finland,Veikkausliiga,2017,12/10/2017,16:30,KuPS,Rovaniemi,1,1,D,1.36,5.22,10.18,1.38,5.67,10.18,1.33,4.97,8.58
+Finland,Veikkausliiga,2017,12/10/2017,16:30,Lahti,Mariehamn,0,1,A,2.11,3.44,3.85,2.17,3.6,4.2,2.02,3.36,3.62
+Finland,Veikkausliiga,2017,12/10/2017,16:30,VPS,Inter Turku,2,2,D,2.2,3.67,3.35,2.25,3.7,3.36,2.16,3.48,3.16
+Finland,Veikkausliiga,2017,12/10/2017,18:00,SJK,HJK,0,2,A,5.07,4.13,1.71,5.5,4.2,1.73,4.93,3.88,1.64
+Finland,Veikkausliiga,2017,15/10/2017,13:00,Ilves,KuPS,1,0,H,2.41,3.31,3.24,2.55,3.32,3.25,2.4,3.12,3.02
+Finland,Veikkausliiga,2017,15/10/2017,13:00,PS Kemi,SJK,3,3,D,3.49,3.49,2.21,3.6,3.55,2.39,3.24,3.31,2.19
+Finland,Veikkausliiga,2017,15/10/2017,13:00,Rovaniemi,VPS,3,0,H,2.86,3.45,2.6,2.9,3.45,2.85,2.71,3.29,2.54
+Finland,Veikkausliiga,2017,16/10/2017,16:30,HJK,Lahti,3,0,H,1.47,4.79,7.35,1.49,4.87,8.0,1.43,4.47,6.82
+Finland,Veikkausliiga,2017,16/10/2017,16:30,Inter Turku,HIFK,4,1,H,2.15,3.85,3.33,2.2,3.85,3.5,2.08,3.6,3.21
+Finland,Veikkausliiga,2017,16/10/2017,16:30,JJK Jyvaskyla,Mariehamn,1,0,H,5.25,4.57,1.63,5.4,4.63,1.63,4.94,4.2,1.59
+Finland,Veikkausliiga,2017,20/10/2017,16:30,HIFK,SJK,2,2,D,2.52,3.63,2.83,2.61,3.63,2.9,2.47,3.39,2.72
+Finland,Veikkausliiga,2017,20/10/2017,16:30,Ilves,PS Kemi,1,0,H,1.46,4.82,7.53,1.47,4.85,7.97,1.42,4.47,6.98
+Finland,Veikkausliiga,2017,20/10/2017,16:30,Inter Turku,HJK,1,3,A,6.61,5.32,1.46,7.0,5.6,1.48,6.27,4.89,1.42
+Finland,Veikkausliiga,2017,20/10/2017,16:30,KuPS,JJK Jyvaskyla,2,1,H,1.27,6.79,10.85,1.28,6.9,12.4,1.24,6.11,10.33
+Finland,Veikkausliiga,2017,20/10/2017,16:30,Rovaniemi,Mariehamn,0,3,A,2.89,3.77,2.41,3.0,3.77,2.49,2.84,3.45,2.35
+Finland,Veikkausliiga,2017,20/10/2017,16:30,VPS,Lahti,2,1,H,3.71,3.68,2.07,3.75,3.7,2.15,3.42,3.46,2.06
+Finland,Veikkausliiga,2017,28/10/2017,12:00,HJK,Rovaniemi,2,3,A,1.17,8.38,18.75,1.17,9.23,23.8,1.14,7.79,16.51
+Finland,Veikkausliiga,2017,28/10/2017,12:00,JJK Jyvaskyla,VPS,2,0,H,3.46,3.82,2.11,3.5,3.85,2.15,3.3,3.67,2.04
+Finland,Veikkausliiga,2017,28/10/2017,12:00,Lahti,HIFK,2,1,H,1.82,4.03,4.39,1.92,4.05,4.5,1.83,3.73,3.96
+Finland,Veikkausliiga,2017,28/10/2017,12:00,Mariehamn,Ilves,0,1,A,2.27,3.25,3.61,2.3,3.35,3.61,2.18,3.18,3.37
+Finland,Veikkausliiga,2017,28/10/2017,12:00,PS Kemi,KuPS,1,3,A,4.23,3.55,1.97,4.25,3.7,2.0,3.85,3.54,1.91
+Finland,Veikkausliiga,2017,28/10/2017,12:00,SJK,Inter Turku,5,0,H,2.09,3.88,3.45,2.2,3.95,3.6,2.05,3.66,3.26
+Finland,Veikkausliiga,2017,01/11/2017,16:30,Honka,HIFK,0,0,D,2.04,3.33,4.1,2.15,3.45,4.15,2.02,3.21,3.74
+Finland,Veikkausliiga,2017,04/11/2017,12:00,HIFK,Honka,1,1,D,2.76,3.39,2.72,2.85,3.4,2.85,2.71,3.13,2.63
