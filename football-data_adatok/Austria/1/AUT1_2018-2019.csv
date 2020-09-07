@@ -1,0 +1,196 @@
+Country,League,Season,Date,Time,Home,Away,HG,AG,Res,PH,PD,PA,MaxH,MaxD,MaxA,AvgH,AvgD,AvgA
+Austria,Tipico Bundesliga,2018/2019,27/07/2018,19:45,Austria Vienna,Wacker Innsbruck,2,1,H,1.62,4.04,5.92,1.65,4.25,6.1,1.59,4.01,5.31
+Austria,Tipico Bundesliga,2018/2019,28/07/2018,16:00,Altach,Mattersburg,2,3,A,2.41,3.38,3.1,2.6,3.44,3.18,2.38,3.27,2.94
+Austria,Tipico Bundesliga,2018/2019,28/07/2018,16:00,Sturm Graz,Hartberg,3,2,H,1.53,4.21,7.01,1.6,4.44,7.01,1.5,4.24,6.17
+Austria,Tipico Bundesliga,2018/2019,29/07/2018,16:00,Admira,Rapid Vienna,0,3,A,7.19,5.2,1.43,8.0,5.31,1.53,6.84,4.89,1.4
+Austria,Tipico Bundesliga,2018/2019,29/07/2018,16:00,Salzburg,LASK,3,1,H,1.52,3.93,8.24,1.52,4.5,8.75,1.46,4.2,7.15
+Austria,Tipico Bundesliga,2018/2019,29/07/2018,16:00,St. Polten,Wolfsberger AC,4,3,H,2.8,3.37,2.64,2.82,3.4,2.85,2.7,3.2,2.61
+Austria,Tipico Bundesliga,2018/2019,04/08/2018,16:00,Mattersburg,Salzburg,0,2,A,6.98,4.3,1.52,7.0,4.64,1.52,6.24,4.34,1.48
+Austria,Tipico Bundesliga,2018/2019,04/08/2018,16:00,Rapid Vienna,Altach,1,1,D,1.34,5.67,9.03,1.36,5.94,10.5,1.31,5.26,8.78
+Austria,Tipico Bundesliga,2018/2019,04/08/2018,16:00,Wacker Innsbruck,Sturm Graz,2,3,A,3.7,3.7,2.03,3.8,3.7,2.2,3.57,3.47,2.01
+Austria,Tipico Bundesliga,2018/2019,05/08/2018,16:00,Wolfsberger AC,Austria Vienna,1,0,H,2.99,3.73,2.32,3.6,3.73,2.39,2.96,3.49,2.28
+Austria,Tipico Bundesliga,2018/2019,05/08/2018,16:00,Hartberg,Admira,0,1,A,2.01,3.94,3.56,2.03,3.99,3.95,1.96,3.71,3.53
+Austria,Tipico Bundesliga,2018/2019,05/08/2018,16:00,LASK,St. Polten,0,0,D,1.6,3.97,6.37,1.67,4.23,7.27,1.56,3.97,5.83
+Austria,Tipico Bundesliga,2018/2019,11/08/2018,16:00,Altach,Wacker Innsbruck,1,2,A,2.03,3.58,3.82,2.06,3.6,3.88,2.0,3.46,3.65
+Austria,Tipico Bundesliga,2018/2019,11/08/2018,16:00,Hartberg,Mattersburg,4,2,H,3.07,3.7,2.29,3.3,3.7,2.39,3.0,3.45,2.26
+Austria,Tipico Bundesliga,2018/2019,11/08/2018,16:00,Salzburg,Austria Vienna,2,0,H,1.25,6.41,13.32,1.35,6.44,13.37,1.26,5.76,11.11
+Austria,Tipico Bundesliga,2018/2019,12/08/2018,16:00,Admira,LASK,0,1,A,3.62,3.46,2.14,3.9,3.54,2.15,3.49,3.41,2.07
+Austria,Tipico Bundesliga,2018/2019,12/08/2018,16:00,Rapid Vienna,Wolfsberger AC,0,0,D,1.49,4.62,6.89,1.54,4.62,7.5,1.48,4.34,6.39
+Austria,Tipico Bundesliga,2018/2019,12/08/2018,16:00,St. Polten,Sturm Graz,2,0,H,3.8,3.48,2.07,3.8,3.61,2.15,3.5,3.46,2.05
+Austria,Tipico Bundesliga,2018/2019,18/08/2018,16:00,Mattersburg,Wolfsberger AC,0,6,A,2.25,3.61,3.2,2.43,3.62,3.25,2.28,3.4,3.02
+Austria,Tipico Bundesliga,2018/2019,18/08/2018,16:00,Salzburg,Hartberg,2,0,H,1.22,7.17,13.6,1.24,7.2,15.72,1.21,6.56,12.1
+Austria,Tipico Bundesliga,2018/2019,18/08/2018,16:00,Wacker Innsbruck,St. Polten,0,2,A,2.11,3.47,3.68,2.11,3.7,4.5,1.96,3.5,3.74
+Austria,Tipico Bundesliga,2018/2019,19/08/2018,16:00,Austria Vienna,Admira,4,0,H,1.45,4.9,7.2,1.5,5.16,7.5,1.42,4.74,6.73
+Austria,Tipico Bundesliga,2018/2019,19/08/2018,16:00,LASK,Rapid Vienna,2,1,H,2.07,3.54,3.74,2.4,3.55,3.74,2.14,3.36,3.36
+Austria,Tipico Bundesliga,2018/2019,19/08/2018,16:00,Sturm Graz,Altach,1,1,D,1.69,3.98,5.19,1.7,4.2,5.34,1.65,3.94,4.93
+Austria,Tipico Bundesliga,2018/2019,25/08/2018,16:00,Wolfsberger AC,Sturm Graz,1,1,D,2.71,3.48,2.67,2.76,3.5,2.76,2.64,3.33,2.6
+Austria,Tipico Bundesliga,2018/2019,25/08/2018,16:00,Altach,Salzburg,2,3,A,7.39,4.16,1.52,7.53,4.2,1.7,6.46,3.95,1.53
+Austria,Tipico Bundesliga,2018/2019,25/08/2018,16:00,St. Polten,Austria Vienna,0,0,D,3.49,3.77,2.08,3.52,3.78,2.3,3.37,3.56,2.06
+Austria,Tipico Bundesliga,2018/2019,26/08/2018,16:00,Admira,Mattersburg,0,0,D,3.01,3.82,2.28,3.3,3.82,2.28,3.06,3.65,2.17
+Austria,Tipico Bundesliga,2018/2019,26/08/2018,16:00,Hartberg,LASK,0,1,A,4.31,3.89,1.84,4.4,3.89,1.93,4.06,3.68,1.84
+Austria,Tipico Bundesliga,2018/2019,26/08/2018,16:00,Rapid Vienna,Wacker Innsbruck,2,1,H,1.47,4.92,6.76,1.52,4.92,6.92,1.46,4.6,6.23
+Austria,Tipico Bundesliga,2018/2019,01/09/2018,16:00,Altach,St. Polten,1,2,A,2.11,3.64,3.52,2.28,3.64,3.6,2.1,3.44,3.39
+Austria,Tipico Bundesliga,2018/2019,01/09/2018,16:00,Austria Vienna,Mattersburg,2,1,H,1.78,4.11,4.39,1.8,4.24,4.9,1.73,3.96,4.34
+Austria,Tipico Bundesliga,2018/2019,01/09/2018,16:00,Wacker Innsbruck,Hartberg,2,1,H,1.97,3.99,3.63,2.06,3.99,4.0,1.95,3.7,3.61
+Austria,Tipico Bundesliga,2018/2019,02/09/2018,16:00,LASK,Wolfsberger AC,2,0,H,1.63,3.78,6.42,1.72,3.88,6.45,1.63,3.68,5.67
+Austria,Tipico Bundesliga,2018/2019,02/09/2018,16:00,Salzburg,Admira,3,1,H,1.13,9.52,21.48,1.16,9.8,27.6,1.12,8.63,18.81
+Austria,Tipico Bundesliga,2018/2019,02/09/2018,16:00,Sturm Graz,Rapid Vienna,1,1,D,2.52,3.58,2.8,2.56,3.6,3.0,2.4,3.47,2.79
+Austria,Tipico Bundesliga,2018/2019,15/09/2018,16:00,Admira,Sturm Graz,2,3,A,4.34,3.88,1.83,4.4,4.0,1.86,4.19,3.8,1.79
+Austria,Tipico Bundesliga,2018/2019,15/09/2018,16:00,Hartberg,Altach,2,1,H,2.26,3.64,3.17,2.55,3.7,3.2,2.24,3.49,3.03
+Austria,Tipico Bundesliga,2018/2019,15/09/2018,16:00,St. Polten,Salzburg,1,3,A,9.99,5.45,1.33,10.5,5.7,1.4,9.18,5.12,1.32
+Austria,Tipico Bundesliga,2018/2019,16/09/2018,13:30,Wolfsberger AC,Wacker Innsbruck,3,1,H,1.88,3.65,4.43,1.97,3.68,4.45,1.88,3.5,4.1
+Austria,Tipico Bundesliga,2018/2019,16/09/2018,13:30,Mattersburg,LASK,1,3,A,3.36,3.36,2.28,3.4,3.38,2.33,3.24,3.26,2.24
+Austria,Tipico Bundesliga,2018/2019,16/09/2018,16:00,Rapid Vienna,Austria Vienna,0,1,A,2.08,3.56,3.69,2.1,3.75,4.0,1.99,3.57,3.61
+Austria,Tipico Bundesliga,2018/2019,22/09/2018,16:00,Altach,Wolfsberger AC,0,1,A,2.96,3.38,2.48,3.0,3.4,2.61,2.86,3.26,2.46
+Austria,Tipico Bundesliga,2018/2019,22/09/2018,16:00,St. Polten,Hartberg,3,0,H,2.36,3.56,3.01,2.38,3.7,3.45,2.23,3.49,3.07
+Austria,Tipico Bundesliga,2018/2019,22/09/2018,16:00,Sturm Graz,Mattersburg,1,2,A,1.9,3.46,4.5,1.96,3.75,4.72,1.86,3.52,4.22
+Austria,Tipico Bundesliga,2018/2019,23/09/2018,13:30,Austria Vienna,LASK,0,3,A,2.61,3.33,2.83,2.7,3.38,2.84,2.57,3.25,2.73
+Austria,Tipico Bundesliga,2018/2019,23/09/2018,13:30,Wacker Innsbruck,Admira,1,3,A,1.89,3.92,3.96,1.91,4.04,4.34,1.83,3.81,3.99
+Austria,Tipico Bundesliga,2018/2019,23/09/2018,16:00,Salzburg,Rapid Vienna,2,1,H,1.2,6.98,15.21,1.5,7.84,18.0,1.21,6.73,12.89
+Austria,Tipico Bundesliga,2018/2019,29/09/2018,16:00,Wolfsberger AC,Salzburg,1,4,A,7.67,4.58,1.45,7.84,5.25,1.51,6.93,4.57,1.43
+Austria,Tipico Bundesliga,2018/2019,29/09/2018,16:00,Admira,Altach,2,4,A,2.65,3.64,2.64,2.77,3.64,3.0,2.61,3.41,2.59
+Austria,Tipico Bundesliga,2018/2019,29/09/2018,16:00,Rapid Vienna,St. Polten,0,2,A,1.5,4.78,6.16,1.65,5.03,7.0,1.5,4.5,5.81
+Austria,Tipico Bundesliga,2018/2019,30/09/2018,13:30,Hartberg,Austria Vienna,0,1,A,3.36,3.75,2.14,3.6,3.75,2.2,3.25,3.54,2.12
+Austria,Tipico Bundesliga,2018/2019,30/09/2018,13:30,Mattersburg,Wacker Innsbruck,2,1,H,1.94,3.97,3.74,1.98,3.97,3.9,1.91,3.72,3.69
+Austria,Tipico Bundesliga,2018/2019,30/09/2018,16:00,LASK,Sturm Graz,0,0,D,1.93,3.73,4.07,1.94,3.8,4.7,1.83,3.59,4.22
+Austria,Tipico Bundesliga,2018/2019,06/10/2018,16:00,Wolfsberger AC,Hartberg,3,4,A,1.69,4.14,4.91,1.77,4.14,5.5,1.69,3.92,4.65
+Austria,Tipico Bundesliga,2018/2019,06/10/2018,16:00,Altach,Austria Vienna,2,0,H,3.27,3.36,2.34,3.37,3.5,2.35,3.13,3.36,2.25
+Austria,Tipico Bundesliga,2018/2019,06/10/2018,16:00,St. Polten,Admira,0,0,D,1.92,3.83,4.0,1.95,4.02,4.48,1.85,3.72,3.92
+Austria,Tipico Bundesliga,2018/2019,07/10/2018,13:30,Rapid Vienna,Mattersburg,1,0,H,1.68,3.98,5.32,1.77,4.1,5.5,1.67,3.92,4.84
+Austria,Tipico Bundesliga,2018/2019,07/10/2018,13:30,Wacker Innsbruck,LASK,1,0,H,4.99,4.49,1.63,5.25,4.49,1.72,4.91,4.11,1.63
+Austria,Tipico Bundesliga,2018/2019,07/10/2018,16:00,Sturm Graz,Salzburg,1,2,A,5.78,4.39,1.57,6.5,4.4,1.61,5.82,4.22,1.53
+Austria,Tipico Bundesliga,2018/2019,20/10/2018,16:00,Hartberg,Rapid Vienna,3,0,H,5.28,4.91,1.55,6.0,4.91,1.67,5.08,4.49,1.56
+Austria,Tipico Bundesliga,2018/2019,20/10/2018,16:00,LASK,Altach,1,1,D,1.41,4.78,8.12,1.42,5.0,9.0,1.39,4.64,7.83
+Austria,Tipico Bundesliga,2018/2019,20/10/2018,16:00,Salzburg,Wacker Innsbruck,1,1,D,1.11,10.23,23.57,1.15,12.4,32.35,1.1,9.36,21.32
+Austria,Tipico Bundesliga,2018/2019,21/10/2018,13:30,Admira,Wolfsberger AC,0,0,D,3.57,3.92,2.01,3.8,3.92,2.04,3.51,3.68,1.98
+Austria,Tipico Bundesliga,2018/2019,21/10/2018,13:30,Mattersburg,St. Polten,2,0,H,2.09,3.58,3.64,2.24,3.6,3.64,2.09,3.45,3.38
+Austria,Tipico Bundesliga,2018/2019,21/10/2018,16:00,Austria Vienna,Sturm Graz,1,1,D,2.44,3.5,2.98,2.48,3.5,3.1,2.36,3.38,2.92
+Austria,Tipico Bundesliga,2018/2019,27/10/2018,16:00,Hartberg,Sturm Graz,2,0,H,4.04,3.88,1.89,4.04,3.95,2.0,3.78,3.71,1.89
+Austria,Tipico Bundesliga,2018/2019,27/10/2018,16:00,Mattersburg,Altach,1,1,D,1.93,3.79,4.01,1.98,3.8,4.04,1.9,3.63,3.84
+Austria,Tipico Bundesliga,2018/2019,27/10/2018,16:00,Wacker Innsbruck,Austria Vienna,0,0,D,3.16,3.48,2.34,3.16,3.57,2.38,3.03,3.4,2.28
+Austria,Tipico Bundesliga,2018/2019,28/10/2018,13:30,Wolfsberger AC,St. Polten,1,0,H,1.72,3.89,5.06,1.75,4.15,5.06,1.7,3.81,4.75
+Austria,Tipico Bundesliga,2018/2019,28/10/2018,13:30,Rapid Vienna,Admira,2,0,H,1.35,5.65,7.9,1.45,6.05,9.5,1.31,5.53,8.45
+Austria,Tipico Bundesliga,2018/2019,28/10/2018,16:00,LASK,Salzburg,3,3,D,4.72,3.66,1.82,4.75,3.75,1.84,4.46,3.55,1.79
+Austria,Tipico Bundesliga,2018/2019,03/11/2018,16:00,Admira,Hartberg,2,3,A,2.82,3.66,2.48,3.0,3.74,2.51,2.76,3.52,2.4
+Austria,Tipico Bundesliga,2018/2019,03/11/2018,16:00,St. Polten,LASK,2,2,D,5.19,4.17,1.65,5.5,4.17,1.69,5.07,3.93,1.63
+Austria,Tipico Bundesliga,2018/2019,03/11/2018,16:00,Sturm Graz,Wacker Innsbruck,1,1,D,1.54,4.4,6.22,1.56,4.4,6.25,1.53,4.21,5.82
+Austria,Tipico Bundesliga,2018/2019,04/11/2018,13:30,Austria Vienna,Wolfsberger AC,2,3,A,2.36,3.29,3.31,2.36,3.35,3.4,2.27,3.23,3.17
+Austria,Tipico Bundesliga,2018/2019,04/11/2018,13:30,Salzburg,Mattersburg,2,1,H,1.15,7.94,20.01,1.2,8.04,20.01,1.15,7.39,16.22
+Austria,Tipico Bundesliga,2018/2019,04/11/2018,16:00,Altach,Rapid Vienna,2,2,D,3.83,3.75,1.98,3.83,3.75,2.08,3.6,3.57,1.98
+Austria,Tipico Bundesliga,2018/2019,10/11/2018,16:00,LASK,Admira,5,1,H,1.3,5.5,10.66,1.33,6.0,11.5,1.28,5.47,9.77
+Austria,Tipico Bundesliga,2018/2019,10/11/2018,16:00,Sturm Graz,St. Polten,0,0,D,1.63,3.8,6.29,1.66,4.0,6.29,1.6,3.83,5.59
+Austria,Tipico Bundesliga,2018/2019,10/11/2018,16:00,Wacker Innsbruck,Altach,1,0,H,2.64,3.33,2.85,2.68,3.4,2.87,2.56,3.26,2.73
+Austria,Tipico Bundesliga,2018/2019,11/11/2018,13:30,Wolfsberger AC,Rapid Vienna,3,1,H,2.59,3.59,2.74,2.66,3.59,2.87,2.49,3.43,2.7
+Austria,Tipico Bundesliga,2018/2019,11/11/2018,13:30,Mattersburg,Hartberg,1,2,A,2.07,3.55,3.74,2.1,3.69,3.74,2.03,3.55,3.48
+Austria,Tipico Bundesliga,2018/2019,11/11/2018,16:00,Austria Vienna,Salzburg,0,2,A,8.24,5.0,1.39,8.7,5.3,1.42,7.9,4.89,1.36
+Austria,Tipico Bundesliga,2018/2019,24/11/2018,16:00,Wolfsberger AC,Mattersburg,2,2,D,1.81,3.89,4.44,1.86,3.9,4.62,1.77,3.7,4.29
+Austria,Tipico Bundesliga,2018/2019,24/11/2018,16:00,Admira,Austria Vienna,1,2,A,3.93,3.79,1.94,4.5,3.88,1.99,3.89,3.67,1.87
+Austria,Tipico Bundesliga,2018/2019,24/11/2018,16:00,Hartberg,Salzburg,0,4,A,9.43,6.32,1.28,11.0,6.4,1.33,9.61,5.91,1.26
+Austria,Tipico Bundesliga,2018/2019,25/11/2018,13:30,Altach,Sturm Graz,0,2,A,3.33,3.66,2.18,3.35,3.66,2.25,3.18,3.45,2.16
+Austria,Tipico Bundesliga,2018/2019,25/11/2018,13:30,St. Polten,Wacker Innsbruck,2,0,H,2.14,3.62,3.46,2.17,3.62,3.6,2.1,3.45,3.34
+Austria,Tipico Bundesliga,2018/2019,25/11/2018,16:00,Rapid Vienna,LASK,0,1,A,2.7,3.65,2.59,2.81,3.65,2.6,2.65,3.45,2.51
+Austria,Tipico Bundesliga,2018/2019,01/12/2018,16:00,Austria Vienna,St. Polten,2,0,H,1.93,3.43,4.46,2.0,3.75,4.46,1.9,3.45,4.04
+Austria,Tipico Bundesliga,2018/2019,01/12/2018,16:00,LASK,Hartberg,3,3,D,1.33,5.74,8.66,1.4,6.0,11.0,1.29,5.64,8.95
+Austria,Tipico Bundesliga,2018/2019,01/12/2018,16:00,Mattersburg,Admira,2,2,D,1.67,4.06,5.27,1.71,4.06,6.0,1.64,3.86,5.05
+Austria,Tipico Bundesliga,2018/2019,02/12/2018,13:30,Salzburg,Altach,1,0,H,1.14,8.26,21.54,1.17,8.5,22.0,1.14,7.4,17.51
+Austria,Tipico Bundesliga,2018/2019,02/12/2018,13:30,Wacker Innsbruck,Rapid Vienna,0,1,A,3.96,3.9,1.91,4.0,3.9,2.0,3.84,3.67,1.88
+Austria,Tipico Bundesliga,2018/2019,02/12/2018,16:00,Sturm Graz,Wolfsberger AC,3,0,H,2.66,3.47,2.72,2.7,3.47,2.88,2.57,3.31,2.66
+Austria,Tipico Bundesliga,2018/2019,08/12/2018,16:00,Wolfsberger AC,LASK,1,1,D,3.43,3.58,2.17,3.52,3.58,2.28,3.31,3.39,2.14
+Austria,Tipico Bundesliga,2018/2019,08/12/2018,16:00,Admira,Salzburg,2,2,D,15.78,8.69,1.16,29.0,9.2,1.22,16.73,8.17,1.14
+Austria,Tipico Bundesliga,2018/2019,08/12/2018,16:00,St. Polten,Altach,2,1,H,2.54,3.21,3.08,2.54,3.4,3.35,2.38,3.13,3.06
+Austria,Tipico Bundesliga,2018/2019,09/12/2018,13:30,Hartberg,Wacker Innsbruck,2,2,D,1.97,3.89,3.71,2.02,3.89,3.75,1.95,3.68,3.57
+Austria,Tipico Bundesliga,2018/2019,09/12/2018,13:30,Mattersburg,Austria Vienna,2,1,H,2.66,3.46,2.74,2.71,3.46,2.83,2.57,3.31,2.68
+Austria,Tipico Bundesliga,2018/2019,09/12/2018,16:00,Rapid Vienna,Sturm Graz,0,0,D,2.28,3.73,3.07,2.3,3.73,3.21,2.22,3.52,3.02
+Austria,Tipico Bundesliga,2018/2019,15/12/2018,16:00,LASK,Mattersburg,2,1,H,1.44,4.44,8.15,1.46,4.6,8.15,1.42,4.33,7.45
+Austria,Tipico Bundesliga,2018/2019,15/12/2018,16:00,Sturm Graz,Admira,3,0,H,1.35,5.16,9.45,1.39,5.4,10.0,1.34,4.92,8.51
+Austria,Tipico Bundesliga,2018/2019,15/12/2018,16:00,Wacker Innsbruck,Wolfsberger AC,0,0,D,3.84,3.52,2.05,3.9,3.52,2.14,3.66,3.35,2.03
+Austria,Tipico Bundesliga,2018/2019,16/12/2018,13:30,Altach,Hartberg,6,1,H,2.07,3.67,3.62,2.14,3.72,3.7,2.03,3.52,3.47
+Austria,Tipico Bundesliga,2018/2019,16/12/2018,13:30,Salzburg,St. Polten,5,1,H,1.17,7.46,19.55,1.2,8.5,23.0,1.17,6.92,15.62
+Austria,Tipico Bundesliga,2018/2019,16/12/2018,16:00,Austria Vienna,Rapid Vienna,6,1,H,3.44,2.29,3.23,3.46,2.29,3.23,3.33,2.14,3.05
+Austria,Tipico Bundesliga,2018/2019,22/02/2019,18:30,LASK,Austria Vienna,2,0,H,1.6,4.31,5.59,1.62,4.31,5.9,1.57,4.0,5.42
+Austria,Tipico Bundesliga,2018/2019,23/02/2019,16:00,Wolfsberger AC,Altach,0,0,D,1.81,3.78,4.59,1.83,3.78,4.75,1.79,3.56,4.39
+Austria,Tipico Bundesliga,2018/2019,23/02/2019,16:00,Admira,Wacker Innsbruck,3,0,H,2.3,3.45,3.27,2.3,3.46,3.3,2.21,3.35,3.15
+Austria,Tipico Bundesliga,2018/2019,24/02/2019,13:30,Hartberg,St. Polten,1,1,D,2.5,3.63,2.81,2.52,3.63,2.88,2.4,3.43,2.77
+Austria,Tipico Bundesliga,2018/2019,24/02/2019,13:30,Mattersburg,Sturm Graz,1,1,D,2.96,3.29,2.57,3.03,3.38,2.59,2.84,3.18,2.49
+Austria,Tipico Bundesliga,2018/2019,24/02/2019,16:00,Rapid Vienna,Salzburg,2,0,H,5.75,4.29,1.58,6.0,4.41,1.58,5.53,4.18,1.54
+Austria,Tipico Bundesliga,2018/2019,02/03/2019,16:00,Altach,Admira,0,1,A,1.88,3.86,4.08,1.94,3.86,4.2,1.86,3.61,3.92
+Austria,Tipico Bundesliga,2018/2019,02/03/2019,16:00,Salzburg,Wolfsberger AC,3,0,H,1.31,5.53,10.12,1.35,5.65,10.5,1.3,5.2,9.06
+Austria,Tipico Bundesliga,2018/2019,02/03/2019,16:00,St. Polten,Rapid Vienna,0,4,A,3.87,3.68,1.99,4.1,3.8,2.04,3.76,3.53,1.92
+Austria,Tipico Bundesliga,2018/2019,03/03/2019,13:30,Austria Vienna,Hartberg,4,2,H,1.64,4.13,5.39,1.74,4.13,5.39,1.64,3.95,4.79
+Austria,Tipico Bundesliga,2018/2019,03/03/2019,13:30,Sturm Graz,LASK,0,3,A,3.48,3.52,2.17,3.5,3.52,2.25,3.3,3.27,2.17
+Austria,Tipico Bundesliga,2018/2019,03/03/2019,16:00,Wacker Innsbruck,Mattersburg,0,1,A,2.99,3.33,2.53,2.99,3.4,2.65,2.82,3.21,2.47
+Austria,Tipico Bundesliga,2018/2019,10/03/2019,16:00,Admira,St. Polten,3,2,H,2.26,3.42,3.36,2.29,3.45,3.5,2.19,3.29,3.23
+Austria,Tipico Bundesliga,2018/2019,10/03/2019,16:00,Austria Vienna,Altach,1,3,A,1.9,3.58,4.39,1.96,3.8,4.7,1.85,3.45,4.14
+Austria,Tipico Bundesliga,2018/2019,10/03/2019,16:00,Hartberg,Wolfsberger AC,1,1,D,3.29,3.83,2.14,3.29,3.83,2.28,3.08,3.57,2.15
+Austria,Tipico Bundesliga,2018/2019,10/03/2019,16:00,LASK,Wacker Innsbruck,2,0,H,1.28,5.94,10.73,1.3,6.1,14.0,1.25,5.49,11.06
+Austria,Tipico Bundesliga,2018/2019,10/03/2019,16:00,Mattersburg,Rapid Vienna,2,1,H,3.72,3.8,2.0,4.2,3.8,2.03,3.61,3.53,1.96
+Austria,Tipico Bundesliga,2018/2019,10/03/2019,16:00,Salzburg,Sturm Graz,0,0,D,1.33,5.49,9.02,1.4,5.5,10.5,1.31,5.14,8.72
+Austria,Tipico Bundesliga,2018/2019,17/03/2019,16:00,Wolfsberger AC,Admira,2,2,D,1.72,3.56,5.69,1.72,3.8,5.69,1.68,3.57,5.23
+Austria,Tipico Bundesliga,2018/2019,17/03/2019,16:00,Altach,LASK,1,2,A,5.06,3.5,1.81,5.25,3.85,1.82,4.74,3.5,1.75
+Austria,Tipico Bundesliga,2018/2019,17/03/2019,16:00,Rapid Vienna,Hartberg,2,2,D,1.28,6.35,9.68,1.3,6.65,13.0,1.25,5.99,9.97
+Austria,Tipico Bundesliga,2018/2019,17/03/2019,16:00,St. Polten,Mattersburg,0,1,A,2.69,3.5,2.68,2.9,3.5,2.68,2.69,3.31,2.53
+Austria,Tipico Bundesliga,2018/2019,17/03/2019,16:00,Sturm Graz,Austria Vienna,1,0,H,2.24,3.13,3.76,2.25,3.3,4.5,2.14,3.08,3.65
+Austria,Tipico Bundesliga,2018/2019,17/03/2019,16:00,Wacker Innsbruck,Salzburg,0,2,A,16.18,6.92,1.19,16.18,6.92,1.24,13.12,6.33,1.2
+Austria,Tipico Bundesliga,2018/2019,30/03/2019,16:00,Altach,Mattersburg,2,1,H,2.19,3.63,3.33,2.28,3.63,3.45,2.15,3.37,3.23
+Austria,Tipico Bundesliga,2018/2019,30/03/2019,16:00,Hartberg,Wacker Innsbruck,0,2,A,2.24,3.73,3.16,2.29,3.75,3.3,2.14,3.58,3.06
+Austria,Tipico Bundesliga,2018/2019,30/03/2019,16:00,Rapid Vienna,Admira,3,0,H,1.45,4.71,7.22,1.46,4.78,7.5,1.42,4.5,6.84
+Austria,Tipico Bundesliga,2018/2019,31/03/2019,13:30,Wolfsberger AC,LASK,0,3,A,4.04,3.6,1.97,4.25,3.6,2.01,3.88,3.35,1.95
+Austria,Tipico Bundesliga,2018/2019,31/03/2019,13:30,Sturm Graz,St. Polten,0,1,A,1.7,3.83,5.37,1.73,4.0,5.37,1.66,3.72,5.01
+Austria,Tipico Bundesliga,2018/2019,31/03/2019,16:00,Salzburg,Austria Vienna,5,1,H,1.19,7.31,14.6,1.25,7.35,15.0,1.19,6.69,12.78
+Austria,Tipico Bundesliga,2018/2019,06/04/2019,16:00,Admira,Altach,1,1,D,2.78,3.32,2.71,2.78,3.4,2.78,2.68,3.17,2.62
+Austria,Tipico Bundesliga,2018/2019,06/04/2019,16:00,Mattersburg,Hartberg,3,0,H,1.95,3.71,3.96,2.03,4.0,4.0,1.91,3.65,3.67
+Austria,Tipico Bundesliga,2018/2019,06/04/2019,16:00,Wacker Innsbruck,Rapid Vienna,0,2,A,4.38,3.97,1.81,4.5,3.97,1.83,4.28,3.74,1.76
+Austria,Tipico Bundesliga,2018/2019,07/04/2019,13:30,Austria Vienna,Sturm Graz,0,1,A,2.48,3.45,2.96,2.58,3.45,3.02,2.41,3.25,2.89
+Austria,Tipico Bundesliga,2018/2019,07/04/2019,13:30,St. Polten,Wolfsberger AC,1,3,A,3.3,3.46,2.28,3.33,3.46,2.38,3.2,3.26,2.23
+Austria,Tipico Bundesliga,2018/2019,07/04/2019,16:00,LASK,Salzburg,0,2,A,3.73,3.49,2.09,4.13,3.68,2.12,3.58,3.42,2.02
+Austria,Tipico Bundesliga,2018/2019,13/04/2019,16:00,Hartberg,Altach,0,1,A,3.25,3.53,2.27,3.25,3.53,2.4,3.05,3.35,2.25
+Austria,Tipico Bundesliga,2018/2019,13/04/2019,16:00,Rapid Vienna,Mattersburg,2,1,H,1.44,4.89,7.03,1.5,4.89,7.2,1.44,4.48,6.53
+Austria,Tipico Bundesliga,2018/2019,13/04/2019,16:00,Wacker Innsbruck,Admira,1,3,A,2.34,3.35,3.27,2.38,3.4,3.28,2.25,3.25,3.14
+Austria,Tipico Bundesliga,2018/2019,14/04/2019,13:30,Wolfsberger AC,Austria Vienna,1,1,D,2.08,3.51,3.75,2.4,3.51,3.75,2.06,3.33,3.51
+Austria,Tipico Bundesliga,2018/2019,14/04/2019,13:30,LASK,St. Polten,0,0,D,1.18,7.23,16.35,1.22,7.23,22.0,1.18,6.51,14.7
+Austria,Tipico Bundesliga,2018/2019,14/04/2019,16:00,Salzburg,Sturm Graz,3,1,H,1.22,6.58,14.18,1.27,6.6,16.0,1.22,5.99,11.55
+Austria,Tipico Bundesliga,2018/2019,20/04/2019,16:00,Admira,Hartberg,2,1,H,1.79,3.91,4.56,1.85,3.95,5.0,1.75,3.73,4.34
+Austria,Tipico Bundesliga,2018/2019,20/04/2019,16:00,Altach,Rapid Vienna,2,2,D,3.17,3.4,2.37,3.3,3.4,2.37,3.06,3.32,2.25
+Austria,Tipico Bundesliga,2018/2019,20/04/2019,16:00,Mattersburg,Wacker Innsbruck,3,1,H,1.94,3.67,4.07,1.95,3.72,4.5,1.9,3.54,3.84
+Austria,Tipico Bundesliga,2018/2019,21/04/2019,13:30,St. Polten,Salzburg,1,1,D,12.74,7.85,1.19,19.0,8.0,1.2,14.79,7.34,1.16
+Austria,Tipico Bundesliga,2018/2019,21/04/2019,13:30,Sturm Graz,Wolfsberger AC,1,2,A,2.35,3.38,3.22,2.35,3.44,3.6,2.23,3.24,3.17
+Austria,Tipico Bundesliga,2018/2019,21/04/2019,16:00,Austria Vienna,LASK,2,2,D,3.81,3.51,2.06,4.33,3.51,2.08,3.68,3.37,1.99
+Austria,Tipico Bundesliga,2018/2019,23/04/2019,18:00,Admira,Mattersburg,0,2,A,2.4,3.4,3.13,2.42,3.55,3.13,2.3,3.37,2.93
+Austria,Tipico Bundesliga,2018/2019,23/04/2019,18:00,Hartberg,Rapid Vienna,2,4,A,6.74,5.35,1.42,7.5,5.35,1.5,6.35,4.95,1.4
+Austria,Tipico Bundesliga,2018/2019,23/04/2019,18:00,Wacker Innsbruck,Altach,0,4,A,3.41,3.54,2.19,3.75,3.55,2.24,3.26,3.41,2.12
+Austria,Tipico Bundesliga,2018/2019,24/04/2019,18:00,Austria Vienna,St. Polten,2,2,D,1.89,3.69,4.26,1.92,3.7,4.5,1.84,3.54,4.07
+Austria,Tipico Bundesliga,2018/2019,24/04/2019,18:00,LASK,Sturm Graz,1,2,A,1.61,4.02,5.93,1.65,4.02,6.0,1.58,3.85,5.54
+Austria,Tipico Bundesliga,2018/2019,24/04/2019,18:00,Salzburg,Wolfsberger AC,3,1,H,1.25,6.27,12.09,1.27,6.5,13.5,1.23,5.92,10.97
+Austria,Tipico Bundesliga,2018/2019,27/04/2019,16:00,Altach,Wacker Innsbruck,1,4,A,1.89,3.85,4.05,1.95,3.95,4.2,1.87,3.62,3.83
+Austria,Tipico Bundesliga,2018/2019,27/04/2019,16:00,Mattersburg,Admira,1,1,D,1.97,3.65,3.96,1.99,3.9,4.33,1.92,3.52,3.77
+Austria,Tipico Bundesliga,2018/2019,27/04/2019,16:00,Rapid Vienna,Hartberg,3,4,A,1.31,5.95,9.03,1.33,6.5,9.6,1.28,5.78,8.57
+Austria,Tipico Bundesliga,2018/2019,28/04/2019,13:30,Wolfsberger AC,Salzburg,2,1,H,5.92,4.67,1.52,6.6,4.67,1.55,5.85,4.33,1.49
+Austria,Tipico Bundesliga,2018/2019,28/04/2019,13:30,St. Polten,Austria Vienna,1,2,A,3.07,3.42,2.42,3.1,3.42,2.5,2.9,3.26,2.38
+Austria,Tipico Bundesliga,2018/2019,28/04/2019,16:00,Sturm Graz,LASK,2,3,A,3.76,3.43,2.11,3.76,3.6,2.3,3.5,3.4,2.04
+Austria,Tipico Bundesliga,2018/2019,04/05/2019,16:00,Admira,Rapid Vienna,3,4,A,5.2,4.89,1.56,5.55,4.89,1.65,5.0,4.28,1.57
+Austria,Tipico Bundesliga,2018/2019,04/05/2019,16:00,Mattersburg,Altach,0,0,D,2.22,3.45,3.44,2.28,3.45,3.5,2.17,3.27,3.29
+Austria,Tipico Bundesliga,2018/2019,04/05/2019,16:00,Wacker Innsbruck,Hartberg,1,0,H,1.97,4.07,3.57,2.08,4.1,3.6,1.97,3.76,3.36
+Austria,Tipico Bundesliga,2018/2019,05/05/2019,13:30,LASK,Wolfsberger AC,3,0,H,1.69,3.93,5.23,1.69,4.0,6.0,1.64,3.81,5.07
+Austria,Tipico Bundesliga,2018/2019,05/05/2019,13:30,St. Polten,Sturm Graz,0,1,A,3.56,3.62,2.11,3.6,3.62,2.15,3.4,3.38,2.07
+Austria,Tipico Bundesliga,2018/2019,05/05/2019,16:00,Austria Vienna,Salzburg,1,2,A,4.69,3.76,1.8,4.75,4.2,1.82,4.3,3.82,1.74
+Austria,Tipico Bundesliga,2018/2019,11/05/2019,16:00,Altach,Admira,2,2,D,1.93,3.79,3.99,1.99,3.8,4.0,1.92,3.61,3.69
+Austria,Tipico Bundesliga,2018/2019,11/05/2019,16:00,Hartberg,Mattersburg,2,1,H,3.12,3.61,2.3,3.12,3.61,2.38,2.91,3.45,2.28
+Austria,Tipico Bundesliga,2018/2019,11/05/2019,16:00,Rapid Vienna,Wacker Innsbruck,1,0,H,1.3,6.3,8.78,1.32,6.45,12.0,1.27,5.87,8.77
+Austria,Tipico Bundesliga,2018/2019,12/05/2019,13:30,Wolfsberger AC,St. Polten,4,0,H,1.64,4.01,5.64,1.65,4.2,6.17,1.61,3.85,5.36
+Austria,Tipico Bundesliga,2018/2019,12/05/2019,13:30,Sturm Graz,Austria Vienna,1,3,A,2.43,3.43,3.06,2.43,3.43,3.3,2.29,3.31,3.01
+Austria,Tipico Bundesliga,2018/2019,12/05/2019,16:00,Salzburg,LASK,2,1,H,1.62,4.64,4.87,1.72,4.64,5.0,1.61,4.25,4.64
+Austria,Tipico Bundesliga,2018/2019,18/05/2019,16:00,Admira,Wacker Innsbruck,3,2,H,2.41,3.97,2.75,2.41,3.97,3.0,2.35,3.63,2.71
+Austria,Tipico Bundesliga,2018/2019,18/05/2019,16:00,Altach,Hartberg,3,1,H,2.02,3.76,3.67,2.06,3.8,3.9,1.93,3.63,3.62
+Austria,Tipico Bundesliga,2018/2019,18/05/2019,16:00,Mattersburg,Rapid Vienna,1,0,H,3.96,4.21,1.84,4.0,4.21,1.87,3.81,3.91,1.81
+Austria,Tipico Bundesliga,2018/2019,19/05/2019,16:00,Austria Vienna,Wolfsberger AC,2,0,H,2.29,3.67,3.1,2.3,3.67,3.25,2.23,3.41,3.04
+Austria,Tipico Bundesliga,2018/2019,19/05/2019,16:00,St. Polten,LASK,0,1,A,5.97,4.69,1.52,7.0,4.69,1.54,6.04,4.3,1.49
+Austria,Tipico Bundesliga,2018/2019,19/05/2019,16:00,Sturm Graz,Salzburg,1,2,A,3.82,3.86,1.95,4.35,4.0,1.95,3.8,3.72,1.86
+Austria,Tipico Bundesliga,2018/2019,25/05/2019,16:00,Hartberg,Admira,3,1,H,1.56,5.02,5.06,1.63,5.02,5.75,1.56,4.47,4.84
+Austria,Tipico Bundesliga,2018/2019,25/05/2019,16:00,Rapid Vienna,Altach,1,2,A,1.98,3.79,3.78,1.98,3.93,4.4,1.87,3.73,3.67
+Austria,Tipico Bundesliga,2018/2019,25/05/2019,16:00,Wacker Innsbruck,Mattersburg,4,0,H,1.47,4.94,6.37,1.49,4.94,6.5,1.45,4.64,5.88
+Austria,Tipico Bundesliga,2018/2019,26/05/2019,16:00,Wolfsberger AC,Sturm Graz,2,1,H,2.03,3.87,3.54,2.08,3.87,3.8,1.99,3.56,3.47
+Austria,Tipico Bundesliga,2018/2019,26/05/2019,16:00,LASK,Austria Vienna,5,2,H,2.57,3.52,2.8,2.62,3.6,2.8,2.48,3.38,2.67
+Austria,Tipico Bundesliga,2018/2019,26/05/2019,16:00,Salzburg,St. Polten,7,0,H,1.09,11.04,27.79,1.12,13.0,34.0,1.08,10.22,23.93
+Austria,Tipico Bundesliga,2018/2019,28/05/2019,18:00,Rapid Vienna,Mattersburg,2,0,H,1.45,4.77,7.03,1.5,4.8,7.5,1.43,4.5,6.59
+Austria,Tipico Bundesliga,2018/2019,30/05/2019,16:00,Rapid Vienna,Sturm Graz,1,2,A,1.68,4.14,4.95,1.75,4.2,5.5,1.65,3.9,4.84
+Austria,Tipico Bundesliga,2018/2019,02/06/2019,16:00,Sturm Graz,Rapid Vienna,0,1,A,3.07,3.78,2.27,3.16,3.78,2.3,2.99,3.58,2.18
