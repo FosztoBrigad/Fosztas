@@ -1,0 +1,181 @@
+Country,League,Season,Date,Time,Home,Away,HG,AG,Res,PH,PD,PA,MaxH,MaxD,MaxA,AvgH,AvgD,AvgA
+Austria,Tipico Bundesliga,2012/2013,21/07/2012,15:00,Sturm Graz,Salzburg,0,2,A,3.26,3.34,2.4,3.26,3.4,2.5,2.96,3.2,2.33
+Austria,Tipico Bundesliga,2012/2013,21/07/2012,17:30,Mattersburg,Neustadt,2,0,H,1.79,3.81,5.0,1.9,3.81,5.0,1.77,3.51,4.33
+Austria,Tipico Bundesliga,2012/2013,21/07/2012,17:30,Rapid Vienna,Wacker Innsbruck,4,0,H,1.5,4.46,7.72,1.5,4.46,8.09,1.45,4.09,7.09
+Austria,Tipico Bundesliga,2012/2013,22/07/2012,15:00,Admira,Ried,0,2,A,2.18,3.51,3.61,2.18,3.51,3.77,2.12,3.29,3.32
+Austria,Tipico Bundesliga,2012/2013,25/07/2012,17:30,Wolfsberger AC,Austria Vienna,0,1,A,3.83,3.62,2.06,3.83,3.62,2.1,3.53,3.28,2.0
+Austria,Tipico Bundesliga,2012/2013,28/07/2012,17:30,Austria Vienna,Sturm Graz,0,1,A,2.12,3.42,3.91,2.15,3.6,4.03,1.99,3.29,3.67
+Austria,Tipico Bundesliga,2012/2013,28/07/2012,17:30,Neustadt,Rapid Vienna,0,1,A,6.38,4.13,1.61,6.75,4.13,1.7,5.8,3.71,1.57
+Austria,Tipico Bundesliga,2012/2013,28/07/2012,17:30,Salzburg,Mattersburg,3,2,H,1.4,4.84,9.51,1.4,5.05,10.0,1.36,4.52,8.39
+Austria,Tipico Bundesliga,2012/2013,29/07/2012,15:00,Wacker Innsbruck,Admira,1,2,A,2.44,3.52,3.08,2.44,3.53,3.35,2.22,3.27,3.09
+Austria,Tipico Bundesliga,2012/2013,29/07/2012,17:30,Ried,Wolfsberger AC,0,2,A,1.51,4.37,7.78,1.75,4.37,7.78,1.53,3.8,6.16
+Austria,Tipico Bundesliga,2012/2013,04/08/2012,17:30,Wolfsberger AC,Salzburg,0,2,A,5.78,3.82,1.71,5.78,3.82,1.75,4.92,3.63,1.66
+Austria,Tipico Bundesliga,2012/2013,04/08/2012,17:30,Mattersburg,Sturm Graz,3,1,H,2.64,3.27,2.96,2.67,3.32,3.03,2.52,3.18,2.71
+Austria,Tipico Bundesliga,2012/2013,05/08/2012,15:00,Rapid Vienna,Austria Vienna,0,3,A,1.92,3.46,4.79,2.15,3.53,4.79,1.88,3.3,4.11
+Austria,Tipico Bundesliga,2012/2013,05/08/2012,15:00,Ried,Wacker Innsbruck,2,0,H,1.83,3.6,5.11,1.86,3.6,5.13,1.8,3.41,4.33
+Austria,Tipico Bundesliga,2012/2013,05/08/2012,17:30,Admira,Neustadt,4,0,H,1.51,4.29,7.85,1.6,4.29,7.85,1.52,3.87,6.18
+Austria,Tipico Bundesliga,2012/2013,11/08/2012,17:30,Sturm Graz,Wolfsberger AC,4,1,H,1.57,4.2,6.61,1.65,4.2,6.61,1.56,3.79,5.68
+Austria,Tipico Bundesliga,2012/2013,11/08/2012,17:30,Wacker Innsbruck,Mattersburg,2,1,H,2.22,3.31,3.66,2.35,3.32,3.66,2.22,3.2,3.15
+Austria,Tipico Bundesliga,2012/2013,12/08/2012,15:00,Neustadt,Ried,2,3,A,3.45,3.28,2.35,3.7,3.3,2.35,3.37,3.2,2.14
+Austria,Tipico Bundesliga,2012/2013,12/08/2012,15:00,Salzburg,Rapid Vienna,0,2,A,1.85,3.6,4.88,1.95,3.6,5.09,1.82,3.4,4.33
+Austria,Tipico Bundesliga,2012/2013,12/08/2012,17:30,Austria Vienna,Admira,1,0,H,1.71,3.94,5.46,1.75,3.94,5.46,1.71,3.57,4.69
+Austria,Tipico Bundesliga,2012/2013,18/08/2012,17:30,Wolfsberger AC,Mattersburg,0,1,A,2.74,3.46,2.7,2.74,3.46,2.8,2.52,3.25,2.68
+Austria,Tipico Bundesliga,2012/2013,18/08/2012,17:30,Admira,Salzburg,4,4,D,3.19,3.37,2.4,3.4,3.5,2.44,3.13,3.3,2.21
+Austria,Tipico Bundesliga,2012/2013,18/08/2012,17:30,Rapid Vienna,Sturm Graz,3,0,H,1.66,3.96,5.76,1.8,3.96,5.76,1.7,3.56,4.88
+Austria,Tipico Bundesliga,2012/2013,18/08/2012,17:30,Wacker Innsbruck,Neustadt,2,3,A,1.51,4.26,7.79,1.7,4.26,7.79,1.58,3.7,5.92
+Austria,Tipico Bundesliga,2012/2013,19/08/2012,15:00,Ried,Austria Vienna,0,1,A,2.6,3.24,3.02,2.65,3.29,3.02,2.5,3.17,2.75
+Austria,Tipico Bundesliga,2012/2013,25/08/2012,17:30,Austria Vienna,Wacker Innsbruck,2,0,H,1.5,4.43,7.5,1.55,4.7,9.19,1.49,3.98,6.55
+Austria,Tipico Bundesliga,2012/2013,25/08/2012,17:30,Mattersburg,Ried,2,1,H,2.39,3.35,3.24,2.62,3.4,3.24,2.39,3.21,2.88
+Austria,Tipico Bundesliga,2012/2013,25/08/2012,17:30,Salzburg,Neustadt,1,1,D,1.21,7.26,15.74,1.25,7.4,16.3,1.2,6.3,12.49
+Austria,Tipico Bundesliga,2012/2013,25/08/2012,17:30,Sturm Graz,Admira,3,2,H,2.02,3.63,3.96,2.08,3.75,4.09,1.98,3.38,3.63
+Austria,Tipico Bundesliga,2012/2013,26/08/2012,15:00,Wolfsberger AC,Rapid Vienna,1,0,H,4.88,3.66,1.83,5.6,3.8,1.84,4.97,3.56,1.69
+Austria,Tipico Bundesliga,2012/2013,01/09/2012,17:30,Admira,Wolfsberger AC,1,1,D,1.56,4.73,5.8,1.65,4.9,5.8,1.57,4.0,5.29
+Austria,Tipico Bundesliga,2012/2013,01/09/2012,17:30,Neustadt,Austria Vienna,0,2,A,5.25,3.76,1.76,5.6,4.3,1.8,4.62,3.51,1.74
+Austria,Tipico Bundesliga,2012/2013,01/09/2012,17:30,Ried,Sturm Graz,0,1,A,2.49,3.24,3.16,2.54,3.4,3.18,2.34,3.17,3.0
+Austria,Tipico Bundesliga,2012/2013,01/09/2012,17:30,Wacker Innsbruck,Salzburg,0,4,A,3.85,3.57,2.04,4.5,3.57,2.06,3.7,3.35,1.96
+Austria,Tipico Bundesliga,2012/2013,02/09/2012,15:00,Rapid Vienna,Mattersburg,3,0,H,1.53,4.5,6.75,1.57,4.59,6.75,1.52,3.99,6.01
+Austria,Tipico Bundesliga,2012/2013,15/09/2012,15:00,Wolfsberger AC,Neustadt,6,0,H,1.78,3.83,4.93,1.92,3.83,4.93,1.8,3.48,4.31
+Austria,Tipico Bundesliga,2012/2013,15/09/2012,17:30,Rapid Vienna,Admira,0,0,D,1.44,4.8,8.09,1.55,4.8,8.09,1.47,4.27,6.32
+Austria,Tipico Bundesliga,2012/2013,15/09/2012,17:30,Salzburg,Ried,1,1,D,1.56,4.37,6.5,1.57,4.4,7.12,1.52,3.95,6.08
+Austria,Tipico Bundesliga,2012/2013,15/09/2012,17:30,Sturm Graz,Wacker Innsbruck,3,0,H,1.52,4.25,7.67,1.57,4.5,8.3,1.48,4.04,6.71
+Austria,Tipico Bundesliga,2012/2013,16/09/2012,15:00,Mattersburg,Austria Vienna,2,4,A,3.59,3.31,2.25,3.75,3.4,2.25,3.25,3.27,2.15
+Austria,Tipico Bundesliga,2012/2013,22/09/2012,15:00,Admira,Mattersburg,5,1,H,1.96,3.62,4.18,2.04,3.7,4.2,1.93,3.44,3.74
+Austria,Tipico Bundesliga,2012/2013,22/09/2012,17:30,Austria Vienna,Salzburg,0,1,A,2.59,3.38,2.9,2.59,3.45,3.1,2.37,3.3,2.85
+Austria,Tipico Bundesliga,2012/2013,22/09/2012,17:30,Neustadt,Sturm Graz,1,1,D,5.57,3.83,1.71,5.57,3.83,1.8,4.66,3.55,1.72
+Austria,Tipico Bundesliga,2012/2013,22/09/2012,17:30,Wacker Innsbruck,Wolfsberger AC,0,1,A,2.31,3.45,3.29,2.33,3.55,3.35,2.25,3.31,3.03
+Austria,Tipico Bundesliga,2012/2013,23/09/2012,15:30,Ried,Rapid Vienna,0,2,A,2.99,3.28,2.59,3.35,3.4,2.59,2.9,3.21,2.35
+Austria,Tipico Bundesliga,2012/2013,29/09/2012,15:00,Austria Vienna,Wolfsberger AC,1,1,D,1.43,4.73,8.27,1.45,4.73,8.5,1.41,4.3,7.06
+Austria,Tipico Bundesliga,2012/2013,29/09/2012,17:30,Neustadt,Mattersburg,0,0,D,3.31,3.45,2.27,3.31,3.45,2.65,2.97,3.26,2.29
+Austria,Tipico Bundesliga,2012/2013,29/09/2012,17:30,Ried,Admira,1,1,D,2.1,3.65,3.54,2.35,3.65,3.75,2.08,3.34,3.33
+Austria,Tipico Bundesliga,2012/2013,29/09/2012,17:30,Wacker Innsbruck,Rapid Vienna,0,2,A,4.36,3.85,1.85,4.7,3.85,2.14,3.81,3.38,1.93
+Austria,Tipico Bundesliga,2012/2013,30/09/2012,15:00,Salzburg,Sturm Graz,3,2,H,1.6,4.33,6.17,1.67,4.33,6.3,1.58,3.88,5.42
+Austria,Tipico Bundesliga,2012/2013,06/10/2012,15:00,Wolfsberger AC,Ried,2,5,A,2.19,3.51,3.52,2.36,3.51,3.6,2.23,3.31,3.07
+Austria,Tipico Bundesliga,2012/2013,06/10/2012,17:30,Admira,Wacker Innsbruck,4,1,H,1.52,4.72,6.43,1.62,4.72,7.0,1.52,4.08,5.95
+Austria,Tipico Bundesliga,2012/2013,06/10/2012,17:30,Mattersburg,Salzburg,1,3,A,4.7,3.87,1.81,4.79,4.09,1.85,4.32,3.58,1.77
+Austria,Tipico Bundesliga,2012/2013,07/10/2012,15:00,Sturm Graz,Austria Vienna,1,1,D,2.44,3.39,3.12,2.5,3.55,3.2,2.34,3.24,2.94
+Austria,Tipico Bundesliga,2012/2013,07/10/2012,17:30,Rapid Vienna,Neustadt,1,1,D,1.27,5.95,13.9,1.29,6.1,13.9,1.25,5.62,10.71
+Austria,Tipico Bundesliga,2012/2013,20/10/2012,15:00,Salzburg,Wolfsberger AC,4,1,H,1.29,5.65,12.22,1.35,5.99,12.22,1.29,5.22,9.52
+Austria,Tipico Bundesliga,2012/2013,20/10/2012,17:30,Neustadt,Admira,2,1,H,4.12,3.67,1.96,4.2,3.67,2.2,3.65,3.39,1.98
+Austria,Tipico Bundesliga,2012/2013,20/10/2012,17:30,Sturm Graz,Mattersburg,0,0,D,1.58,4.33,6.1,1.62,4.34,6.5,1.56,3.91,5.62
+Austria,Tipico Bundesliga,2012/2013,20/10/2012,17:30,Wacker Innsbruck,Ried,1,0,H,3.23,3.3,2.42,3.5,3.35,2.42,3.02,3.23,2.3
+Austria,Tipico Bundesliga,2012/2013,21/10/2012,15:00,Austria Vienna,Rapid Vienna,2,0,H,2.36,3.24,3.42,2.45,3.4,3.42,2.32,3.16,3.07
+Austria,Tipico Bundesliga,2012/2013,27/10/2012,15:00,Ried,Neustadt,3,1,H,1.6,4.19,6.19,1.62,4.4,7.2,1.55,3.82,6.0
+Austria,Tipico Bundesliga,2012/2013,27/10/2012,17:30,Admira,Austria Vienna,4,6,A,2.97,3.48,2.49,3.2,3.55,2.49,2.95,3.31,2.31
+Austria,Tipico Bundesliga,2012/2013,27/10/2012,17:30,Mattersburg,Wacker Innsbruck,1,2,A,1.89,3.64,4.5,1.93,3.7,4.55,1.86,3.42,4.11
+Austria,Tipico Bundesliga,2012/2013,28/10/2012,15:00,Rapid Vienna,Salzburg,2,0,H,3.1,3.3,2.5,3.4,3.45,2.5,2.98,3.27,2.31
+Austria,Tipico Bundesliga,2012/2013,03/11/2012,15:00,Neustadt,Wacker Innsbruck,0,1,A,2.7,3.12,3.01,2.74,3.4,3.1,2.45,3.15,2.89
+Austria,Tipico Bundesliga,2012/2013,03/11/2012,17:30,Mattersburg,Wolfsberger AC,1,1,D,2.18,3.61,3.47,2.2,3.95,3.85,2.05,3.35,3.49
+Austria,Tipico Bundesliga,2012/2013,03/11/2012,17:30,Salzburg,Admira,5,0,H,1.42,5.24,7.76,1.48,5.24,7.76,1.42,4.54,6.78
+Austria,Tipico Bundesliga,2012/2013,03/11/2012,17:30,Sturm Graz,Rapid Vienna,2,1,H,2.33,3.33,3.29,2.6,3.43,3.3,2.34,3.23,2.97
+Austria,Tipico Bundesliga,2012/2013,04/11/2012,15:00,Austria Vienna,Ried,6,1,H,1.51,4.46,7.2,1.57,4.59,7.2,1.54,4.01,5.78
+Austria,Tipico Bundesliga,2012/2013,10/11/2012,15:00,Admira,Sturm Graz,1,2,A,2.48,3.66,2.89,2.5,3.66,3.05,2.43,3.34,2.75
+Austria,Tipico Bundesliga,2012/2013,10/11/2012,17:30,Ried,Mattersburg,6,1,H,1.71,3.97,5.2,1.8,3.97,5.3,1.74,3.58,4.54
+Austria,Tipico Bundesliga,2012/2013,10/11/2012,17:30,Wacker Innsbruck,Austria Vienna,0,3,A,4.72,3.56,1.88,5.0,3.64,1.89,4.33,3.44,1.81
+Austria,Tipico Bundesliga,2012/2013,11/11/2012,15:00,Neustadt,Salzburg,0,3,A,8.65,4.91,1.42,8.65,5.09,1.45,7.33,4.43,1.41
+Austria,Tipico Bundesliga,2012/2013,11/11/2012,17:30,Rapid Vienna,Wolfsberger AC,0,2,A,1.47,4.73,7.59,1.5,5.2,8.3,1.41,4.5,7.08
+Austria,Tipico Bundesliga,2012/2013,17/11/2012,15:00,Austria Vienna,Neustadt,3,0,H,1.28,6.18,11.83,1.29,7.0,13.0,1.24,5.78,10.66
+Austria,Tipico Bundesliga,2012/2013,17/11/2012,17:30,Wolfsberger AC,Admira,1,1,D,2.61,3.43,2.87,2.61,3.5,3.0,2.42,3.3,2.78
+Austria,Tipico Bundesliga,2012/2013,17/11/2012,17:30,Mattersburg,Rapid Vienna,0,3,A,3.68,3.34,2.21,4.0,3.4,2.21,3.52,3.25,2.07
+Austria,Tipico Bundesliga,2012/2013,17/11/2012,17:30,Sturm Graz,Ried,3,1,H,1.9,3.69,4.34,1.9,3.9,5.0,1.8,3.48,4.29
+Austria,Tipico Bundesliga,2012/2013,18/11/2012,15:00,Salzburg,Wacker Innsbruck,2,0,H,1.21,7.34,15.54,1.22,8.1,16.0,1.2,6.35,12.62
+Austria,Tipico Bundesliga,2012/2013,24/11/2012,15:00,Wacker Innsbruck,Sturm Graz,0,3,A,3.35,3.3,2.37,3.75,3.5,2.37,3.32,3.26,2.15
+Austria,Tipico Bundesliga,2012/2013,24/11/2012,17:30,Austria Vienna,Mattersburg,3,1,H,1.29,6.17,11.73,1.29,7.0,13.0,1.24,5.75,10.92
+Austria,Tipico Bundesliga,2012/2013,24/11/2012,17:30,Neustadt,Wolfsberger AC,2,1,H,2.99,3.49,2.47,3.0,3.5,2.58,2.83,3.24,2.43
+Austria,Tipico Bundesliga,2012/2013,24/11/2012,17:30,Ried,Salzburg,3,1,H,5.43,3.94,1.7,5.43,3.97,1.8,4.66,3.6,1.72
+Austria,Tipico Bundesliga,2012/2013,25/11/2012,14:00,Admira,Rapid Vienna,0,2,A,2.79,3.58,2.57,2.9,3.65,2.57,2.75,3.34,2.43
+Austria,Tipico Bundesliga,2012/2013,27/11/2012,18:30,Wolfsberger AC,Sturm Graz,1,1,D,3.57,3.56,2.15,3.75,3.56,2.2,3.36,3.3,2.1
+Austria,Tipico Bundesliga,2012/2013,01/12/2012,15:00,Wolfsberger AC,Wacker Innsbruck,2,2,D,2.16,3.26,3.86,2.16,3.5,4.0,2.0,3.29,3.7
+Austria,Tipico Bundesliga,2012/2013,01/12/2012,17:30,Mattersburg,Admira,3,0,H,3.42,3.48,2.25,3.42,3.5,2.5,3.02,3.29,2.28
+Austria,Tipico Bundesliga,2012/2013,01/12/2012,17:30,Rapid Vienna,Ried,4,3,H,1.74,4.01,4.95,1.75,4.33,5.5,1.67,3.69,4.92
+Austria,Tipico Bundesliga,2012/2013,01/12/2012,17:30,Sturm Graz,Neustadt,3,1,H,1.56,4.48,6.2,1.58,4.8,7.6,1.49,4.18,6.11
+Austria,Tipico Bundesliga,2012/2013,02/12/2012,15:00,Salzburg,Austria Vienna,0,0,D,2.02,3.68,3.88,2.04,3.69,3.88,1.99,3.38,3.61
+Austria,Tipico Bundesliga,2012/2013,08/12/2012,15:00,Admira,Ried,0,3,A,2.31,3.66,3.1,2.4,3.66,3.32,2.24,3.34,3.05
+Austria,Tipico Bundesliga,2012/2013,08/12/2012,17:30,Wolfsberger AC,Austria Vienna,3,6,A,5.11,3.73,1.78,5.11,3.8,1.85,4.62,3.58,1.73
+Austria,Tipico Bundesliga,2012/2013,08/12/2012,17:30,Mattersburg,Neustadt,1,0,H,2.22,3.5,3.44,2.23,3.5,4.0,2.03,3.33,3.57
+Austria,Tipico Bundesliga,2012/2013,08/12/2012,17:30,Sturm Graz,Salzburg,1,1,D,3.25,3.45,2.33,3.35,3.45,2.4,3.03,3.28,2.28
+Austria,Tipico Bundesliga,2012/2013,09/12/2012,15:00,Rapid Vienna,Wacker Innsbruck,2,1,H,1.45,4.69,7.76,1.5,5.9,7.76,1.42,4.53,6.86
+Austria,Tipico Bundesliga,2012/2013,15/12/2012,17:30,Neustadt,Rapid Vienna,1,0,H,5.36,3.71,1.76,5.6,3.75,1.8,4.77,3.55,1.72
+Austria,Tipico Bundesliga,2012/2013,15/12/2012,17:30,Salzburg,Mattersburg,7,0,H,1.22,6.93,16.64,1.25,7.0,16.64,1.22,6.16,11.47
+Austria,Tipico Bundesliga,2012/2013,15/12/2012,17:30,Wacker Innsbruck,Admira,3,1,H,2.49,3.43,3.01,2.66,3.5,3.01,2.4,3.27,2.83
+Austria,Tipico Bundesliga,2012/2013,16/12/2012,15:00,Austria Vienna,Sturm Graz,3,1,H,1.67,3.9,5.82,1.8,4.0,5.82,1.68,3.62,5.01
+Austria,Tipico Bundesliga,2012/2013,16/02/2013,15:00,Ried,Wacker Innsbruck,3,0,H,1.58,4.12,6.65,1.7,4.15,6.7,1.58,3.78,5.61
+Austria,Tipico Bundesliga,2012/2013,16/02/2013,17:30,Admira,Neustadt,1,2,A,1.81,3.72,4.93,1.83,3.85,5.09,1.73,3.57,4.64
+Austria,Tipico Bundesliga,2012/2013,16/02/2013,17:30,Mattersburg,Sturm Graz,0,0,D,3.88,3.38,2.12,3.91,3.4,2.2,3.45,3.24,2.1
+Austria,Tipico Bundesliga,2012/2013,17/02/2013,15:00,Rapid Vienna,Austria Vienna,1,2,A,2.76,3.37,2.73,2.9,3.37,2.88,2.66,3.17,2.61
+Austria,Tipico Bundesliga,2012/2013,20/02/2013,17:30,Ried,Wolfsberger AC,1,1,D,1.55,4.33,6.77,1.6,4.55,6.8,1.53,4.05,5.88
+Austria,Tipico Bundesliga,2012/2013,23/02/2013,15:00,Wacker Innsbruck,Mattersburg,2,0,H,2.02,3.41,4.17,2.2,3.5,4.3,1.99,3.31,3.71
+Austria,Tipico Bundesliga,2012/2013,23/02/2013,17:30,Austria Vienna,Admira,4,0,H,1.4,5.37,7.86,1.4,5.5,9.1,1.35,4.88,7.96
+Austria,Tipico Bundesliga,2012/2013,23/02/2013,17:30,Neustadt,Ried,0,0,D,3.23,3.23,2.46,3.23,3.4,2.49,3.0,3.2,2.35
+Austria,Tipico Bundesliga,2012/2013,24/02/2013,15:00,Salzburg,Rapid Vienna,3,3,D,1.68,3.85,5.82,1.75,4.0,5.82,1.65,3.65,5.21
+Austria,Tipico Bundesliga,2012/2013,24/02/2013,17:30,Sturm Graz,Wolfsberger AC,1,3,A,1.72,3.96,5.2,1.72,4.2,7.0,1.58,3.88,5.5
+Austria,Tipico Bundesliga,2012/2013,27/02/2013,19:30,Rapid Vienna,Sturm Graz,1,1,D,1.73,3.75,5.38,1.83,3.8,5.41,1.72,3.58,4.7
+Austria,Tipico Bundesliga,2012/2013,27/02/2013,19:30,Ried,Austria Vienna,1,3,A,3.72,3.45,2.14,3.8,3.65,2.2,3.36,3.3,2.11
+Austria,Tipico Bundesliga,2012/2013,27/02/2013,19:30,Wacker Innsbruck,Neustadt,1,0,H,2.02,3.36,4.26,2.1,3.5,4.26,2.01,3.28,3.66
+Austria,Tipico Bundesliga,2012/2013,02/03/2013,15:00,Sturm Graz,Admira,1,2,A,1.73,3.86,5.3,1.73,4.15,6.1,1.62,3.74,5.28
+Austria,Tipico Bundesliga,2012/2013,02/03/2013,17:30,Austria Vienna,Wacker Innsbruck,4,0,H,1.33,5.65,10.4,1.34,6.0,11.0,1.28,5.33,9.66
+Austria,Tipico Bundesliga,2012/2013,02/03/2013,17:30,Mattersburg,Ried,1,0,H,3.14,3.2,2.52,3.14,3.35,2.6,2.92,3.17,2.41
+Austria,Tipico Bundesliga,2012/2013,02/03/2013,17:30,Salzburg,Neustadt,3,1,H,1.22,7.2,14.4,1.23,8.19,15.86,1.2,6.45,12.05
+Austria,Tipico Bundesliga,2012/2013,03/03/2013,15:00,Wolfsberger AC,Rapid Vienna,2,1,H,3.63,3.43,2.18,3.95,3.43,2.25,3.5,3.29,2.05
+Austria,Tipico Bundesliga,2012/2013,06/03/2013,17:30,Wolfsberger AC,Salzburg,1,1,D,5.27,3.85,1.74,5.5,4.0,1.74,5.02,3.74,1.64
+Austria,Tipico Bundesliga,2012/2013,09/03/2013,15:00,Neustadt,Austria Vienna,0,0,D,6.25,4.15,1.6,6.7,4.45,1.62,5.9,3.89,1.55
+Austria,Tipico Bundesliga,2012/2013,09/03/2013,17:30,Admira,Wolfsberger AC,0,1,A,2.02,3.5,4.07,2.1,3.75,4.07,2.03,3.37,3.46
+Austria,Tipico Bundesliga,2012/2013,09/03/2013,17:30,Rapid Vienna,Mattersburg,2,2,D,1.46,4.65,7.95,1.46,4.9,8.19,1.42,4.31,7.36
+Austria,Tipico Bundesliga,2012/2013,09/03/2013,17:30,Ried,Sturm Graz,1,2,A,2.25,3.24,3.64,2.35,3.4,3.64,2.18,3.23,3.26
+Austria,Tipico Bundesliga,2012/2013,10/03/2013,15:00,Wacker Innsbruck,Salzburg,2,3,A,5.82,3.92,1.67,6.0,4.0,1.7,5.36,3.81,1.6
+Austria,Tipico Bundesliga,2012/2013,13/03/2013,17:30,Wolfsberger AC,Mattersburg,1,0,H,1.98,3.78,3.92,2.12,3.78,4.0,1.97,3.35,3.73
+Austria,Tipico Bundesliga,2012/2013,13/03/2013,17:30,Admira,Salzburg,1,1,D,5.84,4.28,1.61,6.1,4.45,1.62,5.3,3.98,1.58
+Austria,Tipico Bundesliga,2012/2013,16/03/2013,15:00,Rapid Vienna,Admira,1,1,D,1.59,4.47,5.8,1.59,4.75,7.2,1.49,4.2,6.07
+Austria,Tipico Bundesliga,2012/2013,16/03/2013,17:30,Wolfsberger AC,Neustadt,1,1,D,2.02,3.59,3.98,2.02,3.65,4.45,1.89,3.37,3.99
+Austria,Tipico Bundesliga,2012/2013,16/03/2013,17:30,Salzburg,Ried,2,2,D,1.53,4.7,6.3,1.53,4.84,7.5,1.47,4.22,6.48
+Austria,Tipico Bundesliga,2012/2013,16/03/2013,17:30,Sturm Graz,Wacker Innsbruck,3,2,H,1.74,3.72,5.5,1.74,3.95,6.3,1.64,3.62,5.33
+Austria,Tipico Bundesliga,2012/2013,17/03/2013,16:00,Mattersburg,Austria Vienna,0,4,A,4.88,3.93,1.76,5.5,3.93,1.76,4.96,3.65,1.67
+Austria,Tipico Bundesliga,2012/2013,30/03/2013,15:00,Admira,Mattersburg,1,0,H,1.81,3.67,4.98,2.0,3.8,4.98,1.86,3.46,4.08
+Austria,Tipico Bundesliga,2012/2013,30/03/2013,17:30,Neustadt,Sturm Graz,1,0,H,3.15,3.24,2.5,3.3,3.4,2.5,3.09,3.14,2.31
+Austria,Tipico Bundesliga,2012/2013,30/03/2013,17:30,Ried,Rapid Vienna,3,2,H,2.91,3.29,2.64,3.0,3.31,2.75,2.75,3.19,2.51
+Austria,Tipico Bundesliga,2012/2013,30/03/2013,17:30,Wacker Innsbruck,Wolfsberger AC,2,3,A,2.19,3.48,3.55,2.29,3.48,3.55,2.16,3.28,3.23
+Austria,Tipico Bundesliga,2012/2013,31/03/2013,15:00,Austria Vienna,Salzburg,1,1,D,2.06,3.4,4.08,2.4,3.6,4.2,2.07,3.31,3.48
+Austria,Tipico Bundesliga,2012/2013,06/04/2013,15:00,Wacker Innsbruck,Rapid Vienna,1,1,D,3.23,3.32,2.41,3.65,3.4,2.41,3.26,3.25,2.18
+Austria,Tipico Bundesliga,2012/2013,06/04/2013,17:30,Austria Vienna,Wolfsberger AC,0,4,A,1.43,4.86,8.43,1.43,5.4,10.5,1.36,4.58,8.15
+Austria,Tipico Bundesliga,2012/2013,06/04/2013,17:30,Neustadt,Mattersburg,0,0,D,2.08,3.36,4.01,2.2,3.4,4.05,2.04,3.25,3.64
+Austria,Tipico Bundesliga,2012/2013,06/04/2013,17:30,Ried,Admira,4,1,H,1.91,3.63,4.42,1.94,3.75,5.0,1.79,3.56,4.28
+Austria,Tipico Bundesliga,2012/2013,07/04/2013,15:00,Salzburg,Sturm Graz,3,0,H,1.54,4.55,6.45,1.6,4.59,6.9,1.51,4.08,6.07
+Austria,Tipico Bundesliga,2012/2013,13/04/2013,15:00,Wolfsberger AC,Ried,1,3,A,2.2,3.56,3.43,2.29,3.56,3.43,2.19,3.29,3.15
+Austria,Tipico Bundesliga,2012/2013,13/04/2013,17:30,Admira,Wacker Innsbruck,4,3,H,1.96,3.54,4.29,1.99,3.65,4.5,1.92,3.39,3.9
+Austria,Tipico Bundesliga,2012/2013,13/04/2013,17:30,Mattersburg,Salzburg,1,2,A,5.64,4.38,1.61,6.1,4.45,1.7,5.45,3.91,1.58
+Austria,Tipico Bundesliga,2012/2013,13/04/2013,17:30,Rapid Vienna,Neustadt,2,0,H,1.57,4.28,6.37,1.57,4.28,7.0,1.5,4.01,6.48
+Austria,Tipico Bundesliga,2012/2013,14/04/2013,15:00,Sturm Graz,Austria Vienna,1,1,D,3.47,3.42,2.22,3.47,3.45,2.5,3.14,3.28,2.22
+Austria,Tipico Bundesliga,2012/2013,20/04/2013,15:00,Sturm Graz,Mattersburg,2,2,D,1.76,3.76,5.19,1.76,3.9,6.5,1.64,3.7,5.24
+Austria,Tipico Bundesliga,2012/2013,20/04/2013,17:30,Neustadt,Admira,3,0,H,2.99,3.25,2.61,2.99,3.31,2.9,2.64,3.22,2.61
+Austria,Tipico Bundesliga,2012/2013,20/04/2013,17:30,Salzburg,Wolfsberger AC,6,2,H,1.4,5.09,8.9,1.4,5.9,9.0,1.36,4.68,7.9
+Austria,Tipico Bundesliga,2012/2013,20/04/2013,17:30,Wacker Innsbruck,Ried,2,0,H,2.84,3.41,2.63,3.05,3.42,2.65,2.66,3.27,2.56
+Austria,Tipico Bundesliga,2012/2013,21/04/2013,15:00,Austria Vienna,Rapid Vienna,2,2,D,1.89,3.85,4.22,1.94,3.85,5.0,1.78,3.58,4.33
+Austria,Tipico Bundesliga,2012/2013,27/04/2013,15:00,Ried,Neustadt,2,1,H,1.77,3.96,4.82,1.77,4.0,5.5,1.69,3.67,4.86
+Austria,Tipico Bundesliga,2012/2013,27/04/2013,17:30,Wolfsberger AC,Sturm Graz,3,0,H,2.62,3.39,2.87,2.7,3.4,2.92,2.55,3.27,2.65
+Austria,Tipico Bundesliga,2012/2013,27/04/2013,17:30,Mattersburg,Wacker Innsbruck,1,2,A,2.29,3.4,3.37,2.35,3.45,3.45,2.21,3.25,3.18
+Austria,Tipico Bundesliga,2012/2013,27/04/2013,17:30,Rapid Vienna,Salzburg,1,3,A,3.14,3.62,2.31,3.3,3.62,2.4,3.02,3.34,2.26
+Austria,Tipico Bundesliga,2012/2013,28/04/2013,15:00,Admira,Austria Vienna,0,2,A,4.51,4.2,1.77,5.0,4.4,1.85,4.45,3.76,1.72
+Austria,Tipico Bundesliga,2012/2013,04/05/2013,15:00,Austria Vienna,Ried,3,1,H,1.47,4.69,7.51,1.5,5.09,8.0,1.44,4.24,7.09
+Austria,Tipico Bundesliga,2012/2013,04/05/2013,17:30,Mattersburg,Wolfsberger AC,3,1,H,2.71,3.52,2.68,2.71,3.55,2.82,2.56,3.28,2.64
+Austria,Tipico Bundesliga,2012/2013,04/05/2013,17:30,Neustadt,Wacker Innsbruck,2,2,D,2.31,3.39,3.35,2.36,3.39,3.6,2.23,3.21,3.19
+Austria,Tipico Bundesliga,2012/2013,04/05/2013,17:30,Salzburg,Admira,2,1,H,1.21,7.34,15.59,1.25,7.7,16.0,1.2,6.35,12.13
+Austria,Tipico Bundesliga,2012/2013,05/05/2013,15:00,Sturm Graz,Rapid Vienna,1,3,A,2.77,3.4,2.71,2.77,3.4,2.9,2.57,3.22,2.66
+Austria,Tipico Bundesliga,2012/2013,11/05/2013,15:00,Admira,Sturm Graz,3,0,H,2.36,3.55,3.16,2.54,3.6,3.16,2.35,3.34,2.88
+Austria,Tipico Bundesliga,2012/2013,11/05/2013,17:30,Rapid Vienna,Wolfsberger AC,0,0,D,1.7,4.04,5.23,1.73,4.3,5.3,1.68,3.76,4.62
+Austria,Tipico Bundesliga,2012/2013,11/05/2013,17:30,Ried,Mattersburg,1,1,D,1.57,4.42,6.2,1.7,4.42,6.2,1.61,3.86,5.27
+Austria,Tipico Bundesliga,2012/2013,11/05/2013,17:30,Wacker Innsbruck,Austria Vienna,0,3,A,5.5,4.12,1.66,5.5,4.25,1.7,5.11,3.79,1.63
+Austria,Tipico Bundesliga,2012/2013,12/05/2013,15:00,Neustadt,Salzburg,0,6,A,5.97,4.5,1.57,7.0,4.59,1.61,5.77,4.04,1.54
+Austria,Tipico Bundesliga,2012/2013,18/05/2013,15:00,Wolfsberger AC,Admira,0,0,D,2.24,3.52,3.37,2.25,3.65,3.6,2.13,3.41,3.21
+Austria,Tipico Bundesliga,2012/2013,18/05/2013,17:30,Austria Vienna,Neustadt,3,1,H,1.3,6.07,10.92,1.3,6.4,14.0,1.25,5.6,10.99
+Austria,Tipico Bundesliga,2012/2013,18/05/2013,17:30,Mattersburg,Rapid Vienna,2,0,H,3.64,3.57,2.13,3.65,3.65,2.2,3.37,3.32,2.1
+Austria,Tipico Bundesliga,2012/2013,18/05/2013,17:30,Salzburg,Wacker Innsbruck,3,1,H,1.19,7.62,17.23,1.2,8.1,18.0,1.19,6.47,13.15
+Austria,Tipico Bundesliga,2012/2013,19/05/2013,15:00,Sturm Graz,Ried,3,1,H,2.52,3.55,2.88,2.52,3.65,3.0,2.36,3.34,2.85
+Austria,Tipico Bundesliga,2012/2013,22/05/2013,19:30,Admira,Rapid Vienna,0,2,A,3.08,3.46,2.43,3.15,3.57,2.45,2.89,3.34,2.34
+Austria,Tipico Bundesliga,2012/2013,22/05/2013,19:30,Austria Vienna,Mattersburg,4,0,H,1.33,4.92,13.16,1.4,5.4,14.0,1.3,4.79,10.73
+Austria,Tipico Bundesliga,2012/2013,22/05/2013,19:30,Neustadt,Wolfsberger AC,2,0,H,2.58,3.51,2.81,2.6,3.7,2.88,2.47,3.31,2.72
+Austria,Tipico Bundesliga,2012/2013,22/05/2013,19:30,Ried,Salzburg,2,2,D,4.51,3.97,1.81,5.0,4.09,1.81,4.27,3.72,1.76
+Austria,Tipico Bundesliga,2012/2013,22/05/2013,19:30,Wacker Innsbruck,Sturm Graz,2,1,H,2.36,3.57,3.11,2.54,3.7,3.11,2.34,3.39,2.85
+Austria,Tipico Bundesliga,2012/2013,26/05/2013,15:00,Wolfsberger AC,Wacker Innsbruck,2,3,A,2.37,3.68,2.98,2.45,3.75,3.25,2.22,3.52,2.93
+Austria,Tipico Bundesliga,2012/2013,26/05/2013,15:00,Mattersburg,Admira,0,1,A,2.66,3.49,2.71,2.66,3.5,2.95,2.49,3.23,2.72
+Austria,Tipico Bundesliga,2012/2013,26/05/2013,15:00,Rapid Vienna,Ried,3,0,H,2.11,3.7,3.48,2.11,4.0,3.48,2.05,3.61,3.23
+Austria,Tipico Bundesliga,2012/2013,26/05/2013,15:00,Salzburg,Austria Vienna,3,0,H,1.68,4.22,5.05,1.85,4.22,5.19,1.71,3.82,4.38
+Austria,Tipico Bundesliga,2012/2013,26/05/2013,15:00,Sturm Graz,Neustadt,0,3,A,2.14,3.65,3.47,2.14,3.9,3.7,1.99,3.56,3.43

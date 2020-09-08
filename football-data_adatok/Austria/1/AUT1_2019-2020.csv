@@ -1,0 +1,196 @@
+Country,League,Season,Date,Time,Home,Away,HG,AG,Res,PH,PD,PA,MaxH,MaxD,MaxA,AvgH,AvgD,AvgA
+Austria,Tipico Bundesliga,2019/2020,26/07/2019,19:45,Rapid Vienna,Salzburg,0,2,A,3.92,3.95,1.9,4.02,3.95,2.0,3.73,3.73,1.88
+Austria,Tipico Bundesliga,2019/2020,27/07/2019,16:00,Admira,Wolfsberger AC,0,3,A,3.99,3.96,1.88,4.2,3.96,2.0,3.86,3.6,1.88
+Austria,Tipico Bundesliga,2019/2020,27/07/2019,16:00,Tirol,Austria Vienna,3,1,H,3.91,3.71,1.97,4.0,3.71,2.1,3.68,3.52,1.95
+Austria,Tipico Bundesliga,2019/2020,28/07/2019,16:00,LASK,Altach,2,0,H,1.52,4.35,6.58,1.55,4.35,6.58,1.5,4.15,6.14
+Austria,Tipico Bundesliga,2019/2020,28/07/2019,16:00,Mattersburg,Hartberg,2,1,H,1.92,3.91,3.89,1.95,3.91,3.9,1.88,3.68,3.76
+Austria,Tipico Bundesliga,2019/2020,28/07/2019,16:00,Sturm Graz,St. Polten,3,0,H,1.71,3.91,5.04,1.76,3.91,5.75,1.69,3.72,4.76
+Austria,Tipico Bundesliga,2019/2020,03/08/2019,16:00,Altach,Tirol,3,2,H,1.81,3.91,4.39,2.05,3.95,4.39,1.83,3.62,4.01
+Austria,Tipico Bundesliga,2019/2020,03/08/2019,16:00,Austria Vienna,LASK,0,3,A,4.05,3.95,1.87,4.1,3.95,2.15,3.74,3.64,1.9
+Austria,Tipico Bundesliga,2019/2020,03/08/2019,16:00,Hartberg,Admira,4,1,H,2.22,3.58,3.27,2.25,3.7,3.27,2.18,3.49,3.08
+Austria,Tipico Bundesliga,2019/2020,04/08/2019,16:00,Wolfsberger AC,Sturm Graz,0,1,A,2.28,3.62,3.12,2.38,3.65,3.25,2.24,3.43,2.99
+Austria,Tipico Bundesliga,2019/2020,04/08/2019,16:00,Salzburg,Mattersburg,4,1,H,1.14,9.25,18.97,1.2,9.4,23.0,1.13,8.02,17.48
+Austria,Tipico Bundesliga,2019/2020,04/08/2019,16:00,St. Polten,Rapid Vienna,2,2,D,5.75,4.71,1.53,6.0,4.71,1.56,5.56,4.43,1.5
+Austria,Tipico Bundesliga,2019/2020,10/08/2019,16:00,Admira,LASK,0,1,A,6.14,4.63,1.51,7.0,4.67,1.52,6.08,4.33,1.48
+Austria,Tipico Bundesliga,2019/2020,10/08/2019,16:00,Rapid Vienna,Altach,2,1,H,1.62,4.27,5.32,1.64,4.3,5.5,1.59,4.12,5.0
+Austria,Tipico Bundesliga,2019/2020,10/08/2019,16:00,Salzburg,Wolfsberger AC,5,2,H,1.28,5.99,10.31,1.33,6.0,10.5,1.28,5.5,9.17
+Austria,Tipico Bundesliga,2019/2020,11/08/2019,16:00,Hartberg,Sturm Graz,1,0,H,3.94,4.22,1.83,4.33,4.22,1.85,3.86,3.87,1.81
+Austria,Tipico Bundesliga,2019/2020,11/08/2019,16:00,Mattersburg,Austria Vienna,1,5,A,2.74,3.49,2.61,2.76,3.5,2.71,2.65,3.32,2.55
+Austria,Tipico Bundesliga,2019/2020,11/08/2019,16:00,Tirol,St. Polten,1,1,D,2.06,3.86,3.45,2.08,3.86,3.55,2.03,3.59,3.34
+Austria,Tipico Bundesliga,2019/2020,17/08/2019,16:00,Wolfsberger AC,Mattersburg,5,0,H,1.4,5.12,7.73,1.43,5.12,8.4,1.37,4.76,7.35
+Austria,Tipico Bundesliga,2019/2020,17/08/2019,16:00,LASK,Tirol,1,1,D,1.48,4.67,6.62,1.5,4.77,7.5,1.43,4.5,6.66
+Austria,Tipico Bundesliga,2019/2020,17/08/2019,16:00,St. Polten,Salzburg,0,6,A,15.85,8.92,1.16,21.0,9.0,1.17,15.62,7.83,1.14
+Austria,Tipico Bundesliga,2019/2020,18/08/2019,16:00,Altach,Hartberg,3,3,D,1.54,4.65,5.74,1.6,4.65,6.0,1.53,4.27,5.41
+Austria,Tipico Bundesliga,2019/2020,18/08/2019,16:00,Austria Vienna,Admira,1,1,D,1.72,3.86,5.04,1.75,4.1,5.04,1.69,3.81,4.62
+Austria,Tipico Bundesliga,2019/2020,18/08/2019,16:00,Sturm Graz,Rapid Vienna,0,1,A,2.75,3.63,2.53,2.76,3.63,2.6,2.66,3.42,2.48
+Austria,Tipico Bundesliga,2019/2020,24/08/2019,16:00,Wolfsberger AC,Altach,5,2,H,1.78,4.08,4.36,1.87,4.08,4.4,1.77,3.83,4.09
+Austria,Tipico Bundesliga,2019/2020,24/08/2019,16:00,Mattersburg,St. Polten,0,1,A,2.27,3.54,3.21,2.45,3.7,3.21,2.25,3.45,2.97
+Austria,Tipico Bundesliga,2019/2020,24/08/2019,16:00,Rapid Vienna,LASK,1,2,A,2.4,3.6,2.94,2.46,3.7,4.0,2.36,3.38,2.86
+Austria,Tipico Bundesliga,2019/2020,25/08/2019,16:00,Hartberg,Austria Vienna,2,2,D,3.1,3.84,2.21,3.2,3.85,2.3,2.96,3.64,2.18
+Austria,Tipico Bundesliga,2019/2020,25/08/2019,16:00,Salzburg,Admira,5,0,H,1.05,16.19,50.37,1.07,14.5,50.0,1.05,12.34,29.69
+Austria,Tipico Bundesliga,2019/2020,25/08/2019,16:00,Sturm Graz,Tirol,2,0,H,1.68,4.06,5.07,1.75,4.06,5.1,1.68,3.78,4.71
+Austria,Tipico Bundesliga,2019/2020,31/08/2019,16:00,Admira,Mattersburg,1,3,A,2.33,3.64,3.02,2.33,3.64,3.14,2.23,3.46,3.01
+Austria,Tipico Bundesliga,2019/2020,31/08/2019,16:00,LASK,Wolfsberger AC,0,1,A,1.93,3.79,3.96,2.0,3.79,4.05,1.9,3.58,3.8
+Austria,Tipico Bundesliga,2019/2020,31/08/2019,16:00,Tirol,Salzburg,1,5,A,13.55,8.23,1.15,40.0,12.0,1.2,13.97,8.24,1.15
+Austria,Tipico Bundesliga,2019/2020,01/09/2019,16:00,Altach,Sturm Graz,1,2,A,2.83,3.4,2.58,3.0,3.46,2.65,2.75,3.29,2.48
+Austria,Tipico Bundesliga,2019/2020,01/09/2019,16:00,Austria Vienna,Rapid Vienna,1,3,A,2.77,4.02,2.35,2.9,4.02,2.5,2.73,3.71,2.31
+Austria,Tipico Bundesliga,2019/2020,01/09/2019,16:00,St. Polten,Hartberg,1,3,A,2.28,3.74,3.04,2.31,3.76,3.3,2.21,3.56,2.97
+Austria,Tipico Bundesliga,2019/2020,14/09/2019,16:00,Mattersburg,Tirol,0,2,A,2.29,3.75,3.02,2.31,3.75,3.25,2.24,3.53,2.93
+Austria,Tipico Bundesliga,2019/2020,14/09/2019,16:00,Salzburg,Hartberg,7,2,H,1.05,17.98,24.72,1.07,18.04,34.0,1.05,12.97,24.8
+Austria,Tipico Bundesliga,2019/2020,14/09/2019,16:00,Sturm Graz,LASK,0,2,A,3.49,3.63,2.11,3.75,3.63,2.13,3.38,3.44,2.06
+Austria,Tipico Bundesliga,2019/2020,15/09/2019,13:30,Altach,St. Polten,6,0,H,1.6,4.44,5.3,1.68,4.44,5.5,1.6,4.08,4.98
+Austria,Tipico Bundesliga,2019/2020,15/09/2019,13:30,Rapid Vienna,Admira,5,0,H,1.31,5.85,9.08,1.36,5.85,10.0,1.31,5.41,8.33
+Austria,Tipico Bundesliga,2019/2020,15/09/2019,16:00,Wolfsberger AC,Austria Vienna,3,0,H,1.52,4.66,6.0,1.65,4.66,6.0,1.51,4.43,5.57
+Austria,Tipico Bundesliga,2019/2020,21/09/2019,16:00,Admira,St. Polten,1,1,D,2.36,3.51,3.07,2.44,3.62,3.07,2.29,3.43,2.91
+Austria,Tipico Bundesliga,2019/2020,21/09/2019,16:00,Mattersburg,Sturm Graz,3,3,D,4.14,3.76,1.9,4.33,3.76,1.91,4.03,3.58,1.84
+Austria,Tipico Bundesliga,2019/2020,21/09/2019,16:00,Tirol,Rapid Vienna,0,2,A,5.06,4.77,1.58,5.3,4.77,1.73,4.7,4.23,1.61
+Austria,Tipico Bundesliga,2019/2020,22/09/2019,13:30,Austria Vienna,Altach,2,0,H,2.26,3.94,2.96,2.28,3.94,3.2,2.18,3.7,2.93
+Austria,Tipico Bundesliga,2019/2020,22/09/2019,13:30,Hartberg,Wolfsberger AC,0,2,A,4.46,4.48,1.69,5.0,4.5,1.7,4.58,4.26,1.62
+Austria,Tipico Bundesliga,2019/2020,22/09/2019,16:00,LASK,Salzburg,2,2,D,3.08,3.73,2.24,3.1,3.73,2.35,2.9,3.53,2.25
+Austria,Tipico Bundesliga,2019/2020,28/09/2019,16:00,Salzburg,Austria Vienna,4,1,H,1.18,8.06,12.58,1.22,9.0,15.0,1.17,7.62,11.86
+Austria,Tipico Bundesliga,2019/2020,28/09/2019,16:00,St. Polten,LASK,0,3,A,9.86,5.38,1.32,10.5,5.5,1.4,8.74,5.11,1.32
+Austria,Tipico Bundesliga,2019/2020,28/09/2019,16:00,Wolfsberger AC,Tirol,2,2,D,1.27,6.42,9.94,1.33,6.42,11.0,1.27,5.76,9.25
+Austria,Tipico Bundesliga,2019/2020,29/09/2019,13:30,Altach,Mattersburg,0,2,A,1.6,4.46,5.3,1.66,4.46,5.75,1.6,4.13,4.97
+Austria,Tipico Bundesliga,2019/2020,29/09/2019,13:30,Sturm Graz,Admira,4,1,H,1.44,4.68,7.62,1.47,4.68,7.62,1.43,4.4,6.81
+Austria,Tipico Bundesliga,2019/2020,29/09/2019,16:00,Rapid Vienna,Hartberg,3,3,D,1.22,7.49,11.34,1.3,7.6,15.0,1.21,6.73,10.54
+Austria,Tipico Bundesliga,2019/2020,05/10/2019,16:00,Admira,Tirol,3,1,H,2.69,3.59,2.6,2.73,3.6,2.6,2.6,3.44,2.53
+Austria,Tipico Bundesliga,2019/2020,05/10/2019,16:00,Mattersburg,Rapid Vienna,2,3,A,4.96,4.35,1.65,5.25,4.6,1.66,4.77,4.22,1.6
+Austria,Tipico Bundesliga,2019/2020,05/10/2019,16:00,Salzburg,Altach,6,0,H,1.16,8.2,15.42,1.18,10.0,17.0,1.14,8.18,14.11
+Austria,Tipico Bundesliga,2019/2020,06/10/2019,13:30,Hartberg,LASK,1,2,A,6.63,5.61,1.4,7.5,5.61,1.44,6.64,5.07,1.38
+Austria,Tipico Bundesliga,2019/2020,06/10/2019,13:30,Wolfsberger AC,St. Polten,4,0,H,1.3,6.36,8.4,1.32,6.36,10.0,1.29,5.75,8.31
+Austria,Tipico Bundesliga,2019/2020,06/10/2019,16:00,Austria Vienna,Sturm Graz,1,0,H,2.82,3.71,2.43,2.86,3.72,2.45,2.74,3.52,2.38
+Austria,Tipico Bundesliga,2019/2020,19/10/2019,16:00,Altach,Admira,1,4,A,1.79,3.84,4.62,1.81,4.05,4.75,1.76,3.74,4.25
+Austria,Tipico Bundesliga,2019/2020,19/10/2019,16:00,LASK,Mattersburg,7,2,H,1.2,7.42,11.99,1.25,7.6,18.0,1.18,6.96,12.91
+Austria,Tipico Bundesliga,2019/2020,19/10/2019,16:00,Sturm Graz,Salzburg,1,1,D,6.87,4.83,1.45,8.75,5.4,1.46,7.05,4.94,1.38
+Austria,Tipico Bundesliga,2019/2020,20/10/2019,13:30,St. Polten,Austria Vienna,2,2,D,3.35,3.72,2.14,3.5,3.78,2.15,3.24,3.58,2.07
+Austria,Tipico Bundesliga,2019/2020,20/10/2019,13:30,Tirol,Hartberg,0,1,A,2.03,4.08,3.38,2.06,4.1,3.5,1.99,3.89,3.22
+Austria,Tipico Bundesliga,2019/2020,20/10/2019,16:00,Rapid Vienna,Wolfsberger AC,1,1,D,2.33,3.99,2.82,2.4,3.99,2.9,2.3,3.68,2.75
+Austria,Tipico Bundesliga,2019/2020,26/10/2019,16:00,Austria Vienna,Tirol,2,3,A,1.59,4.5,5.35,1.72,4.6,6.0,1.59,4.25,4.89
+Austria,Tipico Bundesliga,2019/2020,26/10/2019,16:00,Hartberg,Mattersburg,3,1,H,1.93,4.36,3.5,1.95,4.36,4.0,1.89,4.04,3.4
+Austria,Tipico Bundesliga,2019/2020,26/10/2019,16:00,St. Polten,Sturm Graz,0,4,A,4.29,3.98,1.81,4.29,3.98,1.86,4.04,3.73,1.8
+Austria,Tipico Bundesliga,2019/2020,27/10/2019,13:30,Altach,LASK,0,1,A,6.52,4.57,1.5,6.52,4.6,1.59,6.01,4.33,1.49
+Austria,Tipico Bundesliga,2019/2020,27/10/2019,13:30,Wolfsberger AC,Admira,2,2,D,1.34,5.62,8.56,1.38,5.64,8.56,1.34,5.16,7.58
+Austria,Tipico Bundesliga,2019/2020,27/10/2019,16:00,Salzburg,Rapid Vienna,3,2,H,1.32,5.8,8.93,1.35,6.25,9.0,1.3,5.69,7.89
+Austria,Tipico Bundesliga,2019/2020,02/11/2019,16:00,Mattersburg,Salzburg,0,3,A,17.3,9.7,1.13,19.0,10.0,1.18,14.67,8.78,1.13
+Austria,Tipico Bundesliga,2019/2020,02/11/2019,16:00,Rapid Vienna,St. Polten,0,1,A,1.25,6.01,11.63,1.29,6.5,11.63,1.25,5.78,10.12
+Austria,Tipico Bundesliga,2019/2020,02/11/2019,16:00,Sturm Graz,Wolfsberger AC,0,4,A,2.79,3.73,2.45,2.88,3.73,2.65,2.74,3.44,2.41
+Austria,Tipico Bundesliga,2019/2020,03/11/2019,13:30,Admira,Hartberg,0,1,A,2.07,3.82,3.45,2.4,3.94,3.8,2.14,3.65,3.06
+Austria,Tipico Bundesliga,2019/2020,03/11/2019,13:30,Tirol,Altach,0,4,A,2.59,3.64,2.67,2.6,3.7,2.75,2.51,3.45,2.61
+Austria,Tipico Bundesliga,2019/2020,03/11/2019,16:00,LASK,Austria Vienna,2,0,H,1.32,5.96,8.67,1.37,5.96,9.4,1.3,5.54,8.18
+Austria,Tipico Bundesliga,2019/2020,09/11/2019,16:00,Altach,Rapid Vienna,0,3,A,3.85,4.01,1.91,3.95,4.01,2.02,3.68,3.68,1.9
+Austria,Tipico Bundesliga,2019/2020,09/11/2019,16:00,St. Polten,Tirol,5,1,H,2.22,3.68,3.19,2.4,3.8,3.19,2.19,3.54,3.02
+Austria,Tipico Bundesliga,2019/2020,09/11/2019,16:00,Sturm Graz,Hartberg,3,1,H,1.47,4.94,6.35,1.52,5.0,6.5,1.45,4.69,6.0
+Austria,Tipico Bundesliga,2019/2020,10/11/2019,13:30,Austria Vienna,Mattersburg,2,1,H,1.69,4.52,4.46,1.8,4.52,4.9,1.69,4.14,4.22
+Austria,Tipico Bundesliga,2019/2020,10/11/2019,13:30,LASK,Admira,1,0,H,1.18,7.36,15.47,1.22,7.4,17.0,1.18,6.9,12.91
+Austria,Tipico Bundesliga,2019/2020,10/11/2019,16:00,Wolfsberger AC,Salzburg,0,3,A,5.4,5.19,1.51,5.4,5.19,1.6,4.98,4.66,1.53
+Austria,Tipico Bundesliga,2019/2020,23/11/2019,16:00,Mattersburg,Wolfsberger AC,1,4,A,6.68,5.55,1.4,8.0,5.55,1.51,6.66,5.04,1.39
+Austria,Tipico Bundesliga,2019/2020,23/11/2019,16:00,Salzburg,St. Polten,2,2,D,1.08,11.04,22.08,1.09,15.0,31.0,1.07,11.37,22.2
+Austria,Tipico Bundesliga,2019/2020,23/11/2019,16:00,Tirol,LASK,0,2,A,9.49,5.72,1.31,10.5,5.8,1.35,9.07,5.38,1.29
+Austria,Tipico Bundesliga,2019/2020,24/11/2019,13:30,Admira,Austria Vienna,0,0,D,3.08,3.68,2.28,3.25,3.75,2.29,3.0,3.48,2.22
+Austria,Tipico Bundesliga,2019/2020,24/11/2019,13:30,Hartberg,Altach,2,1,H,2.51,3.72,2.72,2.51,3.72,2.9,2.38,3.52,2.73
+Austria,Tipico Bundesliga,2019/2020,24/11/2019,16:00,Rapid Vienna,Sturm Graz,1,1,D,1.88,3.99,4.0,1.89,4.1,4.33,1.83,3.76,3.92
+Austria,Tipico Bundesliga,2019/2020,30/11/2019,16:00,Austria Vienna,Hartberg,5,0,H,1.73,4.2,4.5,1.75,4.33,4.8,1.7,4.07,4.27
+Austria,Tipico Bundesliga,2019/2020,30/11/2019,16:00,St. Polten,Mattersburg,0,0,D,1.83,4.17,4.03,1.87,4.17,4.5,1.8,3.81,3.97
+Austria,Tipico Bundesliga,2019/2020,30/11/2019,16:00,Tirol,Sturm Graz,1,5,A,4.07,3.69,1.93,4.2,3.75,1.95,3.82,3.61,1.88
+Austria,Tipico Bundesliga,2019/2020,01/12/2019,13:30,Admira,Salzburg,1,1,D,12.8,8.18,1.16,17.0,9.0,1.19,13.31,7.65,1.16
+Austria,Tipico Bundesliga,2019/2020,01/12/2019,13:30,Altach,Wolfsberger AC,2,1,H,4.31,4.18,1.77,4.33,4.18,1.86,4.05,3.94,1.76
+Austria,Tipico Bundesliga,2019/2020,01/12/2019,16:00,LASK,Rapid Vienna,0,4,A,1.75,3.94,4.77,1.77,4.0,4.87,1.72,3.76,4.5
+Austria,Tipico Bundesliga,2019/2020,07/12/2019,16:00,Hartberg,St. Polten,3,2,H,2.37,3.75,2.89,2.4,3.78,3.27,2.31,3.59,2.8
+Austria,Tipico Bundesliga,2019/2020,07/12/2019,16:00,Salzburg,Tirol,5,1,H,1.06,13.1,28.16,1.15,14.0,32.0,1.06,11.84,24.03
+Austria,Tipico Bundesliga,2019/2020,07/12/2019,16:00,Wolfsberger AC,LASK,1,3,A,3.13,3.61,2.28,3.25,3.61,2.31,3.02,3.41,2.24
+Austria,Tipico Bundesliga,2019/2020,08/12/2019,13:30,Mattersburg,Admira,1,2,A,3.16,3.41,2.35,3.2,3.5,2.68,3.0,3.26,2.33
+Austria,Tipico Bundesliga,2019/2020,08/12/2019,13:30,Sturm Graz,Altach,1,2,A,1.71,3.82,5.23,1.81,4.0,5.23,1.7,3.79,4.59
+Austria,Tipico Bundesliga,2019/2020,08/12/2019,16:00,Rapid Vienna,Austria Vienna,2,2,D,1.68,4.41,4.63,1.85,4.41,5.0,1.68,4.08,4.41
+Austria,Tipico Bundesliga,2019/2020,14/12/2019,16:00,Admira,Rapid Vienna,0,3,A,6.08,4.93,1.48,6.5,4.93,1.53,5.87,4.43,1.48
+Austria,Tipico Bundesliga,2019/2020,14/12/2019,16:00,Hartberg,Salzburg,2,2,D,8.09,6.58,1.26,14.0,7.6,1.28,8.93,6.6,1.24
+Austria,Tipico Bundesliga,2019/2020,14/12/2019,16:00,St. Polten,Altach,0,3,A,2.25,3.62,3.13,2.5,3.63,3.15,2.27,3.42,2.97
+Austria,Tipico Bundesliga,2019/2020,15/12/2019,13:30,Austria Vienna,Wolfsberger AC,1,1,D,2.75,3.98,2.36,2.78,4.1,2.5,2.65,3.8,2.33
+Austria,Tipico Bundesliga,2019/2020,15/12/2019,13:30,Tirol,Mattersburg,1,3,A,1.93,3.85,3.86,2.06,3.85,3.9,1.91,3.64,3.65
+Austria,Tipico Bundesliga,2019/2020,15/12/2019,16:00,LASK,Sturm Graz,3,3,D,1.57,4.15,6.04,1.58,4.5,7.0,1.52,4.1,5.91
+Austria,Tipico Bundesliga,2019/2020,14/02/2020,18:00,Salzburg,LASK,2,3,A,1.81,4.23,4.0,1.83,4.5,4.76,1.75,3.98,3.99
+Austria,Tipico Bundesliga,2019/2020,15/02/2020,16:00,Altach,Austria Vienna,2,2,D,2.91,3.76,2.33,3.1,3.78,2.46,2.81,3.59,2.29
+Austria,Tipico Bundesliga,2019/2020,15/02/2020,16:00,Wolfsberger AC,Hartberg,3,0,H,1.4,5.7,6.52,1.43,5.75,9.0,1.34,5.49,6.98
+Austria,Tipico Bundesliga,2019/2020,16/02/2020,13:30,St. Polten,Admira,2,2,D,2.2,3.57,3.41,2.21,3.57,3.55,2.14,3.39,3.23
+Austria,Tipico Bundesliga,2019/2020,16/02/2020,13:30,Sturm Graz,Mattersburg,1,2,A,1.82,3.88,4.49,1.83,4.72,5.99,1.75,3.8,4.25
+Austria,Tipico Bundesliga,2019/2020,16/02/2020,16:00,Rapid Vienna,Tirol,2,0,H,1.25,7.32,10.32,1.26,7.32,11.5,1.23,6.38,9.86
+Austria,Tipico Bundesliga,2019/2020,22/02/2020,16:00,Admira,Sturm Graz,0,2,A,3.35,3.63,2.15,3.45,3.63,2.2,3.22,3.44,2.12
+Austria,Tipico Bundesliga,2019/2020,22/02/2020,16:00,Mattersburg,Altach,0,0,D,2.91,3.52,2.43,2.94,3.6,2.55,2.7,3.43,2.44
+Austria,Tipico Bundesliga,2019/2020,22/02/2020,16:00,Tirol,Wolfsberger AC,2,0,H,4.42,4.08,1.76,4.71,4.27,1.77,4.25,4.03,1.7
+Austria,Tipico Bundesliga,2019/2020,23/02/2020,13:30,Hartberg,Rapid Vienna,2,2,D,4.72,4.67,1.63,5.5,4.84,1.63,4.87,4.47,1.56
+Austria,Tipico Bundesliga,2019/2020,23/02/2020,13:30,LASK,St. Polten,4,1,H,1.26,6.19,11.34,1.29,6.19,12.0,1.26,5.68,10.13
+Austria,Tipico Bundesliga,2019/2020,23/02/2020,16:00,Austria Vienna,Salzburg,2,2,D,5.17,4.79,1.56,5.88,4.9,1.61,5.07,4.54,1.53
+Austria,Tipico Bundesliga,2019/2020,01/03/2020,16:00,LASK,Hartberg,5,1,H,1.24,6.72,11.45,1.25,7.01,15.0,1.21,6.54,11.39
+Austria,Tipico Bundesliga,2019/2020,01/03/2020,16:00,Rapid Vienna,Mattersburg,3,1,H,1.27,5.92,11.22,1.33,6.05,11.22,1.26,5.6,9.92
+Austria,Tipico Bundesliga,2019/2020,01/03/2020,16:00,St. Polten,Wolfsberger AC,0,4,A,4.63,4.33,1.68,5.25,4.33,1.78,4.5,4.08,1.66
+Austria,Tipico Bundesliga,2019/2020,01/03/2020,16:00,Sturm Graz,Austria Vienna,1,1,D,2.09,3.76,3.38,2.25,3.76,3.4,2.09,3.56,3.2
+Austria,Tipico Bundesliga,2019/2020,01/03/2020,16:00,Tirol,Admira,1,1,D,2.09,3.75,3.4,2.18,3.75,3.6,2.05,3.55,3.32
+Austria,Tipico Bundesliga,2019/2020,02/03/2020,18:00,Altach,Salzburg,3,2,H,5.85,4.85,1.5,6.59,5.04,1.52,5.81,4.78,1.45
+Austria,Tipico Bundesliga,2019/2020,07/03/2020,16:00,Admira,Altach,2,0,H,2.94,3.3,2.52,3.2,3.46,2.52,2.91,3.23,2.41
+Austria,Tipico Bundesliga,2019/2020,07/03/2020,16:00,Austria Vienna,St. Polten,0,0,D,1.54,4.67,5.57,1.6,4.67,5.79,1.52,4.41,5.41
+Austria,Tipico Bundesliga,2019/2020,07/03/2020,16:00,Hartberg,Tirol,0,3,A,2.47,3.68,2.75,2.55,3.82,2.86,2.41,3.57,2.66
+Austria,Tipico Bundesliga,2019/2020,07/03/2020,16:00,Wolfsberger AC,Rapid Vienna,2,2,D,2.51,3.82,2.63,2.54,3.82,2.88,2.43,3.63,2.62
+Austria,Tipico Bundesliga,2019/2020,08/03/2020,13:30,Mattersburg,LASK,0,1,A,7.27,4.81,1.43,8.16,5.0,1.48,6.87,4.7,1.41
+Austria,Tipico Bundesliga,2019/2020,08/03/2020,13:30,Salzburg,Sturm Graz,2,0,H,1.4,5.27,7.08,1.43,5.4,8.0,1.38,5.11,6.79
+Austria,Tipico Bundesliga,2019/2020,02/06/2020,17:30,Mattersburg,Altach,1,1,D,2.93,3.35,2.5,3.17,3.44,2.5,2.85,3.28,2.4
+Austria,Tipico Bundesliga,2019/2020,02/06/2020,17:30,Tirol,St. Polten,0,5,A,2.19,3.52,3.33,2.25,3.62,3.39,2.15,3.45,3.16
+Austria,Tipico Bundesliga,2019/2020,02/06/2020,19:30,Austria Vienna,Admira,1,0,H,1.71,4.11,4.7,1.75,4.28,4.89,1.68,3.96,4.54
+Austria,Tipico Bundesliga,2019/2020,03/06/2020,17:30,LASK,Hartberg,1,2,A,1.24,6.43,11.14,1.28,7.53,14.81,1.24,6.22,10.07
+Austria,Tipico Bundesliga,2019/2020,03/06/2020,17:30,Sturm Graz,Wolfsberger AC,1,2,A,3.18,3.64,2.22,3.43,3.7,2.25,3.1,3.51,2.16
+Austria,Tipico Bundesliga,2019/2020,03/06/2020,19:30,Salzburg,Rapid Vienna,2,0,H,1.41,5.35,6.71,1.45,5.37,8.0,1.38,5.04,6.65
+Austria,Tipico Bundesliga,2019/2020,06/06/2020,16:00,Admira,Mattersburg,0,2,A,2.45,3.38,2.98,2.6,3.5,3.0,2.42,3.29,2.84
+Austria,Tipico Bundesliga,2019/2020,06/06/2020,16:00,Altach,Tirol,1,1,D,1.85,3.87,4.17,1.89,4.0,4.59,1.79,3.73,4.12
+Austria,Tipico Bundesliga,2019/2020,06/06/2020,16:00,St. Polten,Austria Vienna,1,1,D,2.77,3.48,2.56,2.9,3.54,2.6,2.77,3.38,2.43
+Austria,Tipico Bundesliga,2019/2020,07/06/2020,16:00,Hartberg,Salzburg,0,6,A,13.29,8.48,1.19,14.5,8.48,1.25,12.1,7.5,1.17
+Austria,Tipico Bundesliga,2019/2020,07/06/2020,16:00,Wolfsberger AC,LASK,3,3,D,3.06,3.79,2.27,3.18,3.79,2.35,2.94,3.55,2.24
+Austria,Tipico Bundesliga,2019/2020,07/06/2020,18:30,Rapid Vienna,Sturm Graz,4,0,H,2.03,3.77,3.67,2.05,3.77,3.8,1.96,3.61,3.54
+Austria,Tipico Bundesliga,2019/2020,09/06/2020,17:30,St. Polten,Admira,0,3,A,2.47,3.32,3.08,2.48,3.34,3.18,2.38,3.21,2.96
+Austria,Tipico Bundesliga,2019/2020,09/06/2020,17:30,Tirol,Mattersburg,1,1,D,2.19,3.7,3.29,2.3,3.71,3.35,2.18,3.51,3.06
+Austria,Tipico Bundesliga,2019/2020,09/06/2020,19:30,Austria Vienna,Altach,0,2,A,2.08,3.69,3.57,2.12,3.71,3.65,2.03,3.54,3.36
+Austria,Tipico Bundesliga,2019/2020,10/06/2020,17:30,LASK,Rapid Vienna,0,1,A,1.8,4.24,4.13,1.9,4.25,4.33,1.77,3.96,3.94
+Austria,Tipico Bundesliga,2019/2020,10/06/2020,17:30,Wolfsberger AC,Hartberg,2,4,A,1.4,5.47,7.1,1.41,6.0,9.22,1.35,5.28,7.29
+Austria,Tipico Bundesliga,2019/2020,10/06/2020,19:30,Sturm Graz,Salzburg,1,5,A,9.03,6.02,1.32,9.9,6.2,1.34,8.15,5.69,1.3
+Austria,Tipico Bundesliga,2019/2020,13/06/2020,16:00,Admira,Tirol,0,3,A,2.19,3.56,3.4,2.25,3.6,3.42,2.13,3.42,3.23
+Austria,Tipico Bundesliga,2019/2020,13/06/2020,16:00,Altach,St. Polten,2,0,H,1.93,3.87,3.89,1.95,3.87,3.95,1.87,3.72,3.74
+Austria,Tipico Bundesliga,2019/2020,13/06/2020,16:00,Mattersburg,Austria Vienna,1,4,A,3.23,3.67,2.23,3.23,3.67,2.3,3.02,3.51,2.2
+Austria,Tipico Bundesliga,2019/2020,14/06/2020,16:00,Hartberg,Sturm Graz,1,2,A,2.95,3.87,2.31,2.96,3.88,2.48,2.75,3.66,2.32
+Austria,Tipico Bundesliga,2019/2020,14/06/2020,16:00,Rapid Vienna,Wolfsberger AC,2,1,H,2.24,3.95,3.01,2.35,3.96,3.09,2.21,3.7,2.88
+Austria,Tipico Bundesliga,2019/2020,14/06/2020,18:30,Salzburg,LASK,3,1,H,1.45,5.13,6.68,1.5,5.13,7.5,1.43,4.77,6.21
+Austria,Tipico Bundesliga,2019/2020,16/06/2020,17:30,Admira,Altach,1,1,D,3.31,3.4,2.3,3.35,3.44,2.31,3.13,3.28,2.24
+Austria,Tipico Bundesliga,2019/2020,16/06/2020,17:30,St. Polten,Mattersburg,1,0,H,2.41,3.5,3.03,2.45,3.54,3.1,2.35,3.36,2.88
+Austria,Tipico Bundesliga,2019/2020,16/06/2020,19:30,Austria Vienna,Tirol,1,0,H,1.89,4.07,3.87,1.97,4.07,4.15,1.88,3.75,3.68
+Austria,Tipico Bundesliga,2019/2020,17/06/2020,17:30,Hartberg,Rapid Vienna,0,1,A,7.19,5.48,1.4,7.68,5.48,1.48,6.67,4.9,1.4
+Austria,Tipico Bundesliga,2019/2020,17/06/2020,17:30,Wolfsberger AC,Salzburg,0,0,D,8.01,5.98,1.34,10.5,5.98,1.37,7.44,5.45,1.33
+Austria,Tipico Bundesliga,2019/2020,17/06/2020,19:30,LASK,Sturm Graz,4,0,H,1.57,4.64,5.45,1.62,4.66,5.5,1.56,4.23,5.18
+Austria,Tipico Bundesliga,2019/2020,20/06/2020,16:00,Altach,Admira,1,1,D,1.88,3.72,4.33,1.92,3.8,4.33,1.86,3.55,3.97
+Austria,Tipico Bundesliga,2019/2020,20/06/2020,16:00,Mattersburg,St. Polten,2,0,H,2.75,3.44,2.66,2.8,3.5,2.66,2.67,3.33,2.52
+Austria,Tipico Bundesliga,2019/2020,20/06/2020,16:00,Tirol,Austria Vienna,1,2,A,3.12,3.66,2.29,3.2,3.72,2.3,2.98,3.51,2.22
+Austria,Tipico Bundesliga,2019/2020,21/06/2020,16:00,Rapid Vienna,Hartberg,0,1,A,1.41,5.27,7.24,1.45,5.27,8.17,1.37,5.03,6.92
+Austria,Tipico Bundesliga,2019/2020,21/06/2020,16:00,Salzburg,Wolfsberger AC,2,2,D,1.16,8.79,15.88,1.22,9.2,19.0,1.15,7.87,13.86
+Austria,Tipico Bundesliga,2019/2020,21/06/2020,18:30,Sturm Graz,LASK,0,2,A,4.55,3.84,1.81,4.76,4.2,1.82,4.25,3.77,1.75
+Austria,Tipico Bundesliga,2019/2020,23/06/2020,17:30,Admira,Austria Vienna,0,2,A,3.63,3.69,2.06,3.85,3.7,2.09,3.45,3.52,2.01
+Austria,Tipico Bundesliga,2019/2020,23/06/2020,17:30,Altach,Mattersburg,1,1,D,1.96,3.69,3.98,2.03,3.84,4.1,1.91,3.54,3.8
+Austria,Tipico Bundesliga,2019/2020,23/06/2020,19:30,St. Polten,Tirol,1,1,D,2.43,3.63,2.9,2.49,3.63,2.95,2.34,3.41,2.86
+Austria,Tipico Bundesliga,2019/2020,24/06/2020,17:30,Hartberg,LASK,1,5,A,8.39,5.88,1.34,8.8,6.19,1.4,8.0,5.57,1.3
+Austria,Tipico Bundesliga,2019/2020,24/06/2020,17:30,Wolfsberger AC,Sturm Graz,2,0,H,1.96,4.05,3.62,2.0,4.05,3.91,1.9,3.83,3.53
+Austria,Tipico Bundesliga,2019/2020,24/06/2020,19:30,Rapid Vienna,Salzburg,2,7,A,7.3,5.38,1.4,8.0,5.61,1.5,6.72,5.1,1.38
+Austria,Tipico Bundesliga,2019/2020,27/06/2020,16:00,Austria Vienna,St. Polten,2,5,A,2.05,3.71,3.64,2.08,4.08,3.71,1.98,3.62,3.45
+Austria,Tipico Bundesliga,2019/2020,27/06/2020,16:00,Mattersburg,Admira,1,2,A,2.88,3.47,2.53,3.0,3.47,2.65,2.84,3.24,2.44
+Austria,Tipico Bundesliga,2019/2020,27/06/2020,16:00,Tirol,Altach,0,1,A,3.11,3.58,2.33,3.21,3.58,2.36,2.95,3.41,2.28
+Austria,Tipico Bundesliga,2019/2020,28/06/2020,16:00,LASK,Wolfsberger AC,0,1,A,1.8,4.17,4.2,1.81,4.2,4.69,1.71,4.02,4.2
+Austria,Tipico Bundesliga,2019/2020,28/06/2020,16:00,Salzburg,Hartberg,3,0,H,1.06,15.98,33.57,1.07,22.0,35.0,1.05,13.63,27.14
+Austria,Tipico Bundesliga,2019/2020,28/06/2020,18:30,Sturm Graz,Rapid Vienna,2,3,A,3.91,3.86,1.93,4.02,3.97,1.98,3.68,3.67,1.9
+Austria,Tipico Bundesliga,2019/2020,30/06/2020,19:30,Admira,St. Polten,0,3,A,2.6,3.11,3.1,2.7,3.25,3.1,2.49,3.08,2.89
+Austria,Tipico Bundesliga,2019/2020,30/06/2020,19:30,Altach,Austria Vienna,1,2,A,2.2,3.78,3.2,2.35,3.78,3.25,2.18,3.52,3.05
+Austria,Tipico Bundesliga,2019/2020,30/06/2020,19:30,Mattersburg,Tirol,4,1,H,2.61,3.57,2.72,2.62,3.57,2.93,2.49,3.38,2.67
+Austria,Tipico Bundesliga,2019/2020,01/07/2020,19:30,Rapid Vienna,LASK,3,1,H,3.12,3.68,2.28,3.25,3.8,2.28,3.1,3.55,2.15
+Austria,Tipico Bundesliga,2019/2020,01/07/2020,19:30,Salzburg,Sturm Graz,5,2,H,1.15,11.12,11.64,1.17,11.12,25.0,1.12,9.27,15.85
+Austria,Tipico Bundesliga,2019/2020,02/07/2020,17:30,Hartberg,Wolfsberger AC,3,3,D,5.03,4.79,1.6,5.82,5.0,1.6,5.17,4.67,1.51
+Austria,Tipico Bundesliga,2019/2020,04/07/2020,16:00,Austria Vienna,Mattersburg,1,0,H,1.65,4.54,4.63,1.65,4.64,5.0,1.62,4.32,4.56
+Austria,Tipico Bundesliga,2019/2020,04/07/2020,16:00,St. Polten,Altach,2,0,H,2.99,3.76,2.27,2.99,3.92,2.45,2.76,3.66,2.29
+Austria,Tipico Bundesliga,2019/2020,04/07/2020,16:00,Tirol,Admira,0,0,D,2.82,3.38,2.57,2.82,3.64,2.67,2.66,3.34,2.52
+Austria,Tipico Bundesliga,2019/2020,05/07/2020,16:00,LASK,Salzburg,0,3,A,4.36,4.95,1.64,4.63,4.95,1.67,4.28,4.59,1.62
+Austria,Tipico Bundesliga,2019/2020,05/07/2020,16:00,Sturm Graz,Hartberg,1,4,A,2.19,4.11,2.94,2.19,4.15,3.36,2.06,3.93,3.01
+Austria,Tipico Bundesliga,2019/2020,05/07/2020,16:00,Wolfsberger AC,Rapid Vienna,3,1,H,1.78,4.4,3.96,1.78,4.48,4.12,1.74,4.16,3.92
+Austria,Tipico Bundesliga,2019/2020,08/07/2020,19:30,Austria Vienna,Altach,1,0,H,2.28,3.58,3.11,2.3,3.65,3.45,2.21,3.48,3.02
+Austria,Tipico Bundesliga,2019/2020,11/07/2020,16:00,Austria Vienna,Hartberg,2,3,A,1.87,4.16,3.81,2.0,4.16,4.2,1.86,3.88,3.61
+Austria,Tipico Bundesliga,2019/2020,15/07/2020,19:30,Hartberg,Austria Vienna,0,0,D,2.86,4.2,2.21,2.9,4.25,2.25,2.79,3.97,2.16

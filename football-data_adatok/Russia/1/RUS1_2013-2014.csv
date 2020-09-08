@@ -1,0 +1,245 @@
+Country,League,Season,Date,Time,Home,Away,HG,AG,Res,PH,PD,PA,MaxH,MaxD,MaxA,AvgH,AvgD,AvgA
+Russia,Premier League,2013/2014,14/07/2013,10:30,Dynamo Moscow,Volga N. Novgorod,2,2,D,1.64,3.8,6.4,1.65,3.85,7.0,1.57,3.66,6.03
+Russia,Premier League,2013/2014,14/07/2013,15:30,FK Anzi Makhackala,Lokomotiv Moscow,2,2,D,1.73,3.7,5.66,1.75,3.75,5.75,1.65,3.58,5.21
+Russia,Premier League,2013/2014,14/07/2013,18:00,Kuban,Rubin Kazan,1,1,D,2.31,3.33,3.42,2.45,3.33,3.42,2.29,3.16,3.07
+Russia,Premier League,2013/2014,15/07/2013,17:00,FK Rostov,Akhmat Grozny,2,1,H,2.82,3.21,2.79,2.82,3.4,3.05,2.65,3.07,2.68
+Russia,Premier League,2013/2014,16/07/2013,14:00,Amkar,Tomsk,2,0,H,2.16,3.19,4.01,2.16,3.45,4.33,2.04,3.16,3.73
+Russia,Premier League,2013/2014,16/07/2013,16:30,FK Krylya Sovetov Samara,Spartak Moscow,1,2,A,4.15,3.51,2.0,5.3,3.7,2.0,4.19,3.45,1.83
+Russia,Premier League,2013/2014,17/07/2013,14:30,Ural,CSKA Moscow,2,2,D,8.96,4.76,1.41,10.5,5.0,1.45,7.69,4.35,1.4
+Russia,Premier League,2013/2014,17/07/2013,17:00,Krasnodar,Zenit,1,2,A,4.13,3.29,2.09,4.59,3.55,2.15,3.68,3.26,2.0
+Russia,Premier League,2013/2014,19/07/2013,17:00,Dynamo Moscow,FK Anzi Makhackala,2,1,H,3.58,3.33,2.24,3.75,3.6,2.25,3.29,3.2,2.17
+Russia,Premier League,2013/2014,20/07/2013,13:00,Tomsk,Kuban,1,2,A,3.9,3.31,2.14,4.45,3.5,2.36,3.6,3.23,2.05
+Russia,Premier League,2013/2014,20/07/2013,15:30,Volga N. Novgorod,Lokomotiv Moscow,1,2,A,4.21,3.6,1.95,4.4,3.65,2.06,3.84,3.28,1.95
+Russia,Premier League,2013/2014,20/07/2013,18:00,Akhmat Grozny,Amkar,1,1,D,1.76,3.58,5.59,1.76,3.95,5.73,1.71,3.45,4.94
+Russia,Premier League,2013/2014,21/07/2013,10:30,Rubin Kazan,Zenit,2,1,H,2.67,3.28,2.89,2.9,3.28,2.89,2.7,3.11,2.61
+Russia,Premier League,2013/2014,21/07/2013,13:00,Ural,Spartak Moscow,0,2,A,6.02,4.05,1.62,6.5,4.3,1.7,5.73,3.76,1.57
+Russia,Premier League,2013/2014,21/07/2013,17:00,FK Rostov,Krasnodar,2,2,D,2.98,3.26,2.62,2.98,3.26,2.9,2.67,3.07,2.63
+Russia,Premier League,2013/2014,22/07/2013,17:00,CSKA Moscow,FK Krylya Sovetov Samara,2,1,H,1.28,6.13,12.32,1.29,6.5,15.0,1.24,5.68,10.9
+Russia,Premier League,2013/2014,26/07/2013,17:00,Zenit,Kuban,1,1,D,1.72,3.82,5.4,1.75,4.0,6.0,1.66,3.61,5.11
+Russia,Premier League,2013/2014,27/07/2013,10:30,Dynamo Moscow,Spartak Moscow,1,4,A,3.37,3.37,2.31,3.55,3.45,2.31,3.17,3.22,2.22
+Russia,Premier League,2013/2014,27/07/2013,13:30,Ural,Volga N. Novgorod,1,2,A,2.38,3.31,3.3,2.45,3.31,3.45,2.32,3.14,3.04
+Russia,Premier League,2013/2014,27/07/2013,17:00,FK Rostov,Tomsk,3,0,H,1.76,3.72,5.23,1.8,3.9,5.7,1.74,3.5,4.64
+Russia,Premier League,2013/2014,28/07/2013,10:30,Lokomotiv Moscow,CSKA Moscow,1,2,A,3.46,3.41,2.24,3.7,3.46,2.24,3.33,3.28,2.13
+Russia,Premier League,2013/2014,28/07/2013,15:30,FK Krylya Sovetov Samara,FK Anzi Makhackala,1,1,D,5.77,3.87,1.68,5.77,3.87,1.84,4.91,3.48,1.71
+Russia,Premier League,2013/2014,28/07/2013,18:00,Akhmat Grozny,Rubin Kazan,0,0,D,3.31,3.26,2.39,3.35,3.35,2.6,2.99,3.1,2.39
+Russia,Premier League,2013/2014,29/07/2013,17:00,Krasnodar,Amkar,2,1,H,1.75,3.77,5.31,1.91,4.0,5.7,1.71,3.51,4.87
+Russia,Premier League,2013/2014,02/08/2013,17:00,FK Anzi Makhackala,FK Rostov,0,1,A,1.55,4.26,6.77,1.6,4.5,7.1,1.53,3.99,5.85
+Russia,Premier League,2013/2014,03/08/2013,10:30,Volga N. Novgorod,Zenit,1,3,A,6.55,4.03,1.6,8.1,4.34,1.6,5.92,3.81,1.55
+Russia,Premier League,2013/2014,03/08/2013,14:20,Tomsk,Ural,1,2,A,2.5,3.15,3.25,2.5,3.2,3.25,2.37,3.11,2.96
+Russia,Premier League,2013/2014,03/08/2013,15:30,Dynamo Moscow,Akhmat Grozny,1,0,H,1.93,3.47,4.59,1.96,3.6,4.59,1.86,3.39,4.07
+Russia,Premier League,2013/2014,04/08/2013,10:30,Rubin Kazan,CSKA Moscow,0,0,D,2.83,3.28,2.73,3.05,3.35,2.73,2.77,3.16,2.51
+Russia,Premier League,2013/2014,04/08/2013,13:00,Amkar,FK Krylya Sovetov Samara,0,0,D,1.98,3.41,4.36,2.06,3.5,4.36,1.94,3.28,3.88
+Russia,Premier League,2013/2014,04/08/2013,17:30,Kuban,Spartak Moscow,2,2,D,3.03,3.25,2.58,3.4,3.45,2.58,2.87,3.19,2.4
+Russia,Premier League,2013/2014,05/08/2013,18:15,Lokomotiv Moscow,Krasnodar,3,1,H,1.75,3.97,4.9,1.85,3.97,4.95,1.72,3.56,4.46
+Russia,Premier League,2013/2014,17/08/2013,10:30,Ural,Amkar,0,0,D,2.67,3.33,2.85,2.67,3.33,3.0,2.49,3.15,2.76
+Russia,Premier League,2013/2014,17/08/2013,15:15,Zenit,FK Anzi Makhackala,3,0,H,1.47,4.59,7.95,1.5,4.8,9.3,1.42,4.29,7.22
+Russia,Premier League,2013/2014,17/08/2013,17:30,Akhmat Grozny,Lokomotiv Moscow,0,1,A,2.97,3.33,2.57,3.1,3.33,2.65,2.85,3.15,2.45
+Russia,Premier League,2013/2014,18/08/2013,10:30,CSKA Moscow,Kuban,1,0,H,1.78,3.66,5.28,1.78,3.9,5.7,1.66,3.6,5.07
+Russia,Premier League,2013/2014,18/08/2013,12:45,Spartak Moscow,Rubin Kazan,0,0,D,2.25,3.22,3.67,2.25,3.45,3.95,2.09,3.27,3.42
+Russia,Premier League,2013/2014,18/08/2013,15:00,FK Krylya Sovetov Samara,Tomsk,1,0,H,1.87,3.71,4.47,1.94,3.71,4.9,1.84,3.33,4.26
+Russia,Premier League,2013/2014,18/08/2013,17:15,Krasnodar,Dynamo Moscow,1,1,D,2.71,3.21,2.89,2.95,3.3,2.89,2.65,3.15,2.6
+Russia,Premier League,2013/2014,19/08/2013,17:00,FK Rostov,Volga N. Novgorod,4,0,H,1.88,3.53,4.75,1.91,3.75,5.5,1.8,3.39,4.39
+Russia,Premier League,2013/2014,24/08/2013,10:30,Dynamo Moscow,Zenit,1,1,D,3.69,3.39,2.18,3.95,3.45,2.25,3.39,3.21,2.13
+Russia,Premier League,2013/2014,24/08/2013,13:00,Tomsk,CSKA Moscow,1,2,A,8.83,4.72,1.43,9.8,4.9,1.43,7.97,4.36,1.39
+Russia,Premier League,2013/2014,24/08/2013,15:30,Volga N. Novgorod,Akhmat Grozny,1,0,H,3.12,3.31,2.49,3.35,3.35,2.54,2.92,3.1,2.43
+Russia,Premier League,2013/2014,24/08/2013,18:00,FK Anzi Makhackala,Krasnodar,1,2,A,2.8,3.21,2.8,3.08,3.4,2.8,2.75,3.19,2.51
+Russia,Premier League,2013/2014,25/08/2013,14:30,Rubin Kazan,FK Krylya Sovetov Samara,1,1,D,1.53,4.03,7.89,1.53,4.65,9.4,1.47,3.93,7.03
+Russia,Premier League,2013/2014,25/08/2013,17:00,Kuban,Ural,3,2,H,1.5,4.11,8.67,1.6,4.15,8.67,1.52,3.75,6.72
+Russia,Premier League,2013/2014,26/08/2013,14:45,Amkar,Spartak Moscow,2,1,H,4.45,3.58,1.92,4.95,3.85,1.94,4.3,3.41,1.82
+Russia,Premier League,2013/2014,26/08/2013,17:00,Lokomotiv Moscow,FK Rostov,5,0,H,1.64,4.11,5.84,1.7,4.2,6.04,1.62,3.7,5.43
+Russia,Premier League,2013/2014,30/08/2013,17:00,CSKA Moscow,Amkar,2,1,H,1.35,5.18,11.11,1.37,5.5,13.0,1.33,4.76,8.92
+Russia,Premier League,2013/2014,31/08/2013,15:45,Akhmat Grozny,FK Anzi Makhackala,1,1,D,1.98,3.53,4.24,1.99,3.65,5.0,1.86,3.39,4.15
+Russia,Premier League,2013/2014,31/08/2013,18:00,Krasnodar,Volga N. Novgorod,3,0,H,1.63,4.1,6.05,1.67,4.1,6.5,1.61,3.75,5.42
+Russia,Premier League,2013/2014,01/09/2013,10:30,Ural,Rubin Kazan,0,3,A,5.04,3.62,1.82,5.5,3.65,1.95,4.24,3.39,1.83
+Russia,Premier League,2013/2014,01/09/2013,10:30,Zenit,Lokomotiv Moscow,2,1,H,1.94,3.39,4.57,2.05,3.5,4.6,1.9,3.36,3.97
+Russia,Premier League,2013/2014,01/09/2013,12:45,Spartak Moscow,Tomsk,2,1,H,1.36,5.25,10.05,1.36,5.8,13.0,1.27,5.21,10.31
+Russia,Premier League,2013/2014,01/09/2013,15:00,FK Krylya Sovetov Samara,Kuban,0,0,D,3.64,3.31,2.22,3.75,3.4,2.25,3.31,3.22,2.15
+Russia,Premier League,2013/2014,01/09/2013,17:15,Dynamo Moscow,FK Rostov,1,1,D,1.62,4.08,6.09,1.62,4.25,7.32,1.55,3.71,6.22
+Russia,Premier League,2013/2014,14/09/2013,10:30,CSKA Moscow,FK Rostov,1,0,H,1.45,4.48,8.85,1.45,4.85,9.5,1.41,4.28,7.69
+Russia,Premier League,2013/2014,14/09/2013,12:45,Volga N. Novgorod,Spartak Moscow,0,1,A,5.46,3.83,1.72,6.2,3.95,1.72,5.24,3.6,1.64
+Russia,Premier League,2013/2014,14/09/2013,15:00,Krasnodar,FK Krylya Sovetov Samara,1,1,D,1.67,3.98,5.75,1.73,4.05,6.1,1.64,3.63,5.2
+Russia,Premier League,2013/2014,14/09/2013,17:15,Zenit,Akhmat Grozny,2,0,H,1.38,4.9,10.05,1.4,5.2,10.05,1.37,4.51,7.98
+Russia,Premier League,2013/2014,15/09/2013,10:30,Lokomotiv Moscow,Kuban,1,0,H,2.0,3.54,4.11,2.02,3.7,5.2,1.89,3.33,4.05
+Russia,Premier League,2013/2014,15/09/2013,12:45,Tomsk,FK Anzi Makhackala,2,2,D,2.98,3.28,2.6,3.25,3.3,2.6,2.95,3.09,2.42
+Russia,Premier League,2013/2014,15/09/2013,15:00,Amkar,Rubin Kazan,0,0,D,3.96,3.32,2.12,4.33,3.45,2.15,3.63,3.19,2.05
+Russia,Premier League,2013/2014,16/09/2013,14:00,Ural,Dynamo Moscow,1,4,A,5.75,3.75,1.71,6.8,4.1,1.75,5.2,3.61,1.65
+Russia,Premier League,2013/2014,21/09/2013,10:30,Dynamo Moscow,Lokomotiv Moscow,1,3,A,2.71,3.21,2.9,2.71,3.35,3.34,2.33,3.17,3.02
+Russia,Premier League,2013/2014,21/09/2013,13:00,FK Krylya Sovetov Samara,Ural,1,1,D,1.79,3.67,5.15,2.0,3.7,5.15,1.83,3.41,4.25
+Russia,Premier League,2013/2014,21/09/2013,15:30,Akhmat Grozny,Krasnodar,0,1,A,2.62,3.27,2.96,2.82,3.3,3.05,2.57,3.1,2.74
+Russia,Premier League,2013/2014,22/09/2013,10:30,Spartak Moscow,CSKA Moscow,3,0,H,2.87,3.32,2.66,2.98,3.35,2.75,2.78,3.11,2.53
+Russia,Premier League,2013/2014,22/09/2013,10:30,Volga N. Novgorod,FK Anzi Makhackala,2,1,H,2.56,3.26,3.05,2.56,3.35,3.35,2.3,3.13,3.11
+Russia,Premier League,2013/2014,22/09/2013,13:00,Rubin Kazan,Tomsk,1,2,A,1.33,5.19,11.9,1.33,5.8,14.87,1.3,4.84,10.27
+Russia,Premier League,2013/2014,22/09/2013,15:15,Kuban,Amkar,0,3,A,1.69,3.65,6.25,1.76,3.7,6.5,1.67,3.45,5.31
+Russia,Premier League,2013/2014,22/09/2013,17:30,FK Rostov,Zenit,0,4,A,5.6,3.79,1.71,5.8,3.85,1.8,4.78,3.51,1.72
+Russia,Premier League,2013/2014,25/09/2013,15:15,FK Krylya Sovetov Samara,Zenit,1,4,A,5.65,4.21,1.64,7.5,4.9,1.64,6.26,4.05,1.5
+Russia,Premier League,2013/2014,25/09/2013,15:15,Spartak Moscow,Krasnodar,3,2,H,1.6,4.29,6.04,1.6,4.6,7.9,1.54,3.91,5.93
+Russia,Premier League,2013/2014,25/09/2013,16:00,Kuban,Akhmat Grozny,3,1,H,1.72,3.78,5.58,1.75,3.9,5.9,1.69,3.57,4.89
+Russia,Premier League,2013/2014,25/09/2013,17:30,CSKA Moscow,FK Anzi Makhackala,0,0,D,1.47,4.48,8.18,1.47,5.4,12.0,1.4,4.38,7.93
+Russia,Premier League,2013/2014,26/09/2013,13:00,Tomsk,Volga N. Novgorod,1,0,H,2.45,3.26,3.23,2.55,3.4,3.31,2.35,3.14,3.0
+Russia,Premier League,2013/2014,26/09/2013,14:00,Amkar,FK Rostov,1,0,H,1.98,3.42,4.42,2.15,3.55,4.6,1.97,3.27,3.84
+Russia,Premier League,2013/2014,26/09/2013,15:15,Ural,Lokomotiv Moscow,0,3,A,6.75,4.28,1.56,7.7,4.65,1.58,6.24,3.97,1.5
+Russia,Premier League,2013/2014,26/09/2013,17:30,Rubin Kazan,Dynamo Moscow,2,2,D,2.25,3.07,3.32,2.6,3.3,3.58,2.25,3.13,3.2
+Russia,Premier League,2013/2014,28/09/2013,13:00,Akhmat Grozny,CSKA Moscow,2,0,H,5.04,3.68,1.8,5.8,3.9,1.86,4.82,3.42,1.74
+Russia,Premier League,2013/2014,28/09/2013,15:00,Zenit,Spartak Moscow,4,2,H,1.71,4.0,5.21,1.85,4.1,5.21,1.72,3.63,4.54
+Russia,Premier League,2013/2014,29/09/2013,10:30,Dynamo Moscow,FK Krylya Sovetov Samara,2,0,H,1.48,4.49,8.0,1.51,5.3,10.0,1.43,4.15,7.22
+Russia,Premier League,2013/2014,29/09/2013,12:45,Volga N. Novgorod,Kuban,1,0,H,4.83,3.42,1.9,4.83,3.48,2.05,4.03,3.28,1.91
+Russia,Premier League,2013/2014,29/09/2013,15:00,Krasnodar,Rubin Kazan,1,0,H,2.75,3.18,2.88,2.75,3.3,2.95,2.57,3.07,2.76
+Russia,Premier League,2013/2014,29/09/2013,17:15,FK Anzi Makhackala,Amkar,2,2,D,2.6,3.24,3.0,2.6,3.25,3.45,2.44,3.06,2.93
+Russia,Premier League,2013/2014,30/09/2013,15:15,Lokomotiv Moscow,Tomsk,0,0,D,1.22,6.66,18.23,1.3,6.9,18.23,1.23,5.71,11.73
+Russia,Premier League,2013/2014,30/09/2013,17:30,FK Rostov,Ural,1,1,D,1.63,4.02,6.12,1.67,4.45,7.3,1.57,3.76,5.92
+Russia,Premier League,2013/2014,04/10/2013,16:00,Volga N. Novgorod,Amkar,0,2,A,3.44,3.41,2.27,3.8,3.41,2.5,3.15,3.13,2.28
+Russia,Premier League,2013/2014,05/10/2013,10:30,Ural,Krasnodar,0,2,A,4.44,3.65,1.92,4.5,3.7,2.05,4.02,3.34,1.9
+Russia,Premier League,2013/2014,05/10/2013,13:00,FK Krylya Sovetov Samara,Lokomotiv Moscow,2,2,D,5.29,3.78,1.75,5.9,3.8,1.76,5.03,3.63,1.66
+Russia,Premier League,2013/2014,06/10/2013,10:30,CSKA Moscow,Dynamo Moscow,0,2,A,2.64,3.3,2.92,2.72,3.4,3.06,2.51,3.16,2.77
+Russia,Premier League,2013/2014,06/10/2013,10:30,Spartak Moscow,Akhmat Grozny,0,0,D,1.65,3.93,6.04,1.65,4.5,7.3,1.55,3.96,5.65
+Russia,Premier League,2013/2014,06/10/2013,12:45,Tomsk,Zenit,0,3,A,8.97,4.82,1.42,10.5,5.0,1.44,7.73,4.5,1.38
+Russia,Premier League,2013/2014,06/10/2013,15:00,Rubin Kazan,FK Anzi Makhackala,5,1,H,1.51,4.12,7.9,1.54,4.6,8.5,1.46,4.03,7.06
+Russia,Premier League,2013/2014,06/10/2013,17:15,Kuban,FK Rostov,2,2,D,1.68,3.95,5.64,1.7,3.95,6.2,1.63,3.61,5.32
+Russia,Premier League,2013/2014,18/10/2013,17:00,Zenit,CSKA Moscow,2,0,H,1.61,4.17,6.13,1.75,4.3,6.13,1.6,3.81,5.38
+Russia,Premier League,2013/2014,19/10/2013,10:30,Akhmat Grozny,Ural,1,1,D,1.61,3.95,6.64,1.67,4.33,7.1,1.56,3.8,5.76
+Russia,Premier League,2013/2014,19/10/2013,13:00,Krasnodar,Tomsk,4,0,H,1.52,4.34,7.21,1.57,4.55,7.21,1.5,4.02,6.25
+Russia,Premier League,2013/2014,20/10/2013,10:30,FK Anzi Makhackala,Spartak Moscow,0,1,A,4.84,3.75,1.81,5.6,4.25,1.81,4.62,3.68,1.7
+Russia,Premier League,2013/2014,20/10/2013,12:45,FK Rostov,FK Krylya Sovetov Samara,1,2,A,2.18,3.1,4.1,2.2,3.35,4.15,2.06,3.15,3.64
+Russia,Premier League,2013/2014,20/10/2013,15:00,Dynamo Moscow,Kuban,3,1,H,1.68,3.89,5.72,1.77,4.1,5.9,1.69,3.59,4.89
+Russia,Premier League,2013/2014,20/10/2013,17:15,Volga N. Novgorod,Rubin Kazan,2,1,H,5.75,4.1,1.65,6.6,4.3,1.7,5.41,3.72,1.61
+Russia,Premier League,2013/2014,21/10/2013,16:00,Lokomotiv Moscow,Amkar,4,0,H,1.68,3.84,5.96,1.73,4.05,6.0,1.63,3.62,5.36
+Russia,Premier League,2013/2014,25/10/2013,16:00,FK Krylya Sovetov Samara,Volga N. Novgorod,2,2,D,2.17,3.19,4.01,2.17,3.3,4.4,2.07,3.11,3.69
+Russia,Premier League,2013/2014,26/10/2013,09:30,Tomsk,Akhmat Grozny,0,0,D,3.0,3.18,2.65,3.05,3.2,2.7,2.85,3.09,2.48
+Russia,Premier League,2013/2014,26/10/2013,11:45,Amkar,Dynamo Moscow,2,1,H,3.9,3.53,2.06,4.25,3.7,2.2,3.52,3.27,2.06
+Russia,Premier League,2013/2014,26/10/2013,14:00,Ural,Zenit,1,2,A,11.56,5.74,1.3,16.0,6.3,1.33,10.26,5.32,1.27
+Russia,Premier League,2013/2014,26/10/2013,16:30,Spartak Moscow,FK Rostov,2,0,H,1.44,4.71,8.38,1.44,4.95,10.0,1.39,4.3,8.1
+Russia,Premier League,2013/2014,27/10/2013,09:30,Rubin Kazan,Lokomotiv Moscow,1,2,A,2.72,3.06,2.8,2.96,3.3,2.82,2.58,3.09,2.73
+Russia,Premier League,2013/2014,27/10/2013,12:00,CSKA Moscow,Krasnodar,5,1,H,1.75,3.84,5.14,1.77,4.1,5.5,1.71,3.58,4.71
+Russia,Premier League,2013/2014,28/10/2013,15:00,Kuban,FK Anzi Makhackala,2,0,H,1.56,4.09,7.22,1.65,4.4,7.22,1.55,3.76,5.99
+Russia,Premier League,2013/2014,02/11/2013,09:30,Volga N. Novgorod,CSKA Moscow,1,2,A,6.4,4.14,1.6,7.5,4.45,1.6,5.75,3.9,1.54
+Russia,Premier League,2013/2014,02/11/2013,12:00,Dynamo Moscow,Tomsk,1,0,H,1.35,5.15,11.27,1.36,5.3,12.0,1.3,4.93,9.64
+Russia,Premier League,2013/2014,02/11/2013,14:30,Zenit,Amkar,1,1,D,1.31,5.7,11.97,1.32,6.0,13.0,1.26,5.42,10.39
+Russia,Premier League,2013/2014,03/11/2013,09:30,Krasnodar,Kuban,1,2,A,2.61,3.34,2.93,2.61,3.34,3.3,2.46,3.13,2.86
+Russia,Premier League,2013/2014,03/11/2013,11:45,FK Rostov,Rubin Kazan,0,0,D,3.41,3.24,2.36,3.7,3.3,2.36,3.33,3.19,2.16
+Russia,Premier League,2013/2014,03/11/2013,14:00,Spartak Moscow,Lokomotiv Moscow,1,3,A,2.9,3.28,2.66,2.9,3.3,2.8,2.74,3.07,2.58
+Russia,Premier League,2013/2014,03/11/2013,16:15,FK Anzi Makhackala,Ural,0,1,A,1.92,3.54,4.5,1.95,3.75,4.9,1.87,3.41,4.02
+Russia,Premier League,2013/2014,04/11/2013,12:00,Akhmat Grozny,FK Krylya Sovetov Samara,0,1,A,2.01,3.38,4.35,2.03,3.5,4.35,1.94,3.22,3.96
+Russia,Premier League,2013/2014,08/11/2013,13:00,Ural,FK Rostov,1,4,A,3.0,3.17,2.64,3.13,3.2,2.64,2.89,3.06,2.47
+Russia,Premier League,2013/2014,09/11/2013,09:30,Tomsk,Lokomotiv Moscow,2,0,H,7.36,4.4,1.51,9.2,4.5,1.52,6.8,4.06,1.47
+Russia,Premier League,2013/2014,09/11/2013,12:00,FK Krylya Sovetov Samara,Dynamo Moscow,1,2,A,5.03,3.45,1.86,5.7,3.5,1.95,4.25,3.33,1.85
+Russia,Premier League,2013/2014,10/11/2013,09:30,Spartak Moscow,Zenit,4,2,H,3.53,3.58,2.15,3.8,3.63,2.2,3.35,3.31,2.1
+Russia,Premier League,2013/2014,10/11/2013,10:00,Amkar,FK Anzi Makhackala,1,0,H,1.71,3.7,5.82,1.77,3.9,6.0,1.67,3.51,5.24
+Russia,Premier League,2013/2014,10/11/2013,11:45,CSKA Moscow,Akhmat Grozny,4,1,H,1.52,4.17,7.81,1.55,4.5,8.8,1.47,3.98,7.04
+Russia,Premier League,2013/2014,10/11/2013,14:00,Rubin Kazan,Krasnodar,0,1,A,1.78,3.61,5.17,1.95,3.61,5.4,1.79,3.36,4.52
+Russia,Premier League,2013/2014,10/11/2013,16:15,Kuban,Volga N. Novgorod,4,0,H,1.53,4.22,7.55,1.57,4.22,8.1,1.51,3.9,6.4
+Russia,Premier League,2013/2014,22/11/2013,15:00,Zenit,FK Rostov,0,2,A,1.28,6.14,12.16,1.33,6.5,14.0,1.28,5.33,9.78
+Russia,Premier League,2013/2014,23/11/2013,08:30,Tomsk,Rubin Kazan,0,1,A,3.63,3.15,2.32,3.9,3.3,2.35,3.47,3.07,2.16
+Russia,Premier League,2013/2014,23/11/2013,10:45,Amkar,Kuban,3,1,H,2.62,3.28,2.95,2.62,3.45,3.05,2.41,3.13,2.91
+Russia,Premier League,2013/2014,23/11/2013,13:00,CSKA Moscow,Spartak Moscow,1,0,H,2.18,3.49,3.58,2.35,3.7,3.58,2.14,3.3,3.27
+Russia,Premier League,2013/2014,24/11/2013,09:30,Lokomotiv Moscow,Dynamo Moscow,1,0,H,2.16,3.28,3.28,3.1,4.2,3.75,2.22,3.24,3.17
+Russia,Premier League,2013/2014,24/11/2013,12:00,Ural,FK Krylya Sovetov Samara,1,1,D,3.17,3.11,2.57,3.17,3.2,2.68,2.89,3.02,2.49
+Russia,Premier League,2013/2014,24/11/2013,14:30,FK Anzi Makhackala,Volga N. Novgorod,0,0,D,2.04,3.02,4.0,2.25,3.35,4.15,2.08,3.14,3.56
+Russia,Premier League,2013/2014,25/11/2013,15:00,Krasnodar,Akhmat Grozny,3,2,H,1.82,3.65,4.93,1.82,4.05,6.6,1.72,3.5,4.76
+Russia,Premier League,2013/2014,30/11/2013,10:00,Dynamo Moscow,Ural,3,0,H,1.28,5.83,14.31,1.35,5.83,14.31,1.29,4.91,10.37
+Russia,Premier League,2013/2014,01/12/2013,09:30,Akhmat Grozny,Zenit,1,1,D,5.86,3.97,1.66,7.3,4.2,1.66,6.04,3.87,1.54
+Russia,Premier League,2013/2014,01/12/2013,12:00,FK Krylya Sovetov Samara,Krasnodar,1,0,H,3.17,3.18,2.54,3.17,3.3,2.6,2.9,3.03,2.48
+Russia,Premier League,2013/2014,01/12/2013,14:30,Spartak Moscow,Volga N. Novgorod,6,1,H,1.41,4.81,9.2,1.42,5.0,10.5,1.34,4.65,8.84
+Russia,Premier League,2013/2014,02/12/2013,13:00,FK Anzi Makhackala,Tomsk,0,2,A,2.23,3.18,3.82,2.25,3.3,4.05,2.14,3.11,3.49
+Russia,Premier League,2013/2014,02/12/2013,13:00,FK Rostov,CSKA Moscow,0,0,D,4.26,3.35,2.03,4.6,3.55,2.09,4.04,3.27,1.92
+Russia,Premier League,2013/2014,02/12/2013,15:30,Kuban,Lokomotiv Moscow,1,3,A,3.37,3.48,2.28,3.6,3.48,2.44,3.13,3.18,2.27
+Russia,Premier League,2013/2014,02/12/2013,15:30,Rubin Kazan,Amkar,3,0,H,2.14,3.19,4.07,2.19,3.3,4.7,2.01,3.12,3.89
+Russia,Premier League,2013/2014,06/12/2013,13:45,Krasnodar,CSKA Moscow,1,0,H,3.13,3.38,2.44,3.65,3.55,2.44,3.13,3.23,2.24
+Russia,Premier League,2013/2014,06/12/2013,16:00,Zenit,Ural,2,1,H,1.19,7.47,19.5,1.22,7.49,21.35,1.18,6.48,14.56
+Russia,Premier League,2013/2014,07/12/2013,09:30,Volga N. Novgorod,FK Krylya Sovetov Samara,1,2,A,2.75,2.91,2.74,2.8,3.2,3.11,2.6,3.0,2.78
+Russia,Premier League,2013/2014,07/12/2013,12:00,FK Anzi Makhackala,Kuban,0,0,D,4.43,3.27,2.02,4.43,3.65,2.3,3.77,3.23,2.0
+Russia,Premier League,2013/2014,07/12/2013,14:30,Lokomotiv Moscow,Rubin Kazan,0,0,D,1.76,3.6,5.54,1.8,3.7,6.2,1.72,3.41,5.05
+Russia,Premier League,2013/2014,08/12/2013,09:30,FK Rostov,Spartak Moscow,0,1,A,3.76,3.43,2.14,4.8,3.75,2.14,3.88,3.26,1.95
+Russia,Premier League,2013/2014,08/12/2013,12:00,Dynamo Moscow,Amkar,2,0,H,1.71,3.52,6.32,1.75,3.75,7.4,1.64,3.51,5.6
+Russia,Premier League,2013/2014,08/12/2013,12:30,Akhmat Grozny,Tomsk,2,0,H,1.72,3.6,6.05,1.8,3.8,6.4,1.7,3.44,5.07
+Russia,Premier League,2013/2014,08/03/2014,12:30,Krasnodar,Ural,0,1,A,1.55,4.21,7.11,1.55,4.33,7.7,1.48,4.06,6.65
+Russia,Premier League,2013/2014,08/03/2014,15:00,Akhmat Grozny,Spartak Moscow,1,0,H,3.49,3.36,2.27,3.9,3.4,2.27,3.44,3.23,2.1
+Russia,Premier League,2013/2014,09/03/2014,09:30,Dynamo Moscow,CSKA Moscow,4,2,H,2.36,3.33,3.32,2.4,3.33,3.4,2.31,3.14,3.1
+Russia,Premier League,2013/2014,09/03/2014,12:00,FK Anzi Makhackala,Rubin Kazan,1,0,H,2.51,3.21,3.17,2.51,3.24,3.45,2.31,3.09,3.13
+Russia,Premier League,2013/2014,09/03/2014,14:30,Zenit,Tomsk,0,0,D,1.29,5.77,13.49,1.3,6.25,15.0,1.25,5.63,10.91
+Russia,Premier League,2013/2014,10/03/2014,10:00,Amkar,Volga N. Novgorod,5,1,H,1.66,3.69,6.58,1.75,3.75,6.9,1.63,3.51,5.66
+Russia,Premier League,2013/2014,10/03/2014,12:30,Lokomotiv Moscow,FK Krylya Sovetov Samara,2,1,H,1.42,4.53,9.95,1.43,4.75,12.0,1.38,4.36,8.42
+Russia,Premier League,2013/2014,10/03/2014,15:00,FK Rostov,Kuban,0,0,D,2.77,3.1,2.91,2.77,3.2,2.98,2.66,3.02,2.71
+Russia,Premier League,2013/2014,14/03/2014,13:00,Ural,Akhmat Grozny,2,1,H,3.22,3.21,2.47,3.45,3.21,2.55,3.02,3.08,2.38
+Russia,Premier League,2013/2014,15/03/2014,09:30,FK Krylya Sovetov Samara,FK Rostov,0,2,A,2.87,3.12,2.81,2.98,3.2,2.81,2.71,3.03,2.65
+Russia,Premier League,2013/2014,15/03/2014,12:00,CSKA Moscow,Zenit,1,0,H,2.46,3.38,3.11,2.6,3.4,3.2,2.39,3.21,2.9
+Russia,Premier League,2013/2014,15/03/2014,14:30,Kuban,Dynamo Moscow,1,1,D,3.15,3.21,2.52,3.7,3.45,2.52,3.19,3.15,2.26
+Russia,Premier League,2013/2014,16/03/2014,09:30,Amkar,Lokomotiv Moscow,0,0,D,3.42,3.25,2.35,3.75,3.4,2.4,3.32,3.17,2.19
+Russia,Premier League,2013/2014,16/03/2014,14:00,Rubin Kazan,Volga N. Novgorod,3,1,H,1.55,4.29,6.79,1.6,4.3,7.5,1.55,3.83,6.04
+Russia,Premier League,2013/2014,17/03/2014,12:30,Tomsk,Krasnodar,1,1,D,3.88,3.28,2.14,4.33,3.55,2.2,3.67,3.15,2.06
+Russia,Premier League,2013/2014,17/03/2014,15:00,Spartak Moscow,FK Anzi Makhackala,2,2,D,1.69,3.86,5.72,1.71,4.0,6.5,1.61,3.71,5.42
+Russia,Premier League,2013/2014,21/03/2014,15:00,FK Rostov,Amkar,3,3,D,2.37,3.23,3.4,2.5,3.23,3.65,2.32,3.07,3.15
+Russia,Premier League,2013/2014,22/03/2014,10:00,Volga N. Novgorod,Tomsk,0,1,A,2.91,3.18,2.73,3.0,3.25,3.1,2.65,3.07,2.7
+Russia,Premier League,2013/2014,22/03/2014,12:30,Lokomotiv Moscow,Ural,3,0,H,1.4,4.82,9.63,1.43,4.9,12.0,1.38,4.35,8.48
+Russia,Premier League,2013/2014,22/03/2014,15:00,Krasnodar,Spartak Moscow,4,0,H,2.56,3.29,3.03,2.8,3.3,3.05,2.49,3.18,2.78
+Russia,Premier League,2013/2014,23/03/2014,09:30,Dynamo Moscow,Rubin Kazan,0,0,D,1.75,3.66,5.58,1.75,3.8,6.4,1.71,3.5,4.94
+Russia,Premier League,2013/2014,23/03/2014,14:30,Akhmat Grozny,Kuban,2,1,H,2.64,3.16,3.03,2.7,3.25,3.1,2.56,3.05,2.8
+Russia,Premier League,2013/2014,24/03/2014,13:00,FK Anzi Makhackala,CSKA Moscow,0,3,A,4.01,3.28,2.13,4.15,3.5,2.3,3.47,3.18,2.13
+Russia,Premier League,2013/2014,24/03/2014,15:00,Zenit,FK Krylya Sovetov Samara,2,1,H,1.28,5.5,15.4,1.35,6.3,16.0,1.27,5.28,10.94
+Russia,Premier League,2013/2014,29/03/2014,09:30,Ural,FK Anzi Makhackala,2,1,H,2.87,3.17,2.77,3.2,3.35,2.77,2.89,3.04,2.51
+Russia,Premier League,2013/2014,29/03/2014,12:00,Amkar,Zenit,1,2,A,3.67,3.27,2.23,4.4,3.5,2.27,3.61,3.21,2.08
+Russia,Premier League,2013/2014,30/03/2014,10:30,Lokomotiv Moscow,Spartak Moscow,0,0,D,1.93,3.76,4.13,2.0,3.95,4.25,1.88,3.49,3.93
+Russia,Premier League,2013/2014,30/03/2014,12:45,Tomsk,Dynamo Moscow,1,3,A,5.31,3.31,1.87,5.5,3.5,1.87,4.66,3.31,1.8
+Russia,Premier League,2013/2014,30/03/2014,15:00,Rubin Kazan,FK Rostov,1,2,A,2.0,3.38,4.36,2.0,3.6,5.0,1.87,3.26,4.31
+Russia,Premier League,2013/2014,30/03/2014,17:15,Kuban,Krasnodar,1,3,A,3.02,3.37,2.52,3.15,3.45,2.65,2.79,3.14,2.52
+Russia,Premier League,2013/2014,31/03/2014,17:45,CSKA Moscow,Volga N. Novgorod,3,0,H,1.2,7.05,19.15,1.25,8.0,26.0,1.2,6.19,13.68
+Russia,Premier League,2013/2014,04/04/2014,15:15,Kuban,Tomsk,2,0,H,1.83,3.51,5.18,1.9,3.55,5.3,1.79,3.4,4.56
+Russia,Premier League,2013/2014,04/04/2014,17:30,Spartak Moscow,Ural,0,1,A,1.45,4.54,8.45,1.5,4.95,9.6,1.43,4.21,7.25
+Russia,Premier League,2013/2014,05/04/2014,11:00,Amkar,Akhmat Grozny,0,1,A,2.05,3.22,4.43,2.1,3.3,4.6,2.01,3.17,3.82
+Russia,Premier League,2013/2014,05/04/2014,13:30,FK Krylya Sovetov Samara,CSKA Moscow,1,3,A,6.84,3.8,1.63,7.4,3.95,1.7,5.64,3.57,1.62
+Russia,Premier League,2013/2014,06/04/2014,10:30,Zenit,Rubin Kazan,6,2,H,1.53,4.3,7.25,1.53,4.55,9.2,1.48,4.0,6.8
+Russia,Premier League,2013/2014,06/04/2014,13:00,FK Anzi Makhackala,Dynamo Moscow,4,0,H,4.55,3.57,1.9,4.75,3.7,2.05,4.07,3.38,1.88
+Russia,Premier League,2013/2014,06/04/2014,15:30,Krasnodar,FK Rostov,0,2,A,1.61,4.02,6.45,1.7,4.1,6.8,1.6,3.69,5.72
+Russia,Premier League,2013/2014,07/04/2014,16:00,Lokomotiv Moscow,Volga N. Novgorod,3,0,H,1.2,6.78,18.78,1.22,7.4,19.0,1.19,6.36,13.29
+Russia,Premier League,2013/2014,08/04/2014,16:00,FK Krylya Sovetov Samara,Akhmat Grozny,1,1,D,3.27,2.91,2.65,3.55,2.91,2.71,3.06,2.8,2.55
+Russia,Premier League,2013/2014,11/04/2014,16:30,Spartak Moscow,FK Krylya Sovetov Samara,1,0,H,1.63,4.19,5.81,1.63,4.4,6.55,1.57,3.81,5.8
+Russia,Premier League,2013/2014,12/04/2014,09:00,Tomsk,Amkar,0,0,D,2.55,3.02,3.32,2.6,3.45,3.32,2.46,3.01,2.97
+Russia,Premier League,2013/2014,12/04/2014,11:30,CSKA Moscow,Ural,1,0,H,1.36,5.32,9.96,1.36,5.6,13.0,1.33,4.79,8.95
+Russia,Premier League,2013/2014,12/04/2014,14:00,Akhmat Grozny,FK Rostov,3,0,H,2.07,3.35,4.24,2.15,3.5,4.24,2.05,3.14,3.72
+Russia,Premier League,2013/2014,12/04/2014,16:30,Zenit,Krasnodar,4,1,H,1.49,4.7,7.04,1.51,4.9,8.9,1.46,4.2,6.67
+Russia,Premier League,2013/2014,13/04/2014,10:30,Lokomotiv Moscow,FK Anzi Makhackala,0,0,D,1.58,4.24,6.32,1.58,4.55,7.7,1.48,4.0,6.77
+Russia,Premier League,2013/2014,13/04/2014,13:00,Rubin Kazan,Kuban,0,2,A,2.33,3.15,3.56,2.35,3.3,3.8,2.19,3.12,3.36
+Russia,Premier League,2013/2014,14/04/2014,16:00,Volga N. Novgorod,Dynamo Moscow,0,5,A,8.32,4.66,1.45,9.2,5.2,1.45,7.48,4.26,1.41
+Russia,Premier League,2013/2014,18/04/2014,14:00,Amkar,Ural,0,2,A,2.21,3.44,3.55,2.3,3.5,3.6,2.18,3.26,3.22
+Russia,Premier League,2013/2014,19/04/2014,10:00,Tomsk,FK Krylya Sovetov Samara,2,0,H,2.37,3.12,3.55,2.48,3.12,3.55,2.29,2.99,3.28
+Russia,Premier League,2013/2014,19/04/2014,12:30,Lokomotiv Moscow,Akhmat Grozny,2,1,H,1.53,4.22,7.41,1.59,4.35,8.1,1.53,3.87,6.19
+Russia,Premier League,2013/2014,19/04/2014,15:00,FK Anzi Makhackala,Zenit,1,2,A,5.95,4.17,1.63,6.5,4.3,1.65,5.52,3.79,1.59
+Russia,Premier League,2013/2014,20/04/2014,10:30,Rubin Kazan,Spartak Moscow,2,1,H,2.41,3.24,3.31,2.7,3.35,3.31,2.45,3.13,2.91
+Russia,Premier League,2013/2014,20/04/2014,13:00,Dynamo Moscow,Krasnodar,1,2,A,1.7,3.89,5.52,1.8,4.0,5.52,1.67,3.65,5.0
+Russia,Premier League,2013/2014,20/04/2014,15:30,Kuban,CSKA Moscow,0,4,A,5.25,3.78,1.76,5.5,3.78,1.85,4.72,3.51,1.74
+Russia,Premier League,2013/2014,21/04/2014,16:00,Volga N. Novgorod,FK Rostov,2,1,H,3.73,3.41,2.16,4.0,3.8,2.2,3.67,3.34,1.99
+Russia,Premier League,2013/2014,25/04/2014,16:00,FK Krylya Sovetov Samara,Amkar,2,2,D,1.96,3.44,4.45,1.96,3.65,4.75,1.89,3.31,4.09
+Russia,Premier League,2013/2014,26/04/2014,11:00,Ural,Tomsk,0,0,D,2.37,3.12,3.53,2.37,3.3,3.85,2.21,3.06,3.4
+Russia,Premier League,2013/2014,26/04/2014,13:30,Zenit,Volga N. Novgorod,2,0,H,1.14,9.35,23.0,1.16,10.5,29.0,1.13,7.79,18.27
+Russia,Premier League,2013/2014,26/04/2014,16:00,Krasnodar,Lokomotiv Moscow,1,3,A,3.13,3.36,2.46,3.3,3.45,2.46,3.0,3.27,2.3
+Russia,Premier League,2013/2014,27/04/2014,10:30,CSKA Moscow,Rubin Kazan,2,1,H,1.54,4.18,7.3,1.54,4.6,8.8,1.48,4.07,6.59
+Russia,Premier League,2013/2014,27/04/2014,13:00,FK Rostov,FK Anzi Makhackala,1,1,D,3.41,3.41,2.28,3.65,3.6,2.3,3.24,3.2,2.2
+Russia,Premier League,2013/2014,27/04/2014,15:30,Akhmat Grozny,Dynamo Moscow,1,0,H,3.44,3.11,2.41,3.45,3.35,2.42,3.19,3.12,2.26
+Russia,Premier League,2013/2014,28/04/2014,17:30,Spartak Moscow,Kuban,0,2,A,1.56,4.07,7.16,1.65,4.35,7.5,1.55,3.82,6.07
+Russia,Premier League,2013/2014,02/05/2014,11:00,Amkar,CSKA Moscow,1,3,A,7.76,4.33,1.5,8.8,4.6,1.52,7.2,4.02,1.46
+Russia,Premier League,2013/2014,02/05/2014,13:30,Volga N. Novgorod,Krasnodar,0,1,A,5.33,3.98,1.71,5.6,4.0,1.75,4.68,3.64,1.71
+Russia,Premier League,2013/2014,02/05/2014,16:00,FK Rostov,Dynamo Moscow,2,3,A,4.62,3.91,1.81,5.3,3.91,1.83,4.52,3.52,1.76
+Russia,Premier League,2013/2014,03/05/2014,11:00,Tomsk,Spartak Moscow,2,1,H,3.43,3.32,2.32,3.6,3.5,2.35,3.34,3.19,2.17
+Russia,Premier League,2013/2014,03/05/2014,16:00,Kuban,FK Krylya Sovetov Samara,4,0,H,2.0,3.45,4.2,2.01,3.5,4.55,1.9,3.32,4.06
+Russia,Premier League,2013/2014,04/05/2014,10:30,Lokomotiv Moscow,Zenit,1,1,D,3.45,3.35,2.29,3.5,3.6,2.31,3.16,3.23,2.22
+Russia,Premier League,2013/2014,04/05/2014,13:30,Rubin Kazan,Ural,1,0,H,1.76,3.62,5.59,1.8,3.62,5.8,1.74,3.46,4.75
+Russia,Premier League,2013/2014,04/05/2014,16:00,FK Anzi Makhackala,Akhmat Grozny,3,0,H,2.48,3.48,2.98,2.48,3.55,3.3,2.31,3.19,3.05
+Russia,Premier League,2013/2014,10/05/2014,10:00,Ural,Kuban,2,1,H,2.53,3.51,2.89,2.6,3.51,3.0,2.43,3.2,2.83
+Russia,Premier League,2013/2014,10/05/2014,12:15,FK Krylya Sovetov Samara,Rubin Kazan,0,4,A,2.95,3.35,2.59,3.3,3.55,2.59,2.87,3.18,2.42
+Russia,Premier League,2013/2014,10/05/2014,14:45,Spartak Moscow,Amkar,1,0,H,1.53,4.26,7.25,1.53,4.65,7.25,1.5,4.02,6.27
+Russia,Premier League,2013/2014,10/05/2014,17:00,Akhmat Grozny,Volga N. Novgorod,2,0,H,1.43,4.63,9.15,1.45,5.1,11.0,1.4,4.36,7.7
+Russia,Premier League,2013/2014,11/05/2014,10:30,Zenit,Dynamo Moscow,0,3,A,1.48,4.72,7.2,1.55,5.1,7.6,1.47,4.22,6.35
+Russia,Premier League,2013/2014,11/05/2014,12:45,CSKA Moscow,Tomsk,2,0,H,1.29,6.11,11.8,1.3,6.6,16.0,1.25,5.67,10.76
+Russia,Premier League,2013/2014,11/05/2014,15:00,Krasnodar,FK Anzi Makhackala,1,0,H,2.33,3.93,2.91,2.36,4.15,3.1,2.25,3.56,2.85
+Russia,Premier League,2013/2014,11/05/2014,17:15,FK Rostov,Lokomotiv Moscow,2,0,H,9.04,5.15,1.39,11.0,5.5,1.39,8.5,4.81,1.33
+Russia,Premier League,2013/2014,15/05/2014,15:30,Amkar,Krasnodar,2,2,D,4.14,3.63,1.96,4.8,3.85,2.02,4.0,3.45,1.88
+Russia,Premier League,2013/2014,15/05/2014,15:30,CSKA Moscow,Lokomotiv Moscow,1,0,H,1.78,4.1,4.56,1.8,4.25,4.76,1.73,3.76,4.41
+Russia,Premier League,2013/2014,15/05/2014,15:30,FK Anzi Makhackala,FK Krylya Sovetov Samara,0,1,A,1.77,3.88,4.97,1.83,3.9,5.0,1.75,3.57,4.5
+Russia,Premier League,2013/2014,15/05/2014,15:30,Kuban,Zenit,1,4,A,7.06,4.85,1.48,7.3,5.1,1.51,6.36,4.49,1.44
+Russia,Premier League,2013/2014,15/05/2014,15:30,Rubin Kazan,Akhmat Grozny,1,1,D,1.9,3.84,4.18,1.96,3.84,4.3,1.87,3.45,4.01
+Russia,Premier League,2013/2014,15/05/2014,15:30,Spartak Moscow,Dynamo Moscow,3,2,H,2.62,3.54,2.77,3.0,3.7,2.77,2.59,3.33,2.58
+Russia,Premier League,2013/2014,15/05/2014,15:30,Tomsk,FK Rostov,3,2,H,2.25,3.41,3.49,2.45,3.55,3.49,2.28,3.21,3.09
+Russia,Premier League,2013/2014,15/05/2014,15:30,Volga N. Novgorod,Ural,1,2,A,3.42,3.43,2.26,3.43,3.45,2.33,3.19,3.24,2.21
+Russia,Premier League,2013/2014,18/05/2014,12:00,Ufa,Tomsk,5,1,H,3.93,3.27,2.12,3.93,3.4,2.15,3.45,3.21,2.07
+Russia,Premier League,2013/2014,18/05/2014,16:00,T. Moscow,FK Krylya Sovetov Samara,2,0,H,2.55,3.22,3.1,2.6,3.22,3.1,2.43,3.09,2.86
+Russia,Premier League,2013/2014,22/05/2014,13:00,Tomsk,Ufa,3,1,H,1.84,4.05,4.28,1.84,4.05,5.1,1.73,3.85,4.25
+Russia,Premier League,2013/2014,22/05/2014,16:00,FK Krylya Sovetov Samara,T. Moscow,0,0,D,2.29,3.34,3.47,2.4,3.4,4.0,2.14,3.21,3.39
