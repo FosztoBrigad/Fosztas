@@ -1,0 +1,67 @@
+Div,League,Season,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,PSH,PSD,PSA,MaxH,MaxD,MaxA,AvgH,AvgD,AvgA
+CHN1,Super League,2020,2020-07-25,11:15,Guangzhou Evergrande,Shanghai Shenhua,2,0,H,1.61,4.0,5.24,1.66,4.45,6.22,1.59,4.1,4.97
+CHN1,Super League,2020,2020-07-25,13:30,Wuhan Zall,Qingdao Huanghai,2,0,H,1.93,3.58,3.9,2.07,3.65,4.28,1.89,3.48,3.87
+CHN1,Super League,2020,2020-07-26,08:30,Dalian Pro,Shandong Luneng,2,3,A,2.43,3.57,2.73,2.66,3.84,2.82,2.45,3.5,2.62
+CHN1,Super League,2020,2020-07-26,11:00,Hebei,Shijiazhuang,2,2,D,3.22,3.43,2.19,3.35,3.62,2.61,3.02,3.34,2.24
+CHN1,Super League,2020,2020-07-26,11:00,Shenzhen,Guangzhou R&F,3,0,H,3.26,4.03,1.99,3.52,4.2,2.21,3.19,3.85,1.99
+CHN1,Super League,2020,2020-07-26,13:00,Chongqing Lifan,Beijing Guoan,1,2,A,8.46,5.28,1.32,12.25,6.1,1.35,9.32,5.28,1.29
+CHN1,Super League,2020,2020-07-26,13:00,Henan Jianye,Jiangsu Suning,3,4,A,3.95,3.32,1.99,4.38,3.68,2.05,3.9,3.3,1.94
+CHN1,Super League,2020,2020-07-27,12:35,Tianjin Teda,Shanghai SIPG,1,3,A,10.49,5.52,1.27,11.5,6.7,1.31,9.91,5.9,1.25
+CHN1,Super League,2020,2020-07-30,11:00,Shanghai Shenhua,Shenzhen,3,2,H,2.31,3.49,2.95,2.47,3.75,3.42,2.28,3.36,2.97
+CHN1,Super League,2020,2020-07-30,13:00,Guangzhou R&F,Guangzhou Evergrande,0,5,A,7.26,5.04,1.37,9.0,6.15,1.39,7.21,5.33,1.34
+CHN1,Super League,2020,2020-07-31,11:00,Jiangsu Suning,Shandong Luneng,0,0,D,2.64,3.42,2.59,2.79,3.58,2.74,2.57,3.41,2.55
+CHN1,Super League,2020,2020-07-31,13:00,Dalian Pro,Henan Jianye,1,1,D,1.63,3.99,5.13,1.65,4.3,7.2,1.6,4.01,5.02
+CHN1,Super League,2020,2020-08-01,11:00,Beijing Guoan,Wuhan Zall,1,0,H,1.45,4.49,6.61,1.52,4.85,7.2,1.45,4.47,6.24
+CHN1,Super League,2020,2020-08-01,14:00,Shijiazhuang,Qingdao Huanghai,2,2,D,,,,,,,,,
+CHN1,Super League,2020,2020-08-02,11:00,Shanghai SIPG,Hebei,4,0,H,1.36,5.14,7.81,1.42,5.9,8.3,1.36,5.12,7.12
+CHN1,Super League,2020,2020-08-02,13:00,Chongqing Lifan,Tianjin Teda,2,2,D,4.0,3.19,2.07,4.1,3.4,2.16,3.75,3.17,2.04
+CHN1,Super League,2020,2020-08-04,11:00,Shenzhen,Guangzhou Evergrande,1,3,A,8.19,5.71,1.3,10.5,6.59,1.35,8.28,5.71,1.29
+CHN1,Super League,2020,2020-08-04,13:00,Jiangsu Suning,Dalian Pro,2,1,H,1.68,3.73,5.06,1.73,4.15,6.1,1.66,3.82,4.85
+CHN1,Super League,2020,2020-08-05,11:00,Shandong Luneng,Shanghai Shenhua,0,1,A,2.25,3.65,3.05,2.35,3.65,3.38,2.18,3.49,3.04
+CHN1,Super League,2020,2020-08-05,13:00,Henan Jianye,Guangzhou R&F,1,1,D,2.23,3.47,3.24,2.38,3.68,3.33,2.2,3.47,3.01
+CHN1,Super League,2020,2020-08-06,11:00,Tianjin Teda,Beijing Guoan,1,3,A,13.41,6.06,1.23,16.25,7.5,1.24,12.66,6.15,1.21
+CHN1,Super League,2020,2020-08-06,13:00,Qingdao Huanghai,Shanghai SIPG,1,1,D,,,,,,,,,
+CHN1,Super League,2020,2020-08-07,11:00,Wuhan Zall,Shijiazhuang,2,1,H,2.21,3.2,3.56,2.28,3.52,3.6,2.18,3.13,3.39
+CHN1,Super League,2020,2020-08-07,13:00,Hebei,Chongqing Lifan,2,2,D,3.05,3.51,2.31,3.14,3.76,2.39,2.9,3.4,2.29
+CHN1,Super League,2020,2020-08-09,11:00,Guangzhou Evergrande,Shandong Luneng,0,1,A,1.8,3.74,4.46,1.84,4.33,6.1,1.74,3.8,4.3
+CHN1,Super League,2020,2020-08-09,13:00,Guangzhou R&F,Jiangsu Suning,0,2,A,6.41,4.51,1.49,6.95,4.9,1.53,6.04,4.58,1.45
+CHN1,Super League,2020,2020-08-10,11:00,Shanghai Shenhua,Dalian Pro,2,2,D,2.15,3.45,3.44,2.22,4.0,4.75,2.01,3.52,3.47
+CHN1,Super League,2020,2020-08-10,13:00,Shenzhen,Henan Jianye,1,2,A,2.09,3.59,3.44,2.3,3.75,3.5,2.1,3.47,3.23
+CHN1,Super League,2020,2020-08-11,11:00,Shijiazhuang,Tianjin Teda,3,0,H,2.0,3.79,3.57,2.1,3.8,3.86,1.96,3.63,3.47
+CHN1,Super League,2020,2020-08-11,13:00,Chongqing Lifan,Qingdao Huanghai,0,0,D,1.63,3.97,5.52,1.7,4.08,6.1,1.62,3.83,5.17
+CHN1,Super League,2020,2020-08-12,11:00,Shanghai SIPG,Wuhan Zall,2,1,H,1.5,4.27,6.84,1.55,4.65,7.5,1.48,4.13,6.46
+CHN1,Super League,2020,2020-08-12,13:00,Beijing Guoan,Hebei,3,1,H,1.55,4.18,6.07,1.59,4.55,6.55,1.54,4.15,5.56
+CHN1,Super League,2020,2020-08-14,11:00,Henan Jianye,Guangzhou Evergrande,1,3,A,7.18,4.56,1.45,7.6,5.25,1.47,6.67,4.6,1.42
+CHN1,Super League,2020,2020-08-14,13:00,Jiangsu Suning,Shanghai Shenhua,0,1,A,2.06,3.35,3.83,2.09,3.76,4.1,1.96,3.41,3.71
+CHN1,Super League,2020,2020-08-15,11:00,Shandong Luneng,Shenzhen,2,0,H,1.63,3.96,5.54,1.67,4.45,6.0,1.58,3.96,5.34
+CHN1,Super League,2020,2020-08-16,08:00,Dalian Pro,Guangzhou R&F,0,1,A,2.34,3.67,2.89,2.34,3.7,3.1,2.25,3.56,2.82
+CHN1,Super League,2020,2020-08-16,11:00,Qingdao Huanghai,Beijing Guoan,3,3,D,9.14,4.67,1.38,10.0,5.4,1.4,8.35,4.81,1.34
+CHN1,Super League,2020,2020-08-16,13:00,Shanghai SIPG,Shijiazhuang,1,1,D,1.41,4.8,7.54,1.42,5.55,9.3,1.38,4.79,7.13
+CHN1,Super League,2020,2020-08-17,11:00,Wuhan Zall,Chongqing Lifan,2,0,H,2.57,3.04,3.06,2.65,3.28,3.13,2.49,3.0,2.94
+CHN1,Super League,2020,2020-08-17,13:00,Hebei,Tianjin Teda,2,0,H,1.69,3.9,5.03,1.76,4.2,5.1,1.67,3.86,4.67
+CHN1,Super League,2020,2020-08-19,11:00,Shandong Luneng,Henan Jianye,2,1,H,1.93,3.46,4.22,2.01,3.88,4.58,1.86,3.51,4.01
+CHN1,Super League,2020,2020-08-19,13:00,Shanghai Shenhua,Guangzhou R&F,2,3,A,1.82,3.93,4.12,1.95,4.07,4.28,1.8,3.78,3.95
+CHN1,Super League,2020,2020-08-20,11:00,Guangzhou Evergrande,Jiangsu Suning,2,1,H,2.1,3.39,3.63,2.18,3.72,4.2,2.01,3.38,3.62
+CHN1,Super League,2020,2020-08-20,13:00,Shenzhen,Dalian Pro,3,2,H,3.08,3.64,2.24,3.52,3.66,2.27,3.13,3.49,2.13
+CHN1,Super League,2020,2020-08-21,11:00,Hebei,Wuhan Zall,3,1,H,2.31,3.45,3.09,2.44,3.55,3.28,2.28,3.31,3.01
+CHN1,Super League,2020,2020-08-21,13:00,Chongqing Lifan,Shijiazhuang,1,0,H,2.9,3.43,2.45,3.04,3.62,2.55,2.77,3.36,2.42
+CHN1,Super League,2020,2020-08-22,11:00,Tianjin Teda,Qingdao Huanghai,0,2,A,2.97,3.32,2.45,3.32,3.78,2.45,2.94,3.31,2.33
+CHN1,Super League,2020,2020-08-22,13:00,Beijing Guoan,Shanghai SIPG,1,2,A,3.13,3.67,2.2,3.3,3.68,2.4,2.98,3.54,2.21
+CHN1,Super League,2020,2020-08-24,13:00,Jiangsu Suning,Shenzhen,1,1,D,1.67,3.88,5.27,1.75,4.05,6.25,1.65,3.72,5.04
+CHN1,Super League,2020,2020-08-25,11:00,Guangzhou R&F,Shandong Luneng,1,5,A,3.67,3.75,1.98,4.0,3.9,2.03,3.51,3.65,1.94
+CHN1,Super League,2020,2020-08-25,13:00,Dalian Pro,Guangzhou Evergrande,2,2,D,5.46,4.18,1.6,6.2,4.4,1.63,5.2,4.11,1.57
+CHN1,Super League,2020,2020-08-26,08:30,Henan Jianye,Shanghai Shenhua,0,0,D,3.28,3.38,2.21,3.76,3.96,2.21,3.37,3.48,2.05
+CHN1,Super League,2020,2020-08-26,11:00,Shanghai SIPG,Chongqing Lifan,3,0,H,1.49,4.33,6.72,1.5,4.9,8.9,1.45,4.41,6.35
+CHN1,Super League,2020,2020-08-26,13:00,Wuhan Zall,Tianjin Teda,2,1,H,2.28,3.18,3.33,2.4,3.6,3.44,2.27,3.21,3.12
+CHN1,Super League,2020,2020-08-27,11:00,Shijiazhuang,Beijing Guoan,2,2,D,5.33,4.52,1.56,6.15,4.75,1.59,5.26,4.34,1.53
+CHN1,Super League,2020,2020-08-27,13:00,Qingdao Huanghai,Hebei,1,2,A,4.69,3.97,1.7,5.3,4.05,1.83,4.72,3.87,1.66
+CHN1,Super League,2020,2020-08-29,11:00,Guangzhou R&F,Shenzhen,0,2,A,3.27,3.79,2.07,3.55,4.2,2.13,3.21,3.77,2.02
+CHN1,Super League,2020,2020-08-29,13:00,Shandong Luneng,Dalian Pro,0,1,A,1.93,3.71,3.84,1.96,4.2,4.9,1.76,3.83,4.15
+CHN1,Super League,2020,2020-08-30,11:00,Jiangsu Suning,Henan Jianye,5,2,H,1.35,4.9,9.5,1.51,5.4,10.75,1.35,4.78,8.56
+CHN1,Super League,2020,2020-08-30,13:00,Shanghai Shenhua,Guangzhou Evergrande,1,4,A,6.25,4.69,1.47,7.0,5.15,1.53,6.26,4.69,1.43
+CHN1,Super League,2020,2020-08-31,11:00,Shijiazhuang,Hebei,3,1,H,3.06,3.72,2.26,3.2,3.87,2.39,2.95,3.56,2.21
+CHN1,Super League,2020,2020-08-31,13:00,Shanghai SIPG,Tianjin Teda,4,1,H,1.22,6.8,12.73,1.23,8.12,17.25,1.2,6.72,11.74
+CHN1,Super League,2020,2020-09-01,11:00,Qingdao Huanghai,Wuhan Zall,0,3,A,4.14,3.44,1.96,4.45,3.62,2.0,3.97,3.36,1.91
+CHN1,Super League,2020,2020-09-01,13:00,Beijing Guoan,Chongqing Lifan,5,2,H,1.56,4.61,5.27,1.6,4.81,6.3,1.52,4.46,5.3
+CHN1,Super League,2020,2020-09-03,11:00,Henan Jianye,Dalian Pro,0,4,A,4.62,4.09,1.7,5.55,4.1,1.75,4.48,3.86,1.7
+CHN1,Super League,2020,2020-09-03,13:00,Shandong Luneng,Jiangsu Suning,0,1,A,2.21,3.42,3.31,2.49,3.55,3.34,2.28,3.3,3.01

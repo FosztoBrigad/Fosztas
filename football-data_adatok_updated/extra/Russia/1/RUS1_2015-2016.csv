@@ -1,0 +1,245 @@
+Div,League,Season,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,PSH,PSD,PSA,MaxH,MaxD,MaxA,AvgH,AvgD,AvgA
+RUS1,Premier League,2015/2016,2015-07-17,17:00,Spartak Moscow,Ufa,2,2,D,1.42,4.8,8.75,1.5,5.1,8.75,1.44,4.27,6.97
+RUS1,Premier League,2015/2016,2015-07-18,16:30,CSKA Moscow,Rubin Kazan,1,0,H,1.61,4.06,6.44,1.61,4.25,7.6,1.56,3.81,5.98
+RUS1,Premier League,2015/2016,2015-07-18,19:00,FK Rostov,Akhmat Grozny,1,1,D,2.53,3.16,3.2,2.6,3.3,3.62,2.46,3.03,2.97
+RUS1,Premier League,2015/2016,2015-07-19,11:30,Zenit,Dynamo Moscow,2,1,H,1.7,3.95,5.46,1.7,4.2,5.9,1.64,3.75,5.11
+RUS1,Premier League,2015/2016,2015-07-19,16:00,M. Saransk,Lokomotiv Moscow,0,1,A,4.22,3.3,2.06,4.85,3.5,2.11,3.79,3.2,2.03
+RUS1,Premier League,2015/2016,2015-07-19,19:00,FK Anzi Makhackala,FK Krylya Sovetov Samara,0,1,A,1.97,3.39,4.49,2.02,3.46,5.3,1.87,3.27,4.37
+RUS1,Premier League,2015/2016,2015-07-20,15:00,Amkar,Krasnodar,0,1,A,4.0,3.5,2.04,4.65,3.5,2.07,3.85,3.3,1.97
+RUS1,Premier League,2015/2016,2015-07-20,18:00,Kuban,Ural,0,2,A,1.72,3.75,5.57,1.77,3.92,6.5,1.71,3.51,5.02
+RUS1,Premier League,2015/2016,2015-07-24,17:00,FK Krylya Sovetov Samara,CSKA Moscow,0,2,A,7.43,3.89,1.58,7.9,4.33,1.6,6.52,3.8,1.53
+RUS1,Premier League,2015/2016,2015-07-25,14:00,Ufa,FK Rostov,1,2,A,3.0,3.27,2.57,3.42,3.27,2.62,2.96,3.04,2.47
+RUS1,Premier League,2015/2016,2015-07-25,16:30,Dynamo Moscow,M. Saransk,2,2,D,1.31,5.64,11.79,1.4,5.7,14.5,1.31,4.93,9.83
+RUS1,Premier League,2015/2016,2015-07-25,19:00,Akhmat Grozny,Kuban,1,1,D,2.03,3.22,4.49,2.2,3.3,4.49,2.03,3.13,3.85
+RUS1,Premier League,2015/2016,2015-07-26,11:30,Ural,Zenit,1,4,A,6.45,4.12,1.6,7.0,4.2,1.64,6.07,3.82,1.56
+RUS1,Premier League,2015/2016,2015-07-26,15:00,Rubin Kazan,Amkar,0,2,A,1.71,3.77,5.71,1.76,3.8,6.8,1.66,3.52,5.47
+RUS1,Premier League,2015/2016,2015-07-26,18:00,Krasnodar,Spartak Moscow,0,1,A,1.91,3.94,4.06,2.07,3.94,4.06,1.91,3.6,3.72
+RUS1,Premier League,2015/2016,2015-07-27,18:00,FK Anzi Makhackala,Lokomotiv Moscow,1,3,A,2.96,3.11,2.74,3.16,3.2,2.79,2.9,2.97,2.55
+RUS1,Premier League,2015/2016,2015-07-31,18:00,Kuban,Ufa,1,1,D,2.0,3.34,4.45,2.01,3.6,4.9,1.9,3.21,4.29
+RUS1,Premier League,2015/2016,2015-08-01,12:00,Amkar,FK Krylya Sovetov Samara,1,0,H,2.17,3.2,3.96,2.22,3.3,4.0,2.11,3.12,3.6
+RUS1,Premier League,2015/2016,2015-08-01,15:00,Zenit,Akhmat Grozny,3,0,H,1.37,4.83,11.58,1.4,5.8,11.58,1.36,4.54,8.86
+RUS1,Premier League,2015/2016,2015-08-01,17:30,CSKA Moscow,FK Anzi Makhackala,1,0,H,1.38,4.8,10.62,1.4,5.2,10.62,1.36,4.52,8.78
+RUS1,Premier League,2015/2016,2015-08-02,11:30,Lokomotiv Moscow,Dynamo Moscow,1,1,D,2.53,3.33,3.03,2.58,3.37,3.2,2.4,3.17,2.95
+RUS1,Premier League,2015/2016,2015-08-02,15:00,M. Saransk,Ural,1,1,D,2.8,3.14,2.86,2.81,3.2,2.96,2.63,3.02,2.77
+RUS1,Premier League,2015/2016,2015-08-02,18:00,FK Rostov,Krasnodar,0,0,D,3.36,3.37,2.32,3.64,3.37,2.35,3.22,3.18,2.25
+RUS1,Premier League,2015/2016,2015-08-03,17:00,Spartak Moscow,Rubin Kazan,1,0,H,1.69,3.87,5.64,1.8,4.33,5.7,1.7,3.65,4.9
+RUS1,Premier League,2015/2016,2015-08-07,17:00,Akhmat Grozny,M. Saransk,0,0,D,1.6,3.82,7.33,1.7,3.9,7.33,1.6,3.59,6.04
+RUS1,Premier League,2015/2016,2015-08-08,15:00,Ural,Lokomotiv Moscow,1,3,A,3.3,3.18,2.46,3.6,3.25,2.46,3.26,3.06,2.29
+RUS1,Premier League,2015/2016,2015-08-08,18:00,FK Anzi Makhackala,Dynamo Moscow,2,3,A,3.29,3.4,2.34,3.42,3.4,2.4,3.11,3.22,2.28
+RUS1,Premier League,2015/2016,2015-08-09,11:30,CSKA Moscow,Amkar,2,0,H,1.32,5.06,13.67,1.36,5.4,13.67,1.32,4.66,10.49
+RUS1,Premier League,2015/2016,2015-08-09,14:00,Ufa,Zenit,0,1,A,8.62,4.58,1.45,9.8,5.3,1.45,7.95,4.35,1.4
+RUS1,Premier League,2015/2016,2015-08-09,17:00,FK Krylya Sovetov Samara,Spartak Moscow,0,2,A,4.48,3.47,1.94,5.5,3.64,2.0,4.25,3.34,1.87
+RUS1,Premier League,2015/2016,2015-08-10,16:00,Rubin Kazan,FK Rostov,0,3,A,2.18,3.26,3.86,2.22,3.3,3.86,2.12,3.13,3.54
+RUS1,Premier League,2015/2016,2015-08-10,18:15,Krasnodar,Kuban,1,1,D,1.88,3.55,4.68,2.01,3.6,5.1,1.85,3.34,4.29
+RUS1,Premier League,2015/2016,2015-08-14,15:00,Amkar,FK Anzi Makhackala,1,1,D,2.38,3.27,3.34,2.52,3.29,3.4,2.27,3.11,3.23
+RUS1,Premier League,2015/2016,2015-08-14,19:30,Spartak Moscow,CSKA Moscow,1,2,A,3.36,3.42,2.3,3.36,3.42,2.44,3.11,3.24,2.27
+RUS1,Premier League,2015/2016,2015-08-15,14:30,Zenit,Krasnodar,0,2,A,1.55,4.19,7.09,1.6,4.33,7.9,1.51,3.88,6.55
+RUS1,Premier League,2015/2016,2015-08-15,19:30,Kuban,Rubin Kazan,0,1,A,2.22,3.26,3.73,2.27,3.4,3.74,2.14,3.15,3.49
+RUS1,Premier League,2015/2016,2015-08-16,11:30,Lokomotiv Moscow,Akhmat Grozny,0,0,D,1.74,3.61,5.76,1.75,3.75,6.5,1.69,3.45,5.25
+RUS1,Premier League,2015/2016,2015-08-16,15:00,Dynamo Moscow,Ural,1,0,H,1.92,3.6,4.42,2.08,3.7,5.11,1.82,3.45,4.36
+RUS1,Premier League,2015/2016,2015-08-16,18:00,FK Rostov,FK Krylya Sovetov Samara,1,1,D,1.78,3.55,5.46,1.81,3.9,5.7,1.73,3.4,5.01
+RUS1,Premier League,2015/2016,2015-08-17,17:00,M. Saransk,Ufa,0,1,A,3.53,2.99,2.45,3.53,3.2,2.74,3.15,2.95,2.41
+RUS1,Premier League,2015/2016,2015-08-21,18:00,Akhmat Grozny,Dynamo Moscow,1,1,D,2.55,3.18,3.14,2.56,3.35,3.25,2.44,3.06,2.99
+RUS1,Premier League,2015/2016,2015-08-22,13:00,Amkar,Spartak Moscow,1,3,A,4.88,3.5,1.87,5.6,3.6,1.95,4.38,3.31,1.85
+RUS1,Premier League,2015/2016,2015-08-22,16:00,CSKA Moscow,FK Rostov,2,1,H,1.53,4.37,6.9,1.58,4.37,7.2,1.51,3.97,6.5
+RUS1,Premier League,2015/2016,2015-08-22,18:30,FK Anzi Makhackala,Ural,1,1,D,2.38,3.08,3.56,2.38,3.22,3.75,2.27,3.02,3.34
+RUS1,Premier League,2015/2016,2015-08-23,11:30,Ufa,Lokomotiv Moscow,0,3,A,4.43,3.39,1.98,4.43,3.4,2.1,3.94,3.21,1.98
+RUS1,Premier League,2015/2016,2015-08-23,18:00,Krasnodar,M. Saransk,0,0,D,1.42,4.6,9.71,1.44,4.8,11.5,1.39,4.27,8.54
+RUS1,Premier League,2015/2016,2015-08-24,17:00,FK Krylya Sovetov Samara,Kuban,3,0,H,2.79,3.24,2.79,2.88,3.3,2.88,2.74,3.0,2.68
+RUS1,Premier League,2015/2016,2015-08-24,17:00,Rubin Kazan,Zenit,1,3,A,6.1,3.8,1.67,6.9,4.05,1.75,5.58,3.57,1.64
+RUS1,Premier League,2015/2016,2015-08-28,15:00,Ural,Akhmat Grozny,3,3,D,6.1,3.69,1.69,6.1,3.75,2.05,4.85,3.4,1.76
+RUS1,Premier League,2015/2016,2015-08-28,18:00,FK Rostov,Amkar,1,0,H,1.99,3.25,4.64,2.0,3.4,5.0,1.9,3.21,4.35
+RUS1,Premier League,2015/2016,2015-08-29,12:00,Dynamo Moscow,Ufa,2,0,H,1.73,3.63,5.85,1.82,3.65,5.85,1.7,3.47,5.14
+RUS1,Premier League,2015/2016,2015-08-29,15:00,Zenit,FK Krylya Sovetov Samara,1,3,A,1.24,6.29,16.4,1.27,6.5,16.4,1.23,5.61,12.97
+RUS1,Premier League,2015/2016,2015-08-29,17:30,Spartak Moscow,FK Anzi Makhackala,1,2,A,1.53,4.37,6.98,1.53,4.8,8.5,1.46,4.19,6.88
+RUS1,Premier League,2015/2016,2015-08-30,11:30,Lokomotiv Moscow,Krasnodar,2,1,H,2.17,3.24,3.89,2.35,3.25,4.0,2.14,3.13,3.53
+RUS1,Premier League,2015/2016,2015-08-30,15:00,M. Saransk,Rubin Kazan,2,1,H,3.89,3.22,2.18,4.15,3.3,2.27,3.56,3.1,2.15
+RUS1,Premier League,2015/2016,2015-08-30,18:00,Kuban,CSKA Moscow,0,1,A,5.36,3.59,1.79,6.1,3.72,1.85,4.83,3.44,1.75
+RUS1,Premier League,2015/2016,2015-09-12,12:00,CSKA Moscow,Zenit,2,2,D,2.35,3.4,3.27,2.35,3.44,3.35,2.26,3.2,3.18
+RUS1,Premier League,2015/2016,2015-09-12,14:30,Amkar,Kuban,1,1,D,2.95,3.08,2.77,2.95,3.1,2.97,2.74,2.94,2.72
+RUS1,Premier League,2015/2016,2015-09-12,17:00,Rubin Kazan,Lokomotiv Moscow,3,1,H,3.73,3.29,2.21,3.9,3.3,2.25,3.46,3.17,2.14
+RUS1,Premier League,2015/2016,2015-09-13,11:30,Spartak Moscow,FK Rostov,1,0,H,1.77,3.74,5.18,1.78,3.84,5.7,1.72,3.53,4.9
+RUS1,Premier League,2015/2016,2015-09-13,14:30,Krasnodar,Dynamo Moscow,4,0,H,1.97,3.55,4.24,2.1,3.65,4.4,1.96,3.39,3.79
+RUS1,Premier League,2015/2016,2015-09-13,17:00,FK Anzi Makhackala,Akhmat Grozny,0,2,A,2.75,3.14,2.92,2.76,3.2,3.0,2.65,3.04,2.75
+RUS1,Premier League,2015/2016,2015-09-14,14:00,Ufa,Ural,0,1,A,2.7,3.13,2.98,2.82,3.2,3.2,2.6,2.99,2.85
+RUS1,Premier League,2015/2016,2015-09-14,16:30,FK Krylya Sovetov Samara,M. Saransk,1,0,H,2.05,3.4,4.12,2.1,3.55,4.5,1.99,3.22,3.88
+RUS1,Premier League,2015/2016,2015-09-18,17:00,FK Rostov,FK Anzi Makhackala,1,0,H,2.02,3.42,4.2,2.04,3.5,4.65,1.92,3.32,4.05
+RUS1,Premier League,2015/2016,2015-09-19,14:00,Akhmat Grozny,Ufa,4,1,H,1.63,3.72,6.94,1.65,3.9,8.1,1.58,3.6,6.31
+RUS1,Premier League,2015/2016,2015-09-19,17:00,Kuban,Spartak Moscow,3,0,H,3.55,3.4,2.23,3.92,3.48,2.25,3.38,3.25,2.14
+RUS1,Premier League,2015/2016,2015-09-20,11:30,M. Saransk,CSKA Moscow,4,6,A,8.23,4.16,1.51,9.0,4.4,1.51,7.45,4.03,1.46
+RUS1,Premier League,2015/2016,2015-09-20,15:00,Zenit,Amkar,1,1,D,1.26,5.95,15.88,1.28,6.6,20.0,1.23,5.63,13.11
+RUS1,Premier League,2015/2016,2015-09-20,17:30,Lokomotiv Moscow,FK Krylya Sovetov Samara,2,0,H,1.72,3.63,5.93,1.72,3.88,6.35,1.66,3.51,5.46
+RUS1,Premier League,2015/2016,2015-09-21,14:30,Ural,Krasnodar,3,1,H,3.41,3.33,2.32,3.8,3.4,2.32,3.28,3.18,2.22
+RUS1,Premier League,2015/2016,2015-09-21,17:00,Dynamo Moscow,Rubin Kazan,0,0,D,2.18,3.43,3.63,2.24,3.43,4.0,2.09,3.28,3.48
+RUS1,Premier League,2015/2016,2015-09-26,12:00,CSKA Moscow,Lokomotiv Moscow,1,1,D,1.92,3.39,4.77,1.96,3.46,4.81,1.87,3.29,4.33
+RUS1,Premier League,2015/2016,2015-09-26,14:30,FK Anzi Makhackala,Ufa,1,1,D,1.63,3.75,6.88,1.8,3.8,7.6,1.63,3.47,6.04
+RUS1,Premier League,2015/2016,2015-09-26,17:00,Spartak Moscow,Zenit,2,2,D,3.39,3.47,2.26,3.62,3.55,2.35,3.19,3.28,2.23
+RUS1,Premier League,2015/2016,2015-09-27,11:30,FK Krylya Sovetov Samara,Dynamo Moscow,0,0,D,3.26,3.28,2.42,3.35,3.28,2.5,3.1,3.11,2.35
+RUS1,Premier League,2015/2016,2015-09-27,14:30,Krasnodar,Akhmat Grozny,1,1,D,1.93,3.5,4.53,1.96,3.6,4.7,1.89,3.36,4.12
+RUS1,Premier League,2015/2016,2015-09-27,17:00,Rubin Kazan,Ural,1,2,A,2.06,3.38,4.2,2.06,3.45,4.45,1.98,3.19,3.98
+RUS1,Premier League,2015/2016,2015-09-28,14:30,Amkar,M. Saransk,2,1,H,2.33,3.14,3.6,2.42,3.3,3.62,2.26,3.01,3.38
+RUS1,Premier League,2015/2016,2015-09-28,17:00,FK Rostov,Kuban,2,1,H,2.27,3.22,3.65,2.34,3.3,3.65,2.19,3.1,3.42
+RUS1,Premier League,2015/2016,2015-10-02,15:00,Ural,FK Krylya Sovetov Samara,1,1,D,2.3,3.29,3.49,2.35,3.3,3.7,2.21,3.1,3.39
+RUS1,Premier League,2015/2016,2015-10-03,12:30,M. Saransk,Spartak Moscow,0,1,A,4.79,3.63,1.85,5.3,3.85,1.87,4.43,3.44,1.81
+RUS1,Premier League,2015/2016,2015-10-03,15:00,Zenit,FK Rostov,3,0,H,1.45,4.44,8.99,1.48,4.65,8.99,1.44,4.14,7.45
+RUS1,Premier League,2015/2016,2015-10-03,17:30,Kuban,FK Anzi Makhackala,1,1,D,2.49,3.26,3.14,2.49,3.3,3.86,2.3,3.09,3.22
+RUS1,Premier League,2015/2016,2015-10-04,11:30,Dynamo Moscow,CSKA Moscow,0,2,A,3.62,3.38,2.21,3.86,3.48,2.29,3.47,3.24,2.12
+RUS1,Premier League,2015/2016,2015-10-04,14:00,Akhmat Grozny,Rubin Kazan,2,1,H,1.97,3.36,4.52,2.0,3.45,5.3,1.91,3.25,4.2
+RUS1,Premier League,2015/2016,2015-10-04,14:00,Ufa,Krasnodar,1,1,D,4.42,3.51,1.94,5.2,3.66,1.94,4.28,3.37,1.85
+RUS1,Premier League,2015/2016,2015-10-04,17:00,Lokomotiv Moscow,Amkar,3,0,H,1.6,3.84,7.2,1.6,4.1,8.6,1.53,3.68,6.93
+RUS1,Premier League,2015/2016,2015-10-17,12:00,CSKA Moscow,Ural,3,2,H,1.42,4.82,8.74,1.45,4.82,9.3,1.4,4.46,7.7
+RUS1,Premier League,2015/2016,2015-10-17,14:30,Amkar,Dynamo Moscow,1,1,D,3.51,3.25,2.31,3.8,3.3,2.4,3.38,3.14,2.19
+RUS1,Premier League,2015/2016,2015-10-17,14:30,Kuban,Zenit,2,2,D,4.64,3.84,1.82,5.3,3.84,1.83,4.55,3.55,1.76
+RUS1,Premier League,2015/2016,2015-10-17,17:00,Rubin Kazan,Ufa,3,1,H,1.74,3.74,5.48,1.77,3.8,5.5,1.71,3.54,4.96
+RUS1,Premier League,2015/2016,2015-10-18,11:30,Spartak Moscow,Lokomotiv Moscow,1,2,A,2.57,3.33,2.98,2.57,3.4,3.25,2.43,3.16,2.94
+RUS1,Premier League,2015/2016,2015-10-18,14:00,FK Krylya Sovetov Samara,Akhmat Grozny,0,2,A,2.82,3.14,2.84,2.82,3.3,3.06,2.66,3.02,2.74
+RUS1,Premier League,2015/2016,2015-10-18,16:30,FK Anzi Makhackala,Krasnodar,2,2,D,3.1,3.41,2.44,3.58,3.45,2.47,3.03,3.21,2.34
+RUS1,Premier League,2015/2016,2015-10-19,17:00,FK Rostov,M. Saransk,3,2,H,1.63,3.86,6.53,1.72,3.86,6.9,1.63,3.61,5.63
+RUS1,Premier League,2015/2016,2015-10-23,15:00,Ufa,FK Krylya Sovetov Samara,1,0,H,3.49,3.05,2.43,3.49,3.25,2.55,3.08,2.99,2.44
+RUS1,Premier League,2015/2016,2015-10-24,10:00,Ural,Amkar,3,1,H,2.1,3.23,4.18,2.14,3.45,4.6,2.01,3.16,3.91
+RUS1,Premier League,2015/2016,2015-10-24,12:30,M. Saransk,Kuban,1,1,D,2.95,3.24,2.65,3.11,3.24,2.74,2.92,3.08,2.48
+RUS1,Premier League,2015/2016,2015-10-24,15:00,Zenit,FK Anzi Makhackala,5,1,H,1.38,5.08,9.82,1.4,5.3,10.5,1.37,4.59,8.38
+RUS1,Premier League,2015/2016,2015-10-25,10:30,Dynamo Moscow,Spartak Moscow,2,3,A,3.01,3.33,2.54,3.26,3.45,2.62,2.85,3.2,2.46
+RUS1,Premier League,2015/2016,2015-10-25,13:30,Krasnodar,Rubin Kazan,2,1,H,1.72,3.75,5.63,1.85,3.75,5.63,1.73,3.45,4.9
+RUS1,Premier League,2015/2016,2015-10-25,16:00,Akhmat Grozny,CSKA Moscow,0,0,D,3.5,3.28,2.3,3.65,3.4,2.32,3.28,3.18,2.23
+RUS1,Premier League,2015/2016,2015-10-26,16:30,Lokomotiv Moscow,FK Rostov,0,2,A,1.96,3.31,4.7,2.0,3.55,5.68,1.85,3.27,4.54
+RUS1,Premier League,2015/2016,2015-10-31,11:30,CSKA Moscow,Ufa,2,0,H,1.25,6.07,16.98,1.3,6.5,16.98,1.25,5.41,12.4
+RUS1,Premier League,2015/2016,2015-10-31,14:00,Zenit,M. Saransk,0,0,D,1.26,5.92,16.29,1.27,6.8,21.0,1.23,5.71,13.47
+RUS1,Premier League,2015/2016,2015-11-01,11:00,FK Krylya Sovetov Samara,Krasnodar,0,4,A,3.31,3.22,2.42,3.55,3.32,2.47,3.13,3.08,2.35
+RUS1,Premier League,2015/2016,2015-11-01,13:30,FK Anzi Makhackala,Rubin Kazan,1,2,A,2.32,3.31,3.4,2.55,3.35,3.4,2.38,3.12,3.05
+RUS1,Premier League,2015/2016,2015-11-01,16:00,Kuban,Lokomotiv Moscow,6,2,H,3.49,3.29,2.3,3.7,3.3,2.38,3.33,3.13,2.22
+RUS1,Premier League,2015/2016,2015-11-01,16:30,Spartak Moscow,Ural,0,1,A,1.65,3.88,6.18,1.68,3.94,6.2,1.62,3.7,5.51
+RUS1,Premier League,2015/2016,2015-11-02,14:00,Amkar,Akhmat Grozny,1,0,H,3.54,3.11,2.38,3.6,3.2,2.47,3.3,2.97,2.33
+RUS1,Premier League,2015/2016,2015-11-02,16:30,FK Rostov,Dynamo Moscow,1,0,H,2.27,3.33,3.52,2.4,3.35,3.52,2.24,3.17,3.26
+RUS1,Premier League,2015/2016,2015-11-06,16:00,M. Saransk,FK Anzi Makhackala,4,0,H,2.64,3.11,3.08,2.72,3.2,3.25,2.54,3.03,2.89
+RUS1,Premier League,2015/2016,2015-11-07,11:00,Ural,FK Rostov,1,2,A,2.69,3.17,2.96,2.82,3.2,3.14,2.57,3.05,2.85
+RUS1,Premier League,2015/2016,2015-11-07,13:15,Ufa,Amkar,2,1,H,2.69,3.03,3.09,2.78,3.2,3.13,2.58,2.96,2.91
+RUS1,Premier League,2015/2016,2015-11-07,15:30,Dynamo Moscow,Kuban,2,1,H,2.0,3.32,4.45,2.12,3.32,4.45,1.99,3.24,3.88
+RUS1,Premier League,2015/2016,2015-11-07,16:30,Akhmat Grozny,Spartak Moscow,2,1,H,2.25,3.31,3.59,2.4,3.45,3.6,2.24,3.15,3.3
+RUS1,Premier League,2015/2016,2015-11-08,11:30,Rubin Kazan,FK Krylya Sovetov Samara,2,0,H,2.1,3.4,3.92,2.12,3.4,4.15,2.04,3.23,3.7
+RUS1,Premier League,2015/2016,2015-11-08,14:00,Krasnodar,CSKA Moscow,2,1,H,2.8,3.35,2.71,2.9,3.35,2.78,2.76,3.19,2.54
+RUS1,Premier League,2015/2016,2015-11-08,16:30,Lokomotiv Moscow,Zenit,2,0,H,3.99,3.45,2.06,4.25,3.55,2.2,3.68,3.23,2.04
+RUS1,Premier League,2015/2016,2015-11-21,09:00,Amkar,Rubin Kazan,1,2,A,3.12,3.13,2.57,3.25,3.2,2.66,2.92,3.03,2.5
+RUS1,Premier League,2015/2016,2015-11-21,11:00,CSKA Moscow,FK Krylya Sovetov Samara,0,2,A,1.4,4.62,10.6,1.42,4.9,10.6,1.38,4.35,8.63
+RUS1,Premier League,2015/2016,2015-11-21,13:30,Zenit,Ural,3,0,H,1.42,4.8,8.76,1.44,5.1,9.5,1.41,4.41,7.57
+RUS1,Premier League,2015/2016,2015-11-21,16:00,Lokomotiv Moscow,FK Anzi Makhackala,0,2,A,1.62,3.95,6.44,1.65,4.1,6.8,1.59,3.74,5.78
+RUS1,Premier League,2015/2016,2015-11-22,11:30,M. Saransk,Dynamo Moscow,1,1,D,3.16,3.23,2.51,3.35,3.25,2.57,3.04,3.11,2.37
+RUS1,Premier League,2015/2016,2015-11-22,14:00,Kuban,Akhmat Grozny,2,2,D,2.49,3.15,3.27,2.6,3.2,3.44,2.45,3.03,3.01
+RUS1,Premier League,2015/2016,2015-11-22,16:30,Spartak Moscow,Krasnodar,3,2,H,2.76,3.4,2.71,2.82,3.42,2.82,2.62,3.2,2.66
+RUS1,Premier League,2015/2016,2015-11-23,16:00,FK Rostov,Ufa,1,1,D,1.57,3.97,7.29,1.67,4.1,7.29,1.58,3.64,6.27
+RUS1,Premier League,2015/2016,2015-11-27,14:00,Ural,M. Saransk,3,1,H,1.96,3.5,4.34,1.97,3.55,4.5,1.9,3.3,4.13
+RUS1,Premier League,2015/2016,2015-11-28,09:30,Ufa,Kuban,2,2,D,2.88,3.22,2.72,3.0,3.32,2.8,2.83,3.05,2.56
+RUS1,Premier League,2015/2016,2015-11-28,12:00,FK Krylya Sovetov Samara,Amkar,0,0,D,2.05,3.25,4.37,2.2,3.4,4.6,2.0,3.08,4.1
+RUS1,Premier League,2015/2016,2015-11-28,14:30,Akhmat Grozny,Zenit,4,1,H,3.77,3.38,2.16,4.0,3.5,2.16,3.61,3.29,2.04
+RUS1,Premier League,2015/2016,2015-11-29,12:00,FK Anzi Makhackala,CSKA Moscow,1,1,D,4.03,3.65,1.99,4.45,3.7,2.05,3.76,3.43,1.95
+RUS1,Premier League,2015/2016,2015-11-30,16:00,Dynamo Moscow,Lokomotiv Moscow,2,2,D,2.9,3.13,2.77,3.19,3.25,2.8,2.77,3.04,2.63
+RUS1,Premier League,2015/2016,2015-11-30,16:00,Krasnodar,FK Rostov,2,1,H,1.93,3.53,4.55,1.93,3.72,5.0,1.82,3.41,4.38
+RUS1,Premier League,2015/2016,2015-11-30,16:15,Rubin Kazan,Spartak Moscow,2,2,D,2.87,3.41,2.62,3.22,3.48,2.78,2.68,3.26,2.56
+RUS1,Premier League,2015/2016,2015-12-03,14:00,Amkar,CSKA Moscow,2,0,H,5.32,3.63,1.78,5.4,3.65,1.9,4.73,3.4,1.77
+RUS1,Premier League,2015/2016,2015-12-03,16:00,M. Saransk,Akhmat Grozny,0,0,D,3.48,3.27,2.32,3.88,3.27,2.32,3.43,3.08,2.2
+RUS1,Premier League,2015/2016,2015-12-03,16:00,Zenit,Ufa,1,1,D,1.26,5.95,16.57,1.32,6.3,18.0,1.25,5.35,13.24
+RUS1,Premier League,2015/2016,2015-12-04,16:00,Dynamo Moscow,FK Anzi Makhackala,1,2,A,2.3,3.43,3.35,2.31,3.43,3.8,2.18,3.21,3.32
+RUS1,Premier League,2015/2016,2015-12-04,16:00,FK Rostov,Rubin Kazan,1,0,H,2.24,3.41,3.5,2.31,3.44,3.55,2.19,3.22,3.3
+RUS1,Premier League,2015/2016,2015-12-04,16:00,Kuban,Krasnodar,2,3,A,4.1,3.59,2.0,4.4,3.61,2.03,3.86,3.4,1.94
+RUS1,Premier League,2015/2016,2015-12-04,16:00,Lokomotiv Moscow,Ural,2,2,D,1.79,3.52,5.47,1.83,3.65,5.6,1.77,3.36,4.85
+RUS1,Premier League,2015/2016,2015-12-04,16:00,Spartak Moscow,FK Krylya Sovetov Samara,1,0,H,1.54,4.14,7.45,1.72,4.5,7.9,1.54,3.88,6.21
+RUS1,Premier League,2015/2016,2016-03-05,11:30,FK Krylya Sovetov Samara,FK Rostov,0,1,A,3.63,3.1,2.35,3.84,3.19,2.36,3.41,2.97,2.26
+RUS1,Premier League,2015/2016,2016-03-05,14:00,Rubin Kazan,Kuban,1,0,H,1.98,3.35,4.51,2.01,3.57,4.75,1.89,3.23,4.3
+RUS1,Premier League,2015/2016,2016-03-05,16:30,Krasnodar,Zenit,0,0,D,2.97,3.36,2.56,3.22,3.49,2.62,2.85,3.22,2.44
+RUS1,Premier League,2015/2016,2016-03-06,11:30,Ufa,M. Saransk,1,1,D,,,,2.68,3.19,3.6,2.46,2.94,3.09
+RUS1,Premier League,2015/2016,2016-03-06,14:00,Akhmat Grozny,Lokomotiv Moscow,2,1,H,,,,2.58,3.24,3.42,2.41,3.0,3.1
+RUS1,Premier League,2015/2016,2016-03-06,16:30,CSKA Moscow,Spartak Moscow,1,0,H,1.88,3.74,4.4,1.91,4.2,4.5,1.84,3.5,4.18
+RUS1,Premier League,2015/2016,2016-03-07,11:30,Ural,Dynamo Moscow,1,1,D,2.48,3.18,3.2,2.57,3.23,3.45,2.38,3.06,3.07
+RUS1,Premier League,2015/2016,2016-03-07,14:00,FK Anzi Makhackala,Amkar,0,1,A,2.26,3.07,3.88,2.3,3.2,4.0,2.17,3.03,3.58
+RUS1,Premier League,2015/2016,2016-03-11,16:00,Kuban,FK Krylya Sovetov Samara,2,0,H,2.37,3.05,3.64,2.4,3.15,3.8,2.24,2.97,3.47
+RUS1,Premier League,2015/2016,2016-03-12,11:30,Ural,FK Anzi Makhackala,4,2,H,2.15,3.18,4.07,2.25,3.25,4.08,2.14,3.09,3.57
+RUS1,Premier League,2015/2016,2016-03-12,14:00,Spartak Moscow,Amkar,2,1,H,1.75,3.67,5.52,1.8,3.8,5.9,1.71,3.51,4.98
+RUS1,Premier League,2015/2016,2016-03-12,16:30,FK Rostov,CSKA Moscow,2,0,H,3.55,3.13,2.36,3.85,3.3,2.36,3.47,3.06,2.19
+RUS1,Premier League,2015/2016,2016-03-13,11:30,M. Saransk,Krasnodar,0,1,A,3.89,3.41,2.11,5.1,3.56,2.11,3.96,3.25,1.96
+RUS1,Premier League,2015/2016,2016-03-13,14:00,Lokomotiv Moscow,Ufa,2,0,H,1.65,3.7,6.65,1.67,4.17,7.5,1.58,3.57,6.42
+RUS1,Premier League,2015/2016,2016-03-13,16:30,Zenit,Rubin Kazan,4,2,H,1.52,4.26,7.56,1.53,4.75,8.3,1.49,4.01,6.8
+RUS1,Premier League,2015/2016,2016-03-14,16:00,Dynamo Moscow,Akhmat Grozny,0,1,A,2.51,3.01,3.42,2.67,3.1,3.42,2.39,2.95,3.17
+RUS1,Premier League,2015/2016,2016-03-18,14:00,Amkar,FK Rostov,0,0,D,3.1,2.94,2.76,3.82,3.0,2.77,3.09,2.82,2.54
+RUS1,Premier League,2015/2016,2016-03-18,16:30,FK Anzi Makhackala,Spartak Moscow,0,4,A,3.93,3.4,2.1,4.6,3.54,2.22,3.58,3.22,2.08
+RUS1,Premier League,2015/2016,2016-03-19,11:30,Ufa,Dynamo Moscow,0,1,A,3.4,2.94,2.56,3.64,3.05,2.56,3.23,2.87,2.42
+RUS1,Premier League,2015/2016,2016-03-19,14:00,Akhmat Grozny,Ural,1,1,D,1.31,5.25,13.37,1.5,6.8,13.37,1.3,4.71,10.93
+RUS1,Premier League,2015/2016,2016-03-19,16:30,CSKA Moscow,Kuban,2,0,H,1.46,4.47,8.67,1.47,4.8,11.0,1.39,4.29,8.51
+RUS1,Premier League,2015/2016,2016-03-20,11:30,FK Krylya Sovetov Samara,Zenit,0,2,A,7.84,4.2,1.52,10.0,4.85,1.52,7.21,4.0,1.47
+RUS1,Premier League,2015/2016,2016-03-20,14:00,Rubin Kazan,M. Saransk,1,1,D,1.76,3.62,5.5,1.83,3.65,6.1,1.73,3.42,5.03
+RUS1,Premier League,2015/2016,2016-03-20,16:30,Krasnodar,Lokomotiv Moscow,1,2,A,2.27,3.3,3.55,2.4,3.3,3.65,2.21,3.13,3.34
+RUS1,Premier League,2015/2016,2016-04-02,10:00,Ural,Ufa,1,0,H,2.05,3.35,4.17,2.14,3.44,4.6,2.04,3.15,3.76
+RUS1,Premier League,2015/2016,2016-04-02,12:30,Akhmat Grozny,FK Anzi Makhackala,3,2,H,1.64,3.82,6.49,1.66,4.25,8.0,1.56,3.72,6.26
+RUS1,Premier League,2015/2016,2016-04-02,15:00,Kuban,Amkar,1,1,D,2.75,3.04,3.01,2.81,3.05,3.2,2.6,2.89,2.92
+RUS1,Premier League,2015/2016,2016-04-02,17:30,FK Rostov,Spartak Moscow,2,0,H,2.79,3.16,2.85,2.82,3.22,2.93,2.64,3.01,2.76
+RUS1,Premier League,2015/2016,2016-04-03,15:00,Lokomotiv Moscow,Rubin Kazan,1,0,H,1.95,3.46,4.5,1.96,3.5,4.95,1.89,3.3,4.15
+RUS1,Premier League,2015/2016,2016-04-03,17:30,Zenit,CSKA Moscow,2,0,H,2.03,3.32,4.31,2.08,3.6,4.55,1.98,3.24,3.9
+RUS1,Premier League,2015/2016,2016-04-04,17:00,M. Saransk,FK Krylya Sovetov Samara,1,2,A,2.32,3.08,3.7,2.38,3.1,3.82,2.29,2.95,3.39
+RUS1,Premier League,2015/2016,2016-04-04,17:30,Dynamo Moscow,Krasnodar,1,4,A,3.21,3.17,2.51,3.7,3.3,2.51,3.16,3.08,2.33
+RUS1,Premier League,2015/2016,2016-04-08,17:00,FK Anzi Makhackala,FK Rostov,0,0,D,3.9,3.16,2.21,4.9,3.45,2.26,3.71,3.09,2.1
+RUS1,Premier League,2015/2016,2016-04-09,11:30,CSKA Moscow,M. Saransk,7,1,H,1.33,5.18,12.13,1.36,6.6,18.0,1.31,4.83,10.72
+RUS1,Premier League,2015/2016,2016-04-09,12:30,Amkar,Zenit,0,2,A,5.53,3.59,1.77,6.5,3.91,1.77,5.44,3.52,1.66
+RUS1,Premier League,2015/2016,2016-04-09,17:30,Rubin Kazan,Dynamo Moscow,4,1,H,2.1,3.26,4.13,2.25,3.3,4.13,2.08,3.17,3.64
+RUS1,Premier League,2015/2016,2016-04-10,12:30,Ufa,Akhmat Grozny,1,0,H,4.16,3.21,2.11,4.55,3.3,2.15,3.83,3.08,2.06
+RUS1,Premier League,2015/2016,2016-04-10,15:00,Krasnodar,Ural,6,0,H,1.47,4.42,8.35,1.57,4.7,8.35,1.46,4.13,6.94
+RUS1,Premier League,2015/2016,2016-04-10,17:30,Spartak Moscow,Kuban,2,2,D,1.48,4.69,7.26,1.49,4.8,8.2,1.44,4.35,6.79
+RUS1,Premier League,2015/2016,2016-04-11,16:00,FK Krylya Sovetov Samara,Lokomotiv Moscow,0,0,D,3.47,3.19,2.36,3.55,3.25,2.44,3.31,2.98,2.3
+RUS1,Premier League,2015/2016,2016-04-15,17:00,M. Saransk,Amkar,1,1,D,2.94,3.13,2.73,3.26,3.16,2.75,2.81,3.0,2.61
+RUS1,Premier League,2015/2016,2016-04-16,12:30,Akhmat Grozny,Krasnodar,0,1,A,3.11,3.18,2.58,3.15,3.2,2.77,2.89,3.05,2.51
+RUS1,Premier League,2015/2016,2016-04-16,15:00,Lokomotiv Moscow,CSKA Moscow,1,1,D,3.43,3.1,2.43,3.72,3.25,2.43,3.24,3.01,2.31
+RUS1,Premier League,2015/2016,2016-04-16,17:30,Zenit,Spartak Moscow,5,2,H,1.53,4.56,6.66,1.65,4.75,7.01,1.5,4.24,5.99
+RUS1,Premier League,2015/2016,2016-04-17,12:30,Ufa,FK Anzi Makhackala,2,0,H,2.22,3.09,4.01,2.32,3.2,4.1,2.16,2.99,3.62
+RUS1,Premier League,2015/2016,2016-04-17,15:00,Dynamo Moscow,FK Krylya Sovetov Samara,0,1,A,2.08,3.25,4.21,2.1,3.38,4.65,2.0,3.16,3.93
+RUS1,Premier League,2015/2016,2016-04-17,17:30,Kuban,FK Rostov,0,1,A,4.0,3.23,2.15,4.19,3.23,2.25,3.64,3.09,2.11
+RUS1,Premier League,2015/2016,2016-04-18,15:00,Ural,Rubin Kazan,0,1,A,3.24,3.27,2.44,3.28,3.28,2.62,3.06,3.14,2.34
+RUS1,Premier League,2015/2016,2016-04-23,12:30,FK Krylya Sovetov Samara,Ural,1,1,D,2.11,3.26,4.11,2.2,3.3,4.3,2.05,3.15,3.76
+RUS1,Premier League,2015/2016,2016-04-23,15:00,Spartak Moscow,M. Saransk,2,2,D,1.44,4.93,7.81,1.51,5.36,7.81,1.44,4.37,6.75
+RUS1,Premier League,2015/2016,2016-04-23,17:30,Rubin Kazan,Akhmat Grozny,0,1,A,2.63,3.23,2.98,2.68,3.46,3.2,2.51,3.07,2.87
+RUS1,Premier League,2015/2016,2016-04-24,10:00,Amkar,Lokomotiv Moscow,0,1,A,3.34,3.11,2.48,3.75,3.15,2.48,3.36,2.97,2.28
+RUS1,Premier League,2015/2016,2016-04-24,12:30,Krasnodar,Ufa,4,0,H,1.36,4.83,12.18,1.42,5.2,12.18,1.36,4.44,9.19
+RUS1,Premier League,2015/2016,2016-04-24,15:00,CSKA Moscow,Dynamo Moscow,1,0,H,1.49,4.44,7.85,1.49,5.3,11.0,1.43,4.24,7.52
+RUS1,Premier League,2015/2016,2016-04-24,17:30,FK Anzi Makhackala,Kuban,1,0,H,2.51,3.32,3.08,2.59,3.32,3.35,2.39,3.15,2.98
+RUS1,Premier League,2015/2016,2016-04-24,17:30,FK Rostov,Zenit,3,0,H,3.62,3.23,2.28,4.15,3.4,2.29,3.41,3.12,2.19
+RUS1,Premier League,2015/2016,2016-04-28,15:00,Ural,CSKA Moscow,0,3,A,7.33,4.39,1.51,8.1,4.8,1.51,6.7,4.17,1.47
+RUS1,Premier League,2015/2016,2016-04-28,17:30,Zenit,Kuban,4,1,H,1.23,6.9,15.6,1.28,9.7,21.0,1.19,6.49,13.67
+RUS1,Premier League,2015/2016,2016-04-29,17:00,Dynamo Moscow,Amkar,0,0,D,2.03,3.3,4.35,2.14,3.3,4.45,2.0,3.12,3.98
+RUS1,Premier League,2015/2016,2016-04-30,17:30,Lokomotiv Moscow,Spartak Moscow,0,2,A,2.04,3.6,3.89,2.18,3.6,3.89,2.03,3.36,3.57
+RUS1,Premier League,2015/2016,2016-05-01,10:00,Ufa,Rubin Kazan,1,1,D,3.21,3.06,2.59,3.28,3.2,2.6,3.02,2.98,2.47
+RUS1,Premier League,2015/2016,2016-05-01,12:30,M. Saransk,FK Rostov,2,1,H,6.8,3.8,1.63,7.2,3.86,1.7,6.03,3.55,1.61
+RUS1,Premier League,2015/2016,2016-05-01,15:00,Akhmat Grozny,FK Krylya Sovetov Samara,0,1,A,1.76,3.36,6.27,1.79,3.75,6.5,1.7,3.33,5.51
+RUS1,Premier League,2015/2016,2016-05-01,17:30,Krasnodar,FK Anzi Makhackala,3,0,H,1.31,5.71,11.72,1.32,6.4,14.0,1.27,5.29,10.61
+RUS1,Premier League,2015/2016,2016-05-06,16:00,FK Krylya Sovetov Samara,Ufa,1,0,H,1.95,3.21,4.95,1.96,3.3,5.1,1.9,3.1,4.48
+RUS1,Premier League,2015/2016,2016-05-06,17:30,FK Rostov,Lokomotiv Moscow,2,1,H,2.14,3.14,4.16,2.35,3.2,4.16,2.16,2.97,3.69
+RUS1,Premier League,2015/2016,2016-05-07,12:30,CSKA Moscow,Akhmat Grozny,1,0,H,1.42,4.59,9.79,1.44,5.2,10.0,1.4,4.32,8.31
+RUS1,Premier League,2015/2016,2016-05-07,15:00,FK Anzi Makhackala,Zenit,0,1,A,11.27,5.4,1.33,14.5,6.35,1.33,9.96,5.13,1.3
+RUS1,Premier League,2015/2016,2016-05-07,15:00,Kuban,M. Saransk,1,2,A,2.19,3.37,3.67,2.23,3.37,3.82,2.13,3.2,3.45
+RUS1,Premier League,2015/2016,2016-05-07,17:30,Rubin Kazan,Krasnodar,1,1,D,4.44,3.76,1.88,4.8,3.9,2.08,4.22,3.45,1.84
+RUS1,Premier League,2015/2016,2016-05-08,12:30,Amkar,Ural,1,1,D,1.68,3.62,6.54,1.7,3.78,6.7,1.64,3.49,5.82
+RUS1,Premier League,2015/2016,2016-05-08,17:30,Spartak Moscow,Dynamo Moscow,3,0,H,1.71,3.98,5.3,1.75,4.05,5.4,1.68,3.74,4.8
+RUS1,Premier League,2015/2016,2016-05-11,15:00,Ufa,CSKA Moscow,1,3,A,12.11,5.02,1.35,14.0,5.6,1.36,9.86,4.62,1.33
+RUS1,Premier League,2015/2016,2016-05-11,17:00,Rubin Kazan,FK Anzi Makhackala,1,2,A,2.28,3.43,3.39,2.36,3.72,3.96,2.2,3.26,3.23
+RUS1,Premier League,2015/2016,2016-05-11,17:30,Krasnodar,FK Krylya Sovetov Samara,3,0,H,1.3,5.54,13.01,1.33,5.9,15.5,1.29,4.93,10.76
+RUS1,Premier League,2015/2016,2016-05-11,17:30,Lokomotiv Moscow,Kuban,0,1,A,1.52,4.27,7.54,1.54,4.85,9.1,1.48,4.02,6.88
+RUS1,Premier League,2015/2016,2016-05-11,17:30,M. Saransk,Zenit,0,3,A,8.01,4.8,1.44,15.5,6.2,1.45,7.95,4.58,1.38
+RUS1,Premier League,2015/2016,2016-05-12,15:00,Ural,Spartak Moscow,0,1,A,5.67,4.0,1.67,5.67,4.5,1.7,5.09,3.83,1.63
+RUS1,Premier League,2015/2016,2016-05-12,17:00,Akhmat Grozny,Amkar,2,0,H,2.27,3.1,3.82,2.27,3.2,4.05,2.17,3.02,3.6
+RUS1,Premier League,2015/2016,2016-05-12,17:30,Dynamo Moscow,FK Rostov,1,3,A,3.84,3.35,2.15,4.0,3.4,2.17,3.65,3.19,2.07
+RUS1,Premier League,2015/2016,2016-05-15,12:30,FK Krylya Sovetov Samara,Rubin Kazan,1,1,D,2.76,3.25,2.81,2.88,3.25,2.88,2.68,3.03,2.71
+RUS1,Premier League,2015/2016,2016-05-15,15:00,FK Anzi Makhackala,M. Saransk,3,0,H,2.29,3.27,3.55,2.35,3.52,3.6,2.21,3.2,3.26
+RUS1,Premier League,2015/2016,2016-05-15,17:00,Zenit,Lokomotiv Moscow,1,1,D,1.33,5.34,11.88,1.44,5.7,17.5,1.29,4.99,10.93
+RUS1,Premier League,2015/2016,2016-05-16,15:00,Amkar,Ufa,1,0,H,1.98,3.24,4.72,2.05,3.3,5.0,1.9,3.08,4.53
+RUS1,Premier League,2015/2016,2016-05-16,17:30,CSKA Moscow,Krasnodar,2,0,H,1.69,3.95,5.58,1.75,4.1,5.76,1.66,3.7,5.12
+RUS1,Premier League,2015/2016,2016-05-16,17:30,FK Rostov,Ural,1,0,H,1.22,6.89,17.36,1.26,7.2,18.57,1.21,5.93,14.36
+RUS1,Premier League,2015/2016,2016-05-16,17:30,Kuban,Dynamo Moscow,1,0,H,2.62,3.42,2.84,2.71,3.56,2.9,2.49,3.22,2.79
+RUS1,Premier League,2015/2016,2016-05-16,17:30,Spartak Moscow,Akhmat Grozny,3,0,H,1.64,4.1,5.87,1.73,4.1,6.05,1.63,3.7,5.43
+RUS1,Premier League,2015/2016,2016-05-21,11:30,Akhmat Grozny,FK Rostov,0,2,A,5.81,3.92,1.67,6.4,4.55,1.71,5.23,3.64,1.66
+RUS1,Premier League,2015/2016,2016-05-21,11:30,Dynamo Moscow,Zenit,0,3,A,2.77,3.61,2.59,2.97,3.85,2.6,2.66,3.42,2.48
+RUS1,Premier League,2015/2016,2016-05-21,11:30,FK Krylya Sovetov Samara,FK Anzi Makhackala,0,0,D,5.63,3.91,1.69,5.9,4.45,1.83,4.9,3.62,1.7
+RUS1,Premier League,2015/2016,2016-05-21,11:30,Krasnodar,Amkar,1,0,H,1.3,5.87,11.54,1.33,6.3,15.0,1.28,5.27,10.25
+RUS1,Premier League,2015/2016,2016-05-21,11:30,Lokomotiv Moscow,M. Saransk,3,0,H,2.3,3.74,3.11,2.4,4.0,3.42,2.26,3.5,2.92
+RUS1,Premier League,2015/2016,2016-05-21,11:30,Rubin Kazan,CSKA Moscow,0,1,A,11.13,5.63,1.32,15.5,6.5,1.34,9.73,5.06,1.3
+RUS1,Premier League,2015/2016,2016-05-21,11:30,Ufa,Spartak Moscow,3,1,H,2.53,3.98,2.64,2.81,4.1,2.68,2.51,3.48,2.57
+RUS1,Premier League,2015/2016,2016-05-21,11:30,Ural,Kuban,2,0,H,5.87,4.4,1.59,6.5,4.68,1.62,5.58,3.98,1.56
+RUS1,Premier League,2015/2016,2016-05-24,16:00,Volgar-Astrakhan,FK Anzi Makhackala,0,1,A,3.17,3.07,2.6,3.42,3.2,2.6,3.06,2.98,2.44
+RUS1,Premier League,2015/2016,2016-05-24,17:45,Kuban,Tomsk,1,0,H,2.52,3.12,3.24,2.52,3.2,3.44,2.39,2.98,3.14
+RUS1,Premier League,2015/2016,2016-05-27,14:00,Tomsk,Kuban,2,0,H,2.08,3.32,4.1,2.21,3.32,4.1,2.08,3.14,3.66
+RUS1,Premier League,2015/2016,2016-05-27,17:00,FK Anzi Makhackala,Volgar-Astrakhan,2,0,H,1.5,4.12,6.52,1.51,4.85,9.1,1.46,4.05,7.14

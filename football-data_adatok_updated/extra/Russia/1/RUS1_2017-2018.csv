@@ -1,0 +1,245 @@
+Div,League,Season,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,PSH,PSD,PSA,MaxH,MaxD,MaxA,AvgH,AvgD,AvgA
+RUS1,Premier League,2017/2018,2017-07-15,13:00,Ural,FK Rostov,1,1,D,3.05,3.01,2.74,3.08,3.01,3.25,2.86,2.9,2.69
+RUS1,Premier League,2017/2018,2017-07-15,15:30,Tosno,Ufa,0,1,A,2.42,2.99,3.6,2.6,3.0,3.6,2.38,2.87,3.32
+RUS1,Premier League,2017/2018,2017-07-15,18:00,FK Anzi Makhackala,CSKA Moscow,1,3,A,10.32,4.34,1.43,10.32,4.34,1.61,8.25,4.02,1.44
+RUS1,Premier League,2017/2018,2017-07-16,09:00,SKA Khabarovsk,Zenit,0,2,A,10.12,4.82,1.39,11.0,5.0,1.4,8.99,4.43,1.37
+RUS1,Premier League,2017/2018,2017-07-16,15:30,Rubin Kazan,Krasnodar,1,2,A,2.72,2.94,3.15,2.72,3.1,3.34,2.53,2.91,3.03
+RUS1,Premier League,2017/2018,2017-07-16,19:30,Akhmat Grozny,Amkar,1,0,H,1.92,3.24,5.1,1.92,3.54,5.9,1.85,3.19,4.66
+RUS1,Premier League,2017/2018,2017-07-18,17:30,Dynamo Moscow,Spartak Moscow,2,2,D,3.79,3.54,2.09,4.35,3.66,2.11,3.67,3.37,2.02
+RUS1,Premier League,2017/2018,2017-07-18,17:30,Lokomotiv Moscow,Arsenal Tula,1,0,H,1.45,4.28,9.95,1.49,4.33,10.0,1.43,4.06,8.4
+RUS1,Premier League,2017/2018,2017-07-21,17:30,CSKA Moscow,Lokomotiv Moscow,1,3,A,1.54,4.14,7.51,1.57,4.14,7.7,1.52,3.81,6.73
+RUS1,Premier League,2017/2018,2017-07-21,17:30,FK Anzi Makhackala,Amkar,1,0,H,2.29,3.07,3.8,2.35,3.13,4.2,2.17,2.98,3.72
+RUS1,Premier League,2017/2018,2017-07-22,15:30,Zenit,Rubin Kazan,2,1,H,1.48,4.49,8.07,1.5,4.75,9.5,1.44,4.16,7.53
+RUS1,Premier League,2017/2018,2017-07-22,18:00,Krasnodar,Tosno,2,0,H,1.4,4.97,9.32,1.48,5.0,11.5,1.4,4.37,8.18
+RUS1,Premier League,2017/2018,2017-07-23,13:00,Ufa,Spartak Moscow,0,0,D,4.59,3.35,1.96,5.47,3.62,2.0,4.24,3.27,1.91
+RUS1,Premier League,2017/2018,2017-07-23,15:30,Dynamo Moscow,Ural,0,1,A,1.56,4.17,6.95,1.59,4.17,7.5,1.53,3.84,6.5
+RUS1,Premier League,2017/2018,2017-07-23,18:00,FK Rostov,Akhmat Grozny,0,1,A,2.58,3.01,3.29,2.58,3.2,3.37,2.42,2.94,3.17
+RUS1,Premier League,2017/2018,2017-07-24,17:30,Arsenal Tula,SKA Khabarovsk,1,0,H,1.67,3.53,6.99,1.82,3.53,6.99,1.69,3.31,5.86
+RUS1,Premier League,2017/2018,2017-07-29,13:00,CSKA Moscow,SKA Khabarovsk,2,0,H,1.2,7.05,20.63,1.21,7.57,21.0,1.18,6.58,16.08
+RUS1,Premier League,2017/2018,2017-07-29,13:00,Ural,Ufa,1,1,D,2.67,2.83,3.36,2.72,3.0,3.36,2.54,2.83,3.12
+RUS1,Premier League,2017/2018,2017-07-29,15:30,Rubin Kazan,Arsenal Tula,2,1,H,1.65,3.64,7.05,1.72,3.7,7.3,1.66,3.43,5.91
+RUS1,Premier League,2017/2018,2017-07-29,18:00,Akhmat Grozny,Dynamo Moscow,2,0,H,,,,2.16,3.18,4.3,2.08,3.04,3.87
+RUS1,Premier League,2017/2018,2017-07-30,13:00,Amkar,FK Rostov,0,1,A,2.89,2.76,3.16,3.14,2.8,3.34,2.79,2.63,3.02
+RUS1,Premier League,2017/2018,2017-07-30,15:30,Lokomotiv Moscow,FK Anzi Makhackala,1,0,H,1.56,3.97,7.54,1.6,4.0,8.0,1.54,3.7,6.86
+RUS1,Premier League,2017/2018,2017-07-30,18:00,Tosno,Zenit,0,1,A,22.38,7.03,1.19,22.38,7.03,1.28,16.27,6.15,1.19
+RUS1,Premier League,2017/2018,2017-07-31,17:30,Spartak Moscow,Krasnodar,2,0,H,1.71,4.06,5.17,1.81,4.06,5.6,1.68,3.81,4.81
+RUS1,Premier League,2017/2018,2017-08-04,18:00,FK Anzi Makhackala,FK Rostov,0,1,A,3.43,2.89,2.58,3.43,2.89,2.72,3.18,2.75,2.56
+RUS1,Premier League,2017/2018,2017-08-05,13:00,Ufa,Akhmat Grozny,3,2,H,,,,3.25,2.95,2.91,2.98,2.74,2.71
+RUS1,Premier League,2017/2018,2017-08-05,15:30,Dynamo Moscow,Amkar,3,0,H,1.74,3.48,6.16,1.77,3.54,6.16,1.73,3.34,5.31
+RUS1,Premier League,2017/2018,2017-08-05,18:00,Lokomotiv Moscow,SKA Khabarovsk,1,0,H,1.26,5.66,17.89,1.29,5.7,19.05,1.24,5.16,14.42
+RUS1,Premier League,2017/2018,2017-08-06,13:00,Arsenal Tula,Tosno,1,2,A,2.3,3.1,3.75,2.32,3.1,3.96,2.2,2.98,3.58
+RUS1,Premier League,2017/2018,2017-08-06,15:30,CSKA Moscow,Rubin Kazan,1,2,A,1.5,4.28,8.1,1.59,4.28,8.36,1.49,3.94,7.09
+RUS1,Premier League,2017/2018,2017-08-06,18:00,Krasnodar,Ural,1,1,D,1.37,5.0,10.65,1.45,5.0,13.0,1.36,4.51,9.42
+RUS1,Premier League,2017/2018,2017-08-06,18:00,Zenit,Spartak Moscow,5,1,H,1.98,3.62,4.11,2.11,3.62,4.11,1.98,3.41,3.71
+RUS1,Premier League,2017/2018,2017-08-08,09:00,SKA Khabarovsk,FK Anzi Makhackala,2,0,H,2.74,2.92,3.15,2.85,2.97,3.38,2.68,2.8,2.95
+RUS1,Premier League,2017/2018,2017-08-08,15:30,Amkar,Ufa,0,0,D,2.63,2.85,3.4,2.77,2.88,3.4,2.55,2.75,3.21
+RUS1,Premier League,2017/2018,2017-08-09,15:30,Ural,Zenit,1,1,D,7.33,4.05,1.56,8.3,4.38,1.58,6.64,3.82,1.53
+RUS1,Premier League,2017/2018,2017-08-09,17:30,Spartak Moscow,Arsenal Tula,2,0,H,1.33,5.4,11.44,1.34,6.0,14.0,1.31,4.96,9.98
+RUS1,Premier League,2017/2018,2017-08-09,18:00,FK Rostov,Dynamo Moscow,1,0,H,1.98,3.26,4.72,2.07,3.26,5.0,1.94,3.08,4.34
+RUS1,Premier League,2017/2018,2017-08-09,18:00,Rubin Kazan,Lokomotiv Moscow,1,1,D,2.63,3.08,3.13,2.68,3.08,3.32,2.54,2.91,3.01
+RUS1,Premier League,2017/2018,2017-08-09,18:00,Tosno,CSKA Moscow,1,2,A,7.02,4.15,1.56,8.0,4.3,1.59,6.38,3.91,1.53
+RUS1,Premier League,2017/2018,2017-08-10,18:00,Akhmat Grozny,Krasnodar,2,3,A,,,,2.91,3.15,2.99,2.69,3.0,2.75
+RUS1,Premier League,2017/2018,2017-08-12,13:00,Ufa,FK Rostov,1,4,A,3.08,2.83,2.88,3.11,2.95,3.02,2.91,2.72,2.8
+RUS1,Premier League,2017/2018,2017-08-12,15:30,CSKA Moscow,Spartak Moscow,2,1,H,2.03,3.66,3.87,2.35,3.68,3.91,2.03,3.45,3.54
+RUS1,Premier League,2017/2018,2017-08-12,18:00,FK Anzi Makhackala,Dynamo Moscow,1,3,A,2.91,2.98,2.9,3.1,3.05,2.91,2.82,2.89,2.73
+RUS1,Premier League,2017/2018,2017-08-13,09:00,SKA Khabarovsk,Rubin Kazan,1,1,D,4.6,3.29,1.99,4.85,3.38,2.1,4.1,3.12,2.0
+RUS1,Premier League,2017/2018,2017-08-13,15:30,Lokomotiv Moscow,Tosno,0,2,A,1.4,4.68,10.51,1.44,4.68,11.5,1.37,4.37,9.48
+RUS1,Premier League,2017/2018,2017-08-13,18:00,Krasnodar,Amkar,1,1,D,1.47,4.33,8.9,1.49,4.5,9.3,1.45,4.07,7.74
+RUS1,Premier League,2017/2018,2017-08-13,18:00,Zenit,Akhmat Grozny,4,0,H,1.48,4.63,7.48,1.48,4.7,8.9,1.44,4.21,7.47
+RUS1,Premier League,2017/2018,2017-08-14,17:30,Arsenal Tula,Ural,2,2,D,2.39,3.17,3.43,2.68,3.17,3.52,2.35,2.94,3.33
+RUS1,Premier League,2017/2018,2017-08-18,17:30,Tosno,SKA Khabarovsk,0,0,D,1.58,3.77,7.84,1.77,3.82,8.0,1.58,3.51,6.69
+RUS1,Premier League,2017/2018,2017-08-19,13:00,Ural,CSKA Moscow,0,0,D,5.36,3.81,1.74,5.75,3.81,1.79,5.15,3.55,1.69
+RUS1,Premier League,2017/2018,2017-08-19,15:30,Spartak Moscow,Lokomotiv Moscow,3,4,A,1.85,3.53,5.0,1.95,3.54,5.4,1.82,3.36,4.61
+RUS1,Premier League,2017/2018,2017-08-19,18:00,Rubin Kazan,FK Anzi Makhackala,6,0,H,1.63,3.7,7.05,1.67,3.78,7.4,1.61,3.53,6.27
+RUS1,Premier League,2017/2018,2017-08-20,13:00,Amkar,Zenit,0,1,A,5.95,3.54,1.74,6.9,3.66,1.78,5.41,3.39,1.71
+RUS1,Premier League,2017/2018,2017-08-20,15:30,Dynamo Moscow,Ufa,1,1,D,1.88,3.41,5.02,1.93,3.43,5.63,1.81,3.25,4.84
+RUS1,Premier League,2017/2018,2017-08-20,18:00,FK Rostov,Krasnodar,0,0,D,2.28,3.21,3.64,2.46,3.24,3.64,2.25,3.03,3.42
+RUS1,Premier League,2017/2018,2017-08-21,18:00,Akhmat Grozny,Arsenal Tula,1,2,A,1.56,3.98,7.62,1.6,4.4,8.2,1.55,3.73,6.54
+RUS1,Premier League,2017/2018,2017-08-25,18:00,FK Anzi Makhackala,Ufa,1,0,H,2.72,2.97,3.12,2.96,3.1,3.12,2.67,2.82,2.95
+RUS1,Premier League,2017/2018,2017-08-26,13:00,Arsenal Tula,Amkar,0,1,A,2.41,2.96,3.67,2.5,2.96,3.74,2.4,2.85,3.35
+RUS1,Premier League,2017/2018,2017-08-26,15:30,Rubin Kazan,Tosno,1,0,H,1.72,3.61,6.03,1.72,3.88,7.3,1.62,3.55,6.01
+RUS1,Premier League,2017/2018,2017-08-26,18:00,Lokomotiv Moscow,Ural,2,1,H,1.51,4.22,8.06,1.55,4.3,8.2,1.48,4.01,7.2
+RUS1,Premier League,2017/2018,2017-08-27,09:00,SKA Khabarovsk,Spartak Moscow,0,0,D,7.51,4.4,1.51,8.2,4.5,1.52,7.14,3.99,1.48
+RUS1,Premier League,2017/2018,2017-08-27,15:30,CSKA Moscow,Akhmat Grozny,0,1,A,1.42,5.05,8.25,1.47,5.1,9.0,1.38,4.56,8.21
+RUS1,Premier League,2017/2018,2017-08-27,18:00,Krasnodar,Dynamo Moscow,2,0,H,1.69,3.91,5.61,1.8,3.91,5.61,1.7,3.63,4.97
+RUS1,Premier League,2017/2018,2017-08-27,18:00,Zenit,FK Rostov,0,0,D,1.68,3.62,6.56,1.7,4.25,7.4,1.65,3.55,5.63
+RUS1,Premier League,2017/2018,2017-09-08,15:30,Amkar,CSKA Moscow,0,1,A,6.13,3.7,1.69,6.51,3.94,1.73,5.73,3.52,1.65
+RUS1,Premier League,2017/2018,2017-09-09,12:00,Tosno,FK Anzi Makhackala,2,2,D,1.98,3.39,4.42,2.1,3.44,4.65,1.98,3.2,4.03
+RUS1,Premier League,2017/2018,2017-09-09,14:30,FK Rostov,Arsenal Tula,2,2,D,1.51,3.94,9.2,1.56,4.03,9.73,1.5,3.71,7.95
+RUS1,Premier League,2017/2018,2017-09-09,17:00,Spartak Moscow,Rubin Kazan,1,0,H,1.7,3.99,5.4,1.74,4.1,5.52,1.68,3.72,5.05
+RUS1,Premier League,2017/2018,2017-09-10,12:00,Dynamo Moscow,Zenit,0,0,D,5.48,3.88,1.71,5.9,4.1,1.75,5.08,3.64,1.69
+RUS1,Premier League,2017/2018,2017-09-10,14:30,Ufa,Krasnodar,0,1,A,4.05,3.23,2.13,4.22,3.32,2.2,3.73,3.14,2.09
+RUS1,Premier League,2017/2018,2017-09-10,17:00,Akhmat Grozny,Lokomotiv Moscow,1,1,D,2.7,3.15,2.96,2.71,3.15,3.1,2.58,3.02,2.85
+RUS1,Premier League,2017/2018,2017-09-11,15:30,Ural,SKA Khabarovsk,1,1,D,1.58,3.85,7.58,1.66,3.91,7.7,1.58,3.61,6.47
+RUS1,Premier League,2017/2018,2017-09-15,17:30,Arsenal Tula,Dynamo Moscow,1,0,H,2.8,2.98,3.02,3.14,3.04,3.02,2.68,2.94,2.83
+RUS1,Premier League,2017/2018,2017-09-16,14:30,CSKA Moscow,FK Rostov,2,0,H,1.7,3.57,6.33,1.73,3.7,6.5,1.66,3.46,5.75
+RUS1,Premier League,2017/2018,2017-09-16,17:00,FK Anzi Makhackala,Krasnodar,1,5,A,5.35,3.89,1.72,5.75,4.0,1.8,4.91,3.65,1.71
+RUS1,Premier League,2017/2018,2017-09-17,09:00,SKA Khabarovsk,Akhmat Grozny,2,2,D,5.1,3.32,1.89,5.1,3.32,1.96,4.63,3.15,1.88
+RUS1,Premier League,2017/2018,2017-09-17,11:00,Tosno,Spartak Moscow,2,2,D,4.56,3.57,1.9,5.1,3.72,1.93,4.3,3.46,1.84
+RUS1,Premier League,2017/2018,2017-09-17,14:30,Rubin Kazan,Ural,0,1,A,1.59,4.0,6.8,1.7,4.0,7.1,1.58,3.7,6.14
+RUS1,Premier League,2017/2018,2017-09-18,17:30,Lokomotiv Moscow,Amkar,0,1,A,1.53,3.84,8.98,1.57,7.75,9.8,1.49,3.82,7.87
+RUS1,Premier League,2017/2018,2017-09-18,18:00,Zenit,Ufa,3,0,H,1.32,5.37,11.95,1.33,10.0,15.72,1.27,5.43,11.29
+RUS1,Premier League,2017/2018,2017-09-23,14:30,Dynamo Moscow,CSKA Moscow,0,0,D,5.66,3.64,1.74,5.9,6.5,1.77,5.05,3.59,1.71
+RUS1,Premier League,2017/2018,2017-09-23,17:00,Spartak Moscow,FK Anzi Makhackala,2,2,D,1.31,5.94,10.68,1.35,8.5,11.5,1.3,5.49,8.96
+RUS1,Premier League,2017/2018,2017-09-24,12:00,Ural,Tosno,3,1,H,2.4,3.1,3.49,2.43,3.26,3.5,2.33,3.05,3.23
+RUS1,Premier League,2017/2018,2017-09-24,14:30,FK Rostov,Lokomotiv Moscow,0,1,A,2.34,3.01,3.76,2.43,3.02,3.81,2.29,2.87,3.55
+RUS1,Premier League,2017/2018,2017-09-24,14:30,Ufa,Arsenal Tula,1,0,H,2.38,3.01,3.66,2.38,3.05,3.94,2.28,2.93,3.5
+RUS1,Premier League,2017/2018,2017-09-24,17:00,Krasnodar,Zenit,0,2,A,2.67,3.33,2.85,2.9,3.38,2.9,2.6,3.19,2.72
+RUS1,Premier League,2017/2018,2017-09-25,15:00,Amkar,SKA Khabarovsk,3,0,H,1.65,3.46,7.7,1.73,6.5,7.7,1.6,3.48,6.72
+RUS1,Premier League,2017/2018,2017-09-25,17:30,Akhmat Grozny,Rubin Kazan,1,0,H,2.59,3.16,3.1,2.66,6.5,3.25,2.43,3.18,3.01
+RUS1,Premier League,2017/2018,2017-09-29,17:30,Arsenal Tula,Krasnodar,1,0,H,5.27,3.99,1.71,5.8,4.0,2.0,4.95,3.65,1.7
+RUS1,Premier League,2017/2018,2017-09-30,09:30,SKA Khabarovsk,FK Rostov,2,1,H,6.21,3.39,1.76,6.5,3.45,1.87,5.72,3.23,1.73
+RUS1,Premier League,2017/2018,2017-09-30,12:00,Tosno,Akhmat Grozny,1,0,H,2.92,3.13,2.75,3.38,3.23,2.75,2.92,3.0,2.55
+RUS1,Premier League,2017/2018,2017-09-30,14:30,Rubin Kazan,Amkar,0,1,A,1.81,3.26,6.04,1.84,3.74,6.45,1.73,3.24,5.63
+RUS1,Premier League,2017/2018,2017-09-30,17:00,Spartak Moscow,Ural,2,0,H,1.47,4.82,7.27,1.53,4.94,7.43,1.46,4.46,6.24
+RUS1,Premier League,2017/2018,2017-10-01,12:00,CSKA Moscow,Ufa,0,0,D,1.33,5.3,11.78,1.34,8.0,13.35,1.3,5.1,10.47
+RUS1,Premier League,2017/2018,2017-10-01,14:30,Lokomotiv Moscow,Dynamo Moscow,3,0,H,1.78,3.53,5.58,1.82,7.25,5.61,1.75,3.47,4.97
+RUS1,Premier League,2017/2018,2017-10-01,17:00,FK Anzi Makhackala,Zenit,2,2,D,8.91,4.37,1.46,9.9,4.8,1.49,7.74,4.27,1.43
+RUS1,Premier League,2017/2018,2017-10-13,17:30,Akhmat Grozny,Spartak Moscow,1,2,A,3.04,3.45,2.46,3.34,3.45,2.48,3.01,3.24,2.34
+RUS1,Premier League,2017/2018,2017-10-14,12:00,Dynamo Moscow,SKA Khabarovsk,2,0,H,1.41,4.5,10.56,1.46,4.65,10.97,1.39,4.26,8.92
+RUS1,Premier League,2017/2018,2017-10-14,14:30,Ural,FK Anzi Makhackala,2,1,H,2.01,3.45,4.19,2.09,3.45,4.46,1.98,3.27,3.89
+RUS1,Premier League,2017/2018,2017-10-14,17:00,Krasnodar,CSKA Moscow,0,1,A,2.16,3.4,3.72,2.3,3.49,3.8,2.14,3.25,3.38
+RUS1,Premier League,2017/2018,2017-10-15,12:00,Ufa,Lokomotiv Moscow,1,0,H,3.89,3.03,2.28,3.95,3.04,2.33,3.64,2.89,2.24
+RUS1,Premier League,2017/2018,2017-10-15,14:30,FK Rostov,Rubin Kazan,0,1,A,2.48,2.92,3.56,2.59,2.94,3.75,2.37,2.8,3.46
+RUS1,Premier League,2017/2018,2017-10-15,17:00,Zenit,Arsenal Tula,0,1,A,1.27,5.94,14.58,1.29,6.2,17.0,1.25,5.42,12.83
+RUS1,Premier League,2017/2018,2017-10-16,15:30,Amkar,Tosno,0,0,D,2.32,2.96,3.89,2.4,3.02,4.04,2.28,2.84,3.6
+RUS1,Premier League,2017/2018,2017-10-21,09:30,SKA Khabarovsk,Ufa,2,2,D,3.55,2.84,2.55,3.65,2.88,2.69,3.41,2.74,2.45
+RUS1,Premier League,2017/2018,2017-10-21,12:00,Tosno,FK Rostov,1,1,D,3.43,2.94,2.54,3.43,3.01,2.69,3.21,2.86,2.47
+RUS1,Premier League,2017/2018,2017-10-21,14:30,Rubin Kazan,Dynamo Moscow,0,0,D,1.91,3.35,4.9,1.95,3.42,5.1,1.87,3.23,4.5
+RUS1,Premier League,2017/2018,2017-10-21,17:00,Spartak Moscow,Amkar,0,0,D,1.45,4.55,8.58,1.47,4.64,9.0,1.42,4.23,7.86
+RUS1,Premier League,2017/2018,2017-10-22,12:00,Ural,Akhmat Grozny,2,0,H,3.11,3.21,2.55,3.19,3.23,2.63,2.97,3.06,2.47
+RUS1,Premier League,2017/2018,2017-10-22,14:30,CSKA Moscow,Zenit,0,0,D,2.81,3.25,2.76,3.15,3.28,2.84,2.73,3.08,2.67
+RUS1,Premier League,2017/2018,2017-10-22,17:00,FK Anzi Makhackala,Arsenal Tula,3,2,H,2.61,3.13,3.11,2.69,3.17,3.16,2.5,3.0,2.98
+RUS1,Premier League,2017/2018,2017-10-23,17:30,Lokomotiv Moscow,Krasnodar,2,0,H,2.5,3.31,3.1,2.66,3.31,3.1,2.48,3.1,2.91
+RUS1,Premier League,2017/2018,2017-10-27,17:30,Arsenal Tula,CSKA Moscow,1,0,H,5.63,3.42,1.81,5.63,3.55,1.86,5.01,3.34,1.77
+RUS1,Premier League,2017/2018,2017-10-28,17:00,FK Rostov,Spartak Moscow,2,2,D,3.04,3.09,2.69,3.22,3.13,2.72,2.88,2.98,2.6
+RUS1,Premier League,2017/2018,2017-10-29,08:30,Amkar,Ural,1,1,D,2.26,2.89,4.16,2.36,3.0,4.21,2.19,2.85,3.85
+RUS1,Premier League,2017/2018,2017-10-29,11:00,Dynamo Moscow,Tosno,0,1,A,2.31,3.12,3.67,2.36,3.26,3.9,2.23,3.08,3.42
+RUS1,Premier League,2017/2018,2017-10-29,13:30,Zenit,Lokomotiv Moscow,0,3,A,1.69,3.61,6.33,1.76,3.68,6.5,1.69,3.41,5.56
+RUS1,Premier League,2017/2018,2017-10-29,16:00,Krasnodar,SKA Khabarovsk,4,1,H,1.21,7.31,15.0,1.22,7.8,23.0,1.17,6.58,16.25
+RUS1,Premier League,2017/2018,2017-10-30,14:00,Ufa,Rubin Kazan,2,1,H,3.68,2.95,2.41,3.84,3.08,2.55,3.51,2.8,2.36
+RUS1,Premier League,2017/2018,2017-10-30,16:30,Akhmat Grozny,FK Anzi Makhackala,1,1,D,1.6,3.91,7.06,1.66,4.14,7.5,1.58,3.78,6.01
+RUS1,Premier League,2017/2018,2017-11-03,14:30,Ural,Dynamo Moscow,2,2,D,2.31,3.07,3.75,2.36,3.28,3.9,2.24,3.01,3.49
+RUS1,Premier League,2017/2018,2017-11-04,13:30,Tosno,Krasnodar,1,3,A,4.06,3.43,2.05,4.2,3.46,2.15,3.8,3.23,2.02
+RUS1,Premier League,2017/2018,2017-11-04,16:00,Akhmat Grozny,FK Rostov,1,0,H,2.55,2.95,3.41,2.55,3.02,3.44,2.43,2.88,3.24
+RUS1,Premier League,2017/2018,2017-11-05,08:00,SKA Khabarovsk,Arsenal Tula,1,2,A,3.22,2.98,2.65,3.27,3.15,2.83,3.04,2.88,2.56
+RUS1,Premier League,2017/2018,2017-11-05,11:00,Amkar,FK Anzi Makhackala,1,2,A,1.88,3.22,5.47,1.96,3.26,5.8,1.83,3.09,5.08
+RUS1,Premier League,2017/2018,2017-11-05,13:30,Lokomotiv Moscow,CSKA Moscow,2,2,D,3.44,3.24,2.35,3.48,3.28,2.58,3.22,3.01,2.36
+RUS1,Premier League,2017/2018,2017-11-05,16:00,Rubin Kazan,Zenit,0,0,D,3.61,3.1,2.35,3.96,3.23,2.37,3.5,3.0,2.23
+RUS1,Premier League,2017/2018,2017-11-05,16:00,Spartak Moscow,Ufa,3,1,H,1.45,4.69,8.05,1.51,4.69,8.79,1.42,4.34,7.7
+RUS1,Premier League,2017/2018,2017-11-18,09:00,SKA Khabarovsk,CSKA Moscow,2,4,A,7.37,3.99,1.56,8.5,4.0,1.58,7.18,3.77,1.52
+RUS1,Premier League,2017/2018,2017-11-18,11:00,Dynamo Moscow,Akhmat Grozny,1,1,D,2.75,2.99,3.05,2.76,3.12,3.1,2.64,2.95,2.87
+RUS1,Premier League,2017/2018,2017-11-18,13:30,Krasnodar,Spartak Moscow,1,4,A,2.41,3.64,2.99,2.48,3.65,3.21,2.3,3.39,2.99
+RUS1,Premier League,2017/2018,2017-11-18,16:00,Arsenal Tula,Rubin Kazan,0,0,D,3.24,3.02,2.6,3.24,3.1,2.7,3.07,2.88,2.53
+RUS1,Premier League,2017/2018,2017-11-19,08:30,Ufa,Ural,2,0,H,2.23,3.09,3.97,2.39,3.15,4.2,2.19,2.94,3.74
+RUS1,Premier League,2017/2018,2017-11-19,11:00,FK Anzi Makhackala,Lokomotiv Moscow,0,1,A,4.55,3.52,1.92,4.75,3.6,1.96,4.29,3.34,1.88
+RUS1,Premier League,2017/2018,2017-11-19,13:30,FK Rostov,Amkar,0,0,D,1.83,3.18,6.15,1.85,3.21,6.5,1.78,3.06,5.69
+RUS1,Premier League,2017/2018,2017-11-19,16:00,Zenit,Tosno,5,0,H,1.37,4.89,10.86,1.37,5.6,13.5,1.34,4.75,9.39
+RUS1,Premier League,2017/2018,2017-11-24,14:30,Amkar,Dynamo Moscow,2,1,H,2.41,2.81,3.93,2.5,2.9,3.93,2.34,2.73,3.67
+RUS1,Premier League,2017/2018,2017-11-25,13:30,Tosno,Arsenal Tula,3,2,H,2.33,3.13,3.63,2.44,3.23,3.85,2.25,3.01,3.48
+RUS1,Premier League,2017/2018,2017-11-25,16:00,Akhmat Grozny,Ufa,2,1,H,1.98,3.24,4.72,2.06,3.3,5.0,1.92,3.1,4.52
+RUS1,Premier League,2017/2018,2017-11-26,08:30,Ural,Krasnodar,0,1,A,4.31,3.48,1.98,4.6,3.5,2.05,4.0,3.34,1.95
+RUS1,Premier League,2017/2018,2017-11-26,11:00,Rubin Kazan,CSKA Moscow,0,1,A,3.31,3.09,2.5,3.6,3.13,2.6,3.21,2.89,2.45
+RUS1,Premier League,2017/2018,2017-11-26,13:30,FK Rostov,FK Anzi Makhackala,2,0,H,1.65,3.67,6.9,1.71,3.69,6.9,1.64,3.48,6.06
+RUS1,Premier League,2017/2018,2017-11-27,09:00,SKA Khabarovsk,Lokomotiv Moscow,1,2,A,5.99,3.77,1.68,6.3,3.81,1.75,5.44,3.57,1.66
+RUS1,Premier League,2017/2018,2017-11-27,16:30,Spartak Moscow,Zenit,3,1,H,2.74,3.33,2.78,2.75,3.5,2.9,2.62,3.22,2.68
+RUS1,Premier League,2017/2018,2017-12-01,16:30,Arsenal Tula,Spartak Moscow,0,1,A,3.68,3.29,2.23,4.02,3.5,2.41,3.5,3.2,2.15
+RUS1,Premier League,2017/2018,2017-12-01,16:30,CSKA Moscow,Tosno,6,0,H,1.4,4.76,9.69,1.47,5.0,10.02,1.4,4.43,8.18
+RUS1,Premier League,2017/2018,2017-12-02,11:00,Dynamo Moscow,FK Rostov,2,0,H,3.23,2.84,2.75,3.26,2.9,2.85,3.05,2.75,2.69
+RUS1,Premier League,2017/2018,2017-12-02,11:00,Zenit,Ural,2,1,H,1.25,6.11,16.61,1.27,6.3,16.61,1.24,5.6,12.67
+RUS1,Premier League,2017/2018,2017-12-02,13:30,Lokomotiv Moscow,Rubin Kazan,1,0,H,2.06,3.0,4.84,2.18,3.11,4.84,2.04,2.95,4.29
+RUS1,Premier League,2017/2018,2017-12-03,11:00,Ufa,Amkar,3,0,H,2.47,2.75,3.89,2.5,2.81,4.2,2.38,2.67,3.71
+RUS1,Premier League,2017/2018,2017-12-03,13:30,Krasnodar,Akhmat Grozny,3,2,H,1.73,3.75,5.55,1.82,3.75,6.4,1.73,3.53,5.03
+RUS1,Premier League,2017/2018,2017-12-03,16:00,FK Anzi Makhackala,SKA Khabarovsk,4,0,H,1.66,3.79,6.27,1.75,4.05,7.2,1.6,3.67,6.09
+RUS1,Premier League,2017/2018,2017-12-08,14:30,Ural,Arsenal Tula,1,1,D,2.6,3.0,3.25,2.64,3.12,3.48,2.49,2.92,3.12
+RUS1,Premier League,2017/2018,2017-12-09,11:00,Dynamo Moscow,FK Anzi Makhackala,2,0,H,1.85,3.48,5.03,1.95,3.48,5.2,1.83,3.3,4.69
+RUS1,Premier League,2017/2018,2017-12-09,13:30,Rubin Kazan,SKA Khabarovsk,3,1,H,1.3,5.4,14.51,1.34,5.4,15.25,1.28,4.93,12.36
+RUS1,Premier League,2017/2018,2017-12-10,11:00,Amkar,Krasnodar,1,3,A,3.43,2.91,2.56,3.7,3.03,2.56,3.27,2.92,2.41
+RUS1,Premier League,2017/2018,2017-12-10,13:30,Spartak Moscow,CSKA Moscow,3,0,H,2.69,3.24,2.9,2.8,3.4,2.9,2.64,3.16,2.72
+RUS1,Premier League,2017/2018,2017-12-10,16:00,FK Rostov,Ufa,1,0,H,2.06,2.99,4.86,2.13,3.11,5.1,2.0,2.94,4.48
+RUS1,Premier League,2017/2018,2017-12-11,16:30,Akhmat Grozny,Zenit,0,0,D,4.37,3.35,1.99,4.9,3.58,2.06,4.17,3.27,1.93
+RUS1,Premier League,2017/2018,2017-12-11,16:30,Tosno,Lokomotiv Moscow,1,3,A,4.63,3.27,1.98,5.3,3.44,2.08,4.27,3.19,1.94
+RUS1,Premier League,2017/2018,2018-03-02,16:30,FK Anzi Makhackala,Rubin Kazan,1,1,D,3.64,2.94,2.41,3.81,3.02,2.43,3.53,2.85,2.31
+RUS1,Premier League,2017/2018,2018-03-03,11:00,CSKA Moscow,Ural,1,0,H,1.28,5.54,14.97,1.35,5.6,15.47,1.28,5.09,12.21
+RUS1,Premier League,2017/2018,2018-03-03,13:30,Zenit,Amkar,0,0,D,1.32,4.99,13.91,1.35,5.5,14.3,1.31,4.68,11.69
+RUS1,Premier League,2017/2018,2018-03-03,16:00,Krasnodar,FK Rostov,3,1,H,2.06,3.24,4.24,2.07,3.35,5.15,1.99,3.16,4.1
+RUS1,Premier League,2017/2018,2018-03-04,08:00,SKA Khabarovsk,Tosno,0,1,A,3.94,3.32,2.1,4.33,3.34,2.3,3.77,3.15,2.08
+RUS1,Premier League,2017/2018,2018-03-04,11:00,Ufa,Dynamo Moscow,1,1,D,2.49,2.86,3.58,2.53,3.0,3.7,2.41,2.82,3.35
+RUS1,Premier League,2017/2018,2018-03-04,13:30,Lokomotiv Moscow,Spartak Moscow,0,0,D,2.83,3.23,2.72,2.97,3.36,2.94,2.71,3.12,2.66
+RUS1,Premier League,2017/2018,2018-03-04,16:00,Arsenal Tula,Akhmat Grozny,1,0,H,2.59,3.05,3.16,2.65,3.1,3.3,2.49,2.96,3.06
+RUS1,Premier League,2017/2018,2018-03-09,11:00,Amkar,Arsenal Tula,0,2,A,3.28,2.59,2.87,3.32,2.79,3.1,3.03,2.62,2.81
+RUS1,Premier League,2017/2018,2018-03-10,11:00,Ufa,FK Anzi Makhackala,3,2,H,2.0,3.01,5.05,2.06,3.15,5.4,1.95,3.0,4.62
+RUS1,Premier League,2017/2018,2018-03-10,13:30,Dynamo Moscow,Krasnodar,0,0,D,3.26,3.32,2.37,3.52,3.42,2.45,3.19,3.15,2.31
+RUS1,Premier League,2017/2018,2018-03-10,16:00,Tosno,Rubin Kazan,0,1,A,4.89,2.92,2.07,5.0,3.08,2.15,4.35,2.91,2.03
+RUS1,Premier League,2017/2018,2018-03-11,11:00,FK Rostov,Zenit,0,0,D,3.33,2.86,2.63,3.78,3.0,2.63,3.27,2.82,2.46
+RUS1,Premier League,2017/2018,2018-03-11,13:30,Akhmat Grozny,CSKA Moscow,0,3,A,4.05,3.12,2.16,4.2,3.2,2.2,3.79,3.05,2.12
+RUS1,Premier League,2017/2018,2018-03-11,16:00,Spartak Moscow,SKA Khabarovsk,1,0,H,1.12,10.3,25.8,1.14,11.0,29.0,1.11,8.75,21.58
+RUS1,Premier League,2017/2018,2018-03-12,14:00,Ural,Lokomotiv Moscow,0,2,A,4.23,3.04,2.15,4.35,3.2,2.26,3.91,2.97,2.12
+RUS1,Premier League,2017/2018,2018-03-17,08:00,SKA Khabarovsk,Ural,0,3,A,3.67,3.02,2.35,3.8,3.15,2.4,3.53,2.99,2.23
+RUS1,Premier League,2017/2018,2018-03-17,11:00,Arsenal Tula,FK Rostov,2,2,D,2.84,2.84,3.08,2.88,2.89,3.2,2.73,2.74,2.97
+RUS1,Premier League,2017/2018,2018-03-17,13:30,Krasnodar,Ufa,0,1,A,1.5,4.15,8.2,1.67,4.2,8.55,1.49,3.93,7.35
+RUS1,Premier League,2017/2018,2018-03-17,16:00,FK Anzi Makhackala,Tosno,2,0,H,2.25,3.13,3.75,2.35,3.18,3.84,2.23,3.02,3.48
+RUS1,Premier League,2017/2018,2018-03-17,16:00,Rubin Kazan,Spartak Moscow,1,2,A,3.29,3.05,2.51,3.4,3.1,2.54,3.16,2.98,2.41
+RUS1,Premier League,2017/2018,2018-03-31,12:00,Akhmat Grozny,SKA Khabarovsk,0,0,D,1.25,5.93,16.56,1.3,6.1,19.0,1.24,5.45,14.33
+RUS1,Premier League,2017/2018,2018-03-31,12:00,Amkar,Lokomotiv Moscow,2,1,H,8.59,3.61,1.57,11.0,3.85,1.61,8.0,3.53,1.54
+RUS1,Premier League,2017/2018,2018-03-31,14:30,Dynamo Moscow,Arsenal Tula,2,1,H,2.25,3.1,3.8,2.42,3.2,3.8,2.25,3.0,3.51
+RUS1,Premier League,2017/2018,2018-03-31,17:00,Spartak Moscow,Tosno,2,1,H,1.34,5.0,12.25,1.37,5.05,13.35,1.32,4.78,10.26
+RUS1,Premier League,2017/2018,2018-04-01,12:00,Ural,Rubin Kazan,1,1,D,3.22,2.81,2.75,3.46,2.9,2.75,3.16,2.78,2.57
+RUS1,Premier League,2017/2018,2018-04-01,14:30,Ufa,Zenit,1,2,A,4.56,3.19,2.01,4.9,3.25,2.06,4.27,3.08,1.98
+RUS1,Premier League,2017/2018,2018-04-01,17:00,FK Rostov,CSKA Moscow,1,2,A,3.46,2.96,2.48,3.6,3.0,2.5,3.34,2.91,2.37
+RUS1,Premier League,2017/2018,2018-04-01,17:00,Krasnodar,FK Anzi Makhackala,1,1,D,1.42,4.77,8.42,1.46,4.85,9.5,1.41,4.44,7.68
+RUS1,Premier League,2017/2018,2018-04-07,09:00,SKA Khabarovsk,Amkar,0,2,A,4.36,3.09,2.1,4.5,3.2,2.17,4.03,3.04,2.06
+RUS1,Premier League,2017/2018,2018-04-07,12:00,Rubin Kazan,Akhmat Grozny,3,2,H,2.06,3.04,4.66,2.12,3.2,4.7,2.04,3.01,4.19
+RUS1,Premier League,2017/2018,2018-04-07,14:30,Zenit,Krasnodar,1,2,A,1.85,3.65,4.6,1.89,3.7,4.75,1.83,3.46,4.43
+RUS1,Premier League,2017/2018,2018-04-07,17:00,Arsenal Tula,Ufa,2,1,H,2.42,2.79,3.72,2.5,3.1,3.78,2.36,2.85,3.47
+RUS1,Premier League,2017/2018,2018-04-08,12:00,Tosno,Ural,2,2,D,2.22,3.07,3.94,2.45,3.14,3.96,2.21,3.03,3.58
+RUS1,Premier League,2017/2018,2018-04-08,14:30,Lokomotiv Moscow,FK Rostov,1,0,H,1.92,3.15,5.22,2.09,3.18,5.22,1.94,3.04,4.61
+RUS1,Premier League,2017/2018,2018-04-08,17:00,FK Anzi Makhackala,Spartak Moscow,1,4,A,4.91,3.97,1.74,5.3,4.0,1.78,4.81,3.7,1.71
+RUS1,Premier League,2017/2018,2018-04-09,17:30,CSKA Moscow,Dynamo Moscow,1,2,A,1.63,3.73,6.69,1.69,3.85,6.7,1.62,3.62,5.85
+RUS1,Premier League,2017/2018,2018-04-13,17:30,Akhmat Grozny,Tosno,1,0,H,1.69,3.59,6.23,1.75,3.85,6.3,1.68,3.49,5.53
+RUS1,Premier League,2017/2018,2018-04-14,09:30,Amkar,Rubin Kazan,0,3,A,3.15,2.63,3.02,3.18,2.8,3.02,2.96,2.71,2.82
+RUS1,Premier League,2017/2018,2018-04-14,12:00,Dynamo Moscow,Lokomotiv Moscow,0,4,A,3.77,3.22,2.2,3.9,3.23,2.3,3.59,3.06,2.18
+RUS1,Premier League,2017/2018,2018-04-14,14:30,Zenit,FK Anzi Makhackala,1,0,H,1.39,4.82,9.65,1.39,5.25,10.97,1.35,4.77,9.03
+RUS1,Premier League,2017/2018,2018-04-14,17:00,Krasnodar,Arsenal Tula,3,0,H,1.65,4.0,5.72,1.68,4.1,6.13,1.63,3.8,5.45
+RUS1,Premier League,2017/2018,2018-04-15,12:00,Ural,Spartak Moscow,2,1,H,5.79,4.18,1.62,6.13,4.25,1.66,5.6,3.88,1.6
+RUS1,Premier League,2017/2018,2018-04-15,14:30,Ufa,CSKA Moscow,1,1,D,5.47,3.42,1.8,5.5,3.46,1.87,5.12,3.25,1.79
+RUS1,Premier League,2017/2018,2018-04-15,17:00,FK Rostov,SKA Khabarovsk,2,0,H,1.25,5.95,15.5,1.27,6.3,19.05,1.22,5.7,15.5
+RUS1,Premier League,2017/2018,2018-04-18,17:30,Lokomotiv Moscow,Akhmat Grozny,0,0,D,1.76,3.43,5.83,1.81,3.7,6.5,1.7,3.38,5.65
+RUS1,Premier League,2017/2018,2018-04-18,17:30,Zenit,Dynamo Moscow,2,1,H,1.53,4.09,7.57,1.56,4.2,8.3,1.5,3.96,6.93
+RUS1,Premier League,2017/2018,2018-04-18,18:30,CSKA Moscow,Amkar,3,0,H,1.47,4.27,8.65,1.48,4.5,10.02,1.43,4.16,8.37
+RUS1,Premier League,2017/2018,2018-04-21,14:30,Rubin Kazan,FK Rostov,1,1,D,2.24,2.97,4.04,2.34,3.1,4.46,2.15,2.86,4.01
+RUS1,Premier League,2017/2018,2018-04-21,17:00,FK Anzi Makhackala,Ural,0,1,A,2.12,3.27,3.95,2.25,3.36,4.1,2.1,3.18,3.68
+RUS1,Premier League,2017/2018,2018-04-22,09:00,SKA Khabarovsk,Dynamo Moscow,0,1,A,7.58,3.76,1.58,7.7,3.88,1.61,6.81,3.7,1.55
+RUS1,Premier League,2017/2018,2018-04-22,12:00,Arsenal Tula,Zenit,3,3,D,4.68,3.52,1.88,5.09,3.6,1.91,4.53,3.41,1.83
+RUS1,Premier League,2017/2018,2018-04-22,14:30,CSKA Moscow,Krasnodar,2,1,H,1.85,3.61,4.69,1.94,3.62,4.75,1.83,3.47,4.43
+RUS1,Premier League,2017/2018,2018-04-22,14:30,Tosno,Amkar,0,2,A,2.69,2.93,3.15,2.75,3.01,3.3,2.6,2.9,3.01
+RUS1,Premier League,2017/2018,2018-04-22,17:00,Lokomotiv Moscow,Ufa,0,0,D,1.53,3.9,8.26,1.63,3.98,8.5,1.53,3.68,7.36
+RUS1,Premier League,2017/2018,2018-04-23,17:30,Spartak Moscow,Akhmat Grozny,1,3,A,1.43,4.65,8.65,1.46,4.85,9.0,1.41,4.47,7.88
+RUS1,Premier League,2017/2018,2018-04-28,17:30,Arsenal Tula,FK Anzi Makhackala,2,1,H,1.86,3.54,4.74,2.03,3.6,4.85,1.88,3.37,4.27
+RUS1,Premier League,2017/2018,2018-04-29,12:00,Amkar,Spartak Moscow,0,2,A,5.33,3.53,1.79,5.71,3.75,1.82,5.12,3.53,1.72
+RUS1,Premier League,2017/2018,2018-04-29,14:30,Zenit,CSKA Moscow,0,0,D,2.29,3.31,3.43,2.33,3.4,3.6,2.24,3.19,3.32
+RUS1,Premier League,2017/2018,2018-04-29,17:00,FK Rostov,Tosno,2,0,H,1.61,3.64,7.5,1.67,3.7,7.5,1.61,3.54,6.32
+RUS1,Premier League,2017/2018,2018-04-30,09:30,Ufa,SKA Khabarovsk,1,0,H,1.3,5.04,13.26,1.34,5.35,14.3,1.29,4.96,11.84
+RUS1,Premier League,2017/2018,2018-04-30,12:00,Dynamo Moscow,Rubin Kazan,0,0,D,3.18,2.71,2.91,3.2,2.83,3.05,2.96,2.73,2.76
+RUS1,Premier League,2017/2018,2018-04-30,14:30,Akhmat Grozny,Ural,0,0,D,1.8,3.29,5.87,1.8,3.6,5.94,1.72,3.41,5.27
+RUS1,Premier League,2017/2018,2018-04-30,17:00,Krasnodar,Lokomotiv Moscow,2,0,H,2.56,3.26,3.01,2.6,3.42,3.2,2.46,3.18,2.92
+RUS1,Premier League,2017/2018,2018-05-05,09:00,SKA Khabarovsk,Krasnodar,0,1,A,10.13,5.33,1.32,15.0,5.54,1.34,10.38,5.06,1.3
+RUS1,Premier League,2017/2018,2018-05-05,12:00,Tosno,Dynamo Moscow,1,2,A,3.0,3.03,2.63,3.1,3.15,2.8,2.93,2.97,2.58
+RUS1,Premier League,2017/2018,2018-05-05,14:30,Lokomotiv Moscow,Zenit,1,0,H,2.39,3.11,3.29,2.51,3.2,3.4,2.35,3.06,3.2
+RUS1,Premier League,2017/2018,2018-05-05,17:00,Spartak Moscow,FK Rostov,2,0,H,1.66,3.6,6.18,1.72,4.2,7.1,1.62,3.7,5.71
+RUS1,Premier League,2017/2018,2018-05-06,12:00,Ural,Amkar,0,2,A,2.63,2.89,3.15,2.85,3.0,3.25,2.66,2.87,2.93
+RUS1,Premier League,2017/2018,2018-05-06,17:00,CSKA Moscow,Arsenal Tula,6,0,H,1.32,5.36,10.23,1.39,5.95,10.97,1.32,5.04,9.08
+RUS1,Premier League,2017/2018,2018-05-07,17:30,FK Anzi Makhackala,Akhmat Grozny,0,2,A,3.3,3.2,2.38,3.4,3.35,2.48,3.21,3.1,2.33
+RUS1,Premier League,2017/2018,2018-05-07,17:30,Rubin Kazan,Ufa,0,0,D,1.76,3.24,6.19,1.87,3.4,6.5,1.75,3.17,5.64
+RUS1,Premier League,2017/2018,2018-05-13,12:00,Amkar,Akhmat Grozny,0,0,D,2.11,3.4,3.72,2.2,3.5,4.05,2.06,3.26,3.68
+RUS1,Premier League,2017/2018,2018-05-13,12:00,Arsenal Tula,Lokomotiv Moscow,2,0,H,2.1,3.72,3.45,2.18,3.72,3.7,2.06,3.49,3.4
+RUS1,Premier League,2017/2018,2018-05-13,12:00,CSKA Moscow,FK Anzi Makhackala,2,1,H,1.2,6.71,17.83,1.23,7.2,18.57,1.19,6.56,14.55
+RUS1,Premier League,2017/2018,2018-05-13,12:00,FK Rostov,Ural,1,0,H,1.66,3.62,6.23,1.77,3.62,6.23,1.68,3.43,5.69
+RUS1,Premier League,2017/2018,2018-05-13,12:00,Krasnodar,Rubin Kazan,1,1,D,1.65,3.7,6.28,1.66,3.95,6.4,1.62,3.71,5.67
+RUS1,Premier League,2017/2018,2018-05-13,12:00,Spartak Moscow,Dynamo Moscow,0,1,A,1.43,4.84,7.63,1.47,5.25,8.0,1.43,4.57,6.92
+RUS1,Premier League,2017/2018,2018-05-13,12:00,Ufa,Tosno,5,0,H,1.78,3.42,5.51,1.86,3.5,5.85,1.78,3.31,5.02
+RUS1,Premier League,2017/2018,2018-05-13,12:00,Zenit,SKA Khabarovsk,6,0,H,1.15,8.2,23.15,1.17,9.0,27.6,1.13,7.82,19.35
+RUS1,Premier League,2017/2018,2018-05-17,13:00,Yenisey,FK Anzi Makhackala,3,0,H,2.14,3.28,3.88,2.23,3.34,3.88,2.12,3.18,3.58
+RUS1,Premier League,2017/2018,2018-05-17,15:30,Amkar,Tambov,2,0,H,1.81,3.22,5.97,1.86,3.4,6.51,1.77,3.19,5.36
+RUS1,Premier League,2017/2018,2018-05-20,16:00,Tambov,Amkar,0,1,A,3.19,3.19,2.47,3.22,3.3,2.7,2.99,3.08,2.45
+RUS1,Premier League,2017/2018,2018-05-20,19:00,FK Anzi Makhackala,Yenisey,4,3,H,2.09,3.54,3.73,2.19,3.66,4.0,2.06,3.43,3.45

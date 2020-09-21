@@ -1,0 +1,203 @@
+Div,League,Season,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,PSH,PSD,PSA,MaxH,MaxD,MaxA,AvgH,AvgD,AvgA
+IRL1,Premier Division ,2016,2016-03-04,19:45,Cork City,Bohemians,2,0,H,1.67,3.93,5.88,1.68,3.93,6.12,1.62,3.67,5.42
+IRL1,Premier Division ,2016,2016-03-04,19:45,St. Patricks,Galway,1,3,A,1.63,3.94,6.37,1.67,4.32,7.47,1.58,3.76,5.69
+IRL1,Premier Division ,2016,2016-03-04,20:00,Finn Harps,Derry City,2,1,H,3.81,3.14,2.25,3.81,3.2,2.5,3.43,3.0,2.23
+IRL1,Premier Division ,2016,2016-03-04,20:00,Wexford,Longford,0,2,A,2.38,3.39,3.24,2.43,3.41,3.3,2.3,3.2,3.06
+IRL1,Premier Division ,2016,2016-03-05,19:30,Bray,Dundalk,1,3,A,7.45,4.35,1.51,7.5,4.5,1.57,6.82,4.02,1.47
+IRL1,Premier Division ,2016,2016-03-05,19:45,Sligo Rovers,Shamrock Rovers,0,2,A,3.53,3.29,2.29,3.53,3.3,2.36,3.24,3.15,2.23
+IRL1,Premier Division ,2016,2016-03-11,19:45,Bohemians,Sligo Rovers,1,0,H,2.18,3.35,3.73,2.25,3.4,3.75,2.15,3.15,3.44
+IRL1,Premier Division ,2016,2016-03-11,19:45,Derry City,Cork City,1,0,H,6.21,3.69,1.69,6.21,3.75,1.73,5.37,3.53,1.66
+IRL1,Premier Division ,2016,2016-03-11,19:45,Dundalk,Finn Harps,3,0,H,1.23,6.58,17.2,1.23,7.3,19.0,1.19,6.15,15.2
+IRL1,Premier Division ,2016,2016-03-11,19:45,Galway,Bray,4,0,H,2.37,3.56,3.1,2.38,3.56,3.25,2.28,3.27,3.01
+IRL1,Premier Division ,2016,2016-03-11,20:00,Longford,St. Patricks,0,1,A,4.45,3.64,1.9,4.5,3.65,1.93,4.08,3.44,1.86
+IRL1,Premier Division ,2016,2016-03-11,20:00,Shamrock Rovers,Wexford,2,0,H,1.33,5.48,11.15,1.36,5.48,11.15,1.32,4.74,9.42
+IRL1,Premier Division ,2016,2016-03-14,19:45,Bray,Derry City,0,3,A,3.4,2.94,2.56,3.41,3.2,2.56,3.15,2.95,2.38
+IRL1,Premier Division ,2016,2016-03-14,19:45,Cork City,Longford,6,0,H,1.28,5.93,13.42,1.33,5.93,13.42,1.28,5.1,10.69
+IRL1,Premier Division ,2016,2016-03-14,19:45,Sligo Rovers,Galway,1,1,D,2.68,3.42,2.78,2.73,3.42,3.0,2.54,3.16,2.73
+IRL1,Premier Division ,2016,2016-03-14,19:45,St. Patricks,Bohemians,3,0,H,2.39,3.34,3.27,2.39,3.4,3.75,2.24,3.16,3.2
+IRL1,Premier Division ,2016,2016-03-14,20:00,Finn Harps,Shamrock Rovers,0,1,A,7.51,3.83,1.58,7.51,4.33,1.61,6.63,3.63,1.54
+IRL1,Premier Division ,2016,2016-03-14,20:00,Wexford,Dundalk,1,2,A,8.97,5.3,1.38,9.32,5.3,1.4,8.34,4.74,1.35
+IRL1,Premier Division ,2016,2016-03-18,19:45,Bohemians,Wexford,3,3,D,1.86,3.55,4.85,1.91,3.6,4.85,1.82,3.41,4.3
+IRL1,Premier Division ,2016,2016-03-18,19:45,Derry City,Galway,2,1,H,2.38,3.25,3.37,2.47,3.25,3.37,2.33,3.05,3.15
+IRL1,Premier Division ,2016,2016-03-18,19:45,Dundalk,Cork City,0,1,A,2.32,3.18,3.57,2.32,3.3,3.6,2.2,3.08,3.38
+IRL1,Premier Division ,2016,2016-03-18,20:00,Shamrock Rovers,St. Patricks,0,2,A,2.22,3.25,3.74,2.27,3.25,3.74,2.17,3.1,3.43
+IRL1,Premier Division ,2016,2016-03-19,19:30,Longford,Bray,1,1,D,2.86,3.36,2.65,2.86,3.4,2.8,2.65,3.18,2.61
+IRL1,Premier Division ,2016,2016-03-19,19:45,Sligo Rovers,Finn Harps,1,1,D,1.74,3.57,5.91,1.85,3.57,5.91,1.76,3.34,4.85
+IRL1,Premier Division ,2016,2016-03-24,19:45,St. Patricks,Dundalk,0,4,A,3.68,3.29,2.23,3.9,3.29,2.25,3.39,3.16,2.16
+IRL1,Premier Division ,2016,2016-03-26,14:00,Galway,Bohemians,1,0,H,2.58,3.26,3.02,2.6,3.3,3.1,2.46,3.13,2.86
+IRL1,Premier Division ,2016,2016-03-26,17:00,Wexford,Derry City,1,2,A,3.3,3.39,2.34,3.5,3.39,2.35,3.15,3.17,2.26
+IRL1,Premier Division ,2016,2016-03-26,19:30,Bray,Sligo Rovers,4,0,H,2.63,3.27,2.95,2.82,3.27,2.95,2.6,3.06,2.74
+IRL1,Premier Division ,2016,2016-03-26,20:00,Finn Harps,Longford,1,0,H,2.14,3.34,3.87,2.2,3.4,3.87,2.09,3.16,3.54
+IRL1,Premier Division ,2016,2016-04-01,19:45,Bohemians,Longford,2,0,H,1.58,4.11,6.77,1.6,4.2,7.0,1.55,3.83,6.02
+IRL1,Premier Division ,2016,2016-04-01,19:45,Dundalk,Derry City,1,1,D,1.43,4.55,9.4,1.47,4.55,9.4,1.41,4.16,7.95
+IRL1,Premier Division ,2016,2016-04-01,20:00,Shamrock Rovers,Galway,2,0,H,1.74,3.75,5.42,1.8,3.75,5.6,1.7,3.51,4.93
+IRL1,Premier Division ,2016,2016-04-01,20:00,Wexford,Bray,2,0,H,2.29,3.27,3.48,2.45,3.3,3.48,2.29,3.13,3.14
+IRL1,Premier Division ,2016,2016-04-02,19:45,Sligo Rovers,Cork City,0,0,D,8.8,4.3,1.47,8.8,4.3,1.57,7.45,3.98,1.45
+IRL1,Premier Division ,2016,2016-04-08,19:45,Cork City,Wexford,1,1,D,1.31,5.64,12.1,1.31,6.0,15.0,1.26,5.27,11.27
+IRL1,Premier Division ,2016,2016-04-08,19:45,Derry City,Shamrock Rovers,3,0,H,3.87,3.1,2.25,3.95,3.11,2.28,3.47,3.01,2.2
+IRL1,Premier Division ,2016,2016-04-08,19:45,Galway,Finn Harps,1,0,H,1.78,3.56,5.52,1.82,3.56,5.9,1.75,3.33,4.94
+IRL1,Premier Division ,2016,2016-04-08,19:45,St. Patricks,Sligo Rovers,1,1,D,1.54,4.24,7.24,1.6,4.24,7.5,1.52,3.86,6.34
+IRL1,Premier Division ,2016,2016-04-09,19:30,Bray,Bohemians,0,2,A,3.72,3.43,2.15,3.76,3.5,2.22,3.45,3.2,2.11
+IRL1,Premier Division ,2016,2016-04-09,19:30,Longford,Dundalk,0,4,A,15.0,6.42,1.25,15.0,6.42,1.27,12.5,5.76,1.22
+IRL1,Premier Division ,2016,2016-04-11,20:00,Finn Harps,St. Patricks,1,2,A,4.95,3.29,1.93,5.0,3.4,1.98,4.42,3.2,1.87
+IRL1,Premier Division ,2016,2016-04-15,19:45,Bohemians,Shamrock Rovers,0,4,A,3.43,3.13,2.41,3.5,3.14,2.55,3.25,2.99,2.31
+IRL1,Premier Division ,2016,2016-04-15,19:45,Dundalk,Sligo Rovers,1,0,H,1.28,5.94,13.58,1.29,6.0,13.58,1.26,5.24,11.14
+IRL1,Premier Division ,2016,2016-04-15,19:45,Galway,Cork City,2,2,D,4.91,3.52,1.86,5.0,3.55,1.91,4.53,3.32,1.81
+IRL1,Premier Division ,2016,2016-04-15,19:45,St. Patricks,Wexford,4,0,H,1.77,3.81,5.08,1.91,3.81,5.5,1.74,3.57,4.57
+IRL1,Premier Division ,2016,2016-04-15,20:00,Finn Harps,Bray,1,0,H,2.71,3.15,2.95,2.77,3.2,2.96,2.59,3.0,2.81
+IRL1,Premier Division ,2016,2016-04-16,19:30,Longford,Derry City,1,1,D,5.76,3.95,1.67,6.9,3.95,1.67,5.8,3.75,1.58
+IRL1,Premier Division ,2016,2016-04-22,19:45,Cork City,Finn Harps,3,1,H,1.22,6.81,18.14,1.23,6.81,19.0,1.19,6.1,14.79
+IRL1,Premier Division ,2016,2016-04-22,19:45,Derry City,Bohemians,1,0,H,2.13,3.3,3.96,2.21,3.3,4.03,2.08,3.13,3.64
+IRL1,Premier Division ,2016,2016-04-22,19:45,Shamrock Rovers,Dundalk,0,2,A,3.69,3.23,2.25,3.69,3.25,2.31,3.3,3.12,2.22
+IRL1,Premier Division ,2016,2016-04-22,20:00,Wexford,Galway,0,2,A,3.86,3.6,2.05,3.98,3.6,2.15,3.52,3.36,2.03
+IRL1,Premier Division ,2016,2016-04-23,19:30,Bray,St. Patricks,1,0,H,5.1,3.77,1.77,5.3,3.77,1.83,4.62,3.5,1.75
+IRL1,Premier Division ,2016,2016-04-23,19:45,Sligo Rovers,Longford,3,0,H,1.61,4.02,6.53,1.7,4.02,7.0,1.6,3.69,5.58
+IRL1,Premier Division ,2016,2016-04-25,19:45,Cork City,Shamrock Rovers,2,0,H,1.9,3.44,4.82,1.95,3.44,4.95,1.85,3.27,4.36
+IRL1,Premier Division ,2016,2016-04-29,19:45,Bohemians,Dundalk,0,2,A,7.9,4.31,1.5,7.9,4.31,1.56,6.61,3.96,1.49
+IRL1,Premier Division ,2016,2016-04-29,19:45,Cork City,St. Patricks,1,0,H,1.51,4.23,8.06,1.6,4.23,8.06,1.49,3.91,6.76
+IRL1,Premier Division ,2016,2016-04-29,19:45,Derry City,Sligo Rovers,0,2,A,2.12,3.35,3.93,2.14,3.45,4.5,2.03,3.21,3.69
+IRL1,Premier Division ,2016,2016-04-29,19:45,Galway,Longford,2,2,D,1.44,4.83,8.17,1.47,4.83,8.17,1.42,4.4,7.08
+IRL1,Premier Division ,2016,2016-04-29,20:00,Shamrock Rovers,Bray,2,0,H,1.65,4.03,5.82,1.65,4.2,7.0,1.57,3.81,5.7
+IRL1,Premier Division ,2016,2016-04-29,20:00,Wexford,Finn Harps,1,1,D,2.34,3.29,3.42,2.36,3.3,4.0,2.16,3.15,3.35
+IRL1,Premier Division ,2016,2016-05-06,19:45,St. Patricks,Derry City,0,1,A,2.61,3.2,3.04,2.61,3.3,3.2,2.45,3.06,2.96
+IRL1,Premier Division ,2016,2016-05-06,20:00,Dundalk,Galway,2,1,H,1.29,5.85,12.9,1.36,6.12,13.0,1.26,5.49,10.79
+IRL1,Premier Division ,2016,2016-05-06,20:00,Finn Harps,Bohemians,0,0,D,3.62,3.15,2.32,4.0,3.15,2.33,3.53,3.01,2.19
+IRL1,Premier Division ,2016,2016-05-07,19:30,Bray,Cork City,0,2,A,7.98,4.19,1.51,9.0,4.5,1.51,7.45,4.03,1.45
+IRL1,Premier Division ,2016,2016-05-07,19:30,Longford,Shamrock Rovers,0,2,A,7.47,4.49,1.5,7.79,4.49,1.54,6.84,4.15,1.46
+IRL1,Premier Division ,2016,2016-05-07,19:45,Sligo Rovers,Wexford,4,1,H,1.56,4.42,6.43,1.67,4.42,6.5,1.54,4.02,5.68
+IRL1,Premier Division ,2016,2016-05-10,19:45,Bohemians,Cork City,0,1,A,,,,5.7,3.6,1.86,4.82,3.36,1.76
+IRL1,Premier Division ,2016,2016-05-10,19:45,Dundalk,Bray,1,0,H,1.21,7.3,17.0,1.21,8.21,34.0,1.15,6.85,18.71
+IRL1,Premier Division ,2016,2016-05-10,19:45,Galway,St. Patricks,0,3,A,2.79,3.25,2.79,2.88,3.25,2.79,2.7,3.07,2.64
+IRL1,Premier Division ,2016,2016-05-10,20:00,Derry City,Finn Harps,2,2,D,1.58,3.86,7.53,1.58,4.25,10.25,1.44,3.89,8.2
+IRL1,Premier Division ,2016,2016-05-10,20:00,Longford,Wexford,2,4,A,,,,3.0,3.52,2.7,2.77,3.31,2.42
+IRL1,Premier Division ,2016,2016-05-10,20:00,Shamrock Rovers,Sligo Rovers,3,0,H,2.18,3.36,3.72,2.38,3.36,3.88,2.22,3.1,3.31
+IRL1,Premier Division ,2016,2016-05-13,19:45,Cork City,Derry City,2,1,H,1.64,3.71,6.9,1.67,3.88,6.9,1.6,3.62,5.74
+IRL1,Premier Division ,2016,2016-05-13,20:00,Finn Harps,Dundalk,0,7,A,15.12,6.19,1.25,19.0,6.2,1.26,13.67,5.38,1.23
+IRL1,Premier Division ,2016,2016-05-13,20:00,St. Patricks,Longford,3,3,D,1.32,5.71,10.52,1.34,5.75,11.0,1.29,5.12,9.7
+IRL1,Premier Division ,2016,2016-05-13,20:00,Wexford,Shamrock Rovers,2,0,H,7.09,4.18,1.55,7.09,4.3,1.57,6.15,3.98,1.52
+IRL1,Premier Division ,2016,2016-05-14,19:30,Bray,Galway,1,2,A,2.68,3.4,2.79,2.81,3.42,2.79,2.6,3.27,2.59
+IRL1,Premier Division ,2016,2016-05-14,19:45,Sligo Rovers,Bohemians,1,0,H,1.99,3.53,4.19,2.15,3.53,4.5,1.99,3.29,3.73
+IRL1,Premier Division ,2016,2016-05-17,19:45,St. Patricks,Finn Harps,4,0,H,1.61,4.19,5.98,1.62,4.34,7.2,1.53,3.92,6.03
+IRL1,Premier Division ,2016,2016-05-29,15:00,Bohemians,St. Patricks,5,1,H,2.91,3.19,2.72,2.96,3.3,2.73,2.79,3.05,2.57
+IRL1,Premier Division ,2016,2016-05-29,15:00,Galway,Sligo Rovers,1,2,A,2.68,3.42,2.78,2.8,3.42,2.83,2.59,3.18,2.67
+IRL1,Premier Division ,2016,2016-05-29,15:00,Longford,Cork City,0,3,A,13.29,6.48,1.26,13.95,6.5,1.26,11.61,5.68,1.23
+IRL1,Premier Division ,2016,2016-05-29,15:00,Shamrock Rovers,Finn Harps,1,1,D,1.35,5.2,11.08,1.35,5.7,13.0,1.3,4.93,10.22
+IRL1,Premier Division ,2016,2016-05-29,17:00,Derry City,Bray,2,0,H,1.65,3.91,6.08,1.75,3.91,6.1,1.64,3.62,5.28
+IRL1,Premier Division ,2016,2016-05-29,17:00,Dundalk,Wexford,3,2,H,1.15,9.54,21.03,1.15,9.54,28.0,1.12,7.91,19.45
+IRL1,Premier Division ,2016,2016-06-03,19:45,Bray,Longford,0,0,D,1.94,3.6,4.3,2.09,3.74,4.3,1.91,3.44,3.83
+IRL1,Premier Division ,2016,2016-06-03,19:45,Galway,Derry City,0,0,D,3.14,3.38,2.43,3.65,3.5,2.43,3.24,3.22,2.2
+IRL1,Premier Division ,2016,2016-06-03,19:45,St. Patricks,Shamrock Rovers,0,2,A,3.03,3.23,2.59,3.1,3.35,2.63,2.86,3.07,2.5
+IRL1,Premier Division ,2016,2016-06-03,20:00,Cork City,Dundalk,1,0,H,2.99,3.16,2.68,3.0,3.25,2.68,2.85,3.02,2.54
+IRL1,Premier Division ,2016,2016-06-03,20:00,Finn Harps,Sligo Rovers,3,0,H,6.9,3.82,1.62,6.9,3.82,1.75,5.82,3.6,1.61
+IRL1,Premier Division ,2016,2016-06-03,20:00,Wexford,Bohemians,0,1,A,3.6,3.61,2.13,3.74,3.61,2.15,3.4,3.39,2.06
+IRL1,Premier Division ,2016,2016-06-24,19:45,Bohemians,Galway,1,1,D,2.23,3.45,3.48,2.25,3.54,3.7,2.14,3.27,3.34
+IRL1,Premier Division ,2016,2016-06-24,19:45,Derry City,Wexford,1,0,H,1.53,4.34,7.1,1.53,4.45,7.55,1.47,4.22,6.47
+IRL1,Premier Division ,2016,2016-06-24,19:45,Dundalk,St. Patricks,2,0,H,1.38,4.94,10.41,1.4,5.25,10.41,1.37,4.62,8.26
+IRL1,Premier Division ,2016,2016-06-24,19:45,Sligo Rovers,Bray,0,0,D,1.61,4.07,6.29,1.63,4.1,6.94,1.58,3.79,5.77
+IRL1,Premier Division ,2016,2016-06-24,20:00,Longford,Finn Harps,0,2,A,2.51,3.37,3.03,2.55,3.37,3.03,2.43,3.17,2.89
+IRL1,Premier Division ,2016,2016-06-24,20:00,Shamrock Rovers,Cork City,0,0,D,4.27,3.34,2.04,4.27,3.34,2.1,3.9,3.17,1.99
+IRL1,Premier Division ,2016,2016-07-01,19:45,Derry City,Dundalk,0,5,A,6.21,3.69,1.69,6.34,3.69,1.73,5.43,3.46,1.67
+IRL1,Premier Division ,2016,2016-07-02,19:30,Bray,Wexford,3,0,H,2.32,3.47,3.26,2.34,3.57,3.35,2.24,3.33,3.08
+IRL1,Premier Division ,2016,2016-07-02,19:30,Longford,Bohemians,0,1,A,6.25,4.17,1.6,6.94,4.17,1.65,6.06,3.84,1.55
+IRL1,Premier Division ,2016,2016-07-05,19:45,Dundalk,Longford,4,3,H,1.09,13.5,33.0,1.09,15.35,47.53,1.06,10.65,27.84
+IRL1,Premier Division ,2016,2016-07-08,19:45,Bohemians,Bray,0,0,D,1.85,3.54,4.97,1.92,3.6,4.97,1.83,3.32,4.46
+IRL1,Premier Division ,2016,2016-07-08,20:00,Finn Harps,Galway,1,0,H,4.13,3.53,2.0,4.55,3.6,2.06,3.92,3.34,1.93
+IRL1,Premier Division ,2016,2016-07-09,19:45,Sligo Rovers,St. Patricks,1,0,H,2.01,3.59,4.0,2.1,3.59,4.33,1.99,3.34,3.7
+IRL1,Premier Division ,2016,2016-07-10,17:00,Wexford,Cork City,0,1,A,9.28,5.16,1.38,9.91,5.35,1.4,8.5,4.79,1.34
+IRL1,Premier Division ,2016,2016-07-15,19:45,Derry City,Longford,4,0,H,1.37,5.36,9.04,1.37,5.55,11.89,1.33,4.84,9.0
+IRL1,Premier Division ,2016,2016-07-15,20:00,Shamrock Rovers,Bohemians,3,1,H,2.25,3.25,3.67,2.4,3.25,3.75,2.23,3.04,3.4
+IRL1,Premier Division ,2016,2016-07-16,19:30,Bray,Finn Harps,1,0,H,2.21,3.23,3.79,2.21,3.3,4.26,2.09,3.11,3.7
+IRL1,Premier Division ,2016,2016-07-22,19:45,Galway,Wexford,4,2,H,1.72,4.1,5.02,1.76,4.1,5.4,1.69,3.84,4.58
+IRL1,Premier Division ,2016,2016-07-22,20:00,Bohemians,Derry City,0,1,A,3.44,3.15,2.4,3.44,3.22,2.78,3.09,3.04,2.4
+IRL1,Premier Division ,2016,2016-07-23,19:30,Longford,Sligo Rovers,2,2,D,7.76,4.67,1.47,7.76,4.68,1.5,6.72,4.29,1.45
+IRL1,Premier Division ,2016,2016-07-29,19:45,Bray,Shamrock Rovers,1,1,D,4.37,3.54,1.95,4.65,3.54,2.05,4.06,3.24,1.93
+IRL1,Premier Division ,2016,2016-07-29,20:00,Finn Harps,Wexford,0,1,A,2.32,3.31,3.43,2.34,3.45,3.87,2.2,3.17,3.32
+IRL1,Premier Division ,2016,2016-07-29,20:00,Sligo Rovers,Derry City,0,0,D,2.8,3.29,2.74,2.94,3.29,2.8,2.68,3.11,2.65
+IRL1,Premier Division ,2016,2016-07-30,19:30,Longford,Galway,1,1,D,5.2,4.25,1.68,5.25,4.25,1.76,4.73,3.8,1.68
+IRL1,Premier Division ,2016,2016-08-01,20:00,Wexford,St. Patricks,0,1,A,4.85,3.95,1.77,4.85,3.97,1.83,4.41,3.68,1.74
+IRL1,Premier Division ,2016,2016-08-05,19:45,Bohemians,Finn Harps,2,0,H,1.68,3.64,6.55,1.71,3.75,6.94,1.65,3.49,5.64
+IRL1,Premier Division ,2016,2016-08-05,19:45,Derry City,St. Patricks,1,1,D,2.23,3.38,3.57,2.3,3.38,3.67,2.16,3.2,3.41
+IRL1,Premier Division ,2016,2016-08-05,20:00,Galway,Dundalk,1,0,H,5.32,4.02,1.7,5.5,4.06,1.76,4.82,3.75,1.68
+IRL1,Premier Division ,2016,2016-08-05,20:00,Shamrock Rovers,Longford,2,1,H,1.39,5.17,8.91,1.4,5.2,9.51,1.36,4.74,7.9
+IRL1,Premier Division ,2016,2016-08-05,20:00,Wexford,Sligo Rovers,0,5,A,3.57,3.64,2.13,3.9,3.8,2.14,3.51,3.45,2.02
+IRL1,Premier Division ,2016,2016-08-08,19:45,Cork City,Sligo Rovers,1,2,A,1.54,4.2,7.31,1.59,4.21,7.33,1.52,3.89,6.33
+IRL1,Premier Division ,2016,2016-08-10,20:00,Bray,Dundalk,2,1,H,10.93,4.69,1.39,11.25,4.85,1.41,9.26,4.35,1.37
+IRL1,Premier Division ,2016,2016-08-12,19:45,Cork City,Bohemians,0,0,D,1.49,4.17,8.62,1.51,4.6,9.5,1.44,4.0,7.87
+IRL1,Premier Division ,2016,2016-08-12,19:45,Sligo Rovers,Shamrock Rovers,3,2,H,2.44,3.26,3.25,2.44,3.32,3.3,2.34,3.13,3.06
+IRL1,Premier Division ,2016,2016-08-12,19:45,St. Patricks,Galway,1,0,H,2.43,3.44,3.1,2.43,3.47,3.55,2.22,3.28,3.17
+IRL1,Premier Division ,2016,2016-08-12,20:00,Finn Harps,Derry City,0,5,A,4.35,3.3,2.03,4.5,3.4,2.14,4.0,3.14,1.99
+IRL1,Premier Division ,2016,2016-08-12,20:00,Wexford,Longford,2,0,H,2.36,3.56,3.12,2.54,3.58,3.15,2.35,3.34,2.9
+IRL1,Premier Division ,2016,2016-08-15,19:45,Bohemians,Sligo Rovers,3,2,H,2.91,3.25,2.67,2.99,3.4,2.72,2.81,3.14,2.52
+IRL1,Premier Division ,2016,2016-08-15,19:45,Derry City,Cork City,0,0,D,4.2,3.51,1.99,4.5,3.58,2.25,3.89,3.24,1.98
+IRL1,Premier Division ,2016,2016-08-15,20:00,Longford,St. Patricks,0,1,A,5.61,4.25,1.64,6.0,4.26,1.64,5.29,3.9,1.59
+IRL1,Premier Division ,2016,2016-08-15,20:00,Shamrock Rovers,Wexford,3,1,H,1.55,4.44,6.54,1.55,4.56,7.4,1.5,4.08,6.23
+IRL1,Premier Division ,2016,2016-08-19,19:45,Galway,Bray,0,2,A,1.99,3.45,4.29,2.25,3.6,4.29,2.03,3.26,3.66
+IRL1,Premier Division ,2016,2016-08-26,19:45,Cork City,Longford,5,2,H,1.15,8.99,22.02,1.18,8.99,26.0,1.14,7.57,17.39
+IRL1,Premier Division ,2016,2016-08-26,19:45,St. Patricks,Bohemians,0,1,A,2.07,3.38,4.08,2.15,3.42,4.08,2.03,3.23,3.7
+IRL1,Premier Division ,2016,2016-08-26,20:00,Finn Harps,Shamrock Rovers,0,2,A,6.15,3.62,1.71,7.53,3.87,1.75,5.69,3.5,1.64
+IRL1,Premier Division ,2016,2016-08-26,20:00,Wexford,Dundalk,0,1,A,13.34,6.62,1.25,13.5,6.62,1.3,10.85,5.79,1.24
+IRL1,Premier Division ,2016,2016-08-27,19:30,Bray,Derry City,2,2,D,3.44,3.28,2.32,3.54,3.3,2.42,3.23,3.06,2.3
+IRL1,Premier Division ,2016,2016-08-27,19:45,Sligo Rovers,Galway,2,1,H,1.97,3.56,4.22,1.98,3.75,4.4,1.9,3.42,3.94
+IRL1,Premier Division ,2016,2016-08-30,19:45,Cork City,Bray,4,0,H,1.45,4.51,8.87,1.45,4.76,9.91,1.4,4.31,7.92
+IRL1,Premier Division ,2016,2016-08-30,20:00,Shamrock Rovers,Derry City,0,1,A,2.33,3.34,3.38,2.35,3.34,3.6,2.25,3.14,3.26
+IRL1,Premier Division ,2016,2016-09-02,19:45,Bohemians,Dundalk,1,2,A,,,,7.73,4.47,1.53,6.83,4.06,1.48
+IRL1,Premier Division ,2016,2016-09-02,19:45,Derry City,Galway,0,0,D,1.86,3.58,4.79,1.91,3.78,5.0,1.83,3.4,4.34
+IRL1,Premier Division ,2016,2016-09-02,19:45,Shamrock Rovers,St. Patricks,0,0,D,2.12,3.33,3.93,2.2,3.33,4.0,2.05,3.17,3.72
+IRL1,Premier Division ,2016,2016-09-06,19:45,Galway,Shamrock Rovers,0,1,A,4.09,3.41,2.05,4.09,3.41,2.25,3.59,3.25,2.06
+IRL1,Premier Division ,2016,2016-09-06,19:45,Sligo Rovers,Dundalk,0,1,A,5.53,3.97,1.69,5.55,4.0,1.78,4.89,3.74,1.67
+IRL1,Premier Division ,2016,2016-09-06,19:45,St. Patricks,Bray,1,2,A,2.17,3.36,3.74,2.25,3.5,3.74,2.14,3.19,3.43
+IRL1,Premier Division ,2016,2016-09-10,19:30,Longford,Bray,0,2,A,5.38,3.78,1.74,5.38,3.8,1.82,4.76,3.55,1.73
+IRL1,Premier Division ,2016,2016-09-12,19:45,Dundalk,Finn Harps,2,0,H,1.19,7.43,20.16,1.19,8.12,23.0,1.17,6.42,16.61
+IRL1,Premier Division ,2016,2016-09-16,19:45,Cork City,Shamrock Rovers,3,0,H,1.38,4.88,10.58,1.53,4.88,10.58,1.38,4.29,8.6
+IRL1,Premier Division ,2016,2016-09-16,19:45,Galway,Bohemians,2,0,H,3.02,3.29,2.57,3.1,3.29,2.92,2.85,3.1,2.5
+IRL1,Premier Division ,2016,2016-09-16,20:00,Finn Harps,Longford,0,1,A,2.21,3.43,3.55,2.24,3.43,3.8,2.11,3.24,3.45
+IRL1,Premier Division ,2016,2016-09-16,20:00,Wexford,Derry City,0,0,D,5.41,3.86,1.72,5.55,3.87,1.75,4.88,3.63,1.69
+IRL1,Premier Division ,2016,2016-09-17,19:30,Bray,Sligo Rovers,4,0,H,2.95,3.26,2.64,2.95,3.4,2.68,2.78,3.17,2.51
+IRL1,Premier Division ,2016,2016-09-19,19:45,Bohemians,Wexford,1,0,H,1.77,3.69,5.29,1.78,3.9,5.55,1.71,3.59,4.78
+IRL1,Premier Division ,2016,2016-09-19,20:00,Finn Harps,Cork City,0,1,A,14.31,6.16,1.26,19.0,6.5,1.26,14.74,5.84,1.2
+IRL1,Premier Division ,2016,2016-09-20,19:05,Dundalk,Shamrock Rovers,1,1,D,1.34,5.15,11.8,1.34,5.55,15.0,1.29,4.78,10.84
+IRL1,Premier Division ,2016,2016-09-23,19:45,Bohemians,Longford,1,0,H,1.66,3.79,6.31,1.8,3.81,6.31,1.7,3.54,5.03
+IRL1,Premier Division ,2016,2016-09-23,19:45,Dundalk,Derry City,3,1,H,1.44,4.53,9.17,1.44,4.7,10.9,1.38,4.27,8.74
+IRL1,Premier Division ,2016,2016-09-23,20:00,Shamrock Rovers,Galway,4,2,H,1.92,3.55,4.5,1.96,3.55,4.5,1.89,3.33,4.1
+IRL1,Premier Division ,2016,2016-09-23,20:00,Wexford,Bray,1,3,A,2.94,3.12,2.75,3.05,3.2,2.78,2.82,2.99,2.6
+IRL1,Premier Division ,2016,2016-09-24,19:45,Sligo Rovers,Cork City,0,0,D,7.96,4.02,1.58,7.96,4.02,1.61,6.44,3.75,1.54
+IRL1,Premier Division ,2016,2016-09-27,19:45,Cork City,Galway,5,3,H,1.27,6.3,12.3,1.3,6.6,15.0,1.23,5.78,12.1
+IRL1,Premier Division ,2016,2016-09-27,19:45,Derry City,Shamrock Rovers,2,2,D,2.34,3.43,3.27,2.42,3.45,3.5,2.26,3.23,3.13
+IRL1,Premier Division ,2016,2016-09-27,19:45,St. Patricks,Sligo Rovers,0,0,D,2.27,3.51,3.33,2.38,3.51,3.4,2.23,3.24,3.17
+IRL1,Premier Division ,2016,2016-09-30,19:45,Bray,Bohemians,2,1,H,2.23,3.23,3.74,2.3,3.4,3.9,2.15,3.1,3.49
+IRL1,Premier Division ,2016,2016-10-01,19:00,Galway,Finn Harps,3,2,H,1.86,3.44,5.07,2.0,3.6,5.07,1.83,3.35,4.37
+IRL1,Premier Division ,2016,2016-10-04,19:45,Sligo Rovers,Finn Harps,0,0,D,1.51,4.42,7.42,1.51,4.66,9.0,1.45,4.17,6.89
+IRL1,Premier Division ,2016,2016-10-07,19:45,Bohemians,Shamrock Rovers,1,0,H,3.11,3.13,2.6,3.5,3.27,2.6,2.96,3.1,2.41
+IRL1,Premier Division ,2016,2016-10-07,19:45,St. Patricks,Wexford,4,1,H,1.37,5.04,10.37,1.4,5.4,10.5,1.33,4.75,8.91
+IRL1,Premier Division ,2016,2016-10-07,20:00,Finn Harps,Bray,2,1,H,5.68,3.48,1.78,6.0,3.75,1.85,5.04,3.35,1.74
+IRL1,Premier Division ,2016,2016-10-08,19:00,Dundalk,Sligo Rovers,0,3,A,1.31,5.64,11.78,1.36,5.8,12.5,1.3,5.03,9.65
+IRL1,Premier Division ,2016,2016-10-08,19:00,Galway,Cork City,0,5,A,7.68,4.91,1.45,7.73,4.96,1.47,6.88,4.42,1.43
+IRL1,Premier Division ,2016,2016-10-08,19:30,Longford,Derry City,2,3,A,5.48,3.81,1.72,6.0,3.9,1.76,5.08,3.61,1.67
+IRL1,Premier Division ,2016,2016-10-11,19:05,Dundalk,Cork City,2,1,H,2.45,3.16,3.32,2.58,3.22,3.35,2.42,3.05,3.01
+IRL1,Premier Division ,2016,2016-10-11,20:00,Finn Harps,St. Patricks,1,1,D,5.2,3.63,1.79,5.6,3.75,1.83,4.64,3.5,1.75
+IRL1,Premier Division ,2016,2016-10-14,19:45,Bray,St. Patricks,2,1,H,2.43,3.39,3.14,2.45,3.4,3.3,2.35,3.21,3.0
+IRL1,Premier Division ,2016,2016-10-14,19:45,Cork City,Finn Harps,2,0,H,1.16,8.74,19.39,1.16,9.5,26.74,1.12,7.98,19.28
+IRL1,Premier Division ,2016,2016-10-14,19:45,Derry City,Bohemians,2,1,H,1.55,4.48,6.42,1.63,4.48,7.0,1.54,3.92,5.95
+IRL1,Premier Division ,2016,2016-10-14,19:45,Shamrock Rovers,Dundalk,0,3,A,6.25,4.26,1.59,6.5,4.26,1.65,5.66,3.88,1.57
+IRL1,Premier Division ,2016,2016-10-14,19:45,Sligo Rovers,Longford,1,0,H,1.46,4.79,7.7,1.46,4.86,8.72,1.4,4.53,7.3
+IRL1,Premier Division ,2016,2016-10-14,20:00,Wexford,Galway,5,4,H,3.82,3.66,2.04,3.82,3.7,2.34,3.33,3.41,2.1
+IRL1,Premier Division ,2016,2016-10-17,19:45,St. Patricks,Cork City,3,1,H,5.87,4.18,1.63,7.93,4.5,1.64,6.29,3.9,1.52
+IRL1,Premier Division ,2016,2016-10-17,20:00,Longford,Dundalk,0,3,A,22.0,9.0,1.15,31.0,9.21,1.15,21.59,7.69,1.12
+IRL1,Premier Division ,2016,2016-10-21,19:45,Cork City,St. Patricks,3,1,H,1.45,4.64,8.21,1.46,4.76,8.72,1.41,4.36,7.49
+IRL1,Premier Division ,2016,2016-10-21,19:45,Derry City,Sligo Rovers,2,1,H,1.72,3.92,5.24,1.76,3.92,5.45,1.68,3.64,4.9
+IRL1,Premier Division ,2016,2016-10-21,19:45,Galway,Longford,0,0,D,1.61,4.38,5.71,1.73,4.38,6.0,1.62,3.93,5.06
+IRL1,Premier Division ,2016,2016-10-21,20:00,Shamrock Rovers,Bray,0,0,D,2.42,3.32,3.21,2.48,3.32,3.3,2.34,3.15,3.05
+IRL1,Premier Division ,2016,2016-10-21,20:00,Wexford,Finn Harps,0,0,D,2.74,3.32,2.79,2.8,3.47,3.4,2.39,3.21,2.94
+IRL1,Premier Division ,2016,2016-10-22,19:15,Cobh Ramblers,Drogheda,0,2,A,2.68,3.32,2.85,2.74,3.35,3.0,2.52,3.13,2.76
+IRL1,Premier Division ,2016,2016-10-23,19:00,Dundalk,Bohemians,2,1,H,1.26,6.09,14.38,1.26,6.54,15.35,1.24,5.62,11.64
+IRL1,Premier Division ,2016,2016-10-24,19:45,Cork City,Wexford,5,0,H,1.27,7.34,9.97,1.29,7.34,12.0,1.25,6.04,9.54
+IRL1,Premier Division ,2016,2016-10-25,19:45,St. Patricks,Dundalk,5,2,H,1.81,3.92,4.56,2.0,3.95,4.75,1.8,3.61,4.11
+IRL1,Premier Division ,2016,2016-10-28,19:45,Bray,Cork City,4,1,H,3.79,3.82,2.0,4.0,3.82,2.06,3.61,3.51,1.95
+IRL1,Premier Division ,2016,2016-10-28,19:45,Drogheda,Cobh Ramblers,1,2,A,2.11,3.49,3.78,2.14,3.52,4.16,1.99,3.31,3.66
+IRL1,Premier Division ,2016,2016-10-28,19:45,Dundalk,Galway,4,1,H,1.25,7.0,11.85,1.3,7.33,15.0,1.22,6.33,10.57
+IRL1,Premier Division ,2016,2016-10-28,19:45,Finn Harps,Bohemians,1,0,H,3.72,3.57,2.1,4.33,3.57,2.12,3.59,3.41,2.0
+IRL1,Premier Division ,2016,2016-10-28,19:45,Longford,Shamrock Rovers,2,4,A,5.15,3.92,1.74,5.15,3.97,1.94,4.43,3.63,1.75
+IRL1,Premier Division ,2016,2016-10-28,19:45,Sligo Rovers,Wexford,5,0,H,1.12,10.37,27.01,1.15,12.38,38.0,1.08,9.62,23.3
+IRL1,Premier Division ,2016,2016-10-28,19:45,St. Patricks,Derry City,0,2,A,2.55,3.66,2.78,2.58,3.67,2.8,2.46,3.44,2.65
+IRL1,Premier Division ,2016,2016-10-31,19:45,Wexford,Drogheda,2,0,H,2.47,3.25,3.2,2.86,3.5,3.2,2.56,3.16,2.73
+IRL1,Premier Division ,2016,2016-11-04,19:45,Drogheda,Wexford,3,0,H,1.74,3.9,5.14,1.98,3.91,5.14,1.82,3.6,4.12
