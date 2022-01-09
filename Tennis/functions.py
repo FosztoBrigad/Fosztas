@@ -23,16 +23,8 @@ profile_columns = ['Age', 'Country', 'Birthplace', 'Residence', 'Height', 'Weigh
 # NOTE underscores are needed to insert into sql db
 performance_columns = ["Hard", "Clay", "Grass", "Carpet", "Grand_Slam", "Tour_Finals", "Masters", "Olympics", "ATP_500",
                        "ATP_250", "Davis_Cup", "Team_Cups", "Deciding_Set", "Fifth_Set", "After_Winning_1st_Set",
-                       "After_Losing_1st_Set", "Tie_Breaks",
-                       "Deciding_Set_Tie_Breaks",
-                       "Outdoor",
-                       "Indoor",
-                       "Best_of_3",
-                       "Best_of_5",
-                       "Vs_No_1",
-                       "Vs_Top_5",
-                       "Vs_Top_10",
-                       "Vs_Top_20",
+                       "After_Losing_1st_Set", "Tie_Breaks", "Deciding_Set_Tie_Breaks", "Outdoor", "Indoor",
+                       "Best_of_3", "Best_of_5", "Vs_No_1", "Vs_Top_5", "Vs_Top_10", "Vs_Top_20",
                        "Vs_Top_50",
                        "Vs_Top_100",
                        "Vs_100__Ranked",
@@ -84,8 +76,128 @@ performance_columns = ["Hard", "Clay", "Grass", "Carpet", "Grand_Slam", "Tour_Fi
                        "Best_of_5__2_3",
                        "Best_of_5__1_3",
                        "Best_of_5__0_3",
-                       "player"
-                       ]
+                       "player" ]
+
+statistics_columns = ['Aces',
+                      'Ace_pct',
+                      'Aces_per_Svc_Game',
+                      'Aces_per_Set',
+                      'Aces_per_Match',
+                      'Double_Faults',
+                      'Double_Fault_pct',
+                      'DFs_per_Second_Serve_pct',
+                      'DFs_per_Svc_Game',
+                      'DFs_per_Set',
+                      'DFs_per_Match',
+                      'Aces_per_DFs_Ratio',
+                      'Ace_Against',
+                      'Ace_Against_pct',
+                      'Double_Faults_Against',
+                      'Double_Fault_Against_pct',
+                      'First_Serve_pct',
+                      'First_Serve_Won_pct',
+                      'Second_Serve_Won_pct',
+                      'First_Serve_Effectiveness',
+                      'Serve_Rating',
+                      'Service_Points_Won_pct',
+                      'Svc_In_play_Pts_Won_pct',
+                      'Points_per_Service_Game',
+                      'Pts_Lost_per_Svc_Game',
+                      'Break_Points_Saved_pct',
+                      'BPs_per_Svc_Game',
+                      'BPs_Faced_per_Set',
+                      'BPs_Faced_per_Match',
+                      'Service_Games_Won_pct',
+                      'Svc_Gms_Lost_per_Set',
+                      'Svc_Gms_Lost_per_Match',
+                      'Serve_Max_Speed',
+                      'First_Serve_Average_Speed',
+                      'Second_Serve_Average_Speed',
+                      'Serve_Average_Speed',
+                      'First_per_Second_Srv_Spd_Ratio',
+                      'Srv_Max_per_Avg_Spd_Ratio',
+                      'First_Srv_Return_Won_pct',
+                      'Second_Srv_Return_Won_pct',
+                      'Return_Rating',
+                      'Return_Points_Won_pct',
+                      'Rtn_In_play_Pts_Won_pct',
+                      'Points_per_Return_Game',
+                      'Pts_Won_per_Rtn_Game',
+                      'Break_Points_Won_pct',
+                      'BPs_per_Return_Game',
+                      'BPs_per_Set',
+                      'BPs_per_Match',
+                      'Return_Games_Won_pct',
+                      'Rtn_Gms_Won_per_Set',
+                      'Rtn_Gms_Won_per_Match',
+                      'Total_Points_Played',
+                      'Total_Points_Won',
+                      'Total_Points_Won_pct',
+                      'Tot_Second_Srv_In_pl_Pts_W_pct',
+                      'Total_Break_Points_Won_pct',
+                      'Rtn_to_Svc_Points_Ratio',
+                      'Points_per_Game',
+                      'Points_per_Set',
+                      'Points_per_Match',
+                      'Winner_pct',
+                      'Unforced_Error_pct',
+                      'Forced_Error_pct',
+                      'Winners_per_UEs_Ratio',
+                      'Winner_Against_pct',
+                      'UE_Against_pct',
+                      'FE_Against_pct',
+                      'Wnrs_per_FEs_Against_Ratio',
+                      'Net_Points_pct',
+                      'Net_Points_Won_pct',
+                      'Points_Won_at_Net_pct',
+                      'Net_Effectiveness',
+                      'Total_Games_Played',
+                      'Total_Games_Won',
+                      'Games_Won_pct',
+                      'Games_per_Set',
+                      'Games_per_Match',
+                      'Tie_Breaks_Played',
+                      'Tie_Breaks_Won',
+                      'Tie_Breaks_Won_pct',
+                      'Tie_Breaks_per_Set_pct',
+                      'Tie_Breaks_per_Match',
+                      'Sets_Played',
+                      'Sets_Won',
+                      'Sets_Won_pct',
+                      'Sets_per_Match',
+                      'Matches_Played',
+                      'Matches_Won',
+                      'Matches_Won_pct',
+                      'Points_Dominance',
+                      'In_play_Points_Dominance',
+                      'Second_Srv_In_play_Pts_Dom',
+                      'Games_Dominance',
+                      'Break_Points_Ratio',
+                      'Pts_to_Matches_Over_Perf',
+                      'Pts_to_Sets_Over_Perf',
+                      'Pts_to_Gms_Over_Perf',
+                      'S_Pts_to_S_Gms_Ov_Perf',
+                      'R_Pts_to_R_Gms_Ov_Perf',
+                      'Pts_to_TBs_Over_Perf',
+                      'Gms_to_Matches_Ov_Perf',
+                      'Gms_to_Sets_Over_Perf',
+                      'Sets_to_Matches_Ov_Perf',
+                      'BPs_Over_Performing',
+                      'BPs_Saved_Over_Perf',
+                      'BPs_Conv_Over_Perf',
+                      'Opponent_Rank',
+                      'Opponent_Elo_Rating',
+                      'Upsets_scored',
+                      'Upsets_scored_pct',
+                      'Upsets_against',
+                      'Upsets_against_pct',
+                      'Upsets',
+                      'Upsets_pct',
+                      'Point_Time_seconds',
+                      'Game_Time_minutes',
+                      'Set_Time_minutes',
+                      'Match_Time',
+                      'player']
 
 
 def get_webdriver(headless=True):
@@ -118,7 +230,7 @@ def create_df_from_records(empty_df):
 
 
 def concate_profile_data(link):
-    wd=get_webdriver()
+    wd = get_webdriver()
     wd.get(link)
     get_title = wd.title[29:]
     html = wd.page_source
@@ -133,9 +245,10 @@ def concate_profile_data(link):
     profile.drop(columns=[col for col in profile if col not in profile_columns], inplace=True)
     df_to_db(profile, 'tennis.profile')
 
+
 def concate_performance_data(link):
-    wd=get_webdriver()
-    wd.get(link)
+    wd = get_webdriver()
+    wd.get(link+'&tab=performance')
     html = wd.page_source
     frames = []
     for i in pd.read_html(html):
@@ -156,6 +269,27 @@ def concate_performance_data(link):
     df['player'] = wd.title[29:]
     df.drop(columns=[col for col in df if col not in performance_columns], inplace=True)
     df_to_db(df, 'tennis.performance')
+
+def concate_statistics_data(link,wd):
+    wd.get(link + '&tab=statistics')
+    html = wd.page_source
+    frames = pd.read_html(html)
+    stat = pd.concat([transpose_with_first_row(df) for df in frames[3:]], axis=1, join="inner")
+    stat['player'] = wd.title[29:]
+    stat.columns = stat.columns.str.replace(" ", "_")
+    stat.columns = stat.columns.str.replace(".", "")
+    stat.columns = stat.columns.str.replace(":", "_")
+    stat.columns = stat.columns.str.replace("-", "_")
+    stat.columns = stat.columns.str.replace("+", "_")
+    stat.columns = stat.columns.str.replace("%", "pct")
+    stat.columns = stat.columns.str.replace("/", "per")
+    stat.columns = stat.columns.str.replace("(", "")
+    stat.columns = stat.columns.str.replace(")", "")
+    stat.columns = stat.columns.str.replace("1st", "First")
+    stat.columns = stat.columns.str.replace("2nd", "Second")  # TODO
+    stat.drop(columns=[col for col in stat if col not in statistics_columns], inplace=True)
+    print(stat['player'])
+    df_to_db(stat, 'tennis.statistics')
 
 
 def df_to_db(df, table):
@@ -195,21 +329,18 @@ def db_to_df(table):
     df = pd.read_sql("SELECT link FROM {}".format(table), dbconnection)
     return df
 
+
 def populate_sql_table(table):
     for link in db_to_df('tennis.links')['link']:
-        print(link)
-        seed(randint(2, 100))
-        period = random.uniform(1, 6)
-        if table=='tennis.profile':
+        if table == 'tennis.profile':
             concate_profile_data(link)
-        elif table=='tennis.performance':
-            concate_performance_data(link+"&tab=performance")
-        print(link)
-        time.sleep(period)
+        elif table == 'tennis.performance':
+            concate_performance_data(link)
+        elif table == 'tennis.statistics':
+            concate_statistics_data(link, get_webdriver())
 
 
-
-#in case it's not working, here are the populate functions for each table
+# in case it's not working, here are the populate functions for each table
 """        
 def populate_profile():
     for link in db_to_df('tennis.links')['link']:
