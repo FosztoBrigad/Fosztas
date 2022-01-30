@@ -248,6 +248,21 @@ create_statistics='''CREATE TABLE IF NOT EXISTS tennis.statistics(
                     Set_Time_minutes varchar(50),
                     Match_Time varchar(50),
                     player varchar(50) Primary Key)'''
+
+create_matches = '''CREATE TABLE IF NOT EXISTS tennis.matches(
+                    Date varchar(50),
+                    Tournament varchar(50),
+                    Surface varchar(50),
+                    Round varchar(50),
+                    Score varchar(50),
+                    Winner varchar(50),
+                    Loser varchar(50),
+                    Winner_elo varchar(50),
+                    Winner_rank varchar(50),
+                    Loser_elo varchar(50),
+                    Loser_rank varchar(50))
+'''
+
 update_links = '''UPDATE tennis.links
 
 '''
