@@ -76,7 +76,7 @@ performance_columns = ["Hard", "Clay", "Grass", "Carpet", "Grand_Slam", "Tour_Fi
                        "Best_of_5__2_3",
                        "Best_of_5__1_3",
                        "Best_of_5__0_3",
-                       "player" ]
+                       "player"]
 
 statistics_columns = ['Aces',
                       'Ace_pct',
@@ -248,7 +248,7 @@ def concate_profile_data(link):
 
 def concate_performance_data(link):
     wd = get_webdriver()
-    wd.get(link+'&tab=performance')
+    wd.get(link + '&tab=performance')
     html = wd.page_source
     frames = []
     for i in pd.read_html(html):
@@ -270,7 +270,8 @@ def concate_performance_data(link):
     df.drop(columns=[col for col in df if col not in performance_columns], inplace=True)
     df_to_db(df, 'tennis.performance')
 
-def concate_statistics_data(link,wd):
+
+def concate_statistics_data(link, wd):
     wd.get(link + '&tab=statistics')
     html = wd.page_source
     frames = pd.read_html(html)
@@ -299,8 +300,6 @@ def df_to_db(df, table):
     columns = ",".join(df_columns)
     values = "VALUES({})".format(",".join(["%s" for _ in df_columns]))
     insert_stmt = "INSERT INTO {} ({}) {}".format(table, columns, values)
-    # print(insert_stmt)
-    # print(df.values)
     psycopg2.extras.execute_batch(cursor, insert_stmt, df.values)
     conn.commit()
     cursor.close()
@@ -310,8 +309,8 @@ def df_to_db(df, table):
 def fill_links(wd):
     link = "https://www.ultimatetennisstatistics.com/rankingsTable"
     wd.get(link)
-    dropdown = wd.find_element_by_xpath("""//*[@id="rankingsTable-header"]/div/div/div[5]/div[1]/button""").click()
-    top100 = wd.find_element_by_xpath("""//*[@id="rankingsTable-header"]/div/div/div[5]/div[1]/ul/li[3]""").click()
+    wd.find_element_by_xpath("""//*[@id="rankingsTable-header"]/div/div/div[5]/div[1]/button""").click()
+    wd.find_element_by_xpath("""//*[@id="rankingsTable-header"]/div/div/div[5]/div[1]/ul/li[3]""").click()
     # wd.quit()
     try:
         links_list = [url.get_attribute('href') for url in wd.find_elements_by_tag_name('a') if
@@ -326,7 +325,7 @@ def fill_links(wd):
 def db_to_df(table):
     engine = create_engine('postgresql+psycopg2://postgres:zsakaszi666@localhost:5432/fosztas')
     dbconnection = engine.connect()
-    df = pd.read_sql("SELECT link FROM {}".format(table), dbconnection)
+    df = pd.read_sql("SELECT * FROM {}".format(table), dbconnection)
     return df
 
 
