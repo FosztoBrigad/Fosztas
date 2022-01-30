@@ -199,6 +199,9 @@ statistics_columns = ['Aces',
                       'Match_Time',
                       'player']
 
+matches_columns = ['Date', 'Tournament', 'Surface', 'Round', 'Score', 'Winner', 'Loser', 'Winner_elo', 'Loser_elo',
+                   'Winner_rank', 'Loser_rank'],
+
 
 def get_webdriver(headless=True):
     PATH = "C:\Program Files (x86)\chromedriver.exe"
