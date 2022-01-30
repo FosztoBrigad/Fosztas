@@ -339,6 +339,48 @@ def populate_sql_table(table):
         elif table == 'tennis.statistics':
             concate_statistics_data(link, get_webdriver())
 
+def populate_matches_table():
+    for link in db_to_df('tennis.links')['link']:
+        database = db_to_df('tennis.matches')
+
+        wd = get_webdriver(headless=False)
+        wd.maximize_window()
+        wd.get(link+'&tab=matches')
+        wd.find_element_by_xpath("""//*[@id="matchesTable-header"]/div/div/div[4]/div[1]/button""").click()
+        wd.find_element_by_xpath("""//*[@id="matchesTable-header"]/div/div/div[4]/div[1]/ul/li[4]""").click()
+        wd.execute_script("window.scrollTo(0,document.body.scrollHeight)")
+        time.sleep(3)
+
+        try:
+            html = wd.page_source
+            df = pd.read_html(html)[0]
+            df[['Winner', 'Loser']] = df['Match Details'].str.split(' d. ', 1, expand=True)
+            df['Winner'] = df['Winner'].str.replace("[ ][\(].*?[\)]", "", regex=True)
+            df['Loser'] = df['Loser'].str.replace("[ ][\(].*?[\)]", "", regex=True)
+            df['Winner_elo'] = df['Winner'].str.extract('Elo (\d*)', expand=True)
+            df['Winner_rank'] = df['Winner'].str.extract('Rank (\d*)', expand=True)
+            df['Loser_elo'] = df['Loser'].str.extract('Elo (\d*)', expand=True)
+            df['Loser_rank'] = df['Loser'].str.extract('Rank (\d*)', expand=True)
+            df['Winner'] = df['Winner'].str.extract('(.+?(?= Rank))', expand=True)
+            df['Loser'] = df['Loser'].str.extract('(.+?(?= Rank))', expand=True)
+            df['Surface'] = df['Surface'].str.replace("[ ][\(].*?[\)]", "", regex=True)
+            df['Score'] = df['Score'].str.replace("[\(].*?[\)]", "", regex=True)
+            df.drop(['Match Details', 'H2H', 'W/L', 'Stats'], inplace=True, axis=1)
+            pd.set_option('display.max_columns', None)
+            df.columns = df.columns.str.lower()
+            # df_to_db(df, 'tennis.matches')
+        except StaleElementReferenceException:
+            print('exception happened')
+        finally:
+            db_new_merge = database.merge(df.drop_duplicates(subset=['date', 'winner', 'loser']),
+                                          how='right', indicator=True)
+            df_new = db_new_merge[db_new_merge['_merge'] == 'right_only']
+            df_new.drop(['_merge'], axis=1, inplace=True)
+            print('there were {} originally, but only {} is added'.format(len(df),len(df_new)))
+            df_to_db(df_new, 'tennis.matches')
+            time.sleep(randint(2, 7))
+            wd.quit()
+
 
 # in case it's not working, here are the populate functions for each table
 """        
